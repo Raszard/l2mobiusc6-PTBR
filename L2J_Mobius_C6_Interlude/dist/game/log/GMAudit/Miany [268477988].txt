@@ -1,0 +1,1908 @@
+16/07/2024 20:31:30>Miany [268477988]>admin_admin>Miany>
+16/07/2024 20:31:50>Miany [268477988]>admin_admin2>Miany>
+16/07/2024 20:31:51>Miany [268477988]>admin_show_characters>Miany> 0
+16/07/2024 20:31:51>Miany [268477988]>admin_character_info>Miany> Miany
+16/07/2024 20:31:53>Miany [268477988]>admin_setclass>Miany>
+16/07/2024 20:32:00>Miany [268477988]>admin_setclass>Miany> 117
+16/07/2024 20:32:04>Miany [268477988]>admin_admin>Miany>
+16/07/2024 20:32:07>Miany [268477988]>admin_admin2>Miany>
+16/07/2024 20:32:08>Miany [268477988]>admin_show_characters>Miany> 0
+16/07/2024 20:32:08>Miany [268477988]>admin_character_info>Miany> Miany
+16/07/2024 20:32:10>Miany [268477988]>admin_add_exp_sp_to_character>Miany>
+16/07/2024 20:32:15>Miany [268477988]>admin_set_level>Miany> 81
+16/07/2024 20:32:24>Miany [268477988]>admin_admin>Miany>
+16/07/2024 20:32:25>Miany [268477988]>admin_admin2>Miany>
+16/07/2024 20:32:26>Miany [268477988]>admin_show_characters>Miany> 0
+16/07/2024 20:32:27>Miany [268477988]>admin_character_info>Miany> Miany
+16/07/2024 20:32:28>Miany [268477988]>admin_show_skills>Miany>
+16/07/2024 20:32:30>Miany [268477988]>admin_give_all_skills>Miany>
+16/07/2024 20:32:40>Miany [268477988]>admin_admin>Miany>
+16/07/2024 20:32:48>Miany [268477988]>admin_gmshop>Miany>
+16/07/2024 20:32:50>Miany [268477988]>admin_help>Miany> gmshop/Armors.htm
+16/07/2024 20:32:51>Miany [268477988]>admin_help>Miany> gmshops.htm
+16/07/2024 20:32:52>Miany [268477988]>admin_help>Miany> gmshop/sets.htm
+16/07/2024 20:32:53>Miany [268477988]>admin_buy>Miany> 9500
+16/07/2024 20:35:02>Miany [268477988]>admin_admin>Miany>
+16/07/2024 20:35:03>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 20:35:07>Miany [268477988]>admin_create_item>Miany> 9300 1
+16/07/2024 20:35:35>Miany [268477988]>admin_admin>Miany>
+16/07/2024 20:35:36>Miany [268477988]>admin_move_to>Miany>
+16/07/2024 20:35:37>Miany [268477988]>admin_help>Miany> tele/towns.htm
+16/07/2024 20:35:38>Miany [268477988]>admin_help>Miany> tele/towns/giran.htm
+16/07/2024 20:35:39>Miany [268477988]>admin_move_to>Miany> 82698 148638 -3473
+16/07/2024 20:38:44>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:38:45>Miany [268477988]>admin_spawn_monster>no-target>
+16/07/2024 20:38:47>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:38:49>Miany [268477988]>admin_move_to>no-target>
+16/07/2024 20:38:52>Miany [268477988]>admin_help>no-target> tele/other.htm
+16/07/2024 20:38:55>Miany [268477988]>admin_move_to>no-target> -113360 -244676 -15536
+16/07/2024 20:39:00>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:39:01>Miany [268477988]>admin_spawn_monster>no-target>
+16/07/2024 20:39:06>Miany [268477988]>admin_spawn_monster>no-target> 56000
+16/07/2024 20:39:12>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:39:13>Miany [268477988]>admin_admin4>no-target>
+16/07/2024 20:39:21>Miany [268477988]>admin_reload>no-target>
+16/07/2024 20:39:27>Miany [268477988]>admin_reload>no-target> npc
+16/07/2024 20:39:30>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:39:32>Miany [268477988]>admin_spawn_monster>no-target>
+16/07/2024 20:39:36>Miany [268477988]>admin_spawn_monster>no-target> 56000
+16/07/2024 20:44:56>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:44:57>Miany [268477988]>admin_admin4>no-target>
+16/07/2024 20:44:58>Miany [268477988]>admin_reload>no-target>
+16/07/2024 20:44:59>Miany [268477988]>admin_reload>no-target> npc
+16/07/2024 20:45:02>Miany [268477988]>admin_admin2>no-target>
+16/07/2024 20:45:03>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:45:04>Miany [268477988]>admin_spawn_monster>no-target>
+16/07/2024 20:45:08>Miany [268477988]>admin_spawn_monster>no-target> 56001
+16/07/2024 20:45:14>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:45:15>Miany [268477988]>admin_admin2>no-target>
+16/07/2024 20:45:16>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:45:17>Miany [268477988]>admin_admin3>no-target>
+16/07/2024 20:45:18>Miany [268477988]>admin_admin2>no-target>
+16/07/2024 20:45:19>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:45:19>Miany [268477988]>admin_spawn_monster>no-target>
+16/07/2024 20:45:23>Miany [268477988]>admin_spawn_monster>no-target> 56002
+16/07/2024 20:46:37>Miany [268477988]>admin_delete>Jake>
+16/07/2024 20:46:39>Miany [268477988]>admin_delete>Andy>
+16/07/2024 20:46:40>Miany [268477988]>admin_delete>Tais>
+16/07/2024 20:50:38>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:52:01>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:52:02>Miany [268477988]>admin_admin2>no-target>
+16/07/2024 20:52:02>Miany [268477988]>admin_admin4>no-target>
+16/07/2024 20:52:04>Miany [268477988]>admin_reload>no-target>
+16/07/2024 20:52:05>Miany [268477988]>admin_reload>no-target> npc
+16/07/2024 20:52:05>Miany [268477988]>admin_admin2>no-target>
+16/07/2024 20:52:06>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:52:07>Miany [268477988]>admin_spawn_monster>no-target>
+16/07/2024 20:52:11>Miany [268477988]>admin_spawn_monster>no-target> 40000
+16/07/2024 20:52:15>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:52:16>Miany [268477988]>admin_spawn_monster>no-target>
+16/07/2024 20:52:19>Miany [268477988]>admin_spawn_monster>no-target> 40001
+16/07/2024 20:52:24>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:52:25>Miany [268477988]>admin_spawn_monster>no-target>
+16/07/2024 20:52:28>Miany [268477988]>admin_spawn_monster>no-target> 40002
+16/07/2024 20:52:37>Miany [268477988]>admin_admin>no-target>
+16/07/2024 20:52:38>Miany [268477988]>admin_spawn_monster>no-target>
+16/07/2024 20:52:41>Miany [268477988]>admin_spawn_monster>no-target> 40003
+16/07/2024 20:54:04>Miany [268477988]>admin_admin>Jenny>
+16/07/2024 20:54:05>Miany [268477988]>admin_spawn_monster>Jenny>
+16/07/2024 20:54:06>Miany [268477988]>admin_admin>Jenny>
+16/07/2024 20:54:07>Miany [268477988]>admin_create_item>Jenny>
+16/07/2024 20:54:12>Miany [268477988]>admin_create_item>Jenny> 9302 1
+16/07/2024 20:54:15>Miany [268477988]>admin_admin>Miany>
+16/07/2024 20:54:15>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 20:54:19>Miany [268477988]>admin_create_item>Miany> 9302 1
+16/07/2024 20:54:24>Miany [268477988]>admin_admin>Miany>
+16/07/2024 20:54:26>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 20:54:30>Miany [268477988]>admin_create_coin>Miany> Adena 1000000
+16/07/2024 21:00:49>Miany [268477988]>admin_admin>Jenny>
+16/07/2024 21:00:51>Miany [268477988]>admin_create_item>Jenny>
+16/07/2024 21:00:54>Miany [268477988]>admin_create_item>Jenny> 9301
+16/07/2024 21:00:57>Miany [268477988]>admin_admin>Miany>
+16/07/2024 21:00:58>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 21:01:01>Miany [268477988]>admin_create_item>Miany> 9301 1
+16/07/2024 21:09:22>Miany [268477988]>admin_admin>no-target>
+16/07/2024 21:09:24>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 21:09:28>Miany [268477988]>admin_create_item>Miany> 9315
+16/07/2024 21:09:30>Miany [268477988]>admin_admin>Miany>
+16/07/2024 21:09:30>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 21:09:34>Miany [268477988]>admin_create_item>Miany> 9316
+16/07/2024 21:09:36>Miany [268477988]>admin_admin>Miany>
+16/07/2024 21:09:37>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 21:09:40>Miany [268477988]>admin_create_item>Miany> 9317
+16/07/2024 21:09:41>Miany [268477988]>admin_admin>Miany>
+16/07/2024 21:09:43>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 21:09:45>Miany [268477988]>admin_create_item>Miany> 9318
+16/07/2024 21:09:51>Miany [268477988]>admin_admin>Miany>
+16/07/2024 21:09:52>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 21:09:55>Miany [268477988]>admin_create_item>Miany> 9319
+16/07/2024 21:11:38>Miany [268477988]>admin_admin>Jenny>
+16/07/2024 21:11:40>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 21:11:44>Miany [268477988]>admin_create_item>Miany> 9823
+16/07/2024 21:12:12>Miany [268477988]>admin_admin>Miany>
+16/07/2024 21:12:13>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 21:12:18>Miany [268477988]>admin_create_item>Miany> 9834
+16/07/2024 21:12:52>Miany [268477988]>admin_admin>Miany>
+16/07/2024 21:12:54>Miany [268477988]>admin_create_item>Miany>
+16/07/2024 21:12:57>Miany [268477988]>admin_create_item>Miany> 9845
+16/07/2024 21:18:09>Miany [268477988]>admin_admin>Lisandra>
+16/07/2024 21:18:10>Miany [268477988]>admin_admin4>Lisandra>
+16/07/2024 21:18:11>Miany [268477988]>admin_reload>Lisandra>
+16/07/2024 21:18:12>Miany [268477988]>admin_reload>Lisandra> npc
+25/07/2024 23:17:05>Miany [268477988]>admin_admin>no-target>
+25/07/2024 23:17:06>Miany [268477988]>admin_admin4>no-target>
+25/07/2024 23:17:09>Miany [268477988]>admin_admin>no-target>
+25/07/2024 23:17:10>Miany [268477988]>admin_admin4>no-target>
+25/07/2024 23:17:11>Miany [268477988]>admin_cache_htm_rebuild>no-target>
+25/07/2024 23:17:44>Miany [268477988]>admin_admin>no-target>
+27/07/2024 23:31:48>Miany [268477988]>admin_admin>no-target>
+27/07/2024 23:43:25>Miany [268477988]>admin_admin>no-target>
+27/07/2024 23:43:26>Miany [268477988]>admin_move_to>no-target>
+27/07/2024 23:43:28>Miany [268477988]>admin_help>no-target> tele/other.htm
+27/07/2024 23:43:37>Miany [268477988]>admin_show_moves>no-target>
+27/07/2024 23:43:44>Miany [268477988]>admin_help>no-target> tele/other.htm
+27/07/2024 23:43:52>Miany [268477988]>admin_help>no-target> tele/others/talkingisland.htm
+27/07/2024 23:44:04>Miany [268477988]>admin_move_to>no-target> -73145 256520 -3126
+27/07/2024 23:44:18>Miany [268477988]>admin_admin>no-target>
+27/07/2024 23:44:19>Miany [268477988]>admin_superhaste>no-target> 4
+27/07/2024 23:44:41>Miany [268477988]>admin_admin>no-target>
+27/07/2024 23:44:42>Miany [268477988]>admin_superhaste>no-target> 0
+28/07/2024 12:06:36>Miany [268477988]>admin_admin>no-target>
+28/07/2024 13:53:59>Miany [268477988]>admin_admin>no-target>
+28/07/2024 13:54:00>Miany [268477988]>admin_move_to>no-target>
+28/07/2024 13:54:03>Miany [268477988]>admin_help>no-target> tele/other.htm
+28/07/2024 13:54:08>Miany [268477988]>admin_show_moves>no-target>
+28/07/2024 13:54:10>Miany [268477988]>admin_help>no-target> tele/towns.htm
+28/07/2024 13:54:11>Miany [268477988]>admin_help>no-target> tele/towns/ti_starting.htm
+28/07/2024 13:54:15>Miany [268477988]>admin_help>no-target> tele/towns.htm
+28/07/2024 13:54:16>Miany [268477988]>admin_show_moves>no-target>
+28/07/2024 13:54:17>Miany [268477988]>admin_help>no-target> tele/other.htm
+28/07/2024 13:54:21>Miany [268477988]>admin_help>no-target> tele/others/talkingisland.htm
+28/07/2024 13:54:22>Miany [268477988]>admin_move_to>no-target> 48736 248463 -6162
+28/07/2024 13:55:34>Miany [268477988]>admin_admin>no-target>
+28/07/2024 13:55:37>Miany [268477988]>admin_create_item>no-target>
+28/07/2024 13:55:38>Miany [268477988]>admin_admin>no-target>
+28/07/2024 13:55:39>Miany [268477988]>admin_gmshop>no-target>
+28/07/2024 13:55:41>Miany [268477988]>admin_buy>no-target> 3001
+28/07/2024 13:56:57>Miany [268477988]>admin_admin>Vampire Bat>
+28/07/2024 13:57:18>Miany [268477988]>admin_admin>no-target>
+28/07/2024 13:57:21>Miany [268477988]>admin_move_to>no-target>
+28/07/2024 13:57:22>Miany [268477988]>admin_help>no-target> tele/other.htm
+28/07/2024 13:57:28>Miany [268477988]>admin_help>no-target> tele/others/cruma.htm
+28/07/2024 13:57:29>Miany [268477988]>admin_move_to>no-target> 17192 114178 -3439
+29/07/2024 18:47:13>Miany [268477988]>admin_admin>Marsh Stakato Worker>
+29/07/2024 18:47:15>Miany [268477988]>admin_admin2>Marsh Stakato Worker>
+29/07/2024 18:47:16>Miany [268477988]>admin_show_characters>Marsh Stakato Worker> 0
+29/07/2024 18:47:18>Miany [268477988]>admin_character_info>Marsh Stakato Worker> Miany
+29/07/2024 18:47:19>Miany [268477988]>admin_setclass>Miany>
+29/07/2024 18:47:25>Miany [268477988]>admin_setclass>Miany> 92
+29/07/2024 18:48:04>Miany [268477988]>admin_admin>Miany>
+29/07/2024 18:48:09>Miany [268477988]>admin_admin3>Miany>
+29/07/2024 18:48:10>Miany [268477988]>admin_admin2>Miany>
+29/07/2024 18:48:11>Miany [268477988]>admin_show_characters>Miany> 0
+29/07/2024 18:48:12>Miany [268477988]>admin_character_info>Miany> Miany
+29/07/2024 18:48:16>Miany [268477988]>admin_show_skills>Miany>
+29/07/2024 18:48:18>Miany [268477988]>admin_remove_all_skills>Miany>
+29/07/2024 18:48:20>Miany [268477988]>admin_admin>Miany>
+29/07/2024 18:48:21>Miany [268477988]>admin_admin2>Miany>
+29/07/2024 18:48:22>Miany [268477988]>admin_show_characters>Miany> 0
+29/07/2024 18:48:23>Miany [268477988]>admin_character_info>Miany> Miany
+29/07/2024 18:48:24>Miany [268477988]>admin_show_skills>Miany>
+29/07/2024 18:48:27>Miany [268477988]>admin_give_all_skills>Miany>
+29/07/2024 18:49:13>Miany [268477988]>admin_admin>Miany>
+29/07/2024 18:49:14>Miany [268477988]>admin_create_item>Miany>
+29/07/2024 18:49:15>Miany [268477988]>admin_admin>Miany>
+29/07/2024 18:49:16>Miany [268477988]>admin_gmshop>Miany>
+29/07/2024 18:49:28>Miany [268477988]>admin_buy>Miany> 9121
+29/07/2024 18:49:47>Miany [268477988]>admin_admin>Miany>
+29/07/2024 18:49:48>Miany [268477988]>admin_gmshop>Miany>
+29/07/2024 18:50:04>Miany [268477988]>admin_help>Miany> gmshop/Weapons.htm
+29/07/2024 18:50:06>Miany [268477988]>admin_help>Miany> gmshop/sgradew.htm
+29/07/2024 18:50:07>Miany [268477988]>admin_buy>Miany> 9501
+29/07/2024 18:50:12>Miany [268477988]>admin_admin>Miany>
+29/07/2024 18:50:12>Miany [268477988]>admin_admin>Miany>
+29/07/2024 18:50:13>Miany [268477988]>admin_gmshop>Miany>
+29/07/2024 18:50:20>Miany [268477988]>admin_buy>Miany> 3001
+29/07/2024 18:50:24>Miany [268477988]>admin_admin>Miany>
+29/07/2024 18:50:26>Miany [268477988]>admin_gmshop>Miany>
+29/07/2024 18:50:35>Miany [268477988]>admin_help>Miany> gmshop/Weapons.htm
+29/07/2024 18:50:36>Miany [268477988]>admin_help>Miany> gmshop/sgradew.htm
+29/07/2024 18:50:40>Miany [268477988]>admin_buy>Miany> 9049
+29/07/2024 18:51:04>Miany [268477988]>admin_admin>Miany>
+29/07/2024 18:51:05>Miany [268477988]>admin_gmshop>Miany>
+29/07/2024 18:51:09>Miany [268477988]>admin_help>Miany> gmshop/Weapons.htm
+29/07/2024 18:51:10>Miany [268477988]>admin_help>Miany> gmshop/sgradew.htm
+29/07/2024 18:51:11>Miany [268477988]>admin_buy>Miany> 9049
+29/07/2024 18:51:19>Miany [268477988]>admin_admin>Miany>
+29/07/2024 18:51:21>Miany [268477988]>admin_gmshop>Miany>
+29/07/2024 18:51:22>Miany [268477988]>admin_help>Miany> gmshop/Weapons.htm
+29/07/2024 18:51:23>Miany [268477988]>admin_help>Miany> gmshop/sgradew.htm
+29/07/2024 18:51:24>Miany [268477988]>admin_buy>Miany> 9049
+29/07/2024 18:52:39>Miany [268477988]>admin_admin>Marsh Stakato Soldier>
+29/07/2024 18:52:39>Miany [268477988]>admin_admin>Marsh Stakato Soldier>
+29/07/2024 18:54:15>Miany [268477988]>admin_admin>no-target>
+29/07/2024 18:54:16>Miany [268477988]>admin_move_to>no-target>
+29/07/2024 18:54:19>Miany [268477988]>admin_help>no-target> tele/other.htm
+29/07/2024 18:54:24>Miany [268477988]>admin_move_to>no-target> -113360 -244676 -15536
+29/07/2024 18:57:40>Miany [268477988]>admin_admin>Jake>
+29/07/2024 18:57:42>Miany [268477988]>admin_admin4>Jake>
+29/07/2024 18:57:43>Miany [268477988]>admin_cache_htm_rebuild>Jake>
+29/07/2024 18:58:56>Miany [268477988]>admin_reload>Jake>
+29/07/2024 18:59:19>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 18:59:28>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 18:59:37>Miany [268477988]>admin_reload>Jake> htm
+29/07/2024 18:59:47>Miany [268477988]>admin_admin3>Jake>
+29/07/2024 18:59:47>Miany [268477988]>admin_admin2>Jake>
+29/07/2024 18:59:48>Miany [268477988]>admin_admin4>Jake>
+29/07/2024 18:59:49>Miany [268477988]>admin_cache_htm_rebuild>Jake>
+29/07/2024 19:02:32>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:04:01>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:06:09>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:08:15>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:10:10>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:10:18>Miany [268477988]>admin_admin4>Jake>
+29/07/2024 19:10:19>Miany [268477988]>admin_cache_htm_rebuild>Jake>
+29/07/2024 19:10:51>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:11:12>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:12:11>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:12:19>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:12:27>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:12:55>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:14:18>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:14:30>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:14:39>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:15:53>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:16:03>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:18:58>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:20:36>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:21:31>Miany [268477988]>admin_admin>Jake>
+29/07/2024 19:21:33>Miany [268477988]>admin_gmshop>Jake>
+29/07/2024 19:21:35>Miany [268477988]>admin_help>Jake> gmshop/Jewels.htm
+29/07/2024 19:21:36>Miany [268477988]>admin_buy>Jake> 9127
+29/07/2024 19:21:40>Miany [268477988]>admin_admin>Jake>
+29/07/2024 19:21:42>Miany [268477988]>admin_admin>Jake>
+29/07/2024 19:21:43>Miany [268477988]>admin_gmshop>Jake>
+29/07/2024 19:21:44>Miany [268477988]>admin_help>Jake> gmshop/Jewels.htm
+29/07/2024 19:21:45>Miany [268477988]>admin_buy>Jake> 9127
+29/07/2024 19:22:24>Miany [268477988]>admin_admin>Jake>
+29/07/2024 19:22:25>Miany [268477988]>admin_gmshop>Jake>
+29/07/2024 19:22:27>Miany [268477988]>admin_buy>Jake> 9121
+29/07/2024 19:22:54>Miany [268477988]>admin_admin>Jake>
+29/07/2024 19:22:55>Miany [268477988]>admin_gmshop>Jake>
+29/07/2024 19:23:02>Miany [268477988]>admin_buy>Jake> 71032
+29/07/2024 19:23:38>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:24:34>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 19:25:00>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:13:42>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:13:59>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:14:22>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:15:54>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:16:32>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:16:41>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:17:30>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:19:09>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:19:41>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:20:18>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:21:44>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:22:56>Miany [268477988]>admin_reload htms>no-target>
+29/07/2024 21:23:10>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:24:10>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:24:31>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:25:00>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:25:18>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:25:31>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:25:51>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:26:32>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:27:05>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:27:48>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:28:41>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:29:06>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:29:20>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:29:33>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:30:07>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:30:24>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:31:07>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:31:47>Miany [268477988]>admin_reload htms>no-target>
+29/07/2024 21:32:29>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:32:53>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:34:25>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:35:08>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:35:31>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:36:39>Miany [268477988]>admin_reload htms>Jake>
+29/07/2024 21:39:15>Miany [268477988]>admin_admin>Jake>
+29/07/2024 21:39:16>Miany [268477988]>admin_create_item>Jake>
+29/07/2024 21:39:22>Miany [268477988]>admin_create_item>Jake> 9500 1
+29/07/2024 21:39:26>Miany [268477988]>admin_admin>Miany>
+29/07/2024 21:39:27>Miany [268477988]>admin_create_item>Miany>
+29/07/2024 21:39:31>Miany [268477988]>admin_create_item>Miany> 9500 1
+29/07/2024 21:40:36>Miany [268477988]>admin_reload htms>Miany>
+29/07/2024 21:40:49>Miany [268477988]>admin_reload htms>Miany>
+29/07/2024 21:41:10>Miany [268477988]>admin_reload htms>Miany>
+29/07/2024 21:41:26>Miany [268477988]>admin_reload htms>Miany>
+29/07/2024 21:41:35>Miany [268477988]>admin_reload htms>Miany>
+29/07/2024 21:41:52>Miany [268477988]>admin_reload htms>Miany>
+29/07/2024 21:42:09>Miany [268477988]>admin_reload htms>Miany>
+29/07/2024 21:45:24>Miany [268477988]>admin_reload htms>Miany>
+30/07/2024 18:58:29>Miany [268477988]>admin_admin>Miany>
+30/07/2024 18:58:30>Miany [268477988]>admin_admin4>Miany>
+30/07/2024 18:58:31>Miany [268477988]>admin_admin2>Miany>
+30/07/2024 18:58:32>Miany [268477988]>admin_show_characters>Miany> 0
+30/07/2024 18:58:34>Miany [268477988]>admin_character_info>Miany> Miany
+30/07/2024 18:58:35>Miany [268477988]>admin_setclass>Miany>
+30/07/2024 18:58:55>Miany [268477988]>admin_setclass>Miany> 102
+30/07/2024 19:00:17>Miany [268477988]>admin_admin>Andy>
+30/07/2024 19:00:18>Miany [268477988]>admin_gmshop>Andy>
+30/07/2024 19:00:19>Miany [268477988]>admin_help>Andy> gmshop/Jewels.htm
+30/07/2024 19:00:20>Miany [268477988]>admin_buy>Andy> 9127
+30/07/2024 19:00:40>Miany [268477988]>admin_admin>Andy>
+30/07/2024 19:00:43>Miany [268477988]>admin_gmshop>Andy>
+30/07/2024 19:00:46>Miany [268477988]>admin_buy>Andy> 71024
+30/07/2024 19:00:56>Miany [268477988]>admin_admin>Andy>
+30/07/2024 19:00:58>Miany [268477988]>admin_gmshop>Andy>
+30/07/2024 19:00:59>Miany [268477988]>admin_help>Andy> gmshop/Jewels.htm
+30/07/2024 19:01:00>Miany [268477988]>admin_buy>Andy> 9125
+30/07/2024 19:01:06>Miany [268477988]>admin_admin>Andy>
+30/07/2024 19:01:08>Miany [268477988]>admin_gmshop>Andy>
+30/07/2024 19:01:10>Miany [268477988]>admin_help>Andy> gmshop/Weapons.htm
+30/07/2024 19:01:11>Miany [268477988]>admin_help>Andy> gmshop/sgradew.htm
+30/07/2024 19:01:15>Miany [268477988]>admin_buy>Andy> 9049
+30/07/2024 19:02:01>Miany [268477988]>admin_admin>Jenny>
+30/07/2024 19:02:03>Miany [268477988]>admin_move_to>Jenny>
+30/07/2024 19:02:05>Miany [268477988]>admin_help>Jenny> tele/other.htm
+30/07/2024 19:02:11>Miany [268477988]>admin_help>Jenny> tele/others/talkingisland.htm
+30/07/2024 19:02:14>Miany [268477988]>admin_move_to>Jenny> -99746 237538 -3572
+30/07/2024 19:08:43>Miany [268477988]>admin_admin>Werewolf Hunter>
+30/07/2024 19:08:45>Miany [268477988]>admin_admin2>Miany>
+30/07/2024 19:08:46>Miany [268477988]>admin_show_characters>Miany> 0
+30/07/2024 19:08:47>Miany [268477988]>admin_character_info>Miany> Miany
+30/07/2024 19:08:48>Miany [268477988]>admin_show_skills>Miany>
+30/07/2024 19:08:49>Miany [268477988]>admin_remove_all_skills>Miany>
+30/07/2024 19:08:53>Miany [268477988]>admin_admin>Miany>
+30/07/2024 19:08:57>Miany [268477988]>admin_admin2>Miany>
+30/07/2024 19:08:58>Miany [268477988]>admin_show_characters>Miany> 0
+30/07/2024 19:08:58>Miany [268477988]>admin_character_info>Miany> Miany
+30/07/2024 19:09:00>Miany [268477988]>admin_show_skills>Miany>
+30/07/2024 19:09:02>Miany [268477988]>admin_give_all_skills>Miany>
+30/07/2024 20:13:46>Miany [268477988]>admin_admin>no-target>
+30/07/2024 20:13:47>Miany [268477988]>admin_create_item>no-target>
+30/07/2024 20:14:01>Miany [268477988]>admin_create_item>no-target> 9351 100
+30/07/2024 21:11:57>Miany [268477988]>admin_admin>Werewolf Chieftain>
+30/07/2024 21:11:58>Miany [268477988]>admin_gmshop>Werewolf Chieftain>
+30/07/2024 21:12:00>Miany [268477988]>admin_buy>Werewolf Chieftain> 3001
+30/07/2024 21:12:11>Miany [268477988]>admin_admin>Werewolf Chieftain>
+30/07/2024 21:12:24>Miany [268477988]>admin_admin>Werewolf Chieftain>
+30/07/2024 21:12:26>Miany [268477988]>admin_move_to>Werewolf Chieftain>
+30/07/2024 21:12:28>Miany [268477988]>admin_help>Werewolf Chieftain> tele/other.htm
+01/08/2024 20:30:46>Miany [268477988]>admin_admin>no-target>
+01/08/2024 20:30:47>Miany [268477988]>admin_create_item>no-target>
+01/08/2024 20:30:52>Miany [268477988]>admin_create_item>no-target> 9823 1
+01/08/2024 22:00:41>Miany [268477988]>admin_admin>no-target>
+01/08/2024 22:00:43>Miany [268477988]>admin_gmshop>no-target>
+01/08/2024 22:00:44>Miany [268477988]>admin_help>no-target> gmshop/Weapons.htm
+01/08/2024 22:00:45>Miany [268477988]>admin_help>no-target> gmshops.htm
+01/08/2024 22:00:46>Miany [268477988]>admin_help>no-target> gmshop/Armors.htm
+01/08/2024 22:00:47>Miany [268477988]>admin_help>no-target> gmshop/sgradea.htm
+01/08/2024 22:00:53>Miany [268477988]>admin_help>no-target> gmshops.htm
+01/08/2024 22:00:57>Miany [268477988]>admin_help>no-target> gmshop/sets.htm
+01/08/2024 22:01:00>Miany [268477988]>admin_buy>no-target> 9117
+01/08/2024 22:05:37>Miany [268477988]>admin_admin>no-target>
+01/08/2024 22:05:42>Miany [268477988]>admin_create_item>no-target>
+01/08/2024 22:05:43>Miany [268477988]>admin_admin>no-target>
+01/08/2024 22:05:44>Miany [268477988]>admin_gmshop>no-target>
+01/08/2024 22:05:46>Miany [268477988]>admin_help>no-target> gmshop/Weapons.htm
+01/08/2024 22:05:53>Miany [268477988]>admin_help>no-target> gmshop/sgradew.htm
+01/08/2024 22:05:58>Miany [268477988]>admin_buy>no-target> 9049
+01/08/2024 22:12:11>Miany [268477988]>admin_admin>no-target>
+01/08/2024 22:12:12>Miany [268477988]>admin_gmshop>no-target>
+01/08/2024 22:12:13>Miany [268477988]>admin_help>no-target> gmshop/Weapons.htm
+01/08/2024 22:12:14>Miany [268477988]>admin_help>no-target> gmshop/sgradew.htm
+01/08/2024 22:12:19>Miany [268477988]>admin_buy>no-target> 9050
+01/08/2024 22:15:50>Miany [268477988]>admin_admin>no-target>
+01/08/2024 22:16:19>Miany [268477988]>admin_gmshop>no-target>
+01/08/2024 22:16:20>Miany [268477988]>admin_help>no-target> gmshop/Armors.htm
+01/08/2024 22:16:21>Miany [268477988]>admin_help>no-target> gmshops.htm
+01/08/2024 22:16:22>Miany [268477988]>admin_help>no-target> gmshop/sets.htm
+01/08/2024 22:16:24>Miany [268477988]>admin_buy>no-target> 9115
+01/08/2024 22:16:30>Miany [268477988]>admin_admin>no-target>
+01/08/2024 22:16:31>Miany [268477988]>admin_gmshop>no-target>
+01/08/2024 22:16:33>Miany [268477988]>admin_help>no-target> gmshop/sets.htm
+01/08/2024 22:16:34>Miany [268477988]>admin_buy>no-target> 9116
+03/08/2024 15:34:31>Miany [268477988]>admin_admin>Werewolf Hunter>
+03/08/2024 15:34:32>Miany [268477988]>admin_move_to>Werewolf Hunter>
+03/08/2024 15:34:34>Miany [268477988]>admin_help>Werewolf Hunter> tele/other.htm
+03/08/2024 15:34:35>Miany [268477988]>admin_move_to>Werewolf Hunter> -113360 -244676 -15536
+03/08/2024 23:02:13>Miany [268477988]>admin_reload htms>Jake>
+03/08/2024 23:04:30>Miany [268477988]>admin_reload htms>Jenny>
+03/08/2024 23:05:27>Miany [268477988]>admin_reload htms>Jenny>
+03/08/2024 23:05:48>Miany [268477988]>admin_reload htms>Jenny>
+03/08/2024 23:07:23>Miany [268477988]>admin_reload htms>Jenny>
+03/08/2024 23:08:01>Miany [268477988]>admin_reload htms>Jenny>
+04/08/2024 14:40:14>Miany [268477988]>admin_admin>Jake>
+04/08/2024 14:40:15>Miany [268477988]>admin_move_to>Jake>
+04/08/2024 14:40:16>Miany [268477988]>admin_help>Jake> tele/towns.htm
+04/08/2024 14:40:17>Miany [268477988]>admin_help>Jake> tele/towns/giran.htm
+04/08/2024 14:40:19>Miany [268477988]>admin_move_to>Jake> 82698 148638 -3473
+04/08/2024 16:05:50>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:05:52>Miany [268477988]>admin_move_to>no-target>
+04/08/2024 16:05:56>Miany [268477988]>admin_help>no-target> tele/other.htm
+04/08/2024 16:05:59>Miany [268477988]>admin_help>no-target> tele/raid.htm
+04/08/2024 16:06:02>Miany [268477988]>admin_help>no-target> tele/raid/raid_special.htm
+04/08/2024 16:06:06>Miany [268477988]>admin_move_to>no-target> 213896 -115436 -1644
+04/08/2024 16:06:23>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:06:29>Miany [268477988]>admin_spawn_monster>no-target>
+04/08/2024 16:06:35>Miany [268477988]>admin_help>no-target> spawn.htm
+04/08/2024 16:06:38>Miany [268477988]>admin_spawn>no-target>
+04/08/2024 16:06:39>Miany [268477988]>admin_spawn_index>no-target> 80
+04/08/2024 16:07:03>Miany [268477988]>admin_spawn_index>no-target> 80 107
+04/08/2024 16:07:11>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:07:14>Miany [268477988]>admin_spawn_monster>no-target>
+04/08/2024 16:07:20>Miany [268477988]>admin_spawn_once>no-target> valakas
+04/08/2024 16:07:34>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:07:50>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:07:51>Miany [268477988]>admin_spawn_monster>no-target>
+04/08/2024 16:07:56>Miany [268477988]>admin_spawn_once>no-target> Valakas
+04/08/2024 16:08:05>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:08:09>Miany [268477988]>admin_spawn_monster>no-target>
+04/08/2024 16:08:11>Miany [268477988]>admin_help>no-target> spawn.htm
+04/08/2024 16:08:40>Miany [268477988]>admin_show_npcs>no-target>
+04/08/2024 16:08:46>Miany [268477988]>admin_show_spawns>no-target>
+04/08/2024 16:08:49>Miany [268477988]>admin_spawn_once>no-target> 29028
+04/08/2024 16:08:57>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:08:58>Miany [268477988]>admin_move_to>no-target>
+04/08/2024 16:09:01>Miany [268477988]>admin_help>no-target> tele/other.htm
+04/08/2024 16:09:02>Miany [268477988]>admin_move_to>no-target> -113360 -244676 -15536
+04/08/2024 16:09:07>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:09:08>Miany [268477988]>admin_superhaste>no-target> 4
+04/08/2024 16:09:11>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:09:13>Miany [268477988]>admin_spawn_monster>no-target>
+04/08/2024 16:09:16>Miany [268477988]>admin_spawn_once>no-target> 29028
+04/08/2024 16:09:20>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:09:21>Miany [268477988]>admin_spawn_monster>no-target>
+04/08/2024 16:09:28>Miany [268477988]>admin_help>no-target> spawn.htm
+04/08/2024 16:09:30>Miany [268477988]>admin_spawn>no-target>
+04/08/2024 16:12:02>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:12:04>Miany [268477988]>admin_spawn_monster>no-target>
+04/08/2024 16:12:06>Miany [268477988]>admin_help>no-target> spawn.htm
+04/08/2024 16:12:09>Miany [268477988]>admin_spawn>no-target>
+04/08/2024 16:12:11>Miany [268477988]>admin_spawn_index>no-target> 80
+04/08/2024 16:12:20>Miany [268477988]>admin_spawn_index>no-target> 80 107
+04/08/2024 16:12:23>Miany [268477988]>admin_show_spawns>no-target>
+04/08/2024 16:12:25>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:12:34>Miany [268477988]>admin_spawn_monster>no-target>
+04/08/2024 16:12:42>Miany [268477988]>admin_spawn_once>no-target> Antharas
+04/08/2024 16:15:12>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:15:15>Miany [268477988]>admin_admin2>no-target>
+04/08/2024 16:15:18>Miany [268477988]>admin_help>no-target> mods_menu.htm
+04/08/2024 16:15:20>Miany [268477988]>admin_admin2>no-target>
+04/08/2024 16:15:22>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:15:24>Miany [268477988]>admin_admin4>no-target>
+04/08/2024 16:15:27>Miany [268477988]>admin_admin2>no-target>
+04/08/2024 16:15:28>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:15:30>Miany [268477988]>admin_list_spawns>no-target>
+04/08/2024 16:15:33>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:15:34>Miany [268477988]>admin_spawn_monster>no-target>
+04/08/2024 16:15:37>Miany [268477988]>admin_help>no-target> spawn.htm
+04/08/2024 16:15:42>Miany [268477988]>admin_spawn_once>no-target> Valakas
+04/08/2024 16:15:48>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:15:51>Miany [268477988]>admin_move_to>no-target>
+04/08/2024 16:15:56>Miany [268477988]>admin_help>no-target> tele/other.htm
+04/08/2024 16:16:00>Miany [268477988]>admin_help>no-target> tele/raid.htm
+04/08/2024 16:16:01>Miany [268477988]>admin_help>no-target> tele/raid/raid_special.htm
+04/08/2024 16:16:06>Miany [268477988]>admin_move_to>no-target> 19897 -9087 -2781
+04/08/2024 16:16:50>Miany [268477988]>admin_admin>Pterosaur>
+04/08/2024 16:16:51>Miany [268477988]>admin_move_to>Pterosaur>
+04/08/2024 16:16:53>Miany [268477988]>admin_help>Pterosaur> tele/other.htm
+04/08/2024 16:16:54>Miany [268477988]>admin_help>Pterosaur> tele/raid.htm
+04/08/2024 16:16:55>Miany [268477988]>admin_help>Pterosaur> tele/raid/raid_80.htm
+04/08/2024 16:16:59>Miany [268477988]>admin_help>Pterosaur> tele/raid.htm
+04/08/2024 16:17:00>Miany [268477988]>admin_help>Pterosaur> tele/raid/raid_special.htm
+04/08/2024 16:17:02>Miany [268477988]>admin_move_to>Pterosaur> 22827 -14698 -3080
+04/08/2024 16:17:55>Miany [268477988]>admin_admin>Sprigant>
+04/08/2024 16:17:56>Miany [268477988]>admin_move_to>Sprigant>
+04/08/2024 16:17:58>Miany [268477988]>admin_help>Sprigant> tele/other.htm
+04/08/2024 16:18:00>Miany [268477988]>admin_help>Sprigant> tele/raid.htm
+04/08/2024 16:18:01>Miany [268477988]>admin_help>Sprigant> tele/raid/raid_special.htm
+04/08/2024 16:18:02>Miany [268477988]>admin_move_to>Sprigant> 26174 -17134 -2747
+04/08/2024 16:18:15>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:18:17>Miany [268477988]>admin_move_to>no-target>
+04/08/2024 16:18:18>Miany [268477988]>admin_help>no-target> tele/other.htm
+04/08/2024 16:18:20>Miany [268477988]>admin_help>no-target> tele/raid.htm
+04/08/2024 16:18:22>Miany [268477988]>admin_help>no-target> tele/raid/raid_80.htm
+04/08/2024 16:18:29>Miany [268477988]>admin_help>no-target> tele/raid.htm
+04/08/2024 16:18:30>Miany [268477988]>admin_help>no-target> tele/raid/raid_special.htm
+04/08/2024 16:18:36>Miany [268477988]>admin_move_to>no-target> -21610 181594 -5734
+04/08/2024 16:20:56>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:20:57>Miany [268477988]>admin_create_item>no-target>
+04/08/2024 16:21:00>Miany [268477988]>admin_create_item>no-target> 9310 1
+04/08/2024 16:21:03>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:21:04>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:21:08>Miany [268477988]>admin_create_item>Miany> 9311 1
+04/08/2024 16:21:10>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:21:11>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:21:14>Miany [268477988]>admin_create_item>Miany> 9312 1
+04/08/2024 16:21:15>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:21:16>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:21:20>Miany [268477988]>admin_create_item>Miany> 9313 1
+04/08/2024 16:21:21>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:21:22>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:21:25>Miany [268477988]>admin_create_item>Miany> 9314 1
+04/08/2024 16:21:27>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:21:28>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:21:32>Miany [268477988]>admin_create_item>Miany> 9315 1
+04/08/2024 16:21:37>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:21:38>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:21:42>Miany [268477988]>admin_create_item>Miany> 9316 1
+04/08/2024 16:21:44>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:21:45>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:21:49>Miany [268477988]>admin_create_item>Miany> 9316 1
+04/08/2024 16:21:51>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:21:52>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:21:55>Miany [268477988]>admin_create_item>Miany> 9317 1
+04/08/2024 16:21:57>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:21:57>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:22:01>Miany [268477988]>admin_create_item>Miany> 9318 1
+04/08/2024 16:22:06>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:22:07>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:22:11>Miany [268477988]>admin_create_item>Miany> 9319 1
+04/08/2024 16:24:32>Miany [268477988]>admin_admin>Guard Ant>
+04/08/2024 16:24:33>Miany [268477988]>admin_move_to>Guard Ant>
+04/08/2024 16:24:33>Miany [268477988]>admin_help>Guard Ant> tele/towns.htm
+04/08/2024 16:24:34>Miany [268477988]>admin_help>Guard Ant> tele/towns/giran.htm
+04/08/2024 16:24:35>Miany [268477988]>admin_move_to>Guard Ant> 82698 148638 -3473
+04/08/2024 16:26:07>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:26:08>Miany [268477988]>admin_create_item>no-target>
+04/08/2024 16:26:13>Miany [268477988]>admin_create_item>no-target> 9320 1
+04/08/2024 16:26:15>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:26:16>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:26:20>Miany [268477988]>admin_create_item>Miany> 9321 1
+04/08/2024 16:26:21>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:26:22>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:26:26>Miany [268477988]>admin_create_item>Miany> 9322 1
+04/08/2024 16:26:27>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:26:28>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:26:32>Miany [268477988]>admin_create_item>Miany> 9323 1
+04/08/2024 16:26:34>Miany [268477988]>admin_admin>Miany>
+04/08/2024 16:26:35>Miany [268477988]>admin_create_item>Miany>
+04/08/2024 16:26:40>Miany [268477988]>admin_create_item>Miany> 9324 1
+04/08/2024 16:57:37>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:57:38>Miany [268477988]>admin_gmshop>no-target>
+04/08/2024 16:57:40>Miany [268477988]>admin_buy>no-target> 3001
+04/08/2024 16:57:55>Miany [268477988]>admin_admin>no-target>
+04/08/2024 16:57:56>Miany [268477988]>admin_gmshop>no-target>
+04/08/2024 16:57:58>Miany [268477988]>admin_buy>no-target> 3001
+04/08/2024 20:01:41>Miany [268477988]>admin_reload htms>no-target>
+04/08/2024 20:09:34>Miany [268477988]>admin_admin>no-target>
+04/08/2024 20:09:36>Miany [268477988]>admin_move_to>no-target>
+04/08/2024 20:09:39>Miany [268477988]>admin_help>no-target> tele/other.htm
+04/08/2024 20:09:50>Miany [268477988]>admin_help>no-target> tele/others/talkingisland.htm
+04/08/2024 20:09:54>Miany [268477988]>admin_move_to>no-target> -99746 237538 -3572
+05/08/2024 15:34:35>Miany [268477988]>admin_admin>no-target>
+05/08/2024 15:34:36>Miany [268477988]>admin_superhaste>no-target> 4
+05/08/2024 18:40:48>Miany [268477988]>admin_admin>no-target>
+05/08/2024 18:40:49>Miany [268477988]>admin_superhaste>no-target> 4
+05/08/2024 19:03:47>Miany [268477988]>admin_admin>no-target>
+05/08/2024 19:03:48>Miany [268477988]>admin_superhaste>no-target> 4
+05/08/2024 19:12:27>Miany [268477988]>admin_admin>no-target>
+05/08/2024 19:12:28>Miany [268477988]>admin_superhaste>no-target> 4
+05/08/2024 19:19:07>Miany [268477988]>admin_admin>no-target>
+05/08/2024 19:19:08>Miany [268477988]>admin_superhaste>no-target> 0
+05/08/2024 20:59:42>Miany [268477988]>admin_admin>no-target>
+05/08/2024 20:59:43>Miany [268477988]>admin_superhaste>no-target> 4
+06/08/2024 9:43:17>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:43:51>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:44:18>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:44:35>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:45:01>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:45:20>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:46:36>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:46:51>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:48:51>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:54:37>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:54:40>Miany [268477988]>admin_reload>no-target> configs
+06/08/2024 9:54:46>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:56:02>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 9:56:27>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 11:01:34>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 11:01:36>Miany [268477988]>admin_reload>no-target> configs
+06/08/2024 11:01:37>Miany [268477988]>admin_reload>no-target> quests
+06/08/2024 11:01:40>Miany [268477988]>admin_reload>no-target> configs
+06/08/2024 11:46:57>Miany [268477988]>admin_admin>no-target>
+06/08/2024 11:46:58>Miany [268477988]>admin_move_to>no-target>
+06/08/2024 11:47:01>Miany [268477988]>admin_help>no-target> tele/other.htm
+06/08/2024 11:47:02>Miany [268477988]>admin_move_to>no-target> -113360 -244676 -15536
+06/08/2024 11:48:47>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 11:48:49>Miany [268477988]>admin_admin4>no-target>
+06/08/2024 11:48:51>Miany [268477988]>admin_reload>no-target>
+06/08/2024 11:48:58>Miany [268477988]>admin_reload>no-target> npc
+06/08/2024 11:48:59>Miany [268477988]>admin_reload>no-target> npc
+06/08/2024 11:48:59>Miany [268477988]>admin_reload>no-target> npc
+06/08/2024 11:49:04>Miany [268477988]>admin_admin>no-target>
+06/08/2024 11:49:05>Miany [268477988]>admin_spawn_monster>no-target>
+06/08/2024 11:49:10>Miany [268477988]>admin_spawn_monster>no-target> 40004
+06/08/2024 12:01:47>Miany [268477988]>admin_reload htms>Thammy>
+06/08/2024 12:05:28>Miany [268477988]>admin_admin>Thammy>
+06/08/2024 12:05:29>Miany [268477988]>admin_move_to>Thammy>
+06/08/2024 12:05:48>Miany [268477988]>admin_help>Thammy> tele/other.htm
+06/08/2024 12:05:50>Miany [268477988]>admin_move_to>Thammy> -113360 -244676 -15536
+06/08/2024 12:05:55>Miany [268477988]>admin_admin>no-target>
+06/08/2024 12:05:56>Miany [268477988]>admin_move_to>no-target>
+06/08/2024 12:05:58>Miany [268477988]>admin_help>no-target> tele/other.htm
+06/08/2024 12:06:06>Miany [268477988]>admin_help>no-target> tele/raid.htm
+06/08/2024 12:06:07>Miany [268477988]>admin_help>no-target> tele/raid/raid_special.htm
+06/08/2024 12:06:08>Miany [268477988]>admin_move_to>no-target> -21610 181594 -5734
+06/08/2024 12:30:17>Miany [268477988]>admin_create_item>no-target> 18 1
+06/08/2024 12:36:17>Miany [268477988]>admin_create_item>Miany> 18 1
+06/08/2024 13:18:37>Miany [268477988]>admin_create_item>Queen Ant> 630 1
+06/08/2024 13:19:47>Miany [268477988]>admin_create_item>Miany> 630 1
+06/08/2024 13:51:38>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 13:52:54>Miany [268477988]>admin_admin>Miany>
+06/08/2024 13:52:55>Miany [268477988]>admin_move_to>Miany>
+06/08/2024 13:52:56>Miany [268477988]>admin_help>Miany> tele/towns.htm
+06/08/2024 13:52:58>Miany [268477988]>admin_show_moves>Miany>
+06/08/2024 13:52:59>Miany [268477988]>admin_help>Miany> tele/other.htm
+06/08/2024 13:53:01>Miany [268477988]>admin_move_to>Miany> -113360 -244676 -15536
+06/08/2024 13:56:05>Miany [268477988]>admin_admin>Thammy>
+06/08/2024 13:56:06>Miany [268477988]>admin_gmshop>Thammy>
+06/08/2024 13:56:09>Miany [268477988]>admin_buy>Thammy> 9121
+06/08/2024 13:56:14>Miany [268477988]>admin_admin>Thammy>
+06/08/2024 13:56:15>Miany [268477988]>admin_gmshop>Thammy>
+06/08/2024 13:56:18>Miany [268477988]>admin_buy>Thammy> 71023
+06/08/2024 13:56:25>Miany [268477988]>admin_admin>Thammy>
+06/08/2024 13:56:26>Miany [268477988]>admin_gmshop>Thammy>
+06/08/2024 13:56:28>Miany [268477988]>admin_buy>Thammy> 71032
+06/08/2024 13:56:44>Miany [268477988]>admin_admin>Thammy>
+06/08/2024 13:56:45>Miany [268477988]>admin_gmshop>Thammy>
+06/08/2024 13:56:48>Miany [268477988]>admin_buy>Thammy> 71023
+06/08/2024 15:16:30>Miany [268477988]>admin_create_item>Jake> 6408 1
+06/08/2024 15:16:49>Miany [268477988]>admin_create_item>Miany> 6408 1
+06/08/2024 15:17:05>Miany [268477988]>admin_create_item>Miany> 9300 1
+06/08/2024 15:17:50>Miany [268477988]>admin_create_item>Miany> 683 1
+06/08/2024 15:18:39>Miany [268477988]>admin_create_item>Miany> 9303 1
+06/08/2024 15:22:40>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 16:02:16>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:02:17>Miany [268477988]>admin_spawn_monster>no-target>
+06/08/2024 16:02:27>Miany [268477988]>admin_spawn_monster>no-target> 40005
+06/08/2024 16:03:57>Miany [268477988]>admin_reload htms>Alana>
+06/08/2024 16:04:00>Miany [268477988]>admin_reload>Alana> htm
+06/08/2024 16:04:50>Miany [268477988]>admin_reload htms>Alana>
+06/08/2024 16:04:51>Miany [268477988]>admin_reload>Alana> multisell
+06/08/2024 16:05:19>Miany [268477988]>admin_reload htms>Alana>
+06/08/2024 16:05:21>Miany [268477988]>admin_reload>Alana> multisell
+06/08/2024 16:09:23>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:09:27>Miany [268477988]>admin_spawn_monster>no-target>
+06/08/2024 16:09:30>Miany [268477988]>admin_spawn_monster>no-target> 40006
+06/08/2024 16:13:50>Miany [268477988]>admin_admin>Miany>
+06/08/2024 16:13:51>Miany [268477988]>admin_admin2>Miany>
+06/08/2024 16:13:52>Miany [268477988]>admin_show_characters>Miany> 0
+06/08/2024 16:13:53>Miany [268477988]>admin_character_info>Miany> Miany
+06/08/2024 16:13:58>Miany [268477988]>admin_show_skills>Miany>
+06/08/2024 16:14:00>Miany [268477988]>admin_current_player>Miany>
+06/08/2024 16:14:03>Miany [268477988]>admin_recall_char_menu>Miany> Miany
+06/08/2024 16:14:05>Miany [268477988]>admin_admin2>no-target>
+06/08/2024 16:14:12>Miany [268477988]>admin_admin4>no-target>
+06/08/2024 16:14:16>Miany [268477988]>admin_geomap>no-target>
+06/08/2024 16:14:21>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:14:23>Miany [268477988]>admin_admin4>no-target>
+06/08/2024 16:14:24>Miany [268477988]>admin_geogrid>no-target>
+06/08/2024 16:14:36>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:14:37>Miany [268477988]>admin_admin4>no-target>
+06/08/2024 16:14:38>Miany [268477988]>admin_geogrid>no-target>
+06/08/2024 16:14:41>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 16:14:42>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:14:43>Miany [268477988]>admin_admin4>no-target>
+06/08/2024 16:14:44>Miany [268477988]>admin_geomap>no-target>
+06/08/2024 16:14:45>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:14:46>Miany [268477988]>admin_admin4>no-target>
+06/08/2024 16:14:48>Miany [268477988]>admin_geo_can_move>no-target>
+06/08/2024 16:42:21>Miany [268477988]>admin_reload htms>Alana>
+06/08/2024 16:43:40>Miany [268477988]>admin_admin>Miany>
+06/08/2024 16:43:41>Miany [268477988]>admin_admin2>Miany>
+06/08/2024 16:43:44>Miany [268477988]>admin_show_characters>Miany> 0
+06/08/2024 16:43:44>Miany [268477988]>admin_character_info>Miany> Miany
+06/08/2024 16:43:47>Miany [268477988]>admin_setclass>Miany>
+06/08/2024 16:43:52>Miany [268477988]>admin_setclass>Miany> 92
+06/08/2024 16:46:00>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:46:02>Miany [268477988]>admin_admin3>Miany>
+06/08/2024 16:46:03>Miany [268477988]>admin_admin2>Miany>
+06/08/2024 16:46:04>Miany [268477988]>admin_show_characters>Miany> 0
+06/08/2024 16:46:05>Miany [268477988]>admin_character_info>Miany> Miany
+06/08/2024 16:46:07>Miany [268477988]>admin_show_characters>Miany> 0
+06/08/2024 16:46:08>Miany [268477988]>admin_character_info>Miany> Miany
+06/08/2024 16:46:10>Miany [268477988]>admin_show_skills>Miany>
+06/08/2024 16:46:13>Miany [268477988]>admin_remove_all_skills>Miany>
+06/08/2024 16:46:14>Miany [268477988]>admin_admin>Miany>
+06/08/2024 16:46:15>Miany [268477988]>admin_admin2>Miany>
+06/08/2024 16:46:16>Miany [268477988]>admin_show_characters>Miany> 0
+06/08/2024 16:46:17>Miany [268477988]>admin_character_info>Miany> Miany
+06/08/2024 16:46:18>Miany [268477988]>admin_setclass>Miany>
+06/08/2024 16:46:19>Miany [268477988]>admin_current_player>Miany>
+06/08/2024 16:46:20>Miany [268477988]>admin_show_skills>Miany>
+06/08/2024 16:46:21>Miany [268477988]>admin_give_all_skills>Miany>
+06/08/2024 16:48:20>Miany [268477988]>admin_admin>Miany>
+06/08/2024 16:48:21>Miany [268477988]>admin_admin4>Miany>
+06/08/2024 16:48:22>Miany [268477988]>admin_admin3>Miany>
+06/08/2024 16:48:26>Miany [268477988]>admin_social_menu>Miany>
+06/08/2024 16:48:28>Miany [268477988]>admin_social_menu>Miany> 3
+06/08/2024 16:48:30>Miany [268477988]>admin_social_menu>Miany> 17
+06/08/2024 16:48:31>Miany [268477988]>admin_social_menu>Miany> 17
+06/08/2024 16:48:36>Miany [268477988]>admin_social_menu>Miany> 17
+06/08/2024 16:48:40>Miany [268477988]>admin_social_menu>Miany> 17
+06/08/2024 16:48:42>Miany [268477988]>admin_social_menu>Miany> 16
+06/08/2024 16:48:45>Miany [268477988]>admin_social_menu>Miany> 17
+06/08/2024 16:48:53>Miany [268477988]>admin_social_menu>Miany> 15
+06/08/2024 16:48:55>Miany [268477988]>admin_social_menu>Miany> 13
+06/08/2024 16:48:58>Miany [268477988]>admin_social_menu>Miany> 1
+06/08/2024 16:48:59>Miany [268477988]>admin_social_menu>Miany> 1
+06/08/2024 16:49:00>Miany [268477988]>admin_social_menu>Miany> 2
+06/08/2024 16:49:02>Miany [268477988]>admin_social_menu>Miany> 3
+06/08/2024 16:49:04>Miany [268477988]>admin_social_menu>Miany> 4
+06/08/2024 16:49:06>Miany [268477988]>admin_social_menu>Miany> 5
+06/08/2024 16:49:08>Miany [268477988]>admin_social_menu>Miany> 6
+06/08/2024 16:49:11>Miany [268477988]>admin_social_menu>Miany> 7
+06/08/2024 16:49:13>Miany [268477988]>admin_social_menu>Miany> 8
+06/08/2024 16:49:16>Miany [268477988]>admin_social_menu>Miany> 12
+06/08/2024 16:49:18>Miany [268477988]>admin_social_menu>Miany> 11
+06/08/2024 16:49:19>Miany [268477988]>admin_social_menu>Miany> 10
+06/08/2024 16:49:20>Miany [268477988]>admin_social_menu>Miany> 9
+06/08/2024 16:49:22>Miany [268477988]>admin_social_menu>Miany> 8
+06/08/2024 16:49:27>Miany [268477988]>admin_social_menu>Miany> 4
+06/08/2024 16:49:30>Miany [268477988]>admin_admin3>Miany>
+06/08/2024 16:49:32>Miany [268477988]>admin_effect_menu>Miany>
+06/08/2024 16:49:35>Miany [268477988]>admin_para_menu>Miany>
+06/08/2024 16:49:36>Miany [268477988]>admin_unpara_menu>Miany>
+06/08/2024 16:49:37>Miany [268477988]>admin_para_menu>Miany>
+06/08/2024 16:49:39>Miany [268477988]>admin_para_all_menu>Miany>
+06/08/2024 16:49:40>Miany [268477988]>admin_abnormal_menu>Miany>
+06/08/2024 16:49:42>Miany [268477988]>admin_abnormal_menu>Miany> 800000
+06/08/2024 16:49:48>Miany [268477988]>admin_abnormal_menu>Miany> 800000
+06/08/2024 16:49:49>Miany [268477988]>admin_abnormal_menu>Miany> 400000
+06/08/2024 16:49:50>Miany [268477988]>admin_abnormal_menu>Miany> 400000
+06/08/2024 16:49:51>Miany [268477988]>admin_abnormal_menu>Miany> 200000
+06/08/2024 16:49:54>Miany [268477988]>admin_abnormal_menu>Miany> 200000
+06/08/2024 16:49:55>Miany [268477988]>admin_abnormal_menu>Miany> 100000
+06/08/2024 16:49:56>Miany [268477988]>admin_abnormal_menu>Miany> 100000
+06/08/2024 16:49:57>Miany [268477988]>admin_abnormal_menu>Miany> 80000
+06/08/2024 16:49:58>Miany [268477988]>admin_abnormal_menu>Miany> 80000
+06/08/2024 16:49:59>Miany [268477988]>admin_abnormal_menu>Miany> 40000
+06/08/2024 16:50:01>Miany [268477988]>admin_abnormal_menu>Miany> 40000
+06/08/2024 16:50:01>Miany [268477988]>admin_abnormal_menu>Miany> 20000
+06/08/2024 16:50:05>Miany [268477988]>admin_abnormal_menu>Miany> 20000
+06/08/2024 16:50:05>Miany [268477988]>admin_abnormal_menu>Miany> 10000
+06/08/2024 16:50:08>Miany [268477988]>admin_abnormal_menu>Miany> 10000
+06/08/2024 16:50:08>Miany [268477988]>admin_abnormal_menu>Miany> 8000
+06/08/2024 16:50:09>Miany [268477988]>admin_abnormal_menu>Miany> 8000
+06/08/2024 16:50:10>Miany [268477988]>admin_abnormal_menu>Miany> 4000
+06/08/2024 16:50:11>Miany [268477988]>admin_abnormal_menu>Miany> 4000
+06/08/2024 16:50:12>Miany [268477988]>admin_abnormal_menu>Miany> 2000
+06/08/2024 16:50:13>Miany [268477988]>admin_abnormal_menu>Miany> 2000
+06/08/2024 16:50:14>Miany [268477988]>admin_abnormal_menu>Miany> 1000
+06/08/2024 16:50:16>Miany [268477988]>admin_abnormal_menu>Miany> 1000
+06/08/2024 16:50:17>Miany [268477988]>admin_abnormal_menu>Miany> 800
+06/08/2024 16:50:18>Miany [268477988]>admin_abnormal_menu>Miany> 800
+06/08/2024 16:50:19>Miany [268477988]>admin_abnormal_menu>Miany> 400
+06/08/2024 16:50:22>Miany [268477988]>admin_abnormal_menu>Miany> 400
+06/08/2024 16:50:23>Miany [268477988]>admin_abnormal_menu>Miany> 400
+06/08/2024 16:50:23>Miany [268477988]>admin_abnormal_menu>Miany> 200
+06/08/2024 16:50:24>Miany [268477988]>admin_abnormal_menu>Miany> 200
+06/08/2024 16:50:25>Miany [268477988]>admin_abnormal_menu>Miany> 100
+06/08/2024 16:50:26>Miany [268477988]>admin_abnormal_menu>Miany> 100
+06/08/2024 16:50:27>Miany [268477988]>admin_abnormal_menu>Miany> 80
+06/08/2024 16:50:28>Miany [268477988]>admin_abnormal_menu>Miany> 80
+06/08/2024 16:50:29>Miany [268477988]>admin_abnormal_menu>Miany> 40
+06/08/2024 16:50:30>Miany [268477988]>admin_abnormal_menu>Miany> 40
+06/08/2024 16:50:31>Miany [268477988]>admin_abnormal_menu>Miany> 20
+06/08/2024 16:50:32>Miany [268477988]>admin_abnormal_menu>Miany> 20
+06/08/2024 16:50:33>Miany [268477988]>admin_abnormal_menu>Miany> 10
+06/08/2024 16:50:34>Miany [268477988]>admin_abnormal_menu>Miany> 10
+06/08/2024 16:50:34>Miany [268477988]>admin_abnormal_menu>Miany> 8
+06/08/2024 16:50:35>Miany [268477988]>admin_abnormal_menu>Miany> 8
+06/08/2024 16:50:36>Miany [268477988]>admin_abnormal_menu>Miany> 4
+06/08/2024 16:50:37>Miany [268477988]>admin_abnormal_menu>Miany> 4
+06/08/2024 16:50:37>Miany [268477988]>admin_abnormal_menu>Miany> 2
+06/08/2024 16:50:38>Miany [268477988]>admin_abnormal_menu>Miany> 2
+06/08/2024 16:50:39>Miany [268477988]>admin_abnormal_menu>Miany> 1
+06/08/2024 16:50:41>Miany [268477988]>admin_abnormal_menu>Miany> 1
+06/08/2024 16:50:42>Miany [268477988]>admin_admin3>Miany>
+06/08/2024 16:50:47>Miany [268477988]>admin_mobmenu>Miany>
+06/08/2024 16:50:51>Miany [268477988]>admin_admin>Miany>
+06/08/2024 16:50:52>Miany [268477988]>admin_admin4>Miany>
+06/08/2024 16:50:58>Miany [268477988]>admin_admin2>Miany>
+06/08/2024 16:50:59>Miany [268477988]>admin_show_characters>Miany> 0
+06/08/2024 16:51:00>Miany [268477988]>admin_character_info>Miany> Miany
+06/08/2024 16:51:01>Miany [268477988]>admin_setclass>Miany>
+06/08/2024 16:51:08>Miany [268477988]>admin_setclass>Miany> 95
+06/08/2024 16:51:32>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:51:34>Miany [268477988]>admin_gmshop>no-target>
+06/08/2024 16:51:37>Miany [268477988]>admin_help>no-target> gmshop/sets.htm
+06/08/2024 16:51:40>Miany [268477988]>admin_buy>no-target> 9116
+06/08/2024 16:51:55>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:51:57>Miany [268477988]>admin_gmshop>no-target>
+06/08/2024 16:51:59>Miany [268477988]>admin_help>no-target> gmshop/Weapons.htm
+06/08/2024 16:51:59>Miany [268477988]>admin_help>no-target> gmshop/sgradew.htm
+06/08/2024 16:52:07>Miany [268477988]>admin_buy>no-target> 9052
+06/08/2024 16:52:18>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:52:19>Miany [268477988]>admin_create_item>no-target>
+06/08/2024 16:52:20>Miany [268477988]>admin_admin>no-target>
+06/08/2024 16:52:22>Miany [268477988]>admin_gmshop>no-target>
+06/08/2024 16:52:24>Miany [268477988]>admin_help>no-target> gmshop/Weapons.htm
+06/08/2024 16:52:25>Miany [268477988]>admin_help>no-target> gmshop/sgradew.htm
+06/08/2024 16:52:31>Miany [268477988]>admin_help>no-target> gmshops.htm
+06/08/2024 16:52:37>Miany [268477988]>admin_help>no-target> gmshop/sets.htm
+06/08/2024 16:52:38>Miany [268477988]>admin_help>no-target> gmshops.htm
+06/08/2024 16:52:38>Miany [268477988]>admin_help>no-target> gmshop/Armors.htm
+06/08/2024 16:52:39>Miany [268477988]>admin_help>no-target> gmshop/sgradea.htm
+06/08/2024 16:52:42>Miany [268477988]>admin_buy>no-target> 9060
+06/08/2024 16:53:36>Miany [268477988]>admin_admin>Miany>
+06/08/2024 16:53:37>Miany [268477988]>admin_admin3>Miany>
+06/08/2024 16:53:38>Miany [268477988]>admin_admin2>Miany>
+06/08/2024 16:53:39>Miany [268477988]>admin_show_characters>Miany> 0
+06/08/2024 16:53:40>Miany [268477988]>admin_character_info>Miany> Miany
+06/08/2024 16:53:41>Miany [268477988]>admin_show_skills>Miany>
+06/08/2024 16:53:42>Miany [268477988]>admin_remove_all_skills>Miany>
+06/08/2024 16:53:44>Miany [268477988]>admin_admin>Miany>
+06/08/2024 16:53:46>Miany [268477988]>admin_admin2>Miany>
+06/08/2024 16:53:47>Miany [268477988]>admin_show_characters>Miany> 0
+06/08/2024 16:53:47>Miany [268477988]>admin_character_info>Miany> Miany
+06/08/2024 16:53:49>Miany [268477988]>admin_show_skills>Miany>
+06/08/2024 16:53:50>Miany [268477988]>admin_give_all_skills>Miany>
+06/08/2024 16:59:16>Miany [268477988]>admin_admin>Miany>
+06/08/2024 16:59:18>Miany [268477988]>admin_admin2>Miany>
+06/08/2024 16:59:19>Miany [268477988]>admin_show_characters>Miany> 0
+06/08/2024 16:59:20>Miany [268477988]>admin_character_info>Miany> Miany
+06/08/2024 16:59:21>Miany [268477988]>admin_setclass>Miany>
+06/08/2024 17:03:50>Miany [268477988]>admin_admin>Lisandra>
+06/08/2024 17:03:51>Miany [268477988]>admin_move_to>Lisandra>
+06/08/2024 17:03:52>Miany [268477988]>admin_help>Lisandra> tele/towns.htm
+06/08/2024 17:03:53>Miany [268477988]>admin_help>Lisandra> tele/towns/giran.htm
+06/08/2024 17:03:56>Miany [268477988]>admin_move_to>Lisandra> 82698 148638 -3473
+06/08/2024 17:04:34>Miany [268477988]>admin_admin>no-target>
+06/08/2024 17:04:35>Miany [268477988]>admin_spawn_monster>no-target>
+06/08/2024 17:04:45>Miany [268477988]>admin_spawn_monster>no-target> 40000
+06/08/2024 17:05:00>Miany [268477988]>admin_edit_npc>Jake> 40000
+06/08/2024 17:05:20>Miany [268477988]>admin_show_droplist>Jake> 40000
+06/08/2024 17:05:21>Miany [268477988]>admin_close_window>Jake>
+06/08/2024 17:05:27>Miany [268477988]>admin_edit_npc>Jake> 40000
+06/08/2024 17:05:53>Miany [268477988]>admin_delete>Jake>
+06/08/2024 17:05:54>Miany [268477988]>admin_admin>no-target>
+06/08/2024 17:05:56>Miany [268477988]>admin_admin2>no-target>
+06/08/2024 17:05:57>Miany [268477988]>admin_show_characters>no-target> 0
+06/08/2024 17:05:59>Miany [268477988]>admin_admin2>no-target>
+06/08/2024 17:06:00>Miany [268477988]>admin_admin>no-target>
+06/08/2024 17:06:03>Miany [268477988]>admin_move_to>no-target>
+06/08/2024 17:06:05>Miany [268477988]>admin_help>no-target> tele/other.htm
+06/08/2024 17:06:06>Miany [268477988]>admin_move_to>no-target> -113360 -244676 -15536
+06/08/2024 17:13:00>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 17:13:03>Miany [268477988]>admin_reload>no-target> npc
+06/08/2024 17:13:12>Miany [268477988]>admin_reload>no-target> npc
+06/08/2024 17:13:14>Miany [268477988]>admin_reload>no-target> htm
+06/08/2024 17:13:47>Miany [268477988]>admin_reload htms>Jake>
+06/08/2024 17:13:59>Miany [268477988]>admin_reload>Jake> npc
+06/08/2024 17:20:32>Miany [268477988]>admin_admin>Jake>
+06/08/2024 17:20:32>Miany [268477988]>admin_move_to>Jake>
+06/08/2024 17:20:33>Miany [268477988]>admin_help>Jake> tele/towns.htm
+06/08/2024 17:20:42>Miany [268477988]>admin_help>Jake> tele/towns/aden.htm
+06/08/2024 17:20:45>Miany [268477988]>admin_move_to>Jake> 146754 28968 -2259
+06/08/2024 17:21:25>Miany [268477988]>admin_admin>no-target>
+06/08/2024 17:21:26>Miany [268477988]>admin_superhaste>no-target> 4
+06/08/2024 17:21:40>Miany [268477988]>admin_admin>Kidder>
+06/08/2024 17:21:41>Miany [268477988]>admin_move_to>Kidder>
+06/08/2024 17:21:43>Miany [268477988]>admin_help>Kidder> tele/other.htm
+06/08/2024 17:21:47>Miany [268477988]>admin_show_moves>Kidder>
+06/08/2024 17:21:50>Miany [268477988]>admin_help>Kidder> tele/towns.htm
+06/08/2024 17:21:52>Miany [268477988]>admin_help>Kidder> tele/towns/elven_starting.htm
+06/08/2024 17:21:53>Miany [268477988]>admin_move_to>Kidder> 45873 49288 -3064
+06/08/2024 17:38:18>Miany [268477988]>admin_reload htms>Chad>
+06/08/2024 17:38:20>Miany [268477988]>admin_reload>Chad> npc
+06/08/2024 17:38:25>Miany [268477988]>admin_admin4>Chad>
+06/08/2024 17:38:28>Miany [268477988]>admin_reload>Chad>
+06/08/2024 17:38:29>Miany [268477988]>admin_admin4>Chad>
+06/08/2024 17:38:30>Miany [268477988]>admin_cache_htm_rebuild>Chad>
+06/08/2024 17:38:32>Miany [268477988]>admin_reload htms>Chad>
+06/08/2024 17:38:33>Miany [268477988]>admin_admin4>Chad>
+06/08/2024 17:38:34>Miany [268477988]>admin_cache_reload_file>Chad>
+06/08/2024 17:38:35>Miany [268477988]>admin_reload htms>Chad>
+06/08/2024 17:38:36>Miany [268477988]>admin_admin4>Chad>
+06/08/2024 17:41:28>Miany [268477988]>admin_admin>no-target>
+06/08/2024 17:41:29>Miany [268477988]>admin_move_to>no-target>
+06/08/2024 17:41:31>Miany [268477988]>admin_help>no-target> tele/other.htm
+06/08/2024 17:41:32>Miany [268477988]>admin_move_to>no-target> -113360 -244676 -15536
+06/08/2024 17:42:23>Miany [268477988]>admin_reload htms>no-target>
+06/08/2024 17:42:25>Miany [268477988]>admin_reload>no-target> npc
+06/08/2024 18:16:39>Miany [268477988]>admin_reload htms>Ryza>
+06/08/2024 18:18:49>Miany [268477988]>admin_reload htms>Keira>
+06/08/2024 18:19:03>Miany [268477988]>admin_reload htms>Keira>
+06/08/2024 18:19:18>Miany [268477988]>admin_reload htms>Keira>
+06/08/2024 18:21:00>Miany [268477988]>admin_reload htms>Keira>
+06/08/2024 18:21:37>Miany [268477988]>admin_reload htms>Keira>
+06/08/2024 18:26:25>Miany [268477988]>admin_admin>Yven>
+06/08/2024 18:26:27>Miany [268477988]>admin_create_item>Yven>
+06/08/2024 18:26:50>Miany [268477988]>admin_admin>Yven>
+06/08/2024 18:26:52>Miany [268477988]>admin_create_item>Yven>
+06/08/2024 18:26:58>Miany [268477988]>admin_create_item>Yven> 9503 10000
+06/08/2024 18:27:01>Miany [268477988]>admin_admin>Miany>
+06/08/2024 18:27:01>Miany [268477988]>admin_create_item>Miany>
+06/08/2024 18:27:07>Miany [268477988]>admin_admin>Miany>
+06/08/2024 18:27:10>Miany [268477988]>admin_create_item>Miany>
+06/08/2024 18:27:15>Miany [268477988]>admin_create_item>Miany> 9503 10000
+06/08/2024 18:30:45>Miany [268477988]>admin_admin>Jenny>
+06/08/2024 18:30:48>Miany [268477988]>admin_gmshop>Jenny>
+06/08/2024 18:31:02>Miany [268477988]>admin_buy>Miany> 71032
+06/08/2024 18:31:59>Miany [268477988]>admin_admin>Miany>
+06/08/2024 18:32:02>Miany [268477988]>admin_gmshop>Miany>
+06/08/2024 18:32:03>Miany [268477988]>admin_help>Miany> gmshop/sets.htm
+06/08/2024 18:32:15>Miany [268477988]>admin_buy>Miany> 9113
+06/08/2024 18:33:11>Miany [268477988]>admin_admin>Miany>
+06/08/2024 18:33:13>Miany [268477988]>admin_gmshop>Miany>
+06/08/2024 18:33:17>Miany [268477988]>admin_buy>Miany> 71031
+08/08/2024 19:10:06>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:10:08>Miany [268477988]>admin_move_to>no-target>
+08/08/2024 19:10:09>Miany [268477988]>admin_help>no-target> tele/towns.htm
+08/08/2024 19:10:10>Miany [268477988]>admin_help>no-target> tele/towns/aden.htm
+08/08/2024 19:10:11>Miany [268477988]>admin_move_to>no-target> 147422 27393 -2208
+08/08/2024 19:11:49>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:11:50>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:12:22>Miany [268477988]>admin_spawn_monster>no-target> 40004
+08/08/2024 19:12:29>Miany [268477988]>admin_edit_npc>Dorya> 40004
+08/08/2024 19:12:47>Miany [268477988]>admin_admin>Dorya>
+08/08/2024 19:12:50>Miany [268477988]>admin_move_to>Dorya>
+08/08/2024 19:12:51>Miany [268477988]>admin_admin>Dorya>
+08/08/2024 19:12:53>Miany [268477988]>admin_admin2>Dorya>
+08/08/2024 19:13:02>Miany [268477988]>admin_admin>Dorya>
+08/08/2024 19:13:04>Miany [268477988]>admin_recall_npc>Dorya>
+08/08/2024 19:14:04>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:14:26>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:14:38>Miany [268477988]>admin_spawn_monster>no-target> 40000
+08/08/2024 19:14:46>Miany [268477988]>admin_admin>Jake>
+08/08/2024 19:14:47>Miany [268477988]>admin_recall_npc>Jake>
+08/08/2024 19:15:00>Miany [268477988]>admin_admin>Jake>
+08/08/2024 19:15:04>Miany [268477988]>admin_recall_npc>Jake>
+08/08/2024 19:15:42>Miany [268477988]>admin_admin>Jake>
+08/08/2024 19:15:50>Miany [268477988]>admin_spawn_monster>Jake>
+08/08/2024 19:15:54>Miany [268477988]>admin_spawn_monster>Jake> 40001
+08/08/2024 19:16:00>Miany [268477988]>admin_delete>Jenny>
+08/08/2024 19:16:04>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:16:06>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:16:09>Miany [268477988]>admin_spawn_monster>no-target> 40003
+08/08/2024 19:16:47>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:16:49>Miany [268477988]>admin_superhaste>no-target> 4
+08/08/2024 19:17:01>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:17:03>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:17:06>Miany [268477988]>admin_spawn_monster>no-target> 40000
+08/08/2024 19:18:14>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:18:23>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:18:25>Miany [268477988]>admin_spawn_monster>no-target> 40005
+08/08/2024 19:19:38>Miany [268477988]>admin_reload htms>no-target>
+08/08/2024 19:23:22>Miany [268477988]>admin_admin>Jake>
+08/08/2024 19:23:23>Miany [268477988]>admin_move_to>Jake>
+08/08/2024 19:23:24>Miany [268477988]>admin_help>Jake> tele/towns.htm
+08/08/2024 19:23:25>Miany [268477988]>admin_help>Jake> tele/towns/giran.htm
+08/08/2024 19:23:25>Miany [268477988]>admin_move_to>Jake> 82698 148638 -3473
+08/08/2024 19:24:34>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:24:35>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:24:43>Miany [268477988]>admin_spawn_monster>no-target> 40004
+08/08/2024 19:25:08>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:25:09>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:25:14>Miany [268477988]>admin_spawn_monster>no-target> 40000
+08/08/2024 19:25:27>Miany [268477988]>admin_admin>Jake>
+08/08/2024 19:25:29>Miany [268477988]>admin_recall_npc>Jake>
+08/08/2024 19:25:58>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:26:08>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:26:10>Miany [268477988]>admin_spawn_monster>no-target> 40005
+08/08/2024 19:26:35>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:26:45>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:26:47>Miany [268477988]>admin_spawn_monster>no-target> 40003
+08/08/2024 19:27:11>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:27:12>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:27:15>Miany [268477988]>admin_spawn_monster>no-target> 40000
+08/08/2024 19:27:26>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:27:29>Miany [268477988]>admin_recall_npc>Jake>
+08/08/2024 19:32:33>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:32:34>Miany [268477988]>admin_move_to>no-target>
+08/08/2024 19:32:35>Miany [268477988]>admin_help>no-target> tele/towns.htm
+08/08/2024 19:32:36>Miany [268477988]>admin_help>no-target> tele/towns/oren.htm
+08/08/2024 19:32:36>Miany [268477988]>admin_move_to>no-target> 82321 55139 -1529
+08/08/2024 19:34:04>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:34:05>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:34:09>Miany [268477988]>admin_spawn_monster>no-target> 40000
+08/08/2024 19:34:30>Miany [268477988]>admin_admin>Jake>
+08/08/2024 19:34:31>Miany [268477988]>admin_recall_npc>Jake>
+08/08/2024 19:35:08>Miany [268477988]>admin_admin>Broadcasting Tower>
+08/08/2024 19:35:13>Miany [268477988]>admin_spawn_monster>Broadcasting Tower>
+08/08/2024 19:35:17>Miany [268477988]>admin_spawn_monster>Broadcasting Tower> 40004
+08/08/2024 19:36:58>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:37:01>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:37:04>Miany [268477988]>admin_spawn_monster>no-target> 40005
+08/08/2024 19:37:17>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:37:20>Miany [268477988]>admin_move_to>no-target>
+08/08/2024 19:37:21>Miany [268477988]>admin_help>no-target> tele/towns.htm
+08/08/2024 19:40:52>Miany [268477988]>admin_admin>Dorya>
+08/08/2024 19:40:53>Miany [268477988]>admin_move_to>Dorya>
+08/08/2024 19:40:54>Miany [268477988]>admin_help>Dorya> tele/towns.htm
+08/08/2024 19:40:57>Miany [268477988]>admin_help>Dorya> tele/towns/dion.htm
+08/08/2024 19:40:58>Miany [268477988]>admin_move_to>Dorya> 18748 145437 -3132
+08/08/2024 19:41:33>Miany [268477988]>admin_admin>no-target>
+08/08/2024 19:41:35>Miany [268477988]>admin_spawn_monster>no-target>
+08/08/2024 19:41:39>Miany [268477988]>admin_spawn_monster>no-target> 40005
+08/08/2024 19:42:36>Miany [268477988]>admin_admin>Maria>
+08/08/2024 19:42:37>Miany [268477988]>admin_spawn_monster>Maria>
+08/08/2024 19:42:40>Miany [268477988]>admin_spawn_monster>Maria> 40000
+08/08/2024 19:43:17>Miany [268477988]>admin_admin>Maria>
+08/08/2024 19:43:18>Miany [268477988]>admin_spawn_monster>Maria>
+08/08/2024 19:43:25>Miany [268477988]>admin_spawn_monster>Maria> 40004
+08/08/2024 19:44:13>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:44:14>Miany [268477988]>admin_move_to>Sophya>
+08/08/2024 19:44:36>Miany [268477988]>admin_help>Sophya> tele/towns.htm
+08/08/2024 19:44:48>Miany [268477988]>admin_show_moves>Sophya>
+08/08/2024 19:45:49>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:45:51>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:45:52>Miany [268477988]>admin_help>Sophya> gmshop/sets.htm
+08/08/2024 19:45:57>Miany [268477988]>admin_buy>Sophya> 9112
+08/08/2024 19:46:30>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:46:31>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:46:36>Miany [268477988]>admin_help>Sophya> gmshop/sets.htm
+08/08/2024 19:46:42>Miany [268477988]>admin_buy>Sophya> 9114
+08/08/2024 19:47:07>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:47:08>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:47:09>Miany [268477988]>admin_help>Sophya> gmshop/sets.htm
+08/08/2024 19:47:11>Miany [268477988]>admin_buy>Sophya> 9111
+08/08/2024 19:47:34>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:47:35>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:47:36>Miany [268477988]>admin_help>Sophya> gmshop/sets.htm
+08/08/2024 19:47:39>Miany [268477988]>admin_buy>Sophya> 9122
+08/08/2024 19:47:56>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:47:57>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:47:58>Miany [268477988]>admin_help>Sophya> gmshop/sets.htm
+08/08/2024 19:48:01>Miany [268477988]>admin_buy>Sophya> 9119
+08/08/2024 19:49:30>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:49:32>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:49:34>Miany [268477988]>admin_help>Sophya> gmshop/Weapons.htm
+08/08/2024 19:49:35>Miany [268477988]>admin_help>Sophya> gmshops.htm
+08/08/2024 19:49:39>Miany [268477988]>admin_buy>Sophya> 71031
+08/08/2024 19:50:05>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:50:07>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:50:45>Miany [268477988]>admin_help>Sophya> gmshop/sets.htm
+08/08/2024 19:50:49>Miany [268477988]>admin_help>Sophya> gmshops.htm
+08/08/2024 19:50:52>Miany [268477988]>admin_help>Sophya> gmshop/Weapons.htm
+08/08/2024 19:50:53>Miany [268477988]>admin_help>Sophya> gmshop/sgradew.htm
+08/08/2024 19:50:58>Miany [268477988]>admin_buy>Sophya> 9052
+08/08/2024 19:51:39>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:51:39>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:51:42>Miany [268477988]>admin_buy>Sophya> 71031
+08/08/2024 19:52:58>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:53:00>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:53:01>Miany [268477988]>admin_help>Sophya> gmshop/Weapons.htm
+08/08/2024 19:53:02>Miany [268477988]>admin_help>Sophya> gmshops.htm
+08/08/2024 19:53:06>Miany [268477988]>admin_help>Sophya> gmshop/Weapons.htm
+08/08/2024 19:53:07>Miany [268477988]>admin_help>Sophya> gmshop/sgradew.htm
+08/08/2024 19:53:14>Miany [268477988]>admin_buy>Sophya> 9045
+08/08/2024 19:53:24>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:53:25>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:53:26>Miany [268477988]>admin_help>Sophya> gmshop/Weapons.htm
+08/08/2024 19:53:27>Miany [268477988]>admin_help>Sophya> gmshops.htm
+08/08/2024 19:53:28>Miany [268477988]>admin_buy>Sophya> 2012
+08/08/2024 19:53:55>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:53:57>Miany [268477988]>admin_admin4>Sophya>
+08/08/2024 19:54:00>Miany [268477988]>admin_admin3>Sophya>
+08/08/2024 19:54:00>Miany [268477988]>admin_admin2>Sophya>
+08/08/2024 19:54:01>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:54:03>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:54:07>Miany [268477988]>admin_buy>Sophya> 1006
+08/08/2024 19:54:10>Miany [268477988]>admin_admin>Sophya>
+08/08/2024 19:54:12>Miany [268477988]>admin_gmshop>Sophya>
+08/08/2024 19:54:14>Miany [268477988]>admin_buy>Sophya> 1011
+08/08/2024 19:55:56>Miany [268477988]>admin_admin>Roughly Hewn Rock Golem>
+08/08/2024 19:56:13>Miany [268477988]>admin_open>Treasure Chest>
+08/08/2024 19:56:15>Miany [268477988]>admin_admin>Treasure Chest>
+08/08/2024 19:56:26>Miany [268477988]>admin_admin2>Treasure Chest>
+08/08/2024 19:56:34>Miany [268477988]>admin_admin3>Treasure Chest>
+08/08/2024 19:56:35>Miany [268477988]>admin_admin4>Treasure Chest>
+15/08/2024 15:48:35>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:48:36>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 15:48:38>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 15:48:39>Miany [268477988]>admin_help>no-target> tele/towns/dion.htm
+15/08/2024 15:48:40>Miany [268477988]>admin_move_to>no-target> 18748 145437 -3132
+15/08/2024 15:48:48>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:48:49>Miany [268477988]>admin_superhaste>no-target> 4
+15/08/2024 15:49:01>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:49:02>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 15:49:03>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 15:49:04>Miany [268477988]>admin_help>no-target> tele/towns/heine.htm
+15/08/2024 15:49:05>Miany [268477988]>admin_move_to>no-target> 111115 219017 -3547
+15/08/2024 15:49:44>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:49:45>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 15:49:58>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 15:51:20>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:51:21>Miany [268477988]>admin_superhaste>no-target> 0
+15/08/2024 15:51:33>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:51:34>Miany [268477988]>admin_superhaste>no-target> 4
+15/08/2024 15:51:53>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:51:56>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 15:51:59>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 15:52:36>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:52:38>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 15:52:40>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 15:52:42>Miany [268477988]>admin_help>no-target> tele/towns/dion.htm
+15/08/2024 15:52:44>Miany [268477988]>admin_move_to>no-target> 18748 145437 -3132
+15/08/2024 15:53:20>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:53:21>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 15:53:22>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 15:53:23>Miany [268477988]>admin_help>no-target> tele/towns/heine.htm
+15/08/2024 15:53:24>Miany [268477988]>admin_move_to>no-target> 111115 219017 -3547
+15/08/2024 15:54:08>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:54:09>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 15:54:19>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 15:55:44>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:55:45>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 15:55:47>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 15:56:20>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:56:21>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 15:56:25>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 15:56:31>Miany [268477988]>admin_delete>Meridic>
+15/08/2024 15:56:33>Miany [268477988]>admin_admin>no-target>
+15/08/2024 15:56:33>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 15:56:37>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 15:57:05>Miany [268477988]>admin_admin>Jake>
+15/08/2024 15:57:08>Miany [268477988]>admin_recall_npc>Jake>
+15/08/2024 16:02:59>Miany [268477988]>admin_admin>Kraisen>
+15/08/2024 16:03:00>Miany [268477988]>admin_move_to>Kraisen>
+15/08/2024 16:03:01>Miany [268477988]>admin_help>Kraisen> tele/towns.htm
+15/08/2024 16:03:04>Miany [268477988]>admin_help>Kraisen> tele/towns/gludio.htm
+15/08/2024 16:03:05>Miany [268477988]>admin_move_to>Kraisen> -14225 123540 -3121
+15/08/2024 16:03:43>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:03:54>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:03:58>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 16:04:45>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:04:46>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:04:54>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 16:07:17>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:07:18>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:07:20>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 16:07:42>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:07:43>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:08:09>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:08:15>Miany [268477988]>admin_help>no-target> tele/towns/goddard.htm
+15/08/2024 16:08:17>Miany [268477988]>admin_move_to>no-target> 147725 -56517 -2780
+15/08/2024 16:09:30>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:09:31>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:09:34>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 16:09:54>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:10:04>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:10:07>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 16:12:01>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:12:03>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:12:06>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 16:16:04>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:16:05>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:16:06>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:16:09>Miany [268477988]>admin_help>no-target> tele/towns/schuttgart.htm
+15/08/2024 16:16:10>Miany [268477988]>admin_move_to>no-target> 87358 -141982 -1341
+15/08/2024 16:16:53>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:16:54>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:16:57>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 16:17:26>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:17:27>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:17:30>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 16:17:49>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:17:50>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:17:54>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 16:24:08>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:24:09>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:24:11>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:24:14>Miany [268477988]>admin_help>no-target> tele/towns/gludin.htm
+15/08/2024 16:24:15>Miany [268477988]>admin_move_to>no-target> -83063 150791 -3133
+15/08/2024 16:25:38>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:25:40>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:25:43>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 16:26:16>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:26:20>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 16:28:19>Miany [268477988]>admin_admin>Nestle>
+15/08/2024 16:28:23>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:28:25>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 16:34:20>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:34:53>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:34:55>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:35:01>Miany [268477988]>admin_help>no-target> tele/towns/hv.htm
+15/08/2024 16:35:02>Miany [268477988]>admin_move_to>no-target> 116589 76268 -2734
+15/08/2024 16:35:47>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:35:48>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:35:52>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 16:36:54>Miany [268477988]>admin_admin>Meridic>
+15/08/2024 16:36:55>Miany [268477988]>admin_spawn_monster>Meridic>
+15/08/2024 16:36:58>Miany [268477988]>admin_spawn_monster>Meridic> 40004
+15/08/2024 16:37:22>Miany [268477988]>admin_admin>Meridic>
+15/08/2024 16:37:23>Miany [268477988]>admin_spawn_monster>Meridic>
+15/08/2024 16:37:25>Miany [268477988]>admin_spawn_monster>Meridic> 40000
+15/08/2024 16:39:42>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:39:43>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:39:44>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:39:45>Miany [268477988]>admin_help>no-target> tele/towns/floran.htm
+15/08/2024 16:39:46>Miany [268477988]>admin_move_to>no-target> 17144 170156 -3502
+15/08/2024 16:40:11>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:40:12>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:40:14>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 16:41:54>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:41:55>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:41:58>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 16:44:00>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:44:01>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:44:02>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:44:05>Miany [268477988]>admin_help>no-target> tele/towns/rune.htm
+15/08/2024 16:44:06>Miany [268477988]>admin_move_to>no-target> 44070 -50243 -796
+15/08/2024 16:44:30>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:44:31>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:44:34>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 16:45:42>Miany [268477988]>admin_admin>Weber>
+15/08/2024 16:45:43>Miany [268477988]>admin_spawn_monster>Weber>
+15/08/2024 16:45:46>Miany [268477988]>admin_spawn_monster>Weber> 40005
+15/08/2024 16:48:11>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:48:12>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:48:18>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 16:48:23>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:48:24>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:48:25>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:48:28>Miany [268477988]>admin_help>no-target> tele/towns/elven_starting.htm
+15/08/2024 16:48:29>Miany [268477988]>admin_move_to>no-target> 45873 49288 -3064
+15/08/2024 16:48:59>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:49:01>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:49:03>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 16:49:41>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:49:42>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:49:43>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:49:44>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:49:48>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 16:50:09>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:50:11>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:50:14>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 16:50:42>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:50:43>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:50:44>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:50:46>Miany [268477988]>admin_help>no-target> tele/towns/delven_starting.htm
+15/08/2024 16:50:48>Miany [268477988]>admin_move_to>no-target> 12428 16551 -4588
+15/08/2024 16:51:48>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:51:50>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:51:53>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 16:52:15>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:52:18>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:52:21>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 16:53:02>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:53:04>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:53:06>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 16:53:09>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:53:10>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:53:11>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:53:13>Miany [268477988]>admin_help>no-target> tele/towns/ti_starting.htm
+15/08/2024 16:53:14>Miany [268477988]>admin_move_to>no-target> -82687 243157 -3734
+15/08/2024 16:53:47>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:53:48>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:53:50>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 16:54:27>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:54:28>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:54:31>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 16:55:12>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:55:13>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:55:17>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 16:55:25>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:55:27>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:55:28>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:55:53>Miany [268477988]>admin_help>no-target> tele/towns/dwarf_starting.htm
+15/08/2024 16:55:54>Miany [268477988]>admin_move_to>no-target> 116551 -182493 -1525
+15/08/2024 16:56:37>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:56:37>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:56:40>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 16:57:09>Miany [268477988]>admin_admin>Dorya>
+15/08/2024 16:57:10>Miany [268477988]>admin_spawn_monster>Dorya>
+15/08/2024 16:57:12>Miany [268477988]>admin_spawn_monster>Dorya> 40005
+15/08/2024 16:59:11>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:59:12>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:59:15>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 16:59:25>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:59:26>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 16:59:29>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 16:59:31>Miany [268477988]>admin_help>no-target> tele/towns/orc_starting.htm
+15/08/2024 16:59:31>Miany [268477988]>admin_move_to>no-target> -44133 -113911 -244
+15/08/2024 16:59:53>Miany [268477988]>admin_admin>no-target>
+15/08/2024 16:59:54>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 16:59:58>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 17:00:08>Miany [268477988]>admin_delete>Dorya>
+15/08/2024 17:00:14>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:00:15>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:00:17>Miany [268477988]>admin_spawn_monster>no-target> 40004
+15/08/2024 17:00:39>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:00:40>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:00:45>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 17:00:51>Miany [268477988]>admin_delete>Meridic>
+15/08/2024 17:00:57>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:00:59>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:01:02>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 17:02:46>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:02:49>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:02:52>Miany [268477988]>admin_spawn_monster>no-target> 40000
+15/08/2024 17:04:01>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:04:07>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:04:10>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:04:17>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:04:17>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:04:19>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:04:42>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:04:43>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:04:52>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:08:21>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:08:22>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:08:23>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:08:24>Miany [268477988]>admin_help>no-target> tele/towns/dwarf_starting.htm
+15/08/2024 17:08:25>Miany [268477988]>admin_move_to>no-target> 116551 -182493 -1525
+15/08/2024 17:08:51>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:08:52>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:08:56>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:09:07>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:09:08>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:09:19>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:09:27>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:09:28>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:09:29>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:09:32>Miany [268477988]>admin_help>no-target> tele/towns/ti_starting.htm
+15/08/2024 17:09:33>Miany [268477988]>admin_move_to>no-target> -82687 243157 -3734
+15/08/2024 17:10:06>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:10:08>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:10:10>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:10:25>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:10:26>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:10:28>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:10:39>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:10:40>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:10:42>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:10:43>Miany [268477988]>admin_help>no-target> tele/towns/delven_starting.htm
+15/08/2024 17:10:44>Miany [268477988]>admin_move_to>no-target> 12428 16551 -4588
+15/08/2024 17:11:40>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:11:41>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:11:45>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:12:05>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:12:07>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:12:09>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:12:19>Miany [268477988]>admin_delete>Ryza>
+15/08/2024 17:12:26>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:12:28>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:12:33>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:12:49>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:12:50>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:12:51>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:12:53>Miany [268477988]>admin_help>no-target> tele/towns/elven_starting.htm
+15/08/2024 17:12:54>Miany [268477988]>admin_move_to>no-target> 45873 49288 -3064
+15/08/2024 17:13:27>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:13:28>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:13:30>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:13:42>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:13:43>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:13:45>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:14:06>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:14:07>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:14:08>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:14:10>Miany [268477988]>admin_help>no-target> tele/towns/rune.htm
+15/08/2024 17:14:11>Miany [268477988]>admin_move_to>no-target> 44070 -50243 -796
+15/08/2024 17:15:58>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:15:59>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:16:01>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:16:27>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:16:28>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:16:31>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:16:44>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:16:45>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:16:46>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:16:49>Miany [268477988]>admin_help>no-target> tele/towns/rune.htm
+15/08/2024 17:16:53>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:16:55>Miany [268477988]>admin_help>no-target> tele/towns/floran.htm
+15/08/2024 17:16:56>Miany [268477988]>admin_move_to>no-target> 17144 170156 -3502
+15/08/2024 17:17:13>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:17:14>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:17:15>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:17:16>Miany [268477988]>admin_help>no-target> tele/towns/hv.htm
+15/08/2024 17:17:21>Miany [268477988]>admin_move_to>no-target> 116589 76268 -2734
+15/08/2024 17:17:36>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:17:37>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:17:38>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:17:40>Miany [268477988]>admin_help>no-target> tele/towns/gludin.htm
+15/08/2024 17:17:43>Miany [268477988]>admin_move_to>no-target> -79310 150930 -3045
+15/08/2024 17:18:04>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:18:05>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:18:07>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:18:19>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:18:19>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:18:23>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:18:44>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:18:45>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:18:47>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:18:48>Miany [268477988]>admin_help>no-target> tele/towns/schuttgart.htm
+15/08/2024 17:18:50>Miany [268477988]>admin_move_to>no-target> 87358 -145246 -1292
+15/08/2024 17:19:08>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:19:09>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:19:11>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:19:12>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:19:14>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:19:31>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:19:32>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:19:34>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:19:49>Miany [268477988]>admin_admin>Ryza>
+15/08/2024 17:19:50>Miany [268477988]>admin_recall_npc>Ryza>
+15/08/2024 17:19:57>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:19:58>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:19:59>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:20:03>Miany [268477988]>admin_help>no-target> tele/towns/goddard.htm
+15/08/2024 17:20:05>Miany [268477988]>admin_move_to>no-target> 147705 -53066 -2731
+15/08/2024 17:20:24>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:20:25>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:20:28>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:20:38>Miany [268477988]>admin_admin>Keira>
+15/08/2024 17:20:39>Miany [268477988]>admin_spawn_monster>Keira>
+15/08/2024 17:20:42>Miany [268477988]>admin_spawn_monster>Keira> 40002
+15/08/2024 17:20:49>Miany [268477988]>admin_admin>Keira>
+15/08/2024 17:20:50>Miany [268477988]>admin_move_to>Keira>
+15/08/2024 17:20:51>Miany [268477988]>admin_help>Keira> tele/towns.htm
+15/08/2024 17:20:55>Miany [268477988]>admin_help>Keira> tele/towns/gludio.htm
+15/08/2024 17:20:56>Miany [268477988]>admin_move_to>Keira> -12982 121706 -2972
+15/08/2024 17:21:13>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:21:14>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:21:16>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:21:31>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:21:32>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:21:34>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:21:41>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:21:41>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:21:43>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:21:53>Miany [268477988]>admin_help>no-target> tele/towns/heine.htm
+15/08/2024 17:21:57>Miany [268477988]>admin_move_to>no-target> 111332 224636 -3555
+15/08/2024 17:22:12>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:22:13>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:22:14>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:22:16>Miany [268477988]>admin_help>no-target> tele/towns/heine.htm
+15/08/2024 17:22:17>Miany [268477988]>admin_move_to>no-target> 111374 217010 -3463
+15/08/2024 17:22:28>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:22:28>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:22:32>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:22:44>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:22:45>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:22:47>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:22:57>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:22:58>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:22:59>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:23:00>Miany [268477988]>admin_help>no-target> tele/towns/dion.htm
+15/08/2024 17:23:06>Miany [268477988]>admin_move_to>no-target> 16028 142329 -2697
+15/08/2024 17:23:16>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:23:17>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:23:20>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:23:31>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:23:32>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:23:34>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:23:46>Miany [268477988]>admin_admin>Ryza>
+15/08/2024 17:23:47>Miany [268477988]>admin_recall_npc>Ryza>
+15/08/2024 17:23:56>Miany [268477988]>admin_admin>Ryza>
+15/08/2024 17:23:57>Miany [268477988]>admin_recall_npc>Ryza>
+15/08/2024 17:24:05>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:24:06>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:24:07>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:24:08>Miany [268477988]>admin_help>no-target> tele/towns/oren.htm
+15/08/2024 17:24:10>Miany [268477988]>admin_move_to>no-target> 83636 53103 -1461
+15/08/2024 17:24:25>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:24:26>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:24:28>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:24:38>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:24:39>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:24:42>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:24:57>Miany [268477988]>admin_admin>Ryza>
+15/08/2024 17:24:57>Miany [268477988]>admin_recall_npc>Ryza>
+15/08/2024 17:25:05>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:25:07>Miany [268477988]>admin_recall_npc>Ryza>
+15/08/2024 17:25:24>Miany [268477988]>admin_admin>Ryza>
+15/08/2024 17:25:25>Miany [268477988]>admin_recall_npc>Ryza>
+15/08/2024 17:25:34>Miany [268477988]>admin_admin>Ryza>
+15/08/2024 17:25:34>Miany [268477988]>admin_recall_npc>Ryza>
+15/08/2024 17:25:41>Miany [268477988]>admin_admin>Ryza>
+15/08/2024 17:25:43>Miany [268477988]>admin_recall_npc>Ryza>
+15/08/2024 17:25:51>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:25:54>Miany [268477988]>admin_recall_npc>Ryza>
+15/08/2024 17:26:11>Miany [268477988]>admin_admin>Keira>
+15/08/2024 17:26:13>Miany [268477988]>admin_recall_npc>Keira>
+15/08/2024 17:26:20>Miany [268477988]>admin_admin>Keira>
+15/08/2024 17:26:21>Miany [268477988]>admin_recall_npc>Keira>
+15/08/2024 17:26:30>Miany [268477988]>admin_admin>Keira>
+15/08/2024 17:26:31>Miany [268477988]>admin_recall_npc>Keira>
+15/08/2024 17:26:40>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:26:42>Miany [268477988]>admin_recall_npc>Keira>
+15/08/2024 17:26:51>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:26:52>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:26:54>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:26:55>Miany [268477988]>admin_help>no-target> tele/towns/giran.htm
+15/08/2024 17:26:57>Miany [268477988]>admin_move_to>no-target> 86674 148630 -3406
+15/08/2024 17:27:31>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:27:32>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:27:35>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:27:58>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:27:59>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:28:01>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:28:06>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:28:07>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:28:08>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:28:08>Miany [268477988]>admin_help>no-target> tele/towns/aden.htm
+15/08/2024 17:28:10>Miany [268477988]>admin_move_to>no-target> 147441 22883 -1996
+15/08/2024 17:28:31>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:28:34>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:28:38>Miany [268477988]>admin_spawn_monster>no-target> 40006
+15/08/2024 17:28:48>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:28:49>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:28:52>Miany [268477988]>admin_spawn_monster>no-target> 40002
+15/08/2024 17:29:08>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:29:10>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:29:10>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:29:12>Miany [268477988]>admin_help>no-target> tele/towns/goddard.htm
+15/08/2024 17:29:13>Miany [268477988]>admin_move_to>no-target> 149216 -57550 -2967
+15/08/2024 17:29:30>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:29:31>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 17:29:33>Miany [268477988]>admin_spawn_monster>no-target> 40005
+15/08/2024 17:29:40>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:29:41>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:29:42>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:29:46>Miany [268477988]>admin_help>no-target> tele/towns/aden.htm
+15/08/2024 17:29:51>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:29:52>Miany [268477988]>admin_help>no-target> tele/towns/giran.htm
+15/08/2024 17:29:57>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:29:57>Miany [268477988]>admin_help>no-target> tele/towns/oren.htm
+15/08/2024 17:30:02>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:30:03>Miany [268477988]>admin_help>no-target> tele/towns/aden.htm
+15/08/2024 17:30:04>Miany [268477988]>admin_move_to>no-target> 148205 28984 -2259
+15/08/2024 17:30:16>Miany [268477988]>admin_admin>no-target>
+15/08/2024 17:30:17>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 17:30:17>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 17:30:18>Miany [268477988]>admin_help>no-target> tele/towns/giran.htm
+15/08/2024 17:30:20>Miany [268477988]>admin_move_to>no-target> 80402 149209 -3515
+15/08/2024 17:36:51>Miany [268477988]>admin_reload htms>no-target>
+15/08/2024 17:37:16>Miany [268477988]>admin_reload htms>no-target>
+15/08/2024 17:40:32>Miany [268477988]>admin_reload htms>no-target>
+15/08/2024 17:41:57>Miany [268477988]>admin_reload htms>no-target>
+15/08/2024 18:26:04>Miany [268477988]>admin_admin>Lottery Ticket Seller>
+15/08/2024 18:26:04>Miany [268477988]>admin_move_to>Lottery Ticket Seller>
+15/08/2024 18:26:07>Miany [268477988]>admin_help>Lottery Ticket Seller> tele/other.htm
+15/08/2024 18:26:09>Miany [268477988]>admin_help>Lottery Ticket Seller> tele/raid.htm
+15/08/2024 18:26:10>Miany [268477988]>admin_help>Lottery Ticket Seller> tele/raid/raid_special.htm
+15/08/2024 18:26:11>Miany [268477988]>admin_move_to>Lottery Ticket Seller> -21610 181594 -5734
+15/08/2024 18:28:41>Miany [268477988]>admin_admin>no-target>
+15/08/2024 18:28:42>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 18:28:44>Miany [268477988]>admin_help>no-target> tele/other.htm
+15/08/2024 18:28:46>Miany [268477988]>admin_help>no-target> tele/raid.htm
+15/08/2024 18:28:47>Miany [268477988]>admin_help>no-target> tele/raid/raid_special.htm
+15/08/2024 18:28:48>Miany [268477988]>admin_move_to>no-target> 11882 -49216 -3008
+15/08/2024 18:29:13>Miany [268477988]>admin_admin>no-target>
+15/08/2024 18:29:13>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 18:29:16>Miany [268477988]>admin_help>no-target> tele/other.htm
+15/08/2024 18:29:18>Miany [268477988]>admin_help>no-target> tele/raid.htm
+15/08/2024 18:29:18>Miany [268477988]>admin_help>no-target> tele/raid/raid_special.htm
+15/08/2024 18:29:24>Miany [268477988]>admin_move_to>no-target> 55024 17368 -5412
+15/08/2024 18:29:52>Miany [268477988]>admin_create_item>Orfen> 6661 1
+15/08/2024 18:30:25>Miany [268477988]>admin_create_item>Miany> 6661 1
+15/08/2024 18:31:03>Miany [268477988]>admin_admin>Orfen>
+15/08/2024 18:31:05>Miany [268477988]>admin_create_item>Orfen>
+15/08/2024 18:31:06>Miany [268477988]>admin_admin>Orfen>
+15/08/2024 18:31:07>Miany [268477988]>admin_gmshop>Orfen>
+15/08/2024 18:31:08>Miany [268477988]>admin_help>Orfen> gmshop/Jewels.htm
+15/08/2024 18:31:09>Miany [268477988]>admin_buy>Orfen> 9300
+15/08/2024 18:31:43>Miany [268477988]>admin_admin>Orfen>
+15/08/2024 18:31:47>Miany [268477988]>admin_move_to>Orfen>
+15/08/2024 18:31:49>Miany [268477988]>admin_help>Orfen> tele/other.htm
+15/08/2024 18:31:51>Miany [268477988]>admin_help>Orfen> tele/raid.htm
+15/08/2024 18:31:52>Miany [268477988]>admin_help>Orfen> tele/raid/raid_special.htm
+15/08/2024 18:31:58>Miany [268477988]>admin_move_to>Orfen> 174238 -89532 -5192
+15/08/2024 18:32:15>Miany [268477988]>admin_admin>no-target>
+15/08/2024 18:32:23>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 18:32:25>Miany [268477988]>admin_help>no-target> tele/other.htm
+15/08/2024 18:32:27>Miany [268477988]>admin_help>no-target> tele/raid.htm
+15/08/2024 18:32:27>Miany [268477988]>admin_help>no-target> tele/raid/raid_special.htm
+15/08/2024 18:32:42>Miany [268477988]>admin_move_to>no-target> 11882 -49216 -3008
+15/08/2024 18:32:49>Miany [268477988]>admin_admin>no-target>
+15/08/2024 18:32:50>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 18:32:54>Miany [268477988]>admin_help>no-target> tele/other.htm
+15/08/2024 18:32:55>Miany [268477988]>admin_move_to>no-target> -113360 -244676 -15536
+15/08/2024 18:32:59>Miany [268477988]>admin_admin>no-target>
+15/08/2024 18:33:00>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 18:33:04>Miany [268477988]>admin_spawn_once>no-target> Benom
+15/08/2024 18:33:18>Miany [268477988]>admin_admin>no-target>
+15/08/2024 18:33:20>Miany [268477988]>admin_spawn_monster>no-target>
+15/08/2024 18:33:23>Miany [268477988]>admin_admin>no-target>
+15/08/2024 18:33:35>Miany [268477988]>admin_admin3>no-target>
+15/08/2024 18:33:37>Miany [268477988]>admin_admin2>no-target>
+15/08/2024 18:33:42>Miany [268477988]>admin_admin4>no-target>
+15/08/2024 19:01:27>Miany [268477988]>admin_admin>Miany>
+15/08/2024 19:01:28>Miany [268477988]>admin_move_to>Miany>
+15/08/2024 19:01:30>Miany [268477988]>admin_help>Miany> tele/towns.htm
+15/08/2024 19:01:31>Miany [268477988]>admin_help>Miany> tele/towns/giran.htm
+15/08/2024 19:01:36>Miany [268477988]>admin_move_to>Miany> 80385 147867 -3512
+15/08/2024 19:02:48>Miany [268477988]>admin_showShop>Helvetia> 30081
+15/08/2024 19:02:51>Miany [268477988]>admin_showShopList>Helvetia> 23 1
+15/08/2024 19:02:57>Miany [268477988]>admin_showShopList>Helvetia> 23 2
+15/08/2024 19:02:58>Miany [268477988]>admin_showShopList>Helvetia> 23 3
+15/08/2024 19:03:00>Miany [268477988]>admin_showShopList>Helvetia> 23 2
+15/08/2024 19:08:21>Miany [268477988]>admin_showShop>Helvetia> 30081
+15/08/2024 19:08:23>Miany [268477988]>admin_showShopList>Helvetia> 23 1
+15/08/2024 19:08:29>Miany [268477988]>admin_showShopList>Helvetia> 23 2
+15/08/2024 19:08:40>Miany [268477988]>admin_addShopItem>Helvetia> 23
+15/08/2024 19:08:55>Miany [268477988]>admin_addShopItem>Helvetia> 23 9351 90
+15/08/2024 19:09:00>Miany [268477988]>admin_showShopList>Helvetia> 23 2
+15/08/2024 19:09:01>Miany [268477988]>admin_showShopList>Helvetia> 23 3
+15/08/2024 19:09:02>Miany [268477988]>admin_showShopList>Helvetia> 23 4
+15/08/2024 19:09:03>Miany [268477988]>admin_showShopList>Helvetia> 23 5
+15/08/2024 19:09:04>Miany [268477988]>admin_showShopList>Helvetia> 23 6
+15/08/2024 19:09:05>Miany [268477988]>admin_showShopList>Helvetia> 23 7
+15/08/2024 19:09:06>Miany [268477988]>admin_showShopList>Helvetia> 23 8
+15/08/2024 19:09:06>Miany [268477988]>admin_showShopList>Helvetia> 23 9
+15/08/2024 19:11:57>Miany [268477988]>admin_showShop>Helvetia> 30081
+15/08/2024 19:11:58>Miany [268477988]>admin_showShopList>Helvetia> 23 1
+15/08/2024 19:11:59>Miany [268477988]>admin_addShopItem>Helvetia> 23
+15/08/2024 19:12:12>Miany [268477988]>admin_showShop>Helvetia> 30081
+15/08/2024 19:12:13>Miany [268477988]>admin_showShopList>Helvetia> 23 1
+15/08/2024 19:12:14>Miany [268477988]>admin_addShopItem>Helvetia> 23
+15/08/2024 19:12:21>Miany [268477988]>admin_addShopItem>Helvetia> 23 728 330
+15/08/2024 19:17:10>Miany [268477988]>admin_admin>Helvetia>
+15/08/2024 19:17:11>Miany [268477988]>admin_create_item>Helvetia>
+15/08/2024 19:17:18>Miany [268477988]>admin_create_item>Miany> 725 10
+15/08/2024 19:21:03>Miany [268477988]>admin_admin>no-target>
+15/08/2024 19:21:05>Miany [268477988]>admin_move_to>no-target>
+15/08/2024 19:21:06>Miany [268477988]>admin_help>no-target> tele/towns.htm
+15/08/2024 19:21:06>Miany [268477988]>admin_help>no-target> tele/towns/giran.htm
+15/08/2024 19:21:08>Miany [268477988]>admin_move_to>no-target> 80385 147867 -3512
+15/08/2024 19:21:25>Miany [268477988]>admin_showShop>Helvetia> 30081
+15/08/2024 19:21:26>Miany [268477988]>admin_showShopList>Helvetia> 23 1
+15/08/2024 19:21:28>Miany [268477988]>admin_showShopList>Helvetia> 23 2
+15/08/2024 19:21:30>Miany [268477988]>admin_editShopItem>Helvetia> 23 1061
+15/08/2024 19:21:34>Miany [268477988]>admin_showShopList>Helvetia> 23 1
+15/08/2024 19:26:31>Miany [268477988]>admin_admin>Helvetia>
+15/08/2024 19:26:32>Miany [268477988]>admin_create_item>Helvetia>
+15/08/2024 19:26:37>Miany [268477988]>admin_create_item>Miany> 727 10
+15/08/2024 19:46:56>Miany [268477988]>admin_admin>no-target>
+15/08/2024 19:46:57>Miany [268477988]>admin_create_item>no-target>
+15/08/2024 19:47:18>Miany [268477988]>admin_create_item>no-target> 9353 100
+15/08/2024 19:48:33>Miany [268477988]>admin_showShop>Helvécia> 30081
+15/08/2024 19:48:34>Miany [268477988]>admin_showShopList>Helvécia> 23 1
+15/08/2024 19:48:36>Miany [268477988]>admin_showShopList>Helvécia> 23 2
+15/08/2024 19:48:37>Miany [268477988]>admin_showShopList>Helvécia> 23 3
+15/08/2024 19:48:37>Miany [268477988]>admin_showShopList>Helvécia> 23 4
+15/08/2024 19:48:38>Miany [268477988]>admin_showShopList>Helvécia> 23 5
+15/08/2024 19:48:39>Miany [268477988]>admin_showShopList>Helvécia> 23 6
+15/08/2024 19:48:40>Miany [268477988]>admin_showShopList>Helvécia> 23 7
+15/08/2024 19:48:40>Miany [268477988]>admin_showShopList>Helvécia> 23 8
+15/08/2024 19:48:41>Miany [268477988]>admin_showShopList>Helvécia> 23 9
+15/08/2024 19:48:44>Miany [268477988]>admin_delShopItem>Helvécia> 23 728
+15/08/2024 19:48:46>Miany [268477988]>admin_delShopItem>Helvécia> 23 728 1
+15/08/2024 19:48:47>Miany [268477988]>admin_addShopItem>Helvécia> 23
+15/08/2024 19:48:53>Miany [268477988]>admin_addShopItem>Helvécia> 23 9353 330
+15/08/2024 19:53:01>Miany [268477988]>admin_admin>Helvécia>
+15/08/2024 19:53:02>Miany [268477988]>admin_move_to>Helvécia>
+15/08/2024 19:53:02>Miany [268477988]>admin_help>Helvécia> tele/towns.htm
+15/08/2024 19:53:05>Miany [268477988]>admin_help>Helvécia> tele/towns/giran.htm
+15/08/2024 19:53:06>Miany [268477988]>admin_move_to>Helvécia> 80385 147867 -3512
+15/08/2024 19:53:22>Miany [268477988]>admin_reload htms>no-target>
+15/08/2024 19:53:24>Miany [268477988]>admin_reload>no-target> item
+15/08/2024 19:53:33>Miany [268477988]>admin_showShop>Helvécia> 30081
+15/08/2024 19:53:34>Miany [268477988]>admin_showShopList>Helvécia> 23 1
+15/08/2024 19:53:35>Miany [268477988]>admin_showShopList>Helvécia> 23 2
+15/08/2024 19:53:36>Miany [268477988]>admin_showShopList>Helvécia> 23 3
+15/08/2024 19:53:37>Miany [268477988]>admin_showShopList>Helvécia> 23 4
+15/08/2024 19:53:38>Miany [268477988]>admin_showShopList>Helvécia> 23 5
+15/08/2024 19:53:39>Miany [268477988]>admin_showShopList>Helvécia> 23 6
+15/08/2024 19:53:39>Miany [268477988]>admin_showShopList>Helvécia> 23 7
+15/08/2024 19:53:40>Miany [268477988]>admin_showShopList>Helvécia> 23 8
+15/08/2024 19:53:40>Miany [268477988]>admin_showShopList>Helvécia> 23 9
+15/08/2024 19:53:42>Miany [268477988]>admin_editShopItem>Helvécia> 23 9353
+15/08/2024 19:53:45>Miany [268477988]>admin_editShopItem>Helvécia> 23 9353 330
+15/08/2024 19:57:23>Miany [268477988]>admin_admin>Helvécia>
+15/08/2024 19:57:24>Miany [268477988]>admin_create_item>Helvécia>
+15/08/2024 19:57:29>Miany [268477988]>admin_create_item>Helvécia> 9352 100
+15/08/2024 19:57:32>Miany [268477988]>admin_admin>Miany>
+15/08/2024 19:57:33>Miany [268477988]>admin_create_item>Miany>
+15/08/2024 19:57:37>Miany [268477988]>admin_create_item>Miany> 9352 100
+18/08/2024 14:36:38>Miany [268477988]>admin_reload htms>no-target>
+18/08/2024 14:36:39>Miany [268477988]>admin_reload>no-target> skill
+18/08/2024 15:43:38>Miany [268477988]>admin_admin>no-target>
+18/08/2024 15:43:38>Miany [268477988]>admin_admin>no-target>
+18/08/2024 15:43:39>Miany [268477988]>admin_reload htms>no-target>
+18/08/2024 15:58:09>Miany [268477988]>admin_reload htms>no-target>
+18/08/2024 15:58:09>Miany [268477988]>admin_reload>no-target> skill
+18/08/2024 15:58:24>Miany [268477988]>admin_reload htms>no-target>
+18/08/2024 15:58:27>Miany [268477988]>admin_reload>no-target> skill
+18/08/2024 15:59:05>Miany [268477988]>admin_reload htms>no-target>
+18/08/2024 16:09:53>Miany [268477988]>admin_admin>no-target>
+18/08/2024 16:09:54>Miany [268477988]>admin_gmshop>no-target>
+18/08/2024 16:09:59>Miany [268477988]>admin_buy>no-target> 3001
+18/08/2024 16:11:30>Miany [268477988]>admin_admin>Ryza>
+18/08/2024 16:11:32>Miany [268477988]>admin_recall_npc>Ryza>
+18/08/2024 16:11:44>Miany [268477988]>admin_admin>Ryza>
+18/08/2024 16:11:45>Miany [268477988]>admin_recall_npc>Ryza>
+16/09/2024 15:02:27>Miany [268477988]>admin_admin>no-target>
+16/09/2024 15:02:30>Miany [268477988]>admin_move_to>no-target>
+16/09/2024 15:02:32>Miany [268477988]>admin_help>no-target> tele/other.htm
+16/09/2024 15:02:35>Miany [268477988]>admin_help>no-target> tele/others/talkingisland.htm
+16/09/2024 15:02:40>Miany [268477988]>admin_help>no-target> tele/other.htm
+16/09/2024 15:02:41>Miany [268477988]>admin_show_moves>no-target>
+16/09/2024 15:02:44>Miany [268477988]>admin_help>no-target> tele/towns.htm
+16/09/2024 15:02:46>Miany [268477988]>admin_help>no-target> tele/towns/ti_starting.htm
+16/09/2024 15:02:48>Miany [268477988]>admin_move_to>no-target> -82687 243157 -3734
+17/09/2024 15:29:09>Miany [268477988]>admin_admin>no-target>
+17/09/2024 15:29:10>Miany [268477988]>admin_admin4>no-target>
+17/09/2024 15:29:12>Miany [268477988]>admin_cache_htm_rebuild>no-target>
+17/09/2024 15:30:00>Miany [268477988]>admin_admin>no-target>
+17/09/2024 15:30:02>Miany [268477988]>admin_admin4>no-target>
+17/09/2024 15:30:02>Miany [268477988]>admin_cache_htm_rebuild>no-target>
+17/09/2024 15:30:45>Miany [268477988]>admin_admin>no-target>
+17/09/2024 15:30:46>Miany [268477988]>admin_admin4>no-target>
+17/09/2024 15:30:47>Miany [268477988]>admin_cache_htm_rebuild>no-target>
+17/09/2024 15:31:08>Miany [268477988]>admin_admin>no-target>
+17/09/2024 15:31:09>Miany [268477988]>admin_admin4>no-target>
+17/09/2024 15:31:10>Miany [268477988]>admin_cache_htm_rebuild>no-target>
+17/09/2024 16:07:05>Miany [268477988]>admin_admin>no-target>
+17/09/2024 16:07:07>Miany [268477988]>admin_admin4>no-target>
+17/09/2024 16:07:07>Miany [268477988]>admin_cache_htm_rebuild>no-target>
+17/09/2024 16:07:42>Miany [268477988]>admin_admin>no-target>
+17/09/2024 16:07:43>Miany [268477988]>admin_admin4>no-target>
+17/09/2024 16:07:44>Miany [268477988]>admin_cache_htm_rebuild>no-target>
+17/09/2024 16:08:08>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:08:38>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:09:00>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:10:21>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:10:58>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:11:42>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:12:11>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:12:48>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:13:16>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:13:33>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:14:37>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:16:32>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:17:09>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:17:51>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:19:15>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:21:03>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:21:04>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:22:05>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:22:32>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:22:51>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:23:20>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:23:51>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:24:20>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:24:39>Miany [268477988]>admin_reload htms>no-target>
+17/09/2024 16:26:49>Miany [268477988]>admin_reload htms>no-target>
+25/09/2024 15:29:06>Miany [268477988]>admin_reload htms>no-target>
+25/09/2024 16:52:44>Miany [268477988]>admin_reload htms>no-target>
+25/09/2024 16:53:26>Miany [268477988]>admin_reload htms>no-target>
+25/09/2024 17:07:22>Miany [268477988]>admin_reload htms>no-target>
+25/09/2024 17:08:50>Miany [268477988]>admin_reload htms>no-target>
+25/09/2024 17:10:01>Miany [268477988]>admin_reload htms>no-target>
+25/09/2024 17:10:48>Miany [268477988]>admin_reload htms>no-target>
+25/09/2024 17:11:58>Miany [268477988]>admin_reload htms>no-target>
+25/09/2024 19:34:41>Miany [268477988]>admin_admin>no-target>
+25/09/2024 19:34:42>Miany [268477988]>admin_move_to>no-target>
+25/09/2024 19:34:44>Miany [268477988]>admin_help>no-target> tele/towns.htm
+25/09/2024 19:34:45>Miany [268477988]>admin_help>no-target> tele/towns/goddard.htm
+25/09/2024 19:34:46>Miany [268477988]>admin_move_to>no-target> 147725 -56517 -2780
+25/09/2024 19:34:54>Miany [268477988]>admin_admin>no-target>
+25/09/2024 19:34:55>Miany [268477988]>admin_superhaste>no-target> 4
+25/09/2024 19:36:07>Miany [268477988]>admin_admin>Fundin>
+25/09/2024 19:36:09>Miany [268477988]>admin_move_to>Fundin>
+25/09/2024 19:36:10>Miany [268477988]>admin_help>Fundin> tele/other.htm
+25/09/2024 19:36:13>Miany [268477988]>admin_help>Fundin> tele/others/goddard.htm
+25/09/2024 19:36:16>Miany [268477988]>admin_move_to>Fundin> 170723 -116207 -2067
+25/09/2024 19:49:51>Miany [268477988]>admin_show_droplist>Escaravelho Tepra> 21380
+25/09/2024 19:50:03>Miany [268477988]>admin_edit_drop>Escaravelho Tepra> 21380 8349 1
+25/09/2024 20:58:02>Miany [268477988]>admin_create_item>Escaravelho Tepra> 7902 1
+25/09/2024 20:59:42>Miany [268477988]>admin_admin>Escaravelho Tepra>
+25/09/2024 20:59:44>Miany [268477988]>admin_create_item>Escaravelho Tepra>
+25/09/2024 20:59:46>Miany [268477988]>admin_admin>Escaravelho Tepra>
+25/09/2024 20:59:48>Miany [268477988]>admin_gmshop>Escaravelho Tepra>
+25/09/2024 20:59:51>Miany [268477988]>admin_buy>Escaravelho Tepra> 9121
+25/09/2024 21:03:24>Miany [268477988]>admin_kill>Besouro Assassino>
+25/09/2024 21:04:03>Miany [268477988]>admin_reload htms>Escaravelho Tepra>
+25/09/2024 21:04:04>Miany [268477988]>admin_admin>Escaravelho Tepra>
+25/09/2024 21:04:05>Miany [268477988]>admin_move_to>Escaravelho Tepra>
+25/09/2024 21:04:06>Miany [268477988]>admin_help>Escaravelho Tepra> tele/towns.htm
+25/09/2024 21:04:07>Miany [268477988]>admin_help>Escaravelho Tepra> tele/towns/giran.htm
+25/09/2024 21:04:08>Miany [268477988]>admin_move_to>Escaravelho Tepra> 82698 148638 -3473
+25/09/2024 21:16:13>Miany [268477988]>admin_admin>no-target>
+25/09/2024 21:16:14>Miany [268477988]>admin_move_to>no-target>
+25/09/2024 21:16:16>Miany [268477988]>admin_help>no-target> tele/other.htm
+25/09/2024 21:16:18>Miany [268477988]>admin_move_to>no-target> -114542 -251005 -2992
+25/09/2024 21:16:23>Miany [268477988]>admin_admin>no-target>
+25/09/2024 21:16:24>Miany [268477988]>admin_move_to>no-target>
+25/09/2024 21:16:25>Miany [268477988]>admin_help>no-target> tele/other.htm
+25/09/2024 21:16:27>Miany [268477988]>admin_move_to>no-target> -113360 -244676 -15536
+25/09/2024 21:17:13>Miany [268477988]>admin_admin>Jenny>
+25/09/2024 21:17:14>Miany [268477988]>admin_move_to>Jenny>
+25/09/2024 21:17:15>Miany [268477988]>admin_help>Jenny> tele/towns.htm
+25/09/2024 21:17:16>Miany [268477988]>admin_help>Jenny> tele/towns/giran.htm
+25/09/2024 21:17:17>Miany [268477988]>admin_move_to>Jenny> 82698 148638 -3473
+25/09/2024 21:26:06>Miany [268477988]>admin_admin>Ryza>
+25/09/2024 21:26:07>Miany [268477988]>admin_move_to>Ryza>
+25/09/2024 21:26:11>Miany [268477988]>admin_help>Ryza> tele/other.htm
+25/09/2024 21:26:14>Miany [268477988]>admin_help>Ryza> tele/others/goddard.htm
+25/09/2024 21:26:15>Miany [268477988]>admin_move_to>Ryza> 170723 -116207 -2067
+25/09/2024 21:28:53>Miany [268477988]>admin_admin>Stakato Escarlate Soldado>
+25/09/2024 21:28:54>Miany [268477988]>admin_move_to>Stakato Escarlate Soldado>
+25/09/2024 21:28:55>Miany [268477988]>admin_help>Stakato Escarlate Soldado> tele/towns.htm
+25/09/2024 21:28:56>Miany [268477988]>admin_help>Stakato Escarlate Soldado> tele/towns/giran.htm
+25/09/2024 21:28:57>Miany [268477988]>admin_move_to>Stakato Escarlate Soldado> 82698 148638 -3473
+26/09/2024 13:12:35>Miany [268477988]>admin_reload htms>no-target>
+26/09/2024 13:20:39>Miany [268477988]>admin_reload htms>no-target>
+26/09/2024 13:21:06>Miany [268477988]>admin_reload htms>no-target>
+26/09/2024 13:21:42>Miany [268477988]>admin_reload htms>no-target>
+26/09/2024 13:22:06>Miany [268477988]>admin_reload htms>no-target>
+26/09/2024 13:22:57>Miany [268477988]>admin_reload htms>no-target>
+26/09/2024 13:24:18>Miany [268477988]>admin_reload htms>no-target>
+26/09/2024 13:24:39>Miany [268477988]>admin_reload htms>no-target>
+26/09/2024 13:25:06>Miany [268477988]>admin_reload htms>no-target>
+27/09/2024 20:02:44>Miany [268477988]>admin_admin>no-target>
+27/09/2024 20:02:45>Miany [268477988]>admin_move_to>no-target>
+27/09/2024 20:02:46>Miany [268477988]>admin_help>no-target> tele/towns.htm
+27/09/2024 20:02:48>Miany [268477988]>admin_help>no-target> tele/towns/giran.htm
+27/09/2024 20:02:56>Miany [268477988]>admin_move_to>no-target> 83102 150544 -3521
+27/09/2024 20:04:00>Miany [268477988]>admin_admin>Gentler>
+27/09/2024 20:04:01>Miany [268477988]>admin_move_to>Gentler>
+27/09/2024 20:04:01>Miany [268477988]>admin_help>Gentler> tele/towns.htm
+27/09/2024 20:04:03>Miany [268477988]>admin_help>Gentler> tele/towns/giran.htm
+27/09/2024 20:04:06>Miany [268477988]>admin_move_to>Gentler> 80385 147867 -3512
+27/09/2024 20:05:38>Miany [268477988]>admin_admin>Helvécia>
+27/09/2024 20:05:39>Miany [268477988]>admin_move_to>Helvécia>
+27/09/2024 20:05:40>Miany [268477988]>admin_help>Helvécia> tele/towns.htm
+27/09/2024 20:05:40>Miany [268477988]>admin_help>Helvécia> tele/towns/giran.htm
+27/09/2024 20:05:48>Miany [268477988]>admin_move_to>Helvécia> 79768 146559 -3525
+27/09/2024 20:06:28>Miany [268477988]>admin_admin>Stanford>
+27/09/2024 20:06:29>Miany [268477988]>admin_move_to>Stanford>
+27/09/2024 20:06:30>Miany [268477988]>admin_help>Stanford> tele/towns.htm
+27/09/2024 20:06:30>Miany [268477988]>admin_help>Stanford> tele/towns/giran.htm
+27/09/2024 20:06:37>Miany [268477988]>admin_move_to>Stanford> 77528 148183 -3596
+27/09/2024 20:14:10>Miany [268477988]>admin_reload htms>Rupio>
+27/09/2024 20:15:04>Miany [268477988]>admin_reload htms>Rupio>
+27/09/2024 20:16:45>Miany [268477988]>admin_admin>Kusto>
+27/09/2024 20:16:46>Miany [268477988]>admin_move_to>Kusto>
+27/09/2024 20:16:47>Miany [268477988]>admin_help>Kusto> tele/towns.htm
+27/09/2024 20:16:48>Miany [268477988]>admin_help>Kusto> tele/towns/giran.htm
+27/09/2024 20:16:50>Miany [268477988]>admin_move_to>Kusto> 83102 150544 -3521
+27/09/2024 20:18:57>Miany [268477988]>admin_reload htms>Groot>
+27/09/2024 20:19:55>Miany [268477988]>admin_reload htms>Pepper>
+27/09/2024 20:20:26>Miany [268477988]>admin_reload htms>Pepper>
+27/09/2024 20:20:27>Miany [268477988]>admin_reload htms>Pepper>
+27/09/2024 20:20:29>Miany [268477988]>admin_admin>Pepper>
+27/09/2024 20:20:30>Miany [268477988]>admin_move_to>Pepper>
+27/09/2024 20:20:31>Miany [268477988]>admin_help>Pepper> tele/towns.htm
+27/09/2024 20:20:33>Miany [268477988]>admin_help>Pepper> tele/towns/giran.htm
+27/09/2024 20:20:39>Miany [268477988]>admin_move_to>Pepper> 85824 153086 -3500
+27/09/2024 20:26:11>Miany [268477988]>admin_reload htms>Dieter>
+27/09/2024 20:45:15>Miany [268477988]>admin_admin>Iker>
+27/09/2024 20:45:16>Miany [268477988]>admin_move_to>Iker>
+27/09/2024 20:45:17>Miany [268477988]>admin_help>Iker> tele/towns.htm
+27/09/2024 20:45:20>Miany [268477988]>admin_help>Iker> tele/towns/giran.htm
+27/09/2024 20:45:25>Miany [268477988]>admin_help>Iker> tele/towns.htm
+27/09/2024 20:45:26>Miany [268477988]>admin_help>Iker> tele/towns/dion.htm
+27/09/2024 20:45:30>Miany [268477988]>admin_help>Iker> tele/towns.htm
+27/09/2024 20:45:31>Miany [268477988]>admin_help>Iker> tele/towns/giran.htm
+27/09/2024 20:45:33>Miany [268477988]>admin_move_to>Iker> 79711 145488 -3499
+27/09/2024 20:47:56>Miany [268477988]>admin_reload htms>Alexandria>
+27/09/2024 20:48:14>Miany [268477988]>admin_admin>Alexandria>
+27/09/2024 20:48:15>Miany [268477988]>admin_move_to>Alexandria>
+27/09/2024 20:48:17>Miany [268477988]>admin_help>Alexandria> tele/towns.htm
+27/09/2024 20:48:18>Miany [268477988]>admin_help>Alexandria> tele/towns/giran.htm
+27/09/2024 20:48:22>Miany [268477988]>admin_move_to>Alexandria> 77528 148183 -3596
+27/09/2024 20:49:06>Miany [268477988]>admin_admin>Pushkin>
+27/09/2024 20:49:07>Miany [268477988]>admin_admin2>Pushkin>
+27/09/2024 20:49:09>Miany [268477988]>admin_admin>Pushkin>
+27/09/2024 20:49:10>Miany [268477988]>admin_gmshop>Pushkin>
+27/09/2024 20:49:17>Miany [268477988]>admin_help>Pushkin> gmshop/materials.htm
+27/09/2024 20:49:18>Miany [268477988]>admin_buy>Pushkin> 300531
+27/09/2024 20:49:21>Miany [268477988]>admin_admin>Pushkin>
+27/09/2024 20:49:22>Miany [268477988]>admin_gmshop>Pushkin>
+27/09/2024 20:49:26>Miany [268477988]>admin_buy>Pushkin> 300534
+27/09/2024 20:51:17>Miany [268477988]>admin_admin>no-target>
+27/09/2024 20:51:18>Miany [268477988]>admin_gmshop>no-target>
+27/09/2024 20:51:20>Miany [268477988]>admin_buy>no-target> 300534
+27/09/2024 20:55:32>Miany [268477988]>admin_admin>no-target>
+27/09/2024 20:55:34>Miany [268477988]>admin_move_to>no-target>
+27/09/2024 20:55:35>Miany [268477988]>admin_help>no-target> tele/towns.htm
+27/09/2024 20:55:35>Miany [268477988]>admin_help>no-target> tele/towns/giran.htm
+27/09/2024 20:55:38>Miany [268477988]>admin_move_to>no-target> 80385 147867 -3512
+27/09/2024 20:55:54>Miany [268477988]>admin_showShop>Helvécia> 30081
+27/09/2024 20:57:40>Miany [268477988]>admin_reload htms>Helvécia>
+27/09/2024 20:57:44>Miany [268477988]>admin_reload>Helvécia> tradelist
+27/09/2024 21:37:52>Miany [268477988]>admin_admin>Meridic>
+27/09/2024 21:37:53>Miany [268477988]>admin_superhaste>Meridic> 4

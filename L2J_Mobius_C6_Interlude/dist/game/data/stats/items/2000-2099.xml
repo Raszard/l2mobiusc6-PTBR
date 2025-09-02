@@ -1,0 +1,902 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2000" type="EtcItem" name="Projeto de Elmo de Tallum">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Tallum Helm. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="2001" type="EtcItem" name="Desenho do Elmo de Avadon">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Elmo de Avadon. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="2002" type="EtcItem" name="Capacete do Padrão de Promessa">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Elmo do Juramento. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="2003" type="EtcItem" name="Manoplas do Padrão Fantasma">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer as Manoplas do Fantasma. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3673" />
+	</item>
+	<item id="2004" type="EtcItem" name="Projeto de Botas de Adamantite">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Botas de Adamantite. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3673" />
+	</item>
+	<item id="2005" type="EtcItem" name="Lâmina de Espada Larga">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer uma Espada Larga. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2800" />
+	</item>
+	<item id="2006" type="EtcItem" name="Chefe de Equipe de Salgueiro">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Cajado do Salgueiro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2800" />
+	</item>
+	<item id="2007" type="EtcItem" name="Eixo do Arco">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer um arco. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2800" />
+	</item>
+	<item id="2008" type="EtcItem" name="Cabeça do Cajado Cedar">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Cajado Cedar. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5140" />
+	</item>
+	<item id="2009" type="EtcItem" name="Lâmina Dirk">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer um adaga. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5640" />
+	</item>
+	<item id="2010" type="EtcItem" name="Lâmina de Brandir">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Brandish. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5140" />
+	</item>
+	<item id="2011" type="EtcItem" name="Ponta da Lança Curta">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer uma Lança Curta. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8767" />
+	</item>
+	<item id="2012" type="EtcItem" name="Espada da Lâmina Reflexiva">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Espada da Reflexão. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="9600" />
+	</item>
+	<item id="2013" type="EtcItem" name="Eixo do Arco da Floresta">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Arco da Floresta. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="9267" />
+	</item>
+	<item id="2014" type="EtcItem" name="Cabeça de Martelo de Ferro">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Martelo de Ferro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="17400" />
+	</item>
+	<item id="2015" type="EtcItem" name="Gume do Quebra-Espadas">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o quebra-espada. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="16400" />
+	</item>
+	<item id="2016" type="EtcItem" name="Eixo do Arco de Composição">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Arco de Composição. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="17067" />
+	</item>
+	<item id="2017" type="EtcItem" name="Lâmina de Sabre">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer um sabre. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15050" />
+	</item>
+	<item id="2018" type="EtcItem" name="Gume da Faca Assassina">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Faca Assassina. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15050" />
+	</item>
+	<item id="2019" type="EtcItem" name="Ponta do Tridente">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer um Tridente. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="9300" />
+	</item>
+	<item id="2020" type="EtcItem" name="Peça da Tentação do Abismo">
+		
+		<set name="icon" val="icon.etc_oriharukon_ore_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Tentação do Abismo. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11425" />
+	</item>
+	<item id="2021" type="EtcItem" name="Lâmina de Espada Espinha">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Espada Spinebone. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15840" />
+	</item>
+	<item id="2022" type="EtcItem" name="Cabeça da Maça do Julgamento">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Maça do Julgamento. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12840" />
+	</item>
+	<item id="2023" type="EtcItem" name="Cabeça do Cajado do Conjurador">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Cajado do Conjurador. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="16140" />
+	</item>
+	<item id="2024" type="EtcItem" name="Pressa do Arco Élfico">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Arco Élfico. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="14040" />
+	</item>
+	<item id="2025" type="EtcItem" name="Gume do Tridente Anão">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Tridente Anão. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="14440" />
+	</item>
+	<item id="2026" type="EtcItem" name="Fio de Espada de Duas Mãos">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Espada de Duas Mãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="16617" />
+	</item>
+	<item id="2027" type="EtcItem" name="Cabeça de Taco Pontiagudo">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Taco Pontiagudo. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15267" />
+	</item>
+	<item id="2028" type="EtcItem" name="Fio de Faca Shilen">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Faca Shilen. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="16833" />
+	</item>
+	<item id="2029" type="EtcItem" name="Eixo dos Gastrafetes">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer os Gastrafetes. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="16767" />
+	</item>
+	<item id="2030" type="EtcItem" name="Página Tomo de Sangue">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Tomo de Sangue. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="17100" />
+	</item>
+	<item id="2031" type="EtcItem" name="Cabeça de Estrela da Manhã">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Estrela da Manhã. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="19757" />
+	</item>
+	<item id="2032" type="EtcItem" name="Cabeça de Cabra Cabeça de Cajado">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Cajado da Cabeça de Bode. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="21643" />
+	</item>
+	<item id="2033" type="EtcItem" name="Lâmina de Lança Alada">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Lança Alada. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="17929" />
+	</item>
+	<item id="2034" type="EtcItem" name="Espada da Revolução Lâmina">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Espada da Revolução. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18929" />
+	</item>
+	<item id="2035" type="EtcItem" name="Cabeça de Tarbar">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Tarbar. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="19757" />
+	</item>
+	<item id="2036" type="EtcItem" name="Cabeça Quebra Crânio">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o quebra-crânios. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="19757" />
+	</item>
+	<item id="2037" type="EtcItem" name="Cabeça de Taco de Osso Pesado">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Taco de Osso Pesado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="19757" />
+	</item>
+	<item id="2038" type="EtcItem" name="Ponta da Mainauche">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Maingauche. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18929" />
+	</item>
+	<item id="2039" type="EtcItem" name="Ponta da Bich'Hwa">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Bich'hwa. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="19757" />
+	</item>
+	<item id="2040" type="EtcItem" name="Eixo de Arco Longo Reforçado">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Arco Longo Reforçado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="17286" />
+	</item>
+	<item id="2041" type="EtcItem" name="Cabeça de Picareta de Guerra">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Picareta de Guerra. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="17929" />
+	</item>
+	<item id="2042" type="EtcItem" name="Pedaço do Crucifixo de Sangue">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Crucifixo de Sangue. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="21643" />
+	</item>
+	<item id="2043" type="EtcItem" name="Joia do Olho do Infinito">
+		
+		<set name="icon" val="icon.etc_crystal_ball_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Olho do Infinito. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="21643" />
+	</item>
+	<item id="2044" type="EtcItem" name="Ponta da Maingauche Amaldiçoada">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Maingauche Amaldiçoada. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18929" />
+	</item>
+	<item id="2045" type="EtcItem" name="Peça da Caveira de Cristal Azul">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Caveira de Cristal Azul. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="21786" />
+	</item>
+	<item id="2046" type="EtcItem" name="Parte das Presas do Demônio">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer as Presas Demoníacas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="21786" />
+	</item>
+	<item id="2047" type="EtcItem" name="Lâmina Claymore">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer a Claymore. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="22750" />
+	</item>
+	<item id="2048" type="EtcItem" name="Cabeça da Quebra-Ossos">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Quebra-Ossos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24188" />
+	</item>
+	<item id="2049" type="EtcItem" name="Cabeça de Martelo Atuba">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Martelo Atuba. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24188" />
+	</item>
+	<item id="2050" type="EtcItem" name="Cajado Fantasma">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Cajado Fantasma. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="22812" />
+	</item>
+	<item id="2051" type="EtcItem" name="Pressa Cajado da Vida">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Cajado da Vida. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="22812" />
+	</item>
+	<item id="2052" type="EtcItem" name="Lâmina de Adaga de Mithril">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Adaga de Mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="23062" />
+	</item>
+	<item id="2053" type="EtcItem" name="Ponta da Vieira Jamadhr">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Scallop Jamadhr. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24188" />
+	</item>
+	<item id="2054" type="EtcItem" name="Pressa de Besta Leve">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Besta Leve. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="23500" />
+	</item>
+	<item id="2055" type="EtcItem" name="Ponta da Gládio">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Gládio. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24188" />
+	</item>
+	<item id="2056" type="EtcItem" name="Moldura de Varinha Vajra">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Varinha Vajra. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="22812" />
+	</item>
+	<item id="2057" type="EtcItem" name="Remanescente de Reagente Antigo">
+		
+		<set name="icon" val="icon.etc_potion_clear_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Reagente Antigo. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="22812" />
+	</item>
+	<item id="2058" type="EtcItem" name="Cabeça de Maça Atuba">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Maça Atuba. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24188" />
+	</item>
+	<item id="2059" type="EtcItem" name="Lâmina Flamberge">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Flamberge. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24125" />
+	</item>
+	<item id="2060" type="EtcItem" name="Lâmina do Portador da Tempestade">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Portador da Tempestade. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24425" />
+	</item>
+	<item id="2061" type="EtcItem" name="Cabeça de Martelo Grande">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Big Hammer. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="26800" />
+	</item>
+	<item id="2062" type="EtcItem" name="Fio da Foice">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer a foice. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="22750" />
+	</item>
+	<item id="2063" type="EtcItem" name="Cabeça de Machado de Batalha">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Machado de Batalha. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="26800" />
+	</item>
+	<item id="2064" type="EtcItem" name="Cabeça de Machado de Prata">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Machado de Prata. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="26800" />
+	</item>
+	<item id="2065" type="EtcItem" name="Cabeça de Graver de Crânio">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Skull Graver. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="26800" />
+	</item>
+	<item id="2066" type="EtcItem" name="Cabeça de Martelo da Perdição Pesada">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Heavy da Perdição Hammer. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="22750" />
+	</item>
+	<item id="2067" type="EtcItem" name="Cabeça de Cajado de Cristal">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Cajado de Cristal. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="27000" />
+	</item>
+	<item id="2068" type="EtcItem" name="Bastão da Pressa da Fé">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Bastão da Fé. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="27000" />
+	</item>
+	<item id="2069" type="EtcItem" name="Lâmina de Machado da Perdição Pesada">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Heavy da Perdição Axe. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="22750" />
+	</item>
+	<item id="2070" type="EtcItem" name="Lâmina de Adaga Amaldiçoada">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Adaga Amaldiçoada. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24425" />
+	</item>
+	<item id="2071" type="EtcItem" name="Ponta  da Agulha do Wolverine">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Agulha do Wolverine. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24425" />
+	</item>
+	<item id="2072" type="EtcItem" name="Ponta da Adaga dos Elfos Sombrios">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Adaga dos Elfos Sombrios. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24425" />
+	</item>
+	<item id="2073" type="EtcItem" name="Gume do Chakram">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Chakram. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="26800" />
+	</item>
+	<item id="2074" type="EtcItem" name="Eixo de Arco de Gelo Cristalizado">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Arco de Gelo Cristalizado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="26538" />
+	</item>
+	<item id="2075" type="EtcItem" name="Lâmina Gládio Orc">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Gládio Orc. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="22750" />
+	</item>
+	<item id="2076" type="EtcItem" name="Lâmina Destruidora Corporal">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Destruidora Corporal. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="22750" />
+	</item>
+	<item id="2077" type="EtcItem" name="Lâmina de Shamshir">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Shamshir. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29556" />
+	</item>
+	<item id="2078" type="EtcItem" name="Lâmina Katana">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Katana. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29556" />
+	</item>
+	<item id="2079" type="EtcItem" name="Lâmina Bec de Corbin">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Bec de Corbin. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="31667" />
+	</item>
+	<item id="2080" type="EtcItem" name="Lâmina da Espada Espiritual">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Espada Espiritual. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29556" />
+	</item>
+	<item id="2081" type="EtcItem" name="Lâmina de Espada de Invasão">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer a Invasão Sword. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29556" />
+	</item>
+	<item id="2082" type="EtcItem" name="Chefe de Cajado Amaldiçoado">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Cajado Amaldiçoado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30911" />
+	</item>
+	<item id="2083" type="EtcItem" name="Ponta do Stiletto">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Stiletto. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29556" />
+	</item>
+	<item id="2084" type="EtcItem" name="Lâmina Soulfire Dirk">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Soulfire Dirk. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29556" />
+	</item>
+	<item id="2085" type="EtcItem" name="Pressa de Besta">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer uma besta. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="26189" />
+	</item>
+	<item id="2086" type="EtcItem" name="Arco Élfico da Pressa da Nobreza">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Arco Élfico da Nobreza. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="26189" />
+	</item>
+	<item id="2087" type="EtcItem" name="Lágrimas de Queda de Fada">
+		
+		<set name="icon" val="icon.etc_lesser_potion_clear_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Tears of Fairy. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30911" />
+	</item>
+	<item id="2088" type="EtcItem" name="Fragmento do Chifre da Glória">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Chifre da Glória. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30911" />
+	</item>
+	<item id="2089" type="EtcItem" name="Ponta do Caliburs">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer os Caliburs. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37450" />
+	</item>
+	<item id="2090" type="EtcItem" name="Lâmina Delirante">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Espada da Ilusão. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37450" />
+	</item>
+	<item id="2091" type="EtcItem" name="Lâmina Tsurugi">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Tsurugi. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37450" />
+	</item>
+	<item id="2092" type="EtcItem" name="Lâmina da Espada de Homunkulus">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Espada de Homunkulus. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37450" />
+	</item>
+	<item id="2093" type="EtcItem" name="Lâmina de Machado">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Poleaxe. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="34200" />
+	</item>
+	<item id="2094" type="EtcItem" name="Espada do Limite Lâmina">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Espada do Limite. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37450" />
+	</item>
+	<item id="2095" type="EtcItem" name="Espada do Pesadelo Lâmina">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Espada do Pesadelo. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37450" />
+	</item>
+	<item id="2096" type="EtcItem" name="Espada da Lâmina Sussurrante da Morte">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Espada da Morte Sussurrante. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37450" />
+	</item>
+	<item id="2097" type="EtcItem" name="Lâmina de Machado de Guerra">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Machado de Guerra. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37000" />
+	</item>
+	<item id="2098" type="EtcItem" name="Nirvana Lâmina do Machado">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Nirvana Axe. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37000" />
+	</item>
+	<item id="2099" type="EtcItem" name="Vara da Pressa da Eternidade">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Bastão da Eternidade. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="35900" />
+	</item>
+</list>

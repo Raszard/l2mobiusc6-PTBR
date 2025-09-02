@@ -1,0 +1,938 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2900" type="EtcItem" name="Osso da Coxa de Hermodt">
+		
+		<set name="icon" val="icon.etc_piece_bone_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os ossos da coxa de Hermodt, um antigo herói Orc. Leve isso, junto com os 4 restos mortais adicionais, para o Vidente Manakia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2901" type="EtcItem" name="Restos de Hermodt">
+		
+		<set name="icon" val="icon.etc_ashes_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os restos mortais de Hermodt, um antigo herói Orc. Leve isso, junto com os restos mortais dos outros três heróis, para o Vidente Somak." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2902" type="EtcItem" name="Totem de Racoy">
+		
+		<set name="icon" val="icon.etc_totem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um totem dado pelo Vidente Racoy. Pegue isso e vá ao Templo de Einhasad na Town of Gludio para perguntar sobre Kiruna." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2903" type="EtcItem" name="Carta de Vivyan">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta da Sacerdotisa Vivyan. Leve isso para o Comerciante Sarien das Terras Ermas do Sul." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2904" type="EtcItem" name="Livro de Diagramas de Insetos">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma enciclopédia de insetos que o Comerciante Sarien deu como ajuda. Pegue isso e cace formigas nobres para recuperar os restos mortais de Kiruna." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2905" type="EtcItem" name="Crânio de Kiruna">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O crânio de Kiruna, um antigo herói Orc. Leve isso, junto com os 4 restos mortais, para o Vidente Racoy." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2906" type="EtcItem" name="Osso da Costela de Kiruna">
+		
+		<set name="icon" val="icon.etc_rib_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As costelas de Kiruna, um antigo herói Orc. Leve isso, junto com os 4 restos mortais, para o Vidente Racoy." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2907" type="EtcItem" name="Espinha de Kiruna">
+		
+		<set name="icon" val="icon.etc_ginseng_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os ossos da coluna vertebral de Kiruna, um antigo herói Orc. Leve isso, junto com os 4 restos mortais, para o Vidente Racoy." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2908" type="EtcItem" name="Osso do Braço de Kiruna">
+		
+		<set name="icon" val="icon.etc_piece_bone_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os ossos do braço de Kiruna, um antigo herói Orc. Leve isso, junto com os 4 restos mortais, para o Vidente Racoy." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2909" type="EtcItem" name="Osso da Coxa de Kiruna">
+		
+		<set name="icon" val="icon.etc_piece_bone_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os ossos da coxa de Kiruna, um antigo herói Orc. Leve isso, junto com os 4 restos mortais, para o Vidente Racoy." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2910" type="EtcItem" name="Restos de Kiruna">
+		
+		<set name="icon" val="icon.etc_ashes_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os restos mortais de Kiruna, um antigo herói Orc. Leve isso, junto com os restos mortais dos outros 3 heróis, para o Vidente Somak." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2911" type="EtcItem" name="Restos de Braki">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os restos mortais do herói, Braki, envoltos em uma urna. Leve isso para o Ancestral Martankus na Caverna das Provações." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2912" type="EtcItem" name="Restos de Tonar">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os restos mortais do herói, Tonar, envoltos em uma urna. Leve isso para o Ancestral Martankus na Caverna das Provações." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2913" type="EtcItem" name="Restos de Hermodt">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os restos mortais do herói, Hermodt, encerrados em uma urna. Leve isso para o Ancestral Martankus na Caverna das Provações." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2914" type="EtcItem" name="Restos de Kiruna">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os restos mortais do herói, Kiruna, envoltos em uma urna. Leve isso para o Ancestral Martankus na Caverna das Provações." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2915" type="Weapon" name="Espada do Cavaleiro Velho">
+		
+		<set name="icon" val="icon.weapon_long_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Use esta espada para desferir o golpe final no espírito de Senhor Herodes." />
+		<set name="weight" val="3200" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="24" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="17" />
+		<set name="price" val="136000" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="24" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2916" type="EtcItem" name="Dispositivo de Teletransporte Quebrado">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O dispositivo de teletransporte dado pelo Mestre Toma. Leve isso de volta para o Mestre Toma." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2917" type="EtcItem" name="Anel Vinculação Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_bead_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem um Anel de Vinculação. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3482" />
+	</item>
+	<item id="2918" type="EtcItem" name="Material das Botas de Escamas de Mithril">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os anões fazerem Botas de Escamas de mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3371" />
+	</item>
+	<item id="2919" type="EtcItem" name="Material de Botas Brigandine">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas Brigandine. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3371" />
+	</item>
+	<item id="2920" type="EtcItem" name="Padrão de Manto Élfica de Mithril">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os anões fazerem uma túnica élfica de mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3921" />
+	</item>
+	<item id="2921" type="EtcItem" name="Padrão de Calça Élficas de Mithril">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Calça Élficas de Mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2518" />
+	</item>
+	<item id="2922" type="EtcItem" name="Projeto de Capacete Brigandine">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem um Capacete Brigandine. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5193" />
+	</item>
+	<item id="2923" type="EtcItem" name="Forro de Bota de Pele Manticore">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os anões fazerem botas de pele Manticore. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1480" />
+	</item>
+	<item id="2924" type="EtcItem" name="Projeto de Botas Brigandine">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas Brigandine. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1480" />
+	</item>
+	<item id="2925" type="EtcItem" name="Projeto Élfico de Botas de Mithril">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem as Botas Élficas de Mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1480" />
+	</item>
+	<item id="2926" type="EtcItem" name="Forro de Luvas de Pele Manticore">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas de Pele de Mantícora. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1480" />
+	</item>
+	<item id="2927" type="EtcItem" name="Padrão de Manoplas Brigandine">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem uma Manopla Brigandine. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1480" />
+	</item>
+	<item id="2928" type="EtcItem" name="Luvas Élficas de Mithril Projeto">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas de Mithril élficas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1480" />
+	</item>
+	<item id="2929" type="EtcItem" name="Fragmento de Escudo Brigandine">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem um Escudo Brigandine. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1389" />
+	</item>
+	<item id="2930" type="EtcItem" name="Projeto de Capacete de Placas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem um Capacete de Placas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2481" />
+	</item>
+	<item id="2931" type="EtcItem" name="Forro de Pele de Salamandra">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas de Pele de Salamandra. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1792" />
+	</item>
+	<item id="2932" type="EtcItem" name="Projeto de Botas de Placas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas de Placas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1792" />
+	</item>
+	<item id="2933" type="EtcItem" name="Forro de Luvas Usadas de Sage">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem as Luvas Usadas do Sábio. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1792" />
+	</item>
+	<item id="2934" type="EtcItem" name="Fragmento de Escudo de Placas">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem um Escudo de Placas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1762" />
+	</item>
+	<item id="2935" type="EtcItem" name="Fragmento de Botas de Mithril Temperadas">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas de Mithril Temperado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3763" />
+	</item>
+	<item id="2936" type="EtcItem" name="Padrão de Capuz de Correntes">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os anões fazerem um capuz de corrente. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2725" />
+	</item>
+	<item id="2937" type="EtcItem" name="Peça de Botas de Correntes">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas de Correntes. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2225" />
+	</item>
+	<item id="2938" type="EtcItem" name="Tecido Para Botas Karmiana">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas Karmiana. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2225" />
+	</item>
+	<item id="2939" type="EtcItem" name="Forro de Bota de Couro Liso">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas de Couro Banhado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2225" />
+	</item>
+	<item id="2940" type="EtcItem" name="Parte das Botas de Correntes dos Anões">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas de Correntes Anãs. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2225" />
+	</item>
+	<item id="2941" type="EtcItem" name="Botas de Padrão de Selo">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas de Foca. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2225" />
+	</item>
+	<item id="2942" type="EtcItem" name="Projeto de Luvas de Mithril Reforçado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas de Mithril Reforçadas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2225" />
+	</item>
+	<item id="2943" type="EtcItem" name="Projeto de Luvas de Correntes">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas de Correntes. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2225" />
+	</item>
+	<item id="2944" type="EtcItem" name="Tecido Para Luvas Karmiana">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem as Luvas Karmiana. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2225" />
+	</item>
+	<item id="2945" type="EtcItem" name="Fragmento de Escudo de Correntes">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem um Escudo de Correntes. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2475" />
+	</item>
+	<item id="2946" type="EtcItem" name="Projeto de Luvas de Couro de Placas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas de Couro Banhado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3578" />
+	</item>
+	<item id="2947" type="EtcItem" name="Fragmento de Escudo de Correntes Anão">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem um Escudo de Correntes Anão. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2800" />
+	</item>
+	<item id="2948" type="EtcItem" name="Forro de Bota Casca de Couro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas Casca de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2378" />
+	</item>
+	<item id="2949" type="EtcItem" name="Projeto de Luvas de Correntes Anãs">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os anões fazerem luvas de correntes anãs. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2378" />
+	</item>
+	<item id="2950" type="EtcItem" name="Luvas de Padrão de Selo">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas de Foca. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2378" />
+	</item>
+	<item id="2951" type="EtcItem" name="Projeto de Luvas Casca de Couro">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas Casca de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2378" />
+	</item>
+	<item id="2952" type="EtcItem" name="Tecido de Botas do Demônio">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas do Demônio. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3400" />
+	</item>
+	<item id="2953" type="EtcItem" name="Tecido Luvas do Demônio">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem as Luvas do Demônio. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3400" />
+	</item>
+	<item id="2954" type="EtcItem" name="Botas Theca de Couro Textura">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas Theca de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3160" />
+	</item>
+	<item id="2955" type="EtcItem" name="Textura de Luvas Theca de Couro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas Theca de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3160" />
+	</item>
+	<item id="2956" type="EtcItem" name="Parte de Botas Compostas">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas Compostas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3400" />
+	</item>
+	<item id="2957" type="EtcItem" name="Projeto de Capacete Composto">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem o Capacete Composto. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4560" />
+	</item>
+	<item id="2958" type="EtcItem" name="Tecido Botas Divinas">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas Divinas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3673" />
+	</item>
+	<item id="2959" type="EtcItem" name="Projeto de Capacete Completo de Placas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem o Capacete Completo de Placas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="2960" type="EtcItem" name="Projeto de Botas Drake de Couro">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas Drake de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3673" />
+	</item>
+	<item id="2961" type="EtcItem" name="Parte de Botas Completo de Placas">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os anões fazerem botas de placa completa. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3673" />
+	</item>
+	<item id="2962" type="EtcItem" name="Projeto de Luvas Drake de Couro">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas Drake de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3673" />
+	</item>
+	<item id="2963" type="EtcItem" name="Peça de Manoplas Completas de Placas">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Manoplas de Placas Cheia. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3673" />
+	</item>
+	<item id="2964" type="EtcItem" name="Padrão Luvas Divinas">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas Divinas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3673" />
+	</item>
+	<item id="2965" type="EtcItem" name="Projeto Luvas Abençoadas">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Luvas Abençoadas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3673" />
+	</item>
+	<item id="2966" type="EtcItem" name="Fragmento de Escudo Completo de Placas">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os anões fazerem um Completo de Placas Shield. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3655" />
+	</item>
+	<item id="2967" type="EtcItem" name="Lâmina de Espada Longa Élfica">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem uma Espada Longa Élfica. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="23062" />
+	</item>
+	<item id="2968" type="EtcItem" name="Cabeça de Martelo de Guerra Anão">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os anões fazerem um Martelo de Guerra Anão. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30067" />
+	</item>
+	<item id="2969" type="EtcItem" name="Cabeça de Maça Yaksa">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem uma Maça Yaksa. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="38364" />
+	</item>
+	<item id="2970" type="EtcItem" name="Receita: Anel de Encadernação">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Anel de Encadernação. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5640" />
+	</item>
+	<item id="2971" type="EtcItem" name="Receita: Botas de Escamas de Mithril">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas de Escamas de Mithril. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3740" />
+	</item>
+	<item id="2972" type="EtcItem" name="Receita: Botas Brigandine">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Brigandine. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3740" />
+	</item>
+	<item id="2973" type="EtcItem" name="Receita: Manto Élfica de Mithril">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Manto Élfica de Mithril. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4480" />
+	</item>
+	<item id="2974" type="EtcItem" name="Receita: Calça Élficas de Mithril">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita das Calça Élficas de Mithril. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2800" />
+	</item>
+	<item id="2975" type="EtcItem" name="Receita: Capacete Brigandine">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Capacete Brigandine. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2240" />
+	</item>
+	<item id="2976" type="EtcItem" name="Receita: Botas de Pele de Mantícora">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas de Pele de Mantícora. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1494" />
+	</item>
+	<item id="2977" type="EtcItem" name="Receita: Botas Brigandine">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita de Botas Brigandine. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1494" />
+	</item>
+	<item id="2978" type="EtcItem" name="Receita: Botas Élficas de Mithril">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Élficas de Mithril. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1494" />
+	</item>
+	<item id="2979" type="EtcItem" name="Receita: Luvas de Pele de Mantícora">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas de Pele de Mantícora. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1494" />
+	</item>
+	<item id="2980" type="EtcItem" name="Receita: Manoplas Brigandine">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Manoplas Brigandine. Requer Criar Item - Nível de Habilidade 3 A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1494" />
+	</item>
+	<item id="2981" type="EtcItem" name="Receita: Luvas Élficas de Mithril">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas Élficas de Mithril. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1494" />
+	</item>
+	<item id="2982" type="EtcItem" name="Receita: Escudo Brigandine">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Escudo Brigandine. Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1568" />
+	</item>
+	<item id="2983" type="EtcItem" name="Receita: Capacete de Placas">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Capacete de Placas. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2940" />
+	</item>
+	<item id="2984" type="EtcItem" name="Receita: Botas de Pele de Salamandra">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas de Pele de Salamandra. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1956" />
+	</item>
+	<item id="2985" type="EtcItem" name="Receita: Botas de Placas">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas de Placas. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1956" />
+	</item>
+	<item id="2986" type="EtcItem" name="Receita: Luvas Gastas do Sábio">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Gastas do Sábio. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1956" />
+	</item>
+	<item id="2987" type="EtcItem" name="Receita: Escudo de Placas">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Escudo de Placas. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2060" />
+	</item>
+	<item id="2988" type="EtcItem" name="Receita: Botas de Mithril Temperadas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas de Mithril Temperadas. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4740" />
+	</item>
+	<item id="2989" type="EtcItem" name="Receita: Capuz de Correntes">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Capuz de Correntes. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3780" />
+	</item>
+	<item id="2990" type="EtcItem" name="Receita: Botas de Correntes">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas de Correntes. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2520" />
+	</item>
+	<item id="2991" type="EtcItem" name="Receita: Botas Karmiana">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Karmiana. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2520" />
+	</item>
+	<item id="2992" type="EtcItem" name="Receita: Botas de Couro Banhado">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas de Couro Banhado. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2520" />
+	</item>
+	<item id="2993" type="EtcItem" name="Receita: Botas de Correntes dos Anões">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas de Correntes dos Anões. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2520" />
+	</item>
+	<item id="2994" type="EtcItem" name="Receita: Botas de Foca">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita de Botas de Foca. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2520" />
+	</item>
+	<item id="2995" type="EtcItem" name="Receita: Luvas de Mithril Reforçadas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas de Mithril Reforçadas. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2520" />
+	</item>
+	<item id="2996" type="EtcItem" name="Receita: Luvas de Correntes">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas de Correntes. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2520" />
+	</item>
+	<item id="2997" type="EtcItem" name="Receita: Luvas Karmiana">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Karmiana. Requer Criar Item - Nível de Habilidade 4 A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2520" />
+	</item>
+	<item id="2998" type="EtcItem" name="Receita: Escudo de Correntes">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Escudo de Correntes. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2660" />
+	</item>
+	<item id="2999" type="EtcItem" name="Receita: Luvas de Couro Banhado">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas de Couro Banhado. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2980" />
+	</item>
+</list>

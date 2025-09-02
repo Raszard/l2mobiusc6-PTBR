@@ -1,0 +1,37 @@
+07/03/2024 18:55:13>Anais [268477922]>admin_admin>no-target>
+07/03/2024 18:55:18>Anais [268477922]>admin_admin2>Anais>
+07/03/2024 18:55:19>Anais [268477922]>admin_show_characters>Anais> 0
+07/03/2024 18:55:19>Anais [268477922]>admin_character_info>Anais> Anais
+07/03/2024 18:55:21>Anais [268477922]>admin_setclass>Anais>
+07/03/2024 18:55:26>Anais [268477922]>admin_setclass>Anais> 117
+07/03/2024 18:55:28>Anais [268477922]>admin_admin>Anais>
+07/03/2024 18:55:31>Anais [268477922]>admin_admin2>Anais>
+07/03/2024 18:55:31>Anais [268477922]>admin_show_characters>Anais> 0
+07/03/2024 18:55:32>Anais [268477922]>admin_character_info>Anais> Anais
+07/03/2024 18:55:33>Anais [268477922]>admin_add_exp_sp_to_character>Anais>
+07/03/2024 18:55:39>Anais [268477922]>admin_set_level>Anais> 81
+07/03/2024 19:02:14>Anais [268477922]>admin_admin>Anais>
+07/03/2024 19:02:15>Anais [268477922]>admin_gmshop>Anais>
+07/03/2024 19:02:16>Anais [268477922]>admin_help>Anais> gmshop/Jewels.htm
+07/03/2024 19:02:18>Anais [268477922]>admin_buy>Anais> 9300
+07/03/2024 19:03:51>Anais [268477922]>admin_admin>Anais>
+07/03/2024 19:03:52>Anais [268477922]>admin_gmshop>Anais>
+07/03/2024 19:03:54>Anais [268477922]>admin_help>Anais> gmshop/Jewels.htm
+07/03/2024 19:03:55>Anais [268477922]>admin_help>Anais> gmshops.htm
+07/03/2024 19:03:57>Anais [268477922]>admin_buy>Anais> 3002
+07/03/2024 19:15:29>Anais [268477922]>admin_admin>Anais>
+07/03/2024 19:15:30>Anais [268477922]>admin_admin4>Anais>
+07/03/2024 19:15:34>Anais [268477922]>admin_cache_htm_rebuild>Anais>
+07/03/2024 19:15:35>Anais [268477922]>admin_admin>Anais>
+07/03/2024 19:58:39>Anais [268477922]>admin_admin>Goblin Bisbilhoteiro>
+07/03/2024 19:58:41>Anais [268477922]>admin_admin2>Goblin Bisbilhoteiro>
+07/03/2024 19:58:42>Anais [268477922]>admin_show_characters>Goblin Bisbilhoteiro> 0
+07/03/2024 19:58:43>Anais [268477922]>admin_character_info>Goblin Bisbilhoteiro> Anais
+07/03/2024 19:58:44>Anais [268477922]>admin_show_skills>Anais>
+07/03/2024 19:58:45>Anais [268477922]>admin_remove_all_skills>Anais>
+07/03/2024 19:58:46>Anais [268477922]>admin_admin>Anais>
+07/03/2024 19:58:48>Anais [268477922]>admin_admin2>Anais>
+07/03/2024 19:58:49>Anais [268477922]>admin_show_characters>Anais> 0
+07/03/2024 19:58:50>Anais [268477922]>admin_character_info>Anais> Anais
+07/03/2024 19:58:50>Anais [268477922]>admin_show_skills>Anais>
+07/03/2024 19:58:52>Anais [268477922]>admin_give_all_skills>Anais>

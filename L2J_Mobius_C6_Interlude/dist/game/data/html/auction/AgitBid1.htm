@@ -1,0 +1,11 @@
+<html><body><font color="LEVEL"> A oferta só é permitida em um Salão do Clã</font>. Quando um lance é enviado, o valor do lance Adena é<font color="LEVEL"> depositado </font>no armazém do Clã para o leilão.<font color="LEVEL"> 10% do valor do lance é um imposto sobre transações </font>e não pode ser devolvido mesmo que a oferta seja cancelada.<br><font color="LEVEL"> O preço de oferta </font>deve ser maior que o preço mínimo do lance (ou preço do lance anterior ao refazer o lance) e o Clã que tiver escrito o preço mais alto no final do leilão vence o leilão.<br>Há atualmente<font color="aaccff">%PLEDGE_ADENA% </font>Adena no armazém do Clã. O valor mínimo que pode ser licitado é<font color="aaccff">%AGIT_AUCTION_MINBID% </font>Adena.<br>Quanto você quer licitar?
+<table width=270 border=0><tr><td width=220 align=right><edit var=bidprice width=230 align=right type=number></td><td width=40 align=right>Adena</td></tr></table>
+<img src="L2UI.SquareBlank"width=270 height=10> <img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=270 height=5>
+<table width=270 border=0>
+<tr>
+<td width=130></td>
+<td width=70 align=center><button action="%AGIT_LINK_BACK%" value="Voltar" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_bid $bidprice" value="Confirmar" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+</tr>
+</table>
+</body></html>

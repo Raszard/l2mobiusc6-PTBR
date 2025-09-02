@@ -1,0 +1,1316 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="8500" type="EtcItem" name="Isca Luminosa de Aden">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca luminosa pode ser usada para pegar o peixe grande de Aden. É usado no Território de Aden por pescadores cujo Nível de Maestria em Pesca é 19-21." />
+		<set name="weight" val="4" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8501" type="EtcItem" name="Isca Luminosa de Innadril">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca luminosa pode ser usada para pegar o Big Fish de Innadril. É usado no Território de Innadril por pescadores cujo Nível de Maestria em Pesca é 13-15." />
+		<set name="weight" val="3" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8502" type="EtcItem" name="Isca Luminosa de Goddard">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca luminosa pode ser usada para pegar o peixe grande de Goddard. É usado no Território de Goddard por pescadores cujo Nível de Maestria em Pesca é 25-27." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8503" type="EtcItem" name="Isca Luminosa de Runa">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca luminosa pode ser usada para pegar o Big Fish de Rune. É usado em Rune Territory por pescadores cujo Nível de Maestria em Pesca é 22-24." />
+		<set name="weight" val="4" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8504" type="EtcItem" name="Isca Luminosa de Schuttgart">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca luminosa pode ser usada para pegar o Big Fish de Schuttgart. É usado no Território de Schuttgart por pescadores cujo Nível de Maestria em Pesca é 7-9." />
+		<set name="weight" val="3" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8505" type="EtcItem" name="Isca Luminosa Verde - Grau Baixo">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca pode ser usada para capturar peixes de baixa qualidade em movimento rápido à noite. Quanto maior o grau da isca, mais rápido o peixe morderá a isca. Não pode ser usado durante o dia." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8506" type="EtcItem" name="Isca Luminosa Verde">
+		
+		<set name="icon" val="icon.etc_bait_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca pode ser usada para capturar peixes velozes à noite. Quanto maior o grau da isca, mais rápido o peixe morderá a isca. A isca não pode ser usada durante o dia." />
+		<set name="weight" val="4" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="120" />
+	</item>
+	<item id="8507" type="EtcItem" name="Isca Verde - Grau Alto">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca pode ser usada para capturar peixes de alta qualidade em movimento rápido à noite. Quanto maior o grau da isca, mais rápido o peixe morderá a isca. Não pode ser usado durante o dia." />
+		<set name="weight" val="3" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8508" type="EtcItem" name="Isca Luminosa Roxa - Grau Baixo">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca pode ser usada para pegar peixes largos de baixa qualidade à noite. Quanto maior o grau da isca, mais rápido o peixe morderá a isca. Não pode ser usado durante o dia." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8509" type="EtcItem" name="Isca Luminosa Roxa">
+		
+		<set name="icon" val="icon.etc_bait_i01" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca pode ser usada para pegar peixes largos à noite. Quanto maior o grau da isca, mais rápido o peixe morderá a isca. Não pode ser usado durante o dia." />
+		<set name="weight" val="4" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="180" />
+	</item>
+	<item id="8510" type="EtcItem" name="Isca Luminosa Roxa - Grau Alto">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca pode ser usada para pegar peixes largos de alta qualidade à noite. Quanto maior o grau da isca, mais rápido o peixe morderá a isca. Não pode ser usado durante o dia." />
+		<set name="weight" val="3" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8511" type="EtcItem" name="Isca Luminosa Amarela - Grau Baixo">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca pode ser usada para pegar peixes feios de baixa qualidade à noite. Quanto maior o grau da isca, mais rápido o peixe morderá a isca. Não pode ser usado durante o dia." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8512" type="EtcItem" name="Isca Luminosa Amarela">
+		
+		<set name="icon" val="icon.etc_bait_i02" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca pode ser usada para pegar peixes feios à noite. Quanto maior o grau da isca, mais rápido o peixe morderá a isca. Não pode ser usado durante o dia." />
+		<set name="weight" val="4" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8513" type="EtcItem" name="Isca Luminosa Amarela - Grau Alto">
+		
+		<set name="icon" val="icon.etc_gludio_fish_lure_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca pode ser usada para pegar peixes feios de alta qualidade à noite. Quanto maior o grau da isca, mais rápido o peixe morderá a isca. Não pode ser usado durante o dia." />
+		<set name="weight" val="3" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8514" type="EtcItem" name="Resquícios dos Sonhos dos Antigos Anões">
+		
+		<set name="icon" val="icon.etc_inf_ore_high_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este estranho objeto pode ser derrubado pelos fantasmas dos antigos anões enquanto eles encontram o descanso eterno." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8515" type="EtcItem" name="Amuleto da Coragem: Sem Grau">
+		
+		<set name="icon" val="icon.etc_charm_of_courage_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Previne perda de Exp. se morto durante uma guerra de cerco. (Para Nível 1 - Nível 19)" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8516" type="EtcItem" name="Amuleto da Coragem: Grau D">
+		
+		<set name="icon" val="icon.etc_charm_of_courage_i01" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Previne perda de Exp. se morto durante uma guerra de cerco. (Para Nível 20 - Nível 39)" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="d" />
+	</item>
+	<item id="8517" type="EtcItem" name="Amuleto da Coragem: Grau C">
+		
+		<set name="icon" val="icon.etc_charm_of_courage_i02" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Previne perda de Exp. se morto durante uma guerra de cerco. (Para Nível 40 - Nível 51)" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="c" />
+		<set name="price" val="13200" />
+	</item>
+	<item id="8518" type="EtcItem" name="Amuleto da Coragem: Grau A">
+		
+		<set name="icon" val="icon.etc_charm_of_courage_i03" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Previne perda de Exp. se morto durante uma guerra de cerco. (Para Nível 52 - Nível 60)" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="b" />
+		<set name="price" val="26000" />
+	</item>
+	<item id="8519" type="EtcItem" name="Charm of Courage: A-Grade">
+		
+		<set name="icon" val="icon.etc_charm_of_courage_i04" />
+		<set name="item_type" val="scroll" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="a" />
+		<set name="price" val="54000" />
+	</item>
+	<item id="8520" type="EtcItem" name="Amuleto da Coragem: Grau S">
+		
+		<set name="icon" val="icon.etc_charm_of_courage_i05" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Previne perda de Exp. se morto durante uma guerra de cerco. (for Level 76 - Level 80). Também pode ser usado por personagens abaixo do nível 76." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="8521" type="EtcItem" name="Semente: Coba do Mar">
+		
+		<set name="icon" val="icon.etc_sea_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto do Coba do Mar. Para obter melhores resultados, um personagem de nível 74-84 deve plantá-lo em um monstro de nível 74-84." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="8522" type="EtcItem" name="Semente: Alternativa Coba do Mar">
+		
+		<set name="icon" val="icon.etc_sea_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto do Alternativa Coba do Mar. Para obter melhores resultados, um personagem de nível 74-84 deve plantá-lo em um monstro de nível 74-84." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="8523" type="EtcItem" name="Semente: Coba Dupla">
+		
+		<set name="icon" val="icon.etc_twin_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto do Coba Dupla. Para obter melhores resultados, um personagem de nível 77-87 deve plantá-lo em um monstro de nível 77-87." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="8524" type="EtcItem" name="Semente: Alternativa Coba Dupla">
+		
+		<set name="icon" val="icon.etc_twin_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ela dará o fruto do Alternativa Coba Dupla. Para obter melhores resultados, um personagem de nível 77-87 deve plantá-lo em um monstro de nível 77-87." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="8525" type="EtcItem" name="Semente: Coba Grande">
+		
+		<set name="icon" val="icon.etc_great_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto do Great Coba. Para melhores resultados, um personagem de nível 80-90 deve plantá-lo em um monstro de nível 80-90." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="8526" type="EtcItem" name="Semente: Alternativa Coba Grande">
+		
+		<set name="icon" val="icon.etc_great_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ela produzirá o fruto da Alternativa Great Coba. Para melhores resultados, um personagem de nível 80-90 deve plantá-lo em um monstro de nível 80-90." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="8527" type="Weapon" name="Somente Para Monstros (Arco Fortalecido)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1870" />
+		<set name="soulshots" val="6" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="82" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="3" />
+		<set name="m_dam" val="26" />
+		<for>
+			<set val="82" order="0x08" stat="pAtk" />
+			<set val="26" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8528" type="Weapon" name="Apenas Para Monstros (da Perdição Hammer)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1200" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="41" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="43" />
+		<for>
+			<set val="41" order="0x08" stat="pAtk" />
+			<set val="43" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8529" type="Weapon" name="Apenas Para Monstros (Faca)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1140" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="10" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="9" />
+		<for>
+			<set val="10" order="0x08" stat="pAtk" />
+			<set val="9" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8530" type="Weapon" name="Somente Para Monstros (Espada do Escudeiro)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1600" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="6" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="5" />
+		<for>
+			<set val="6" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8531" type="Weapon" name="Somente Para Monstros (Cajado de Ossos)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1060" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="39" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="35" />
+		<for>
+			<set val="39" order="0x08" stat="pAtk" />
+			<set val="35" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8532" type="Weapon" name="Somente Para Monstros (Spinebone Sword)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1510" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="51" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="32" />
+		<for>
+			<set val="51" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8533" type="Weapon" name="Somente Para Monstros (Espada Carmesim)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1490" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="64" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="39" />
+		<for>
+			<set val="64" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8534" type="EtcItem" name="Caixa do Aventureiro: Acessório de Grau C (Grau Baixo)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra a caixa para ter a chance de obter um acessório Grau C de baixa qualidade." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8535" type="EtcItem" name="Caixa do Aventureiro: Acessório de Grau C (Grau Médio)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra a caixa para ter a chance de obter um acessório Grau C de qualidade média." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8536" type="EtcItem" name="Caixa do Aventureiro: Acessório de Grau C (Grau Alto)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra a caixa para ter a chance de obter um acessório Grau C de alta qualidade." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8537" type="EtcItem" name="Caixa do Aventureiro: Acessório de Grau B (Grau Baixo)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_2_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra a caixa para ter a chance de obter um acessório Grau B de baixa qualidade." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8538" type="EtcItem" name="Caixa do Aventureiro: Acessório de Grau B (Grau Alto)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra a caixa para ter a chance de obter um acessório Grau B de alta qualidade." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8539" type="EtcItem" name="Caixa do Aventureiro: Acessório de Cabelo">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_4_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra a caixa para ter a chance de obter um acessório de cabelo do Raider." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8540" type="EtcItem" name="Caixa do Aventureiro: Berço da Criação">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_5_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra a caixa para ter a chance de obter um Berço da Criação." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8541" type="Armor" name="Pequeno Arnês">
+		
+		<set name="icon" val="icon.etc_pet_armor_little_harness_i00" />
+		<set name="bodypart" val="babypet" />
+		<set name="desc" val="Equipe um animal de estimação bebê com este arnês clicando duas vezes." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="10" />
+		<set name="m_def" val="25" />
+		<for>
+			<add val="10" order="0x10" stat="mDef" />
+			<add val="25" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8542" type="EtcItem" name="Cupom de Viagem (Novatos)">
+		
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Este Símbolo é usado para ajudar os viajantes novatos a se mudarem para vários lugares. Personagens abaixo do nível 20 podem resgatá-lo em um Guia para novatos para viajar entre Aldeia da Talking Island Village, Aldeia dos Elfos Sombrios, Elven Village, Dwarven Village e Orc Village." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8543" type="EtcItem" name="Pacote de Pérola">
+		
+		<set name="icon" val="icon.accessary_mage_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve este pacote de pérola tecidas para o Chefe do Armazém Yasheni na Town of Schuttgart." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8544" type="EtcItem" name="Cabeça de Orc Timora">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cabeça decepada do covarde Orc Timora que traiu sua própria tribo e se juntou aos Orc Ragnas." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8545" type="EtcItem" name="Dente da Aranha Kasha">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este dente de aranha torto foi arrancado à mão durante o combate corpo a corpo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8546" type="EtcItem" name="Chifre de Baar Dre Vanul">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este chifre suave e impecável vem de Baar Dre Vanul, que habita a região Immortal Plateau Southern." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8547" type="EtcItem" name="Caixa Velha">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma caixa velha que pode ser pescada na área de Hot Springs. Se você clicar duas vezes nele, poderá obter o Certificado de Participação em uma guerra do Clan Hall em Hot Springs com uma certa taxa de chance." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1500" />
+	</item>
+	<item id="8548" type="EtcItem" name="Isca Hot Springs">
+		
+		<set name="icon" val="icon.etc_bait_i02" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Esta isca de pesca pode ser usada para pegar caixas velhas enquanto pesca na área de Hot Springs em Goddard. Somente personagens com Nível de Maestria em Pesca 20 ou superior podem transportar na caixa antiga." />
+		<set name="weight" val="3" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="8549" type="EtcItem" name="Sangue Homem Lagarto Bruin">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Sangue obtido ao matar um Bruin Lizardman." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8550" type="EtcItem" name="Perna de Araneid Picot">
+		
+		<set name="icon" val="icon.etc_sting_b_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Perna obtida matando um Picot Araneid." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8551" type="EtcItem" name="Caixa de Equipamento de Cheerleading Usada Para Encorajar A Vitória.">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Caixa de itens de líderes de torcida para torcer pelos Red Devils. Se você clicar duas vezes nele, ele mudará aleatoriamente para um item diferente." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8552" type="Armor" name="Máscara de Espíritos">
+		
+		<set name="icon" val="icon.accessory_worldcup_mask_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Um acessório de cabelo para o evento de Halloween de 2006." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8553" type="EtcItem" name="Máscara Vermelha da Vitória, Tecido">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="O ingrediente essencial necessário para fazer uma Máscara dos Diabos Vermelhos. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8554" type="EtcItem" name="Receita: Máscara Vermelha da Vitória (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Para todas as tribos. Receita para uma Máscara dos Diabos Vermelhos. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8555" type="EtcItem" name="Cristal de Eco - Viva Viktory Korea">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Cristal de Eco que toca a música tema da Copa do Mundo. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8556" type="EtcItem" name="Gota de Destruição">
+		
+		<set name="icon" val="icon.etc_lesser_potion_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clicar na Gota de Destruição fará com que o retrato desapareça. Ele desaparecerá quando alguém entrar no Último Sepulcro Imperial." />
+		<set name="weight" val="3" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8557" type="Armor" name="Chapéu de Festa Azul">
+		
+		<set name="icon" val="icon.accessory_party_hat_blue_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Lembrança de acessório de cabelo de aniversário de três anos. Usa dois slots de acessório de cabelo." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8558" type="Armor" name="Marca de Eva">
+		
+		<set name="icon" val="icon.accessory_soaring_bird_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Este acessório de cabelo é concedido aos vencedores do Torneio do Rei da Pesca." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8559" type="Armor" name="Diadema">
+		
+		<set name="icon" val="icon.accessory_flower_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Acessório de cabelo usado por uma noiva em sua cerimônia de casamento. Este acessório de cabelo só pode ser usado por mulheres." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8560" type="Armor" name="Chapéu de Ursinho">
+		
+		<set name="icon" val="icon.accessory_bear_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um divertido acessório de cabelo em forma de urso." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8561" type="Armor" name="Chapéu de Porquinho">
+		
+		<set name="icon" val="icon.accessory_pig_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um divertido acessório de cabelo em forma de porco." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8562" type="Armor" name="Chapéu Bobo da Corte">
+		
+		<set name="icon" val="icon.accessory_jester_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu bobo da corte festivo com a parte superior dividida." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8563" type="Armor" name="Chapéu de Mago">
+		
+		<set name="icon" val="icon.accessory_magic_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="A Chapéu de Mago with a wide brim e bent tip. " />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8564" type="Armor" name="Boné Elegante">
+		
+		<set name="icon" val="icon.accessory_dandy_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um boné estiloso com viseira." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8565" type="Armor" name="Chapeau Romântico">
+		
+		<set name="icon" val="icon.accessory_romantic_chaperon_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu extravagante adornado com penas." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8566" type="Armor" name="Diadema de Ferro">
+		
+		<set name="icon" val="icon.accessory_iron_circlet_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Acessório de cabelo usado em eventos no exterior. Este item é projetado para uso apenas em eventos e não pode ser trocado ou descartado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8567" type="Armor" name="Diadema Assassino de Valakas">
+		
+		<set name="icon" val="icon.accessory_valakas_circlet_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="O diadema apresentado a um jogador que derrotou Valakas." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8568" type="Armor" name="Diadema Assassino de Antharas">
+		
+		<set name="icon" val="icon.accessory_antaras_circlet_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="O diadema apresentado a um jogador que derrotou Antharas." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8569" type="Armor" name="Meia Máscara Facial">
+		
+		<set name="icon" val="icon.accessory_half_face_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Um misterioso acessório de fantasia que cobre metade do rosto do usuário." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8570" type="EtcItem" name="Caixa de Presente de Evento">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um item usado para o evento de cupom PC Café. Se você clicar duas vezes nele, ele mudará aleatoriamente para um item diferente. Este item não pode ser trocado ou descartado. (Este item pode ser usado quando o medidor de peso mostra menos de 80% e 10 ou mais slots vazios estão disponíveis no inventário.)" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8571" type="EtcItem" name="Caixa de Presente de Evento">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um item usado para o evento de cupom PC Café. Se você clicar duas vezes nele, ele mudará aleatoriamente para um item diferente. Este item não pode ser trocado ou descartado. (Este item pode ser usado quando o medidor de peso mostra menos de 80% e 10 ou mais slots vazios estão disponíveis no inventário.)" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8572" type="EtcItem" name="Caixa de Presente de Evento">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um item usado para o evento de cupom PC Café. Se você clicar duas vezes nele, ele mudará aleatoriamente para um item diferente. Este item não pode ser trocado ou descartado. (Este item pode ser usado quando o medidor de peso mostra menos de 80% e 10 ou mais slots vazios estão disponíveis no inventário.)" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8573" type="EtcItem" name="Caixa de Presente de Evento">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um item usado para o evento de cupom PC Café. Se você clicar duas vezes nele, ele mudará aleatoriamente para um item diferente. Este item não pode ser trocado ou descartado. (Este item pode ser usado quando o medidor de peso mostra menos de 80% e 10 ou mais slots vazios estão disponíveis no inventário.)" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8574" type="EtcItem" name="Caixa de Presente de Evento">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um item usado para o evento de cupom PC Café. Se você clicar duas vezes nele, ele mudará aleatoriamente para um item diferente. Este item não pode ser trocado ou descartado. (Este item pode ser usado quando o medidor de peso mostra menos de 80% e 10 ou mais slots vazios estão disponíveis no inventário.)" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8575" type="EtcItem" name="Caixa de Presente de Evento">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um item usado para o evento de cupom PC Café. Se você clicar duas vezes nele, ele mudará aleatoriamente para um item diferente. Este item não pode ser trocado ou descartado. (Este item pode ser usado quando o medidor de peso mostra menos de 80% e 10 ou mais slots vazios estão disponíveis no inventário.)" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8576" type="Weapon" name="Cajado do Aprendiz (Evento)">
+		
+		<set name="icon" val="icon.weapon_apprentices_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1070" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="23" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="22" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="23" order="0x08" stat="pAtk" />
+			<set val="22" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8577" type="Weapon" name="Porrete do Osso (Evento)">
+		
+		<set name="icon" val="icon.weapon_club_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1850" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="24" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="24" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8578" type="Weapon" name="Faca Brilhante (Evento)">
+		
+		<set name="icon" val="icon.weapon_shining_knife_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1120" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="21" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="21" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8579" type="Weapon" name="Cesto (Evento)">
+		
+		<set name="icon" val="icon.weapon_vipers_canine_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1570" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="29" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="29" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8580" type="Weapon" name="Arco da Floresta (Evento)">
+		
+		<set name="icon" val="icon.weapon_short_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1900" />
+		<set name="soulshots" val="7" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="49" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="3" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="49" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8581" type="Weapon" name="Espada Longa (Evento)">
+		
+		<set name="icon" val="icon.weapon_long_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="24" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="24" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8582" type="Weapon" name="Maça de Oração (Evento)">
+		
+		<set name="icon" val="icon.weapon_mace_of_prayer_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="41" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="43" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="41" order="0x08" stat="pAtk" />
+			<set val="43" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8583" type="Weapon" name="Arco Elfo Sombrio (Evento)">
+		
+		<set name="icon" val="icon.weapon_dark_elven_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1830" />
+		<set name="soulshots" val="6" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="105" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="4" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="105" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8584" type="Weapon" name="Arco Longo (Evento)">
+		
+		<set name="icon" val="icon.weapon_strengthening_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1830" />
+		<set name="soulshots" val="6" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="114" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="227" />
+		<set name="mp_consume" val="4" />
+		<set name="m_dam" val="35" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="114" order="0x08" stat="pAtk" />
+			<set val="35" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="227" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8585" type="Weapon" name="Cajado de Mana (Evento)">
+		
+		<set name="icon" val="icon.weapon_staff_of_mana_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1040" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="50" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="43" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="50" order="0x08" stat="pAtk" />
+			<set val="43" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8586" type="Weapon" name="Espada Bastarda (Evento)">
+		
+		<set name="icon" val="icon.weapon_bastard_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1510" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="51" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="51" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8587" type="Weapon" name="Tumba Divina (Evento)">
+		
+		<set name="icon" val="icon.weapon_divine_tome_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="570" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="41" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="etc" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="43" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="41" order="0x08" stat="pAtk" />
+			<set val="43" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8588" type="Weapon" name="Jamadhr de Gume Único (Evento)">
+		
+		<set name="icon" val="icon.weapon_baghnakh_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1550" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="62" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="62" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8589" type="Weapon" name="Tomahawk (Evento)">
+		
+		<set name="icon" val="icon.weapon_tomahawk_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1780" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="51" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="51" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8590" type="Weapon" name="Poniard Daggar (Evento)">
+		
+		<set name="icon" val="icon.weapon_dirk_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1090" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="45" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="45" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8591" type="Weapon" name="Pique (Evento)">
+		
+		<set name="icon" val="icon.weapon_pike_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Para o evento de cupom PC Café. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="2090" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="51" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="51" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8592" type="EtcItem" name="Cupom de Troca de Arma - Sem Grau">
+		
+		<set name="icon" val="icon.etc_lottery_card_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um item usado para o evento de cupom PC Café. Um cupom de troca que pode ser usado para trocar por uma arma sem grau na Guilda dos Aventureiros." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8593" type="EtcItem" name="Cupom de Troca de Arma - Grau D">
+		
+		<set name="icon" val="icon.etc_lottery_card_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um item usado para o evento de cupom PC Café. Um cupom de troca que pode ser usado para trocar por uma arma de grau D na Guilda dos Aventureiros." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8594" type="EtcItem" name="Pergaminho: Recuperação (Sem Grau)">
+		
+		<set name="icon" val="icon.etc_penalty_recovery_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Este pergaminho recupera as habilidades de um personagem dos efeitos da morte. Este item só pode ser usado em si mesmo por um personagem de nível 19 ou inferior. Este pergaminho não pode ser usado por personagens caóticos." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="8595" type="EtcItem" name="Pergaminho: Recuperação (Grau D)">
+		
+		<set name="icon" val="icon.etc_penalty_recovery_i01" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Este pergaminho recupera as habilidades de um personagem dos efeitos da morte. Este item só pode ser usado em si mesmo por um personagem cujo nível esteja entre 20 e 39. Este pergaminho não pode ser usado por personagens caóticos." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="d" />
+		<set name="price" val="4800" />
+	</item>
+	<item id="8596" type="EtcItem" name="Pergaminho: Recuperação (Grau C)">
+		
+		<set name="icon" val="icon.etc_penalty_recovery_i02" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Este pergaminho recupera as habilidades de um personagem dos efeitos da morte. Este item só pode ser usado em si mesmo por um personagem cujo nível esteja entre 40 e 51. Este pergaminho não pode ser usado por personagens caóticos." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="c" />
+		<set name="price" val="14000" />
+	</item>
+	<item id="8597" type="EtcItem" name="Pergaminho: Recuperação (Grau B)">
+		
+		<set name="icon" val="icon.etc_penalty_recovery_i03" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Este pergaminho recupera as habilidades de um personagem dos efeitos da morte. Este item só pode ser usado em si mesmo por um personagem cujo nível esteja entre 52 e 60. Este pergaminho não pode ser usado por personagens caóticos." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="b" />
+		<set name="price" val="28000" />
+	</item>
+	<item id="8598" type="EtcItem" name="Pergaminho: Recuperação (Grau A)">
+		
+		<set name="icon" val="icon.etc_penalty_recovery_i04" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Este pergaminho recupera as habilidades de um personagem dos efeitos da morte. Este item só pode ser usado em si mesmo por um personagem cujo nível esteja entre 61 e 75. Este pergaminho não pode ser usado por personagens caóticos." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="a" />
+		<set name="price" val="48000" />
+	</item>
+	<item id="8599" type="EtcItem" name="Pergaminho: Recuperação (Grau S)">
+		
+		<set name="icon" val="icon.etc_penalty_recovery_i05" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Este pergaminho recupera as habilidades de um personagem dos efeitos da morte. Este item só pode ser usado por um personagem cujo nível seja 76 ou superior. Este pergaminho não pode ser usado por personagens caóticos." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+		<set name="price" val="80000" />
+	</item>
+</list>

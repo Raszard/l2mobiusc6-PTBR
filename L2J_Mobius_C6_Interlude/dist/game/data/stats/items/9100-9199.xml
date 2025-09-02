@@ -1,0 +1,1109 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="9100" type="Armor" name="Item Sombrio: Botas Magestosa">
+		
+		<set name="icon" val="icon.armor_t84_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de Botas Magestosas. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="370" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="49" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9101" type="Armor" name="Item Sombrio: Manto Magestoso">
+		
+		<set name="icon" val="icon.armor_t85_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Manto Magestoso. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="777" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="147" />
+		<set name="mp_bonus" val="718" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="147" order="0x10" stat="pDef" />
+			<add val="718" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="9102" type="Armor" name="Item Sombrio: Manopla Magestosa">
+		
+		<set name="icon" val="icon.armor_t85_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Manoplas Majestosas. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="180" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="49" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9103" type="Armor" name="Item Sombrio: Botas Magestosas">
+		
+		<set name="icon" val="icon.armor_t85_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de Botas Magestosas. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="370" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="49" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9104" type="EtcItem" name="Arco de Composição E Flecha de Madeira">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Arco de Composição e uma Flecha de Madeira. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9105" type="EtcItem" name="Gastraphetes E Bone Arrow">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Gastraphetes e uma Bone Arrow. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9106" type="EtcItem" name="Akat Arco Longo E Flecha de Aço">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Akat Long Bow e uma Steel Arrow. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9107" type="EtcItem" name="Arco Longo do Elfo Sombrio E Flecha de Prata">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Dark Elven Long Bow e uma Silver Arrow. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9108" type="EtcItem" name="Arco da Carnificina E Flecha de Mithril">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Carnage Bow e uma Mithril Arrow. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9109" type="EtcItem" name="Arco da Alma E Flecha de Mithril">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Arco da Alma e uma Mithril Arrow. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9110" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Sem Grau (Uso de Armadura Pesada)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Conjunto de Armadura de Sombra Sem Grau &quot;Uso de Armadura Pesada&quot;. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9111" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau D (Uso de Armadura Pesada)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Conjunto de Armadura de Sombra de Grau D &quot;Uso de Armadura Pesada&quot;. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9112" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau C (Uso de Armadura Pesada)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Conjunto de Armadura Sombria de Grau C &quot;Uso de Armadura Pesada&quot;. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9113" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau B (Uso de Armadura Pesada)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de armadura de sombra de grau B &quot;Heavy Armor use&quot;. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9114" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau A Baixo (Uso de Armadura Pesada)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Conjunto de Armadura Sombria de Grau A baixo &quot;Uso de Armadura Pesada&quot;. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9115" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau A Alto (Uso de Armadura Pesada)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Conjunto de Armadura de Sombra de Grau A alto &quot;Uso de Armadura Pesada&quot;. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9116" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Sem Grau (Uso de Armadura Leve)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Conjunto de &quot;Armadura Leve&quot; de Armadura Sombria Sem Grau. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9117" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau D (Uso de Armadura Leve)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Conjunto de Armadura de Sombra de Grau D &quot;Uso de Armadura Leve&quot;. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9118" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau C (Uso de Armadura Leve)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, você pode obter um Conjunto de Armadura de Sombra Grau C &quot;Uso de Armadura Leve&quot;. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9119" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau B (Uso de Armadura Leve)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Conjunto de Armadura de Sombra de Grau B &quot;Uso de Armadura Leve&quot;. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9120" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau A Baixo (Uso de Armadura Leve)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de &quot;Armadura Leve&quot; de armadura de sombra de grau A. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9121" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Alto Nível (Uso de Armadura Leve)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de &quot;Armadura Leve&quot; de armadura de sombra de grau A. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9122" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Sem Grau (Uso de Manto)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto &quot;Manto Use&quot; de armadura de sombra sem grau. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9123" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau D (Uso de Manto)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de &quot;uso de Manto&quot; de armadura de sombra de grau D. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9124" type="EtcItem" name="Caixa do Conjunto de Armadura Sombria Grau C (Uso de Manto)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de &quot;uso de Manto&quot; de armadura de sombra de grau C. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9125" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau B (Uso de Manto)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de &quot;uso de Manto&quot; de armadura de sombra de grau B. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9126" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau A Baixo (Uso de Manto)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de &quot;uso de Manto&quot; de armadura de sombra de grau A. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9127" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Alto Nível (Uso de Manto)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de &quot;uso de Manto&quot; de armadura de sombra de grau A. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9128" type="Armor" name="Item Sombrio: Manopla de Mithril">
+		
+		<set name="icon" val="icon.armor_t61_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Manoplas de Mithril. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="200" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="36" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="36" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9129" type="Weapon" name="Item Sombrio: Escudo do Pesadelo">
+		
+		<set name="icon" val="icon.shield_shield_of_nightmare_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Escudo do Pesadelo. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="400" />
+		<set name="crystal_type" val="a" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="256" />
+		<set name="shield_def_rate" val="20" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="256" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+		</for>
+	</item>
+	<item id="9130" type="EtcItem" name="Caixa de Conjunto de Itens Sem Grau (Uso Mágico)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item de uso mágico sem nota. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9131" type="EtcItem" name="Caixa de Conjunto de Itens de Grau D (Uso Mágico)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item Grau D de uso mágico. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9132" type="EtcItem" name="Caixa de Conjunto de Itens de Grau C (Uso Mágico)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item de grau C de uso mágico. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9133" type="EtcItem" name="Caixa de Conjunto de Itens de Grau B (Uso Mágico)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item de grau B de uso mágico. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9134" type="EtcItem" name="Uma Caixa de Conjunto de Itens de Nota (Uso Mágico)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item de classe A de uso mágico. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9135" type="EtcItem" name="Caixa de Conjunto de Itens de Grau A, S (Uso Mágico)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item de grau A ou S de uso mágico. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9136" type="Weapon" name="Espada de Valakas (1 Mão)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="156" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="83" />
+		<for>
+			<set val="156" order="0x08" stat="pAtk" />
+			<set val="83" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9137" type="Weapon" name="Espada de Valakas (2 Mãos)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2180" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="78" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="39" />
+		<for>
+			<set val="78" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9138" type="Armor" name="Chapéu de Papai Noel">
+		
+		<set name="icon" val="icon.accessory_santas_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu de Papai Noel que foi criado para comemorar as festas. Este chapéu só pode ser usado durante as festas de final de ano. Ele usa 2 slots de acessórios de cabelo." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9139" type="EtcItem" name="Chapéu de Papai Noel">
+		
+		<set name="icon" val="icon.accessory_santas_cap_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um chapéu de Papai Noel que foi criado para comemorar as festas. Este chapéu só pode ser usado durante as festas de final de ano." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="9140" type="Weapon" name="Arco da Salvação">
+		
+		<set name="icon" val="icon.weapon_krono_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Item de lembrança do evento Zaken's Curse. Permite que você use a habilidade ativa Felicidade. Aviso: se você usar esta habilidade contra um monstro, ela o sinalizará para PvP." />
+		<set name="weight" val="900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="1" />
+		<set name="rnd_dam" val="1" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="1" />
+		<set name="m_dam" val="1" />
+		<for>
+			<set val="1" order="0x08" stat="pAtk" />
+			<set val="1" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9141" type="Weapon" name="Arco da Redenção">
+		
+		<set name="icon" val="icon.weapon_krono_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Item de evento Maldição de Zaken. Permite libertar porcos amaldiçoados. Permite que você use as habilidades ativas Perdão e Perdão." />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="1" />
+		<set name="rnd_dam" val="1" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="1" />
+		<set name="m_dam" val="1" />
+		<set name="duration" val="60" />
+		<set name="dropable" val="false" />
+		<set name="item_skill_id" val="3260" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="1" order="0x08" stat="pAtk" />
+			<set val="1" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9142" type="EtcItem" name="Apiga">
+		
+		<set name="icon" val="icon.etc_pig_adena_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma moeda roubada de Zaken. Traga-o para Bonny, a neta de Zaken, para uma recompensa." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9143" type="EtcItem" name="Apiga Dourada">
+		
+		<set name="icon" val="icon.etc_pig_adena_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um dos bens mais valiosos de Zaken. Colete o máximo que puder para ter a chance de obter um prêmio especial no final do evento. Este item não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="9144" type="EtcItem" name="Espólio de Pirata">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para ter a chance de receber Golden Apiga. Se a sua sorte for ruim, você não receberá nada. (Este item não pode ser usado quando seu medidor de peso estiver acima de 80% ou você tiver menos de 10 slots de inventário vazios.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9145" type="Armor" name="Pequenas Asas de Anjo (Evento)">
+		
+		<set name="icon" val="icon.accessory_hair_ring_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Um acessório de cabelo em forma de asa. Este item é projetado para uso em eventos e não pode ser trocado ou descartado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9146" type="EtcItem" name="Pergaminho de Orientação (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Precisão. Efeito 3. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9147" type="EtcItem" name="Pergaminho do Sussurro da Morte (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta o poder de ataque crítico. Efeito 3. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9148" type="EtcItem" name="Pergaminho do Foco (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Taxa Crítica. Efeito 3. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9149" type="EtcItem" name="Pergaminho da Perspicácia (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Velocidade de Conjuração. Efeito 3. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9150" type="EtcItem" name="Pergaminho da Aceleração (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta Vel. Atq. Efeito 2. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9151" type="EtcItem" name="Pergaminho da Agilidade (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Evasão. Efeito 3. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9152" type="EtcItem" name="Pergaminho de Capacitar (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta o Poder Mágico. Efeito 3. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9153" type="EtcItem" name="Pergaminho do Poder (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta Atk. Poder. Efeito 3. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9154" type="EtcItem" name="Pergaminho do Caminhada no Vento (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Velocidade. Efeito 2. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9155" type="EtcItem" name="Pergaminho do Escudo (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Defesa. Efeito 3. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9156" type="EtcItem" name="Pergaminho de Fuga Abençoado (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i01" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho mágico que teleporta o usuário para a aldeia mais próxima. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9157" type="EtcItem" name="Pergaminho de Ressurreição Abençoado (Evento)">
+		
+		<set name="icon" val="icon.etc_scroll_of_resurrection_i01" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho mágico que ressuscita um personagem morto e restaura sua Exp. completamente. Uma recompensa de evento." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9158" type="Armor" name="Diadema Dourado da Redenção">
+		
+		<set name="icon" val="icon.Accessary_gold_circlet_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Circulo de ouro. Usa 2 slots de acessórios de cabelo. Recompensa do evento Zaken's Curse." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9159" type="Armor" name="Diadema de Prata da Salvação">
+		
+		<set name="icon" val="icon.Accessary_gold_circlet_i01" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Circulo de prata. Usa 2 slots de acessórios de cabelo. Recompensa do evento Zaken's Curse." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9160" type="Armor" name="Chapéu de Vaqueiro de Porcos">
+		
+		<set name="icon" val="icon.Accessary_middle_ages_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Boné de couro. É feito de couro resistente. Usa 2 slots de acessórios de cabelo. Recompensa do evento Zaken's Curse." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9161" type="EtcItem" name="Chifres de Papai Noel">
+		
+		<set name="icon" val="icon.accessory_santas_antler_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Chapéu de Papai Noel festivo com chifres. Ideal para celebrar as férias. Este item só pode ser equipado durante o final do ano." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="9162" type="EtcItem" name="Círculo de Transmutação da Pedra Filosofal Vermelha">
+		
+		<set name="icon" val="icon.sign_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Usable em all races. Double-click to add the Círculo de Transmutação da Pedra Filosofal Vermelha to your Recipe Book. Requires Create Item - Level 1. The success rate is 100%." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9163" type="EtcItem" name="Círculo de Transmutação da Pedra Filosofal Azul">
+		
+		<set name="icon" val="icon.sign_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Usable em all races. Double-click to add the Círculo de Transmutação da Pedra Filosofal Azul to your Recipe Book. Requires Create Item - Level 1. The success rate is 100%." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9164" type="EtcItem" name="Círculo de Transmutação da Pedra Filosofal Laranja">
+		
+		<set name="icon" val="icon.sign_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Usable em all races. Double-click to add the Círculo de Transmutação da Pedra Filosofal Laranja to your Recipe Book. Requires Create Item - Level 1. The success rate is 100%." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9165" type="EtcItem" name="Círculo de Transmutação da Pedra Filosofal das Trevas">
+		
+		<set name="icon" val="icon.sign_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Usable em all races. Double-click to add the Círculo de Transmutação da Pedra Filosofal das Trevas to your Recipe Book. Requires Create Item - Level 1. The success rate is 100%." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9166" type="EtcItem" name="Círculo de Transmutação da Pedra Filosofal Branca">
+		
+		<set name="icon" val="icon.sign_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Usable em all races. Double-click to add the Círculo de Transmutação da Pedra Filosofal Branca to your Recipe Book. Requires Create Item - Level 1. The success rate is 100%." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9167" type="EtcItem" name="Círculo de Transmutação da Pedra Filosofal Verde">
+		
+		<set name="icon" val="icon.sign_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Usable em all races. Double-click to add the Círculo de Transmutação da Pedra Filosofal Verde to your Recipe Book. Requires Create Item - Level 1. The success rate is 100%." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9168" type="EtcItem" name="Minério de Pedra Filosofal">
+		
+		<set name="icon" val="icon.stone_piece_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para criar uma Pedra Filosofal colorida." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9169" type="EtcItem" name="Fórmula de Conversão da Pedra Filosofal">
+		
+		<set name="icon" val="icon.trans_form_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para criar uma Pedra Filosofal colorida." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9170" type="EtcItem" name="Reagentes Mágicos">
+		
+		<set name="icon" val="icon.madicine_bottle_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para criar uma Pedra Filosofal colorida." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9171" type="EtcItem" name="Pedra Filosofal Vermelha">
+		
+		<set name="icon" val="icon.wise_man_stone_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para obter um item aleatório." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9172" type="EtcItem" name="Pedra Filosofal Azul">
+		
+		<set name="icon" val="icon.wise_man_stone_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para obter um item aleatório." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9173" type="EtcItem" name="Pedra Filosofal Laranja">
+		
+		<set name="icon" val="icon.wise_man_stone_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para obter um item aleatório." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9174" type="EtcItem" name="Pedra Filosofal das Trevas">
+		
+		<set name="icon" val="icon.wise_man_stone_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para obter um item aleatório." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9175" type="EtcItem" name="Pedra Filosofal Branca">
+		
+		<set name="icon" val="icon.wise_man_stone_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para obter um item aleatório." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9176" type="EtcItem" name="Pedra Filosofal Verde">
+		
+		<set name="icon" val="icon.wise_man_stone_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para obter um item aleatório." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9177" type="Armor" name="Chapéu de Urso de Pelúcia - Efeito Ressurreição Abençoada">
+		
+		<set name="icon" val="icon.accessory_bear_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um divertido acessório de cabelo tipo sombra em forma de urso. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9178" type="Armor" name="Chapéu Porquinho - Efeito Ressurreição Abençoada">
+		
+		<set name="icon" val="icon.accessory_pig_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um divertido acessório de cabelo tipo sombra em forma de porquinho. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9179" type="Armor" name="Chapéu do Bobo da Corte - Efeito Ressurreição Abençoada">
+		
+		<set name="icon" val="icon.accessory_jester_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu bobo festivo do tipo sombra com 2 pontos. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9180" type="Armor" name="Chapéu do Mago - Efeito da Ressurreição Abençoada">
+		
+		<set name="icon" val="icon.accessory_magic_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu de mago do tipo sombra com aba larga e ponta dobrada. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9181" type="Armor" name="Boné Elegante - Efeito Ressurreição Abençoada">
+		
+		<set name="icon" val="icon.accessory_dandy_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo tipo sombra com viseira. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9182" type="Armor" name="Chapeau Romântico - Efeito Ressurreição Abençoada">
+		
+		<set name="icon" val="icon.accessory_romantic_chaperon_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo do tipo sombra adornado com penas. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9183" type="Armor" name="Diadema de Ferro - Efeito de Ressurreição Abençoada">
+		
+		<set name="icon" val="icon.accessory_iron_circlet_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo tipo sombra feito de ferro. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9184" type="Armor" name="Chapéu de Urso de Pelúcia - Efeito Fuga Abençoado">
+		
+		<set name="icon" val="icon.accessory_bear_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um divertido acessório de cabelo tipo sombra em forma de urso. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9185" type="Armor" name="Chapéu Porquinho - Efeito de Fuga Abençoado">
+		
+		<set name="icon" val="icon.accessory_pig_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um divertido acessório de cabelo tipo sombra em forma de porquinho. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9186" type="Armor" name="Chapéu de Bobo da Corte - Efeito de Fuga Abençoado">
+		
+		<set name="icon" val="icon.accessory_jester_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu bobo festivo do tipo sombra com 2 pontos. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9187" type="Armor" name="Chapéu do Mago - Efeito de Fuga Abençoado">
+		
+		<set name="icon" val="icon.accessory_magic_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu de mago do tipo sombra com aba larga e ponta dobrada. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9188" type="Armor" name="Boné Elegante - Efeito Fuga Abençoado">
+		
+		<set name="icon" val="icon.accessory_dandy_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo tipo sombra com viseira. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9189" type="Armor" name="Chapeau Romântico - Efeito Fuga Abençoado">
+		
+		<set name="icon" val="icon.accessory_romantic_chaperon_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo do tipo sombra adornado com penas. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9190" type="Armor" name="Diadema de Ferro - Efeito de Fuga Abençoado">
+		
+		<set name="icon" val="icon.accessory_iron_circlet_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo tipo sombra feito de ferro. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9191" type="Armor" name="Chapéu de Ursinho de Pelúcia - Cabeça Grande">
+		
+		<set name="icon" val="icon.accessory_bear_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um divertido acessório de cabelo tipo sombra em forma de urso. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9192" type="Armor" name="Chapéu Porquinho - Cabeça Grande">
+		
+		<set name="icon" val="icon.accessory_pig_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um divertido acessório de cabelo tipo sombra em forma de porquinho. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9193" type="Armor" name="Chapéu de Bobo da Corte - Cabeça Grande">
+		
+		<set name="icon" val="icon.accessory_jester_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu bobo festivo do tipo sombra com 2 pontos. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9194" type="Armor" name="Chapéu de Mago - Cabeça Grande">
+		
+		<set name="icon" val="icon.accessory_magic_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu de mago do tipo sombra com aba larga e ponta dobrada. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9195" type="Armor" name="Chapéu Elegante - Cabeça Grande">
+		
+		<set name="icon" val="icon.accessory_dandy_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo tipo sombra com viseira. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9196" type="Armor" name="Chapeau Romântico - Cabeça Grande">
+		
+		<set name="icon" val="icon.accessory_romantic_chaperon_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo do tipo sombra adornado com penas. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9197" type="Armor" name="Diadema de Ferro - Cabeça Grande">
+		
+		<set name="icon" val="icon.accessory_iron_circlet_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo tipo sombra feito de ferro. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9198" type="Armor" name="Chapéu de Ursinho de Pelúcia - Fogos de Artifício">
+		
+		<set name="icon" val="icon.accessory_bear_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um divertido acessório de cabelo tipo sombra em forma de urso. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9199" type="Armor" name="Chapéu Porquinho - Fogo de Artifício">
+		
+		<set name="icon" val="icon.accessory_pig_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um divertido acessório de cabelo tipo sombra em forma de porquinho. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+</list>

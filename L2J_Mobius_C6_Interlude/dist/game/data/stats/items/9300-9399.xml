@@ -1,0 +1,345 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="9300" type="Armor" name="Roupa de Baseball">
+		
+		<set name="icon" val="icon.armor_t2000_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1000" />
+		<set name="price" val="5000000" />
+		<for>
+			<add stat="pDef" order="0x10" val="0" />
+			<add stat="maxHp" order="0x40" val="0">
+				<and>
+					<using slotitem="2414;6" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="9301" type="Armor" name="Roupa de Praia">
+		
+		<set name="icon" val="icon.armor_t2000_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1000" />
+		<set name="price" val="5000000" />
+		<for>
+			<add stat="pDef" order="0x10" val="0" />
+			<add stat="maxHp" order="0x40" val="0">
+				<and>
+					<using slotitem="2414;6" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="9302" type="Armor" name="Traje de Urso">
+		
+		<set name="icon" val="icon.armor_t2000_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1000" />
+		<set name="price" val="5000000" />
+		<for>
+			<add stat="pDef" order="0x10" val="0" />
+			<add stat="maxHp" order="0x40" val="0">
+				<and>
+					<using slotitem="2414;6" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="9303" type="Armor" name="Traje de Gatinho">
+		
+		<set name="icon" val="icon.armor_t2000_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1000" />
+		<set name="price" val="5000000" />
+		<for>
+			<add stat="pDef" order="0x10" val="0" />
+			<add stat="maxHp" order="0x40" val="0">
+				<and>
+					<using slotitem="2414;6" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="9350" type="Armor" name="Placeholder">
+		
+		<set name="icon" val="icon.armor_t2000_ul_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id='9310' type="Armor" name="Elmo Dynasty - Pesado">
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="200" />
+		<set name="price" val="5370000" />
+		<set name="crystal_count" val="268" />
+		<for>
+			<add val='200' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9311' type="Armor" name="Peitoral Dynasty - Pesado">
+		<set name="icon" val="ct1icon.armor_t91_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="7620" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="250" />
+		<set name="price" val="14300000" />
+		<set name="crystal_count" val="715" />
+		<for>
+			<add val='250' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9312' type="Armor" name="Perneiras Dynasty - Pesado">
+		<set name="icon" val="ct1icon.armor_t91_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="3260" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="250" />
+		<set name="price" val="8960000" />
+		<set name="crystal_count" val="448" />
+		<for>
+			<add val='250' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9313' type="Armor" name="Luvas Dynasty - Pesado">
+		<set name="icon" val="ct1icon.armor_t91_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="140" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val='140' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9314' type="Armor" name="Botas Dynasty - Pesado">
+		<set name="icon" val="ct1icon.armor_t91_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="140" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val='140' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9315' type="Armor" name="Elmo Dynasty de Couro - leve">
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="180" />
+		<set name="price" val="5370000" />
+		<set name="crystal_count" val="268" />
+		<for>
+			<add val='180' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9316' type="Armor" name="Armadura Dynasty de Couro - leve">
+		<set name="icon" val="ct1icon.armor_t92_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="7620" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="250" />
+		<set name="price" val="14300000" />
+		<set name="crystal_count" val="715" />
+		<for>
+			<add val='250' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9317' type="Armor" name="Calças Dynasty de Couro - leve">
+		<set name="icon" val="ct1icon.armor_t92_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="3260" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="220" />
+		<set name="price" val="8960000" />
+		<set name="crystal_count" val="448" />
+		<for>
+			<add val='220' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9318' type="Armor" name="Luvas Dynasty de Couro - leve">
+		<set name="icon" val="ct1icon.armor_t92_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="150" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val='150' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9319' type="Armor" name="Botas Dynasty de Couro - leve">
+		<set name="icon" val="ct1icon.armor_t92_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="150" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val='150' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9320' type="Armor" name="Chapéu Dynasty - Manto">
+		<set name="icon" val="icon.armor_cloth_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="170" />
+		<set name="price" val="5370000" />
+		<set name="crystal_count" val="268" />
+		<for>
+			<add val='170' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9321' type="Armor" name="Túnica Dynasty - Manto">
+		<set name="icon" val="ct1icon.armor_t93_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Armadura de corpo inteiro" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="7620" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="250" />
+		<set name="price" val="14300000" />
+		<set name="crystal_count" val="715" />
+		<for>
+			<add val='250' order='0x10' stat='pDef'/>
+			<add val='1949' order='0x60' stat='maxMp'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9322' type="Armor" name="Meias Dynasty - Manto">
+		<set name="icon" val="ct1icon.armor_t93_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="3260" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="150" />
+		<set name="price" val="8960000" />
+		<set name="crystal_count" val="448" />
+		<for>
+			<add val='150' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9323' type="Armor" name="Luvas Dynasty - Manto">
+		<set name="icon" val="ct1icon.armor_t93_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="150" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val='150' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9324' type="Armor" name="Calçados Dynasty - Manto">
+		<set name="icon" val="ct1icon.armor_t93_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="150" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val='150' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id="9351" type="EtcItem" name="Poção de Mana Inferior">
+		<set name="icon" val="icon.etc_lesser_potion_blue_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que lentamente restaura a Mana. Seu efeito dura 15 segundos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="90" />
+	</item>
+	<item id="9352" type="EtcItem" name="Poção de Mana Superior">
+		<set name="icon" val="icon.etc_reagent_blue_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que restaura Mana rapidamente. Seu efeito dura 15 segundos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1080" />
+	</item>
+	<item id="9353" type="EtcItem" name="Poção de Mana">
+		<set name="icon" val="icon.etc_potion_blue_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que lentamente restaura o HP. Seu efeito dura 15 segundos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="330" />
+	</item>
+</list>

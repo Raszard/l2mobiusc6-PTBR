@@ -1,0 +1,1002 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3600" type="EtcItem" name="Documento de Confirmação 12">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Mestre Leona." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3601" type="EtcItem" name="Documento de Confirmação 13">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Ferreiro Pinter." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3602" type="EtcItem" name="Documento de Confirmação 14">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Sentinel Knight Smallberry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3603" type="EtcItem" name="Documento de Confirmação 15">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Pixy Murika." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3604" type="EtcItem" name="Documento de Confirmação 16">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Karna." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3605" type="EtcItem" name="Documento de Confirmação 17">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Mestre Harne." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3606" type="EtcItem" name="Documento de Confirmação 18">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Senhor Ortho Lancer." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3607" type="EtcItem" name="Documento de Confirmação 19">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Martin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3608" type="EtcItem" name="Documento de Confirmação 20">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Bispo Maximiliano." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3609" type="EtcItem" name="Documento de Confirmação 21">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Mestre Stapin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3610" type="EtcItem" name="Documento de Confirmação 22">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Mestre Genwitter." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3611" type="EtcItem" name="Documento de Confirmação 23">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Alto Prefeito Clogg." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3612" type="EtcItem" name="Documento de Confirmação 24">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Senhor Kiel Nighthawk." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3613" type="EtcItem" name="Documento de Confirmação 25">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo ferreiro Poitan." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3614" type="EtcItem" name="Documento de Confirmação 26">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Cardeal Seresin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3615" type="EtcItem" name="Documento de Confirmação 27">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo chefe Duda-Mara Takuna." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3616" type="EtcItem" name="Documento de Confirmação 28">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo membro da Guilda dos Caçadores, Colin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3617" type="EtcItem" name="Documento de Confirmação 29">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Guarda Makhis." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3618" type="EtcItem" name="Documento de Confirmação 30">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento confirmando o recebimento após a entrega de um item ao Ancião Cronos. Está assinado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3619" type="EtcItem" name="Documento de Confirmação 31">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Grande Mestre Scraide." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3620" type="EtcItem" name="Documento de Confirmação 32">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Grocer Pano." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3621" type="EtcItem" name="Documento de Confirmação 33">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Alex." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3622" type="EtcItem" name="Documento de Confirmação 34">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo miliciano Leirynn." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3623" type="EtcItem" name="Documento de Confirmação 35">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo pescador Evert." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3624" type="EtcItem" name="Documento de Confirmação 36">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Astrólogo Creta." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3625" type="EtcItem" name="Documento de Confirmação 37">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Mestre Kaiena." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3626" type="EtcItem" name="Documento de Confirmação 38">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Rex." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3627" type="EtcItem" name="Documento de Confirmação 39">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Uruha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3628" type="EtcItem" name="Documento de Confirmação 40">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pela Sentinela Irene." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3629" type="EtcItem" name="Documento de Confirmação 41">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Sentinel Trionell" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3630" type="EtcItem" name="Documento de Confirmação 42">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pela Northwind." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3631" type="EtcItem" name="Documento de Confirmação 43">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Thalia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3632" type="EtcItem" name="Documento de Confirmação 44">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. Está assinado por Pedro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3633" type="EtcItem" name="Documento de Confirmação 45">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo guarda-costas Jax." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3634" type="EtcItem" name="Documento de Confirmação 46">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo pesquisador Lorain." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3635" type="EtcItem" name="Documento de Confirmação 47">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Maestro Nikola." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3636" type="EtcItem" name="Documento de Confirmação 48">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Warden Roderik dos Campos de Execução." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3637" type="EtcItem" name="Documento de Confirmação 49">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo invocador Belthus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3638" type="EtcItem" name="Documento de Confirmação 50">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Enku Chief Kepra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3639" type="EtcItem" name="Documento de Confirmação 51">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo invocador Celestiel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3640" type="EtcItem" name="Documento de Confirmação 52">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Mestre do Orfanato Gupu." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3641" type="EtcItem" name="Documento de Confirmação 53">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Summoner Basillia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3642" type="EtcItem" name="Documento de Confirmação 54">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Senhor Aaron Tanford." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3643" type="EtcItem" name="Documento de Confirmação 55">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo pregador Sla." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3644" type="EtcItem" name="Documento de Confirmação 56">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Windy Shaoring." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3645" type="EtcItem" name="Documento de Confirmação 57">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento confirmando o recebimento após a entrega de um item ao Ancião Casian. Está assinado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3646" type="EtcItem" name="Documento de Confirmação 58">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Annika." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3647" type="EtcItem" name="Documento de Confirmação 59">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Slein Shining Blade." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3648" type="EtcItem" name="Documento de Confirmação 60">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Xãma Varika." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3649" type="EtcItem" name="Documento de Confirmação 61">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Tyra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3650" type="EtcItem" name="Documento de Confirmação 62">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Piper Longbow." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3651" type="EtcItem" name="Documento de Confirmação 63">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Katari." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3652" type="EtcItem" name="Documento de Confirmação 64">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Summoner Camoniell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3653" type="EtcItem" name="Documento de Confirmação 65">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Orim, a Sombra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3654" type="EtcItem" name="Documento de Confirmação 66">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Breka Chief Voltar." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3655" type="EtcItem" name="Documento de Confirmação 67">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Summoner Brynthea." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3656" type="EtcItem" name="Olho do Vidente">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Olho obtido ao matar um vidente flutuante. Artigo especialmente encomendado pela Samed." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3657" type="EtcItem" name="Garra Pincher">
+		
+		<set name="icon" val="icon.etc_fang_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Garra obtida ao matar a aranha pincher. Item especialmente encomendado pelo Ferreiro Pinter." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3658" type="EtcItem" name="Uniforme Ol Mahum">
+		
+		<set name="icon" val="icon.etc_debris_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uniforme de ol mahum recebido do capitão de ol mahum e do senhor de ol mahum. Item especialmente encomendado por Senhor Ortho Lancer." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3659" type="EtcItem" name="Cabeça de Campeão Enku Orc">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Chefe do campeão Orc Enku. Item especialmente encomendado pelo Alto Prefeito Clogg." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3660" type="EtcItem" name="Ferrão de Abelha Sangrenta">
+		
+		<set name="icon" val="icon.etc_sting_a_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ferrão venenoso de uma abelha sangrenta. Item especialmente encomendado pela Grocer Pano." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3661" type="EtcItem" name="Ignição do Fogo Fantasma">
+		
+		<set name="icon" val="icon.etc_oriharukon_ore_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Item especial obtido ao matar o fogo fantasma. Item encomendado especialmente pela Feiticeira Kaiena." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3662" type="EtcItem" name="Sangue Etéreo">
+		
+		<set name="icon" val="icon.etc_potion_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Sangue etéreo recebido por matar um estripador de névoa de terror. Item especialmente encomendado pelo Maestro Nikola." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3663" type="EtcItem" name="Mercadorias Devolvidas 10">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa devolvida pela Samed. Vamos levar isso para um armazém próximo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3664" type="EtcItem" name="Mercadorias Devolvidas 15">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa de joias devolvida por Pixy Murika. Vamos levar isso para um armazém próximo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3665" type="EtcItem" name="Mercadorias Devolvidas 30">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jar devolvido pelo Ancião Cronos. Vamos levar isso para um armazém próximo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3666" type="EtcItem" name="Mercadorias Devolvidas 33">
+		
+		<set name="icon" val="icon.etc_lump_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pepita de ouro devolvida por Alex. Vamos levar isso para um armazém próximo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3667" type="EtcItem" name="Mercadorias Devolvidas 37">
+		
+		<set name="icon" val="icon.etc_spellbook_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Livro devolvido pela Feiticeira Kaiena. Vamos levar isso para um armazém próximo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3668" type="EtcItem" name="Mercadorias Devolvidas 45">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Shaft devolvido pelo guarda-costas Jax. Vamos levar isso para um armazém próximo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3669" type="EtcItem" name="Mercadorias Devolvidas 55">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jar devolvido pelo pregador Sla. Vamos levar isso para um armazém próximo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3670" type="EtcItem" name="Mercadorias Devolvidas 60">
+		
+		<set name="icon" val="icon.etc_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pequenas caixas devolvidas pelo Xamã Varika. Vamos levar isso para um armazém próximo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3671" type="EtcItem" name="1a Ordem de Sophia">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ordem da Chefe Mercenária Sophya. Diz para destruir os mortos-vivos no Execution Grounds." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3672" type="EtcItem" name="2a Ordem de Sophia">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ordem da Chefe Mercenária Sophya. Diz para destruir Ol Mahums na Fortaleza da Resistência." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3673" type="EtcItem" name="3a Ordem de Sophia">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ordem da Chefe Mercenária Sophya. Diz para destruir Delu Homem Lagarto das áreas ao sul das regiões de Dion e Giran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3674" type="EtcItem" name="4a Ordem de Sophia">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ordem da Chefe Mercenária Sophya. Diz para destruir os stakatos do pântano de Cruma Marshland." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3675" type="EtcItem" name="Garra de Leão">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca concedida à pessoa que obtiver méritos diferenciados nos Mercenários Black Lion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3676" type="EtcItem" name="Olho de Leão">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca concedida à pessoa que alcança méritos muito ilustres nos Mercenários Black Lion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3677" type="EtcItem" name="Moeda da Guilda">
+		
+		<set name="icon" val="icon.etc_coins_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Moeda comemorativa dada como agradecimento pelos membros do Aden Commercial Guild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3678" type="EtcItem" name="Texto de Alquimia">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro que pode ser obtido com a Alquimista Matild. de acordo com as instruções escritas no livro, vá encontrar a árvore guardiã do segredo localizada em Cruma Marshlands e obtenha o livro secreto." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3679" type="EtcItem" name="Livro Secreto da Poção">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Livro antigo recebido das árvores guardiãs do segredo. Leve isso para a Alquimista Matild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3680" type="EtcItem" name="1a Receita de Poção">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Escamas de Basilisco Âmbar, Pedra da Alma do Vento do Vento Sussurrante, Olho de Vidro do Jaguar de Vidro, Sangue de Bugbear Turak" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3681" type="EtcItem" name="2a Receita de Poção">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O Chifre dos Silenos, o Pulgão Formiga Soldado, a Quitina do Tirano e o Ectoplasma do Terror do Estripador da Névoa do Terror." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3682" type="EtcItem" name="Orbe de Matild">
+		
+		<set name="icon" val="icon.etc_crystal_ball_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado de amizade do Alquimista Matild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3683" type="EtcItem" name="Pergaminho do Amor Proibido">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os segredos do amor depravado, mas arrebatador, estão escritos. Pode ser vendido por um preço alto para uma pessoa interessada..." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3684" type="EtcItem" name="Escamas de Âmbar">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ingrediente necessário para fazer a poção dos desejos. Leve-o com os outros ingredientes para a Alquimista Matild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3685" type="EtcItem" name="Pedra da Alma do Vento">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ingrediente necessário para fazer a poção dos desejos. Leve-o com os outros ingredientes para a Alquimista Matild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3686" type="EtcItem" name="Olho de Vidro">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ingrediente necessário para fazer a poção dos desejos. Leve-o com os outros ingredientes para a Alquimista Matild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3687" type="EtcItem" name="Ectoplasma do Terror">
+		
+		<set name="icon" val="icon.etc_lesser_potion_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ingrediente necessário para fazer a poção dos desejos. Leve-o com os outros ingredientes para a Alquimista Matild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3688" type="EtcItem" name="Chifre do Silenos">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ingrediente necessário para fazer a poção dos desejos. Leve-o com os outros ingredientes para a Alquimista Matild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3689" type="EtcItem" name="Pulgão Soldado Formiga">
+		
+		<set name="icon" val="icon.etc_parasite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ingrediente necessário para fazer a poção dos desejos. Leve-o com os outros ingredientes para a Alquimista Matild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3690" type="EtcItem" name="Quitina do Tirano">
+		
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ingrediente necessário para fazer a poção dos desejos. Leve-o com os outros ingredientes para a Alquimista Matild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3691" type="EtcItem" name="Sangue de Bugbear">
+		
+		<set name="icon" val="icon.etc_potion_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ingrediente necessário para fazer a poção dos desejos. Leve-o com os outros ingredientes para a Alquimista Matild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3692" type="EtcItem" name="Licença de Caçador do 1a Círculo">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado que comprova a elegibilidade como caçador de 1a círculo. Você deve ter isso para poder cumprir as ordens dadas pela Guilda dos Caçadores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3693" type="EtcItem" name="Licença de Caçador do 2a Círculo">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado que comprova a elegibilidade como caçador de 2a círculo. Você deve ter isso para poder cumprir as ordens dadas pela Guilda dos Caçadores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3694" type="EtcItem" name="Alfinete de Folha de Laurel">
+		
+		<set name="icon" val="icon.etc_herb_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca dada aos caçadores que cumprem com sucesso os pedidos da guilda. Quanto mais experiente um caçador é, mais desses ele ou ela tem." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3695" type="EtcItem" name="1a Teste Instruções">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Instruções do teste para o certificado de caçador do 1a círculo. Diz para completar pelo menos três das seis tarefas apresentadas por Gray." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3696" type="EtcItem" name="2a Teste de Instruções">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Instruções do teste para o certificado de caçador do 2a círculo. Diz para completar pelo menos três das seis tarefas apresentadas por Gray." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3697" type="EtcItem" name="Pedido de Cybellin">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pede para você aumentar a pureza do cristal de sangue matando Homem Lagarto Leto ou Harit Homem Lagarto com adaga de cibelina." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3698" type="EtcItem" name="Cristal de Sangue: Pureza 1">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jóia sangrenta que contém poder mágico sombrio. Pureza 1. Quanto maior a pureza do cristal, maior o valor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3699" type="EtcItem" name="Cristal de Sangue: Pureza 2">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jóia sangrenta que contém poder mágico sombrio. Pureza 2. Quanto maior a pureza do cristal, maior o valor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

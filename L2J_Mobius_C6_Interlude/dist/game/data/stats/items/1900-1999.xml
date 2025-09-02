@@ -1,0 +1,902 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1900" type="EtcItem" name="Correntes de Colar Encantada">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Colar Encantado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1828" />
+	</item>
+	<item id="1901" type="EtcItem" name="Brinco Olho de Tigre Pedra">
+		
+		<set name="icon" val="icon.etc_jewel_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Olho de Tigre. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1448" />
+	</item>
+	<item id="1902" type="EtcItem" name="Brincos Élficos">
+		
+		<set name="icon" val="icon.etc_crystal_ball_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o brinco élfico. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1974" />
+	</item>
+	<item id="1903" type="EtcItem" name="Pedaço de Anel Élfico">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Anel Élfico. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1199" />
+	</item>
+	<item id="1904" type="EtcItem" name="Colar Élfico Correntes">
+		
+		<set name="icon" val="icon.etc_crystal_ball_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Colar Élfico. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2143" />
+	</item>
+	<item id="1905" type="EtcItem" name="Presságio Olho da Besta Brinco Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_bead_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Presságio Olho da Besta. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2056" />
+	</item>
+	<item id="1906" type="EtcItem" name="Fio de Anel de Mithril">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Anel de Mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1455" />
+	</item>
+	<item id="1907" type="EtcItem" name="Colar da Gema da Escuridão">
+		
+		<set name="icon" val="icon.etc_gem_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Colar das Trevas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2875" />
+	</item>
+	<item id="1908" type="EtcItem" name="Brinco de Pedra da Lua Fio">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Brinco de Pedra da Lua. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2112" />
+	</item>
+	<item id="1909" type="EtcItem" name="Anel Pedra da Água Fio">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Anel Pedra da Água. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1481" />
+	</item>
+	<item id="1910" type="EtcItem" name="Correntes de Colar Aquastone">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Colar Aquastone. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2656" />
+	</item>
+	<item id="1911" type="EtcItem" name="Brinco de Proteção Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_gem_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Brinco de Proteção. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2689" />
+	</item>
+	<item id="1912" type="EtcItem" name="Anel de Proteção Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_gem_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Anel de Proteção. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1856" />
+	</item>
+	<item id="1913" type="EtcItem" name="Colar de Proteção Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_gem_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Colar de Proteção. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3289" />
+	</item>
+	<item id="1914" type="EtcItem" name="Brinco de Encadernação Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Brinco de Encadernação. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3560" />
+	</item>
+	<item id="1915" type="EtcItem" name="Anel das Eras Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Anel das Eras. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2270" />
+	</item>
+	<item id="1916" type="EtcItem" name="Lágrima do Colar de Sereia">
+		
+		<set name="icon" val="icon.etc_reagent_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Colar da Sereia. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4700" />
+	</item>
+	<item id="1917" type="EtcItem" name="Correntes do Colar do Sábio">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Colar do Sábio. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5845" />
+	</item>
+	<item id="1918" type="EtcItem" name="Brinco de Nassen Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Brinco de Nassen. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4618" />
+	</item>
+	<item id="1919" type="EtcItem" name="Anel de Sálvia Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_bead_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Anel de Sálvia. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3482" />
+	</item>
+	<item id="1920" type="EtcItem" name="Colar de Cadeia de Encadernação">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Colar de Encadernação. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5845" />
+	</item>
+	<item id="1921" type="EtcItem" name="Sapatos de Couro Textura">
+		
+		<set name="icon" val="icon.etc_leather_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Sapatos de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="310" />
+	</item>
+	<item id="1922" type="EtcItem" name="Padrão de Manto de Couro">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer uma Manto de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="784" />
+	</item>
+	<item id="1923" type="EtcItem" name="Padrão de Meia de Couro">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Calça de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="488" />
+	</item>
+	<item id="1924" type="EtcItem" name="Projeto de Capacete de Couro">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Capacete de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="620" />
+	</item>
+	<item id="1925" type="EtcItem" name="Forro de Luvas de Couro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Luvas de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="305" />
+	</item>
+	<item id="1926" type="EtcItem" name="Fragmento de Peitoral Pedaço de Osso">
+		
+		<set name="icon" val="icon.etc_piece_bone_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Peitoral de Osso Pedaço. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1980" />
+	</item>
+	<item id="1927" type="EtcItem" name="Padrão de Camisa de Couro Duro">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Camisa de Couro Duro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2507" />
+	</item>
+	<item id="1928" type="EtcItem" name="Fragmento de Botas de Osso">
+		
+		<set name="icon" val="icon.etc_piece_bone_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer Botas de osso. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1373" />
+	</item>
+	<item id="1929" type="EtcItem" name="Material das Botas de Couro Duro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer Botas de couro duro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1550" />
+	</item>
+	<item id="1930" type="EtcItem" name="Forro da Bota">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Botas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="780" />
+	</item>
+	<item id="1931" type="EtcItem" name="Forro de Bota de Couro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Botas de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1530" />
+	</item>
+	<item id="1932" type="EtcItem" name="Projeto de Capacete de Osso">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Elmo de Osso. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1260" />
+	</item>
+	<item id="1933" type="EtcItem" name="Tecido de Calça das Trevas">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Calça das Trevas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1700" />
+	</item>
+	<item id="1934" type="EtcItem" name="Forro de Luvas de Couro Artesanal">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Luvas de Couro Artesanal. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1530" />
+	</item>
+	<item id="1935" type="EtcItem" name="Fragmento de Correspondência de Escamas">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Scale Mail. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3580" />
+	</item>
+	<item id="1936" type="EtcItem" name="Padrão Manto Branca">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer uma Manto Branca. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2444" />
+	</item>
+	<item id="1937" type="EtcItem" name="Fragmento de Botas de Escamas">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Botas de Escamas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2328" />
+	</item>
+	<item id="1938" type="EtcItem" name="Material de Correspondência de Mithril">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Mithril Banded Mail. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2975" />
+	</item>
+	<item id="1939" type="EtcItem" name="Material de Botas Com Faixa de Mithril">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer Botas com faixas de mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2277" />
+	</item>
+	<item id="1940" type="EtcItem" name="Projeto de Botas de Ferro">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Botas de Ferro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1340" />
+	</item>
+	<item id="1941" type="EtcItem" name="Temperamento Brigandine">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Brigandine. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5029" />
+	</item>
+	<item id="1942" type="EtcItem" name="Textura de Camisa de Pele Manticore">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer uma camisa de pele de Manticor. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3921" />
+	</item>
+	<item id="1943" type="EtcItem" name="Padrão de Botas de Pele Manticore">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer Botas de pele Manticor. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2518" />
+	</item>
+	<item id="1944" type="EtcItem" name="Tecido de Manto de Mithril">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer uma Manto de Mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3921" />
+	</item>
+	<item id="1945" type="EtcItem" name="Desenho de Meia de Mithril">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Calça de Mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2518" />
+	</item>
+	<item id="1946" type="EtcItem" name="Padrão de Manoplas Rasgadas">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Manoplas de Rasgo. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1480" />
+	</item>
+	<item id="1947" type="EtcItem" name="Fragmento de Escudo de Pipa">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Kite Shield. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1389" />
+	</item>
+	<item id="1948" type="EtcItem" name="Padrão de Botas de Poder">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer as Botas do Poder. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1480" />
+	</item>
+	<item id="1949" type="EtcItem" name="Projeto de Luvas de Mithril">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer luvas de mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1792" />
+	</item>
+	<item id="1950" type="EtcItem" name="Têmpera Meia Placas">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Meia Placas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6162" />
+	</item>
+	<item id="1951" type="EtcItem" name="Peça de Botas de Placas">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer Botas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3962" />
+	</item>
+	<item id="1952" type="EtcItem" name="Textura de Correio de Pele de Salamandra">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Salamander Skin Mail. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6244" />
+	</item>
+	<item id="1953" type="EtcItem" name="Forro de Pano de Sage">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Sage's Rag. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6244" />
+	</item>
+	<item id="1954" type="EtcItem" name="Projeto de Meia Karmiana">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Calça Karmiana. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3762" />
+	</item>
+	<item id="1955" type="EtcItem" name="Projeto de Capacete de Correntes">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer um capacete de corrente. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2481" />
+	</item>
+	<item id="1956" type="EtcItem" name="Fragmento de Escudo Quadrado">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Escudo Quadrado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1762" />
+	</item>
+	<item id="1957" type="EtcItem" name="Peça Botas de Assalto">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Botas de Assalto. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1792" />
+	</item>
+	<item id="1958" type="EtcItem" name="Projeto de Botas de Mithril">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para os Anões fazerem Botas de Mithril. Isso pode ser vendido em lojas." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1120" />
+	</item>
+	<item id="1959" type="EtcItem" name="Material de Camisa de Cota de Malha">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer uma camisa de cota de malha. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7425" />
+	</item>
+	<item id="1960" type="EtcItem" name="Peça de Botas de Correntes">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer Botas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3650" />
+	</item>
+	<item id="1961" type="EtcItem" name="Tecido Para Camisa de Mithril">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer uma Camisa de Mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6250" />
+	</item>
+	<item id="1962" type="EtcItem" name="Padrão de Manto Karmiana">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer uma Manto Karmiana. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6250" />
+	</item>
+	<item id="1963" type="EtcItem" name="Parte das Manoplas do Poder do Ogro">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer manoplas de poder de ogro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1792" />
+	</item>
+	<item id="1964" type="EtcItem" name="Temperamento Eldarake">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer um Eldarake. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2475" />
+	</item>
+	<item id="1965" type="EtcItem" name="Material do Capacete de Placas de Metal">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Capacete de Placas de metal. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2967" />
+	</item>
+	<item id="1966" type="EtcItem" name="Fragmento de Couro Banhado">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Couro Banhado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5478" />
+	</item>
+	<item id="1967" type="EtcItem" name="Material das Botas de Couro Banhado">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Botas de Couro Banhado. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3667" />
+	</item>
+	<item id="1968" type="EtcItem" name="Material da Camisa de Cota de Malha dos Anões">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer a camisa de cota de malha dos anões. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8300" />
+	</item>
+	<item id="1969" type="EtcItem" name="Material das Botas de Correntes dos Anões">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer Botas de Correntes Anã. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5233" />
+	</item>
+	<item id="1970" type="EtcItem" name="Manto de Tecido de Vedação">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Manto of Seal. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8956" />
+	</item>
+	<item id="1971" type="EtcItem" name="Ótimo Material Para Capacete">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Grande Capacete. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3267" />
+	</item>
+	<item id="1972" type="EtcItem" name="Fragmento de Escudo do Cavaleiro">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Escudo de Cavaleiro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2500" />
+	</item>
+	<item id="1973" type="EtcItem" name="Desenho de Mão Pa'Agrian">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer uma Mão Pa'agriana. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2378" />
+	</item>
+	<item id="1974" type="EtcItem" name="Tecido Carmesim Para Botas">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Botas Carmesins. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2378" />
+	</item>
+	<item id="1975" type="EtcItem" name="Projeto de Armadura Casca de Couro">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer a armadura de couro Rind. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6089" />
+	</item>
+	<item id="1976" type="EtcItem" name="Material das Botas Casca de Couro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Botas Casca de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3289" />
+	</item>
+	<item id="1977" type="EtcItem" name="Têmpera de Armadura Composta">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer armaduras compostas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="13520" />
+	</item>
+	<item id="1978" type="EtcItem" name="Fragmento de Escudo de Torre">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Escudo da Torre. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3120" />
+	</item>
+	<item id="1979" type="EtcItem" name="Tecido de Manto do Demônio">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer uma Manto do Demônio. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8240" />
+	</item>
+	<item id="1980" type="EtcItem" name="Padrão de Meia do Demônio">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer as Calça do Demônio. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4700" />
+	</item>
+	<item id="1981" type="EtcItem" name="Projeto de Manoplas de Mithril">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Manoplas de Mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3400" />
+	</item>
+	<item id="1982" type="EtcItem" name="Padrão de Botas Esquecidas">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Botas Esquecidas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3400" />
+	</item>
+	<item id="1983" type="EtcItem" name="Padrão de Diadema Brilhante">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Diadema Brilhante. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4560" />
+	</item>
+	<item id="1984" type="EtcItem" name="Padrão de Armadura Theca de Couro">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Armadura Theca de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="9330" />
+	</item>
+	<item id="1985" type="EtcItem" name="Padrão de Botas Theca de Couro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer Botas de couro Theca. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5800" />
+	</item>
+	<item id="1986" type="EtcItem" name="Temperamento de Armadura de Placas Cheia">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer armadura completa. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18927" />
+	</item>
+	<item id="1987" type="EtcItem" name="Drake Armadura de Couro Textura">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Armadura Drake de Couro. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="13109" />
+	</item>
+	<item id="1988" type="EtcItem" name="Manto Divina Tecido">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer a Manto Divina. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10409" />
+	</item>
+	<item id="1989" type="EtcItem" name="Padrão Meia Divina">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer Calça Divinas. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6636" />
+	</item>
+	<item id="1990" type="EtcItem" name="Projeto de Capacete de Mithril">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Elmo de Mithril. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="1991" type="EtcItem" name="Padrão Cap Of Mana">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Cap of Mana. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="1992" type="EtcItem" name="Material do Capô Paradia">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Paradia Hood. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="1993" type="EtcItem" name="Capuz da Textura do Eclipse Solar">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Capuz do Eclipse Solar. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="1994" type="EtcItem" name="Capuz da Textura de Invocação">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Capuz de Invocação. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="1995" type="EtcItem" name="Material do Capuz Elemental">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Capuz Elemental. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="1996" type="EtcItem" name="Textura Capuz Elegante">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Capuz Elegante. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="1997" type="EtcItem" name="Material do Capuz da Fênix">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer um Capuz da Fênix. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="1998" type="EtcItem" name="Capuz de Material de Auxílio">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Capuz da Ajuda. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+	<item id="1999" type="EtcItem" name="Projeto de Elmo Flamejante">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os anões usam para fazer o Flame Helm. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5782" />
+	</item>
+</list>

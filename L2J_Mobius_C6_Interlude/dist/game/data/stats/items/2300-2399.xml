@@ -1,0 +1,1201 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2300" type="EtcItem" name="Receita: Foice">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma foice. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2301" type="EtcItem" name="Receita: Machado de Batalha">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Machado de Batalha. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2302" type="EtcItem" name="Receita: Machado de Prata">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Picareta de Guerra. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2303" type="EtcItem" name="Receita: Gravador de Crânios">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Gravedor de Crânios. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2304" type="EtcItem" name="Receita: Martelo Pesado da Perdição">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Heavy da Perdição Hammer. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2305" type="EtcItem" name="Receita: Cajado de Cristal">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Cajado de Cristal. Requer Criar Item - Nível de Habilidade 4 A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2306" type="EtcItem" name="Receita: Vara da Fé">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um bastão de fé. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2307" type="EtcItem" name="Receita: Heavy da Perdição Axe">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Heavy da Perdição Axe. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2308" type="EtcItem" name="Receita: Adaga Amaldiçoada">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Adaga Amaldiçoada. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2309" type="EtcItem" name="Receita: Agulha de Wolverine">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um carcaju Requiresle. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2310" type="EtcItem" name="Receita: Adaga dos Elfos Sombrios">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Dark Elven Dagger. Requer Criar Item - Nível de Habilidade 4 A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2311" type="EtcItem" name="Receita: Chakram">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Chakram. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2312" type="EtcItem" name="Receita: Arco de Gelo Cristalizado">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Arco de Gelo Cristalizado. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2313" type="EtcItem" name="Receita: Gládio Orc">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Gládio Orc. Requer Criar Item - Nível de Habilidade 4 A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2314" type="EtcItem" name="Receita: Destruidor de Corpos">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Destruidor de Corpos. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45800" />
+	</item>
+	<item id="2315" type="EtcItem" name="Receita: Shamshir">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Shamshir. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2316" type="EtcItem" name="Receita: Katana">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Katana. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2317" type="EtcItem" name="Receita: Bec de Corbin">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Bec de Corbin. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2318" type="EtcItem" name="Receita: Espada Espiritual">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a espada de um espírito. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2319" type="EtcItem" name="Receita: Espada da Invasão">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada da Invasão. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2320" type="EtcItem" name="Receita: Cajado Amaldiçoado">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Cajado Amaldiçoado. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2321" type="EtcItem" name="Receita: Estilete">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um estilete. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2322" type="EtcItem" name="Receita: Soulfire Dirk">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Soulfire Dirk. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2323" type="EtcItem" name="Receita: Arco Elemental">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Arco Elemental. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2324" type="EtcItem" name="Receita: Arco Élfico da Nobreza">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Arco Élfico da Nobreza. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2325" type="EtcItem" name="Receita: Lágrimas de Fada">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Lágrimas de Fada. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2326" type="EtcItem" name="Receita: Chifre da Glória">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Chifre da Glória. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="2327" type="EtcItem" name="Receita: Caliburs">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para os Caliburs. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2328" type="EtcItem" name="Receita: Espada da Ilusão">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada da Ilusão. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2329" type="EtcItem" name="Receita: Tsurugi">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Tsurugi. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2330" type="EtcItem" name="Receita: Espada de Homunkulus">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Espada do Homunkulus. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2331" type="EtcItem" name="Receita: Lançamachado">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Poleaxe. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2332" type="EtcItem" name="Receita: Espada do Limite">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada do Limite. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2333" type="EtcItem" name="Receita: Espada do Pesadelo">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada do Pesadelo. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2334" type="EtcItem" name="Receita: Espada da Morte Sussurrante">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Espada da Morte Sussurrante. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2335" type="EtcItem" name="Receita: Machado de Guerra">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um machado de guerra. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2336" type="EtcItem" name="Receita: Nirvana Axe">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Nirvana Axe. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2337" type="EtcItem" name="Receita: Bastão da Eternidade">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Stick of Eternity. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2338" type="EtcItem" name="Receita: Staff Paradia See More">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita de um Cajado Paradia. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2339" type="EtcItem" name="Receita: Cajado Infernal">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Cajado Infernal. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2340" type="EtcItem" name="Receita: Martelo Pa'Agriano">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Martelo Pa'Agriano. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2341" type="EtcItem" name="Receita: Cajado do Sábio">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Cajado de um Sábio. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2342" type="EtcItem" name="Receita: Porrete da Natureza">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita de um Porrete da Natureza. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2343" type="EtcItem" name="Receita: Maça do Submundo">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma maça do submundo. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2344" type="EtcItem" name="Receita: Adaga Elegante">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Adaga Elegante. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2345" type="EtcItem" name="Receita: Dark Screamer">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Dark Screamer. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2346" type="EtcItem" name="Receita: Lâmina Punhada">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma lâmina com soqueira. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2347" type="EtcItem" name="Receita: Arco Longo Akat">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Akat Long Bow. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2348" type="EtcItem" name="Receita: Livro do Pagão">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Livro do Pagão. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2349" type="EtcItem" name="Receita: Boneca Hex">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma boneca Hex. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="2350" type="EtcItem" name="Receita: Machado Pa'Agrian">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Machado Pa'agrian. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="95600" />
+	</item>
+	<item id="2351" type="EtcItem" name="Receita: Escorpião">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Escorpião. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="95600" />
+	</item>
+	<item id="2352" type="EtcItem" name="Receita: Criador de Viúvas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Criador de Viúvas. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="95600" />
+	</item>
+	<item id="2353" type="EtcItem" name="Receita: Espada Longa de Samurai">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Espada Longa Samurai. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2354" type="EtcItem" name="Receita: Cajado do Homem Morto">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Cajado do Homem Morto. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2355" type="EtcItem" name="Receita: Cajado do Canibal">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Cajado do Canibal. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2356" type="EtcItem" name="Receita: Cajado do Demônio">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Cajado do Demônio. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2357" type="EtcItem" name="Receita: Adaga de Cristal">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Adaga de Cristal. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2358" type="EtcItem" name="Receita: Pata Grande">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita de uma Grande Pata. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2359" type="EtcItem" name="Receita: Arco de Eminência">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Arco de Eminência. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2360" type="EtcItem" name="Receita: Orc Varamachado">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Orc Varamachado. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2361" type="EtcItem" name="Receita: Vela da Sabedoria">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Vela da Sabedoria. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2362" type="EtcItem" name="Receita: Ramo Bendito">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita de um Ramo Bendito. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2363" type="EtcItem" name="Receita: Pena da Fênix">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Phoenix Feather. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2364" type="EtcItem" name="Receita: Olho do Cerberus">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Olho do Cerberus. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2365" type="EtcItem" name="Receita: Pergaminho da Destruição">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Pergaminho da Destruição. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2366" type="EtcItem" name="Receita: Garras do Dragão Negro">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Garras do Dragão Negro. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2367" type="EtcItem" name="Receita: Pena de Corvo de Três Olhos">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Pena de Corvo de Três Olhos. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="2368" type="Weapon" name="Luvas de Treino">
+		<set name="icon" val="icon.weapon_training_gloves_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1580" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="7" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="5" />
+		<set name="price" val="138" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="7" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2369" type="Weapon" name="Espada do Escudeiro">
+		<set name="icon" val="icon.weapon_squires_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1600" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="6" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="5" />
+		<set name="price" val="138" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="6" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2370" type="Weapon" name="Porrete de Membros da Guilda">
+		<set name="icon" val="icon.weapon_club_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1910" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="6" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="5" />
+		<set name="price" val="138" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="6" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2371" type="Weapon" name="Punho do Açougueiro">
+		<set name="icon" val="icon.weapon_iron_glove_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1400" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="16" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="10" />
+		<set name="price" val="25500" />
+		<for>
+			<set val="16" order="0x08" stat="pAtk" />
+			<set val="10" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2372" type="Weapon" name="Adaga do Adepto">
+		<set name="icon" val="icon.weapon_doomed_dagger_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1050" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="11" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="10" />
+		<set name="price" val="25500" />
+		<for>
+			<set val="11" order="0x08" stat="pAtk" />
+			<set val="10" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2373" type="Weapon" name="Cajado Eldritch">
+		<set name="icon" val="icon.weapon_apprentices_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1050" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="13" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="13" />
+		<set name="price" val="25500" />
+		<for>
+			<set val="13" order="0x08" stat="pAtk" />
+			<set val="13" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2374" type="Weapon" name="Adaga Vermelha do Crepúsculo">
+		<set name="icon" val="icon.weapon_doomed_dagger_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="11" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="10" />
+		<set name="price" val="25500" />
+		<for>
+			<set val="11" order="0x08" stat="pAtk" />
+			<set val="10" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2375" type="EtcItem" name="Colar de Lobo">
+		<set name="icon" val="icon.etc_prefect_belt_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="2376" type="Armor" name="Peitoral de Avadon">
+		<set name="icon" val="icon.armor_t66_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="7920" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="157" />
+		<set name="price" val="2080000" />
+		<set name="crystal_count" val="277" />
+		<for>
+			<add val="157" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2377" type="Armor" name="Calça de Escamas de Mithril">
+		<set name="icon" val="icon.armor_t40_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="3870" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="64" />
+		<set name="price" val="187000" />
+		<set name="crystal_count" val="340" />
+		<for>
+			<add val="64" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2378" type="Armor" name="Calça Brigandine">
+		<set name="icon" val="icon.armor_t43_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="3820" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="64" />
+		<set name="price" val="187000" />
+		<set name="crystal_count" val="340" />
+		<for>
+			<add val="64" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2379" type="Armor" name="Calça Avadon">
+		<set name="icon" val="icon.armor_t66_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="3520" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="98" />
+		<set name="price" val="1300000" />
+		<set name="crystal_count" val="173" />
+		<for>
+			<add val="98" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2380" type="Armor" name="Calça Lobo Azul">
+		<set name="icon" val="icon.armor_t68_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="3370" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="104" />
+		<set name="price" val="2010000" />
+		<set name="crystal_count" val="268" />
+		<for>
+			<add val="104" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2381" type="Armor" name="Armadura de Placas da Perdição">
+		
+		<set name="icon" val="icon.armor_t71_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="9980" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="270" />
+		<set name="price" val="4710000" />
+		<set name="crystal_count" val="628" />
+		<for>
+			<add val="270" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2382" type="Armor" name="Armadura Tallum de Placas">
+		
+		<set name="icon" val="icon.armor_t77_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="9780" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="278" />
+		<set name="price" val="6770000" />
+		<set name="crystal_count" val="541" />
+		<for>
+			<add val="278" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2383" type="Armor" name="Armadura Majestosa de Placas">
+		
+		<set name="icon" val="icon.armor_t83_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="9200" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="293" />
+		<set name="price" val="10300000" />
+		<set name="crystal_count" val="824" />
+		<for>
+			<add val="293" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2384" type="Armor" name="Camisa Zubei de Couro">
+		<set name="icon" val="icon.armor_t65_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="4330" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="117" />
+		<set name="price" val="1560000" />
+		<set name="crystal_count" val="208" />
+		<for>
+			<add val="117" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2385" type="Armor" name="Armadura de Cristal Escuro de Couro">
+		<set name="icon" val="icon.armor_t75_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="4300" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="128" />
+		<set name="price" val="3470000" />
+		<set name="crystal_count" val="277" />
+		<for>
+			<add val="128" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2386" type="Armor" name="Calça de Madeira">
+		<set name="icon" val="icon.armor_t06_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1670" />
+		<set name="p_def" val="29" />
+		<set name="price" val="4970" />
+		<for>
+			<add val="29" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="2387" type="Armor" name="Calça de Mithril Temperadas">
+		<set name="icon" val="icon.armor_t47_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1530" />
+		<set name="crystal_type" val="c" />
+		<set name="p_def" val="56" />
+		<set name="price" val="237000" />
+		<set name="crystal_count" val="94" />
+		<for>
+			<add val="56" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2388" type="Armor" name="Calça Zubei de Couro">
+		<set name="icon" val="icon.armor_t65_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1480" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="73" />
+		<set name="price" val="973000" />
+		<set name="crystal_count" val="129" />
+		<for>
+			<add val="73" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2389" type="Armor" name="Calça de Cristal Escuro">
+		<set name="icon" val="icon.armor_t75_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1480" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="80" />
+		<set name="price" val="2170000" />
+		<set name="crystal_count" val="173" />
+		<for>
+			<add val="80" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2390" type="Armor" name="Armadura Avadon de Couro">
+		
+		<set name="icon" val="icon.armor_t67_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5600" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="191" />
+		<set name="price" val="2280000" />
+		<set name="crystal_count" val="304" />
+		<for>
+			<add val="191" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2391" type="Armor" name="Armadura Lobo Azul de Couro">
+		
+		<set name="icon" val="icon.armor_t69_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5500" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="202" />
+		<set name="price" val="3530000" />
+		<set name="crystal_count" val="470" />
+		<for>
+			<add val="202" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2392" type="Armor" name="Armadura da Perdição de Couro">
+		
+		<set name="icon" val="icon.armor_t72_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5500" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="202" />
+		<set name="price" val="3530000" />
+		<set name="crystal_count" val="470" />
+		<for>
+			<add val="202" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2393" type="Armor" name="Armadura Tallum de Couro">
+		
+		<set name="icon" val="icon.armor_t78_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5400" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="209" />
+		<set name="price" val="5080000" />
+		<set name="crystal_count" val="406" />
+		<for>
+			<add val="209" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2394" type="Armor" name="Armadura Pesadelo de Couro">
+		
+		<set name="icon" val="icon.armor_t81_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5300" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="220" />
+		<set name="price" val="7730000" />
+		<set name="crystal_count" val="618" />
+		<for>
+			<add val="220" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2395" type="Armor" name="Armadura Majestosa de Couro">
+		
+		<set name="icon" val="icon.armor_t84_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5350" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="220" />
+		<set name="price" val="7730000" />
+		<set name="crystal_count" val="618" />
+		<for>
+			<add val="220" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2396" type="Armor" name="Manto Élfica de Mithril">
+		<set name="icon" val="icon.armor_elven_tunic_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="720" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="54" />
+		<set name="mp_bonus" val="169" />
+		<set name="price" val="224000" />
+		<set name="crystal_count" val="407" />
+		<for>
+			<add val="54" order="0x10" stat="pDef" />
+			<add val="169" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2397" type="Armor" name="Manto Zubei">
+		<set name="icon" val="icon.armor_t56_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1960" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="78" />
+		<set name="mp_bonus" val="345" />
+		<set name="price" val="1560000" />
+		<set name="crystal_count" val="208" />
+		<for>
+			<add val="78" order="0x10" stat="pDef" />
+			<add val="345" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2398" type="Armor" name="Manto Lobo Azul">
+		<set name="icon" val="icon.armor_t70_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1920" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="83" />
+		<set name="mp_bonus" val="377" />
+		<set name="price" val="2410000" />
+		<set name="crystal_count" val="321" />
+		<for>
+			<add val="83" order="0x10" stat="pDef" />
+			<add val="377" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="2399" type="Armor" name="Manto da Perdição">
+		<set name="icon" val="icon.armor_t73_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1900" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="83" />
+		<set name="mp_bonus" val="377" />
+		<set name="price" val="2410000" />
+		<set name="crystal_count" val="321" />
+		<for>
+			<add val="83" order="0x10" stat="pDef" />
+			<add val="377" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+</list>

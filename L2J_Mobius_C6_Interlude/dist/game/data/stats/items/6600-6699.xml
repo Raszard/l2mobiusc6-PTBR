@@ -1,0 +1,1661 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6600" type="Weapon" name="Lança Santa - Orientação">
+		
+		<set name="icon" val="icon.weapon_saint_spear_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Precisão em cerca de 5. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1800" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="281" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3602" /> 
+		<set name="item_skill_lvl" val="5" />
+		<for>
+			<set val="281" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="6601" type="Weapon" name="Lança Santa - Pressa">
+		
+		<set name="icon" val="icon.weapon_saint_spear_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Vel. Atq. em cerca de 7%. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1800" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="281" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3068" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="281" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<mul val="1.07" order="0x30" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="6602" type="Weapon" name="Punhos Demoníacos - Foco">
+		
+		<set name="icon" val="icon.weapon_demon_splinter_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a chance de crítico em 80. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1350" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="342" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3565" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="342" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<add val="80" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+	<item id="6603" type="Weapon" name="Punhos Demoníacos - Vida">
+		
+		<set name="icon" val="icon.weapon_demon_splinter_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1350" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="342" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3013" /> 
+		<set name="item_skill_lvl" val="4" />
+		<for>
+			<set val="342" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="6604" type="Weapon" name="Punhos Demoníacos - Atordoamento Crítico">
+		
+		<set name="icon" val="icon.weapon_demon_splinter_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Produz um efeito de atordoamento a uma taxa de cerca de 25% durante um ataque crítico. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1350" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="342" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="onCrit_skill_id" val="3070" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="16" />
+		<for>
+			<set val="342" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="6605" type="Weapon" name="Divisor de Céus - Pressa">
+		
+		<set name="icon" val="icon.weapon_heavens_divider_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Vel. Atq. em cerca de 7%. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="342" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3601" /> 
+		<set name="item_skill_lvl" val="9" />
+		<for>
+			<set val="342" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<mul val="1.07" order="0x30" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="6606" type="Weapon" name="Divisor de Céus - Vida">
+		
+		<set name="icon" val="icon.weapon_heavens_divider_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="342" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3013" /> 
+		<set name="item_skill_lvl" val="4" />
+		<for>
+			<set val="342" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="6607" type="Weapon" name="Divisor de Céus - Foco">
+		
+		<set name="icon" val="icon.weapon_heavens_divider_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a chance de crítico em 84. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="342" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3566" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="342" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<add val="84" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+	<item id="6608" type="Weapon" name="Maça Arcana - Perspicácia">
+		
+		<set name="icon" val="icon.weapon_arcana_mace_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Velocidade de Conjuração. em 15%. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="225" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="175" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3047" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="225" order="0x08" stat="pAtk" />
+			<set val="175" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+		</for>
+	</item>
+	<item id="6609" type="Weapon" name="Maça Arcana - Regen. de MP">
+		
+		<set name="icon" val="icon.weapon_arcana_mace_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a taxa de regeneração de MP. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="225" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="175" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3576" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="225" order="0x08" stat="pAtk" />
+			<set val="175" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="6610" type="Weapon" name="Maça Arcana - Aumento de Mana">
+		
+		<set name="icon" val="icon.weapon_arcana_mace_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 30%. Aumenta o dano infligido durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="225" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="175" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3014" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="225" order="0x08" stat="pAtk" />
+			<set val="175" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6611" type="Weapon" name="Lâmina do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_sword_of_hero_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Durante um ataque crítico, diminui a Def.F e aumenta a capacidade de cast de debuff, efeito de escudo de dano, Max. HP, Max. MP, Max. CP e poder de defesa do escudo. Aumenta o dano ao alvo durante o PvP." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="297" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="137" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3578" /> 
+		<set name="item_skill_lvl" val="1" />
+		<set name="onCrit_skill_id" val="3579" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="4" />
+		<for>
+			<set val="297" order="0x08" stat="pAtk" />
+			<set val="137" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<skill onCrit="1" id="3579" lvl="1" chance="4" />
+			
+		</for>
+	</item>
+	<item id="6612" type="Weapon" name="Cutelo do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_two_handed_sword_of_hero_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Aumenta a taxa/potência de sucesso do ataque crítico, MaxHP, MaxCP e danos infligidos durante o PvP. Inflige dano extra no ataque crítico. Reflete o ataque de debuff no inimigo." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="361" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="137" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3582" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="361" order="0x08" stat="pAtk" />
+			<set val="137" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6613" type="Weapon" name="Machado do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_axe_of_hero_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Durante um ataque crítico, confere a habilidade de causar conflito interno ao oponente. A função de escudo de dano, Max. HP, Max. MP, Max. CP, bem como a taxa de defesa do escudo são aumentadas. Também aumenta o dano ao alvo durante o PvP." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="297" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="137" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3580" /> 
+		<set name="item_skill_lvl" val="1" />
+		<set name="onCrit_skill_id" val="3581" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="5" />
+		<for>
+			<set val="297" order="0x08" stat="pAtk" />
+			<set val="137" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<skill onCrit="1" id="3581" lvl="1" chance="5" />
+			
+		</for>
+	</item>
+	<item id="6614" type="Weapon" name="Bastão do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_mace_of_hero_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Quando boa magia é lançada sobre um alvo, aumenta Max. MP, Max. CP, Vel. Conjuração e taxa de regeneração de MP. Durante o PvP, a regeneração de HP é aumentada para 100% e aumenta o dano ao alvo." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="238" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="182" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3597" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="238" order="0x08" stat="pAtk" />
+			<set val="182" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6615" type="Weapon" name="Triturador do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_hammer_of_hero_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Aumenta Max. HP, Max. CP e Vel. Atq. Atordoa um alvo quando ocorre um ataque crítico e tem a possibilidade de refletir a habilidade de volta no jogador. Aumenta o dano ao alvo durante o PvP." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="361" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="137" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3583" /> 
+		<set name="item_skill_lvl" val="1" />
+		<set name="onCrit_skill_id" val="3584" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="25" />
+		<for>
+			<set val="361" order="0x08" stat="pAtk" />
+			<set val="137" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<skill onCrit="1" id="3584" lvl="1" chance="25" />
+			
+		</for>
+	</item>
+	<item id="6616" type="Weapon" name="Cetro do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_staff_of_hero_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="ao lançar boa magia, a regeneração de HP aumenta 100%, aumenta MAX MP, Max. CP, M. Atk., reduz o consumo de MP, aumenta a taxa de Magic Critical e reduz o Magic Cancel. Aumenta o dano ao alvo durante o PvP." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="290" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="182" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3595" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="290" order="0x08" stat="pAtk" />
+			<set val="182" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6617" type="Weapon" name="Ferrão do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_dagger_of_hero_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Aumenta Max. MP, Max. CP, Atk. Velocidade, taxa de regeneração de MP e taxa de sucesso de Golpe Mortal e Mortal nas costas do alvo. Silencia o alvo quando ocorre um ataque crítico e tem efeito Vampiric Rage. Aumenta o dano ao alvo durante o PvP." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="260" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="137" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3589" /> 
+		<set name="item_skill_lvl" val="1" />
+		<set name="onCrit_skill_id" val="3590" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="5" />
+		<for>
+			<set val="260" order="0x08" stat="pAtk" />
+			<set val="137" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<skill onCrit="1" id="3590" lvl="1" chance="5" />
+			
+		</for>
+	</item>
+	<item id="6618" type="Weapon" name="Presa do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_fist_of_hero_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Aumenta Max. HP, Max. MP, Max. CP e evasão. Atordoa um alvo quando ocorre um ataque crítico e tem a possibilidade de refletir a habilidade de volta no jogador em uma certa taxa de chance. Aumenta o dano ao alvo durante o PvP." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="361" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="137" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3587" /> 
+		<set name="item_skill_lvl" val="1" />
+		<set name="onCrit_skill_id" val="3588" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="25" />
+		<for>
+			<set val="361" order="0x08" stat="pAtk" />
+			<set val="137" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<skill onCrit="1" id="3588" lvl="1" chance="25" />
+			
+		</for>
+	</item>
+	<item id="6619" type="Weapon" name="Arco do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_bow_of_hero_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Aumenta Max. MP/Max. CP e diminui o atraso de reutilização de um arco. Retarda o alvo quando ocorre um ataque crítico e tem efeito Tiro Barato. Aumenta o dano ao alvo durante o PvP." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="614" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="11" />
+		<set name="m_dam" val="137" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3593" /> 
+		<set name="item_skill_lvl" val="1" />
+		<set name="onCrit_skill_id" val="3594" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="7" />
+		<for>
+			<set val="614" order="0x08" stat="pAtk" />
+			<set val="137" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<skill onCrit="1" id="3594" lvl="1" chance="7" />
+			
+		</for>
+	</item>
+	<item id="6620" type="Weapon" name="Asa do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_dualsword_of_hero_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando ocorre um ataque crítico, aumenta Max. HP, Max. MP, Max. CP e chance crítica. Silencia o alvo e tem a possibilidade de refletir a habilidade de volta no alvo. Aumenta o dano ao alvo durante o PvP." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="361" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="137" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3585" /> 
+		<set name="item_skill_lvl" val="1" />
+		<set name="onCrit_skill_id" val="3586" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="10" />
+		<for>
+			<set val="361" order="0x08" stat="pAtk" />
+			<set val="137" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<skill onCrit="1" id="3586" lvl="1" chance="10" />
+			
+		</for>
+	</item>
+	<item id="6621" type="Weapon" name="Lança do Infinito">
+		
+		<set name="icon" val="icon.weapon_the_pole_of_hero_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Durante um ataque crítico, aumenta Max. HP, Max. CP, Vel. Atq. e Precisão. Conjura dissipar em um alvo e tem possibilidade de refletir a habilidade de volta no alvo. Aumenta o dano ao alvo durante o PvP." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="297" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="137" />
+		<set name="price" val="57000000" />
+		<set name="crystal_count" val="2850" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3591" /> 
+		<set name="item_skill_lvl" val="1" />
+		<set name="onCrit_skill_id" val="3592" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="100" />
+		<for>
+			<set val="297" order="0x08" stat="pAtk" />
+			<set val="137" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6622" type="EtcItem" name="Livro Secreto dos Gigantes">
+		
+		<set name="icon" val="icon.etc_codex_of_giant_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Pergaminho dos Gigantes. Leve-o a um certo NPC para encantar suas habilidades." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="6623" type="EtcItem" name="Manequim - Item de Missão 1">
+		
+		<set name="icon" val="icon.etc_socks_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Objetivo do teste - Item de missão" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6624" type="EtcItem" name="Manequim - Item de Missão 2">
+		
+		<set name="icon" val="icon.etc_socks_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Objetivo do teste - Item de missão" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6625" type="EtcItem" name="Manequim - Item de Missão 3">
+		
+		<set name="icon" val="icon.etc_socks_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Objetivo do teste - Item de missão" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6626" type="EtcItem" name="Manequim - Item de Missão 4">
+		
+		<set name="icon" val="icon.etc_socks_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Objetivo do teste - Item de missão" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6627" type="EtcItem" name="Manequim - Item de Missão 5">
+		
+		<set name="icon" val="icon.etc_socks_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Objetivo do teste - Item de missão" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6628" type="EtcItem" name="Manequim - Item de Missão 6">
+		
+		<set name="icon" val="icon.etc_socks_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Objetivo do teste - Item de missão" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6629" type="EtcItem" name="Manequim - Item de Missão 7">
+		
+		<set name="icon" val="icon.etc_socks_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Objetivo do teste - Item de missão" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6630" type="EtcItem" name="Manequim - Item de Missão 8">
+		
+		<set name="icon" val="icon.etc_socks_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Objetivo do teste - Item de missão" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6631" type="EtcItem" name="Manequim - Item de Missão 9">
+		
+		<set name="icon" val="icon.etc_socks_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Objetivo do teste - Item de missão" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6632" type="EtcItem" name="Manequim - Item de Missão 10">
+		
+		<set name="icon" val="icon.etc_socks_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Objetivo do teste - Item de missão" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6633" type="EtcItem" name="Manequim - Item Geral 1">
+		
+		<set name="icon" val="icon.etc_socks_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Finalidade do teste - Item geral" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6634" type="EtcItem" name="Manequim - Item Geral 2">
+		
+		<set name="icon" val="icon.etc_socks_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Finalidade do teste - Item geral" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6635" type="EtcItem" name="Manequim - Item Geral 3">
+		
+		<set name="icon" val="icon.etc_socks_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Finalidade do teste - Item geral" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6636" type="EtcItem" name="Manequim - Item Geral 4">
+		
+		<set name="icon" val="icon.etc_socks_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Finalidade do teste - Item geral" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6637" type="EtcItem" name="Manequim - Item Geral 5">
+		
+		<set name="icon" val="icon.etc_socks_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Finalidade do teste - Item geral" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6638" type="EtcItem" name="Manequim - Item Geral 6">
+		
+		<set name="icon" val="icon.etc_socks_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Finalidade do teste - Item geral" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6639" type="EtcItem" name="Manequim - Item Geral 7">
+		
+		<set name="icon" val="icon.etc_socks_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Finalidade do teste - Item geral" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6640" type="EtcItem" name="Manequim - Item Geral 8">
+		
+		<set name="icon" val="icon.etc_socks_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Finalidade do teste - Item geral" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6641" type="EtcItem" name="Manequim - Item Geral 9">
+		
+		<set name="icon" val="icon.etc_socks_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Finalidade do teste - Item geral" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6642" type="EtcItem" name="Manequim - Item Geral 10">
+		
+		<set name="icon" val="icon.etc_socks_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Finalidade do teste - Item geral" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6643" type="EtcItem" name="Especiaria Dourada">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Alimento para criaturas na Beast Farm. - Quando esta comida é fornecida a monstros que são capazes de evoluir, eles o farão em várias taxas. Uma vez que um monstro atinge um certo nível de crescimento, ele pode se tornar um animal de estimação. Essa comida também faz com que os monstros soltem apenas adena." />
+		<set name="weight" val="40" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="6644" type="EtcItem" name="Especiaria Cristal">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Alimento para criaturas na Beast Farm. - Quando esta comida é fornecida a monstros que são capazes de evoluir, eles o farão em várias taxas. Uma vez que um monstro atinge um certo nível de crescimento, ele pode se tornar um animal de estimação. Este alimento também faz com que os monstros derrubem apenas materiais." />
+		<set name="weight" val="40" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="6645" type="EtcItem" name="Soulshot da Besta">
+		
+		<set name="icon" val="icon.etc_beast_soul_shot_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="A luz de um espírito é concedida a um animal de estimação/Servo e aumenta temporariamente o poder de ataque. O número de soulshots consumidos pode ser visto na janela Info. Pet/Servo. (Usado no inventário do mestre.)" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="6646" type="EtcItem" name="Spiritshot da Besta">
+		
+		<set name="icon" val="icon.etc_beast_spirit_shot_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="A luz de um espírito é concedida a um animal de estimação/Servo e aumenta temporariamente o poder de Atq.M O número de spiritshots consumidos pode ser visualizado na janela Info. Pet/Servo. (Usado no inventário do mestre.)" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="6647" type="EtcItem" name="Spiritshot Abençoado da Besta">
+		
+		<set name="icon" val="icon.etc_blessed_beast_spirit_shot_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="A luz de um espírito de nível superior é concedida a um animal de estimação/Servo e aumenta temporariamente o poder de Atq.M O número de spiritshots abençoados consumidos pode ser visualizado na janela de informações do animal de estimação/Servo. (Usado no inventário do mestre.)" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="6648" type="EtcItem" name="Flauta de Pã do Bebê Búfalo">
+		
+		<set name="icon" val="icon.etc_buffalo_panpipe_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="Um panpipe que é usado para chamar um bebê búfalo. O bebê búfalo vai tirar 10% do Exp que seu mestre adquirir." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="6649" type="EtcItem" name="Sino do Bebê Puma">
+		
+		<set name="icon" val="icon.etc_cougar_chime_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="Um Sino que é usado para chamar um bebê puma. O bebê puma vai tirar 10% do Exp que seu mestre adquirir." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="6650" type="EtcItem" name="Ocarina do Bebê Kookaburra">
+		
+		<set name="icon" val="icon.etc_kukaburo_ocarina_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="Sentido: Uma ocarina que é usada para chamar um bebê de Kookaburra. O bebê Kookaburra vai tirar 10% do Exp que seu mestre adquirir." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="6651" type="EtcItem" name="Passe Portão da Nobreza">
+		<set name="icon" val="icon.etc_nobless_teleport_coupon_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6652" type="EtcItem" name="Pergaminho: Proteção de Valakas">
+		
+		<set name="icon" val="icon.etc_blesscharm_ward_val_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta sua resistência a um ataque feito com as garras dianteiras de Valakas." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="6653" type="EtcItem" name="Pergaminho: Chamas de Valakas">
+		<set name="icon" val="icon.etc_aidcharm_cancel_deathfire_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6654" type="EtcItem" name="Pergaminho: Chamas de Valakas">
+		
+		<set name="icon" val="icon.etc_aidcharm_cancel_valbreath_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Remove o estado anormal resultante do ataque de sopro de fogo de Valakas." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40000" />
+	</item>
+	<item id="6655" type="EtcItem" name="Pergaminho: Matar Valakas">
+		
+		<set name="icon" val="icon.etc_blesscharm_slay_val_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta seu Atq.F ao lutar contra Valakas." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6656" type="Armor" name="Brinco do Antharas">
+		
+		<set name="icon" val="icon.accessory_earring_of_antaras_i00" />
+		<set name="bodypart" val="rear,lear" />
+		<set name="desc" val="Produz os seguintes efeitos: MP+31, aumento de 80% na resistência a sangramento, aumento na quantidade de cura, efeito de Fúria Vampírica, aumento de 60% na resistência a atordoamento/silêncio, diminuição do consumo de MP e aumento na resistência ao ataque de terra . Se um personagem usar dois brincos idênticos, o efeito de apenas um brinco será aplicado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="s" />
+		<set name="m_def" val="71" />
+		<set name="mp_bonus" val="31" />
+		<set name="price" val="3700000" />
+		<set name="crystal_count" val="185" />
+		<set name="item_skill_id" val="3558" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="71" order="0x10" stat="mDef" />
+			<add val="31" order="0x40" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="6657" type="Armor" name="Colar do Valakas">
+		
+		<set name="icon" val="icon.accessory_necklace_of_valakas_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="Produz os seguintes efeitos: MP+42, aumento de 80% na resistência ao sono, HP +445, diminuição no atraso de reutilização, aumento no Atq.F e Atq.M efeito de Magia Selvagem, efeito de Escudo de Danos e aumento na resistência ao ataque de fogo." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="s" />
+		<set name="m_def" val="95" />
+		<set name="mp_bonus" val="42" />
+		<set name="price" val="4940000" />
+		<set name="crystal_count" val="247" />
+		<set name="item_skill_id" val="3557" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="95" order="0x10" stat="mDef" />
+			<add val="42" order="0x40" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="6658" type="Armor" name="Anel do Baium">
+		
+		<set name="icon" val="icon.accessory_ring_of_baium_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="Produz os seguintes efeitos: MP+21, aumento de 80% na resistência a envenenamento, aumento na precisão, aumento no Dano Crítico, aumento em 60% na resistência a enraizado e aumento no Vel. Atq. e Vel. Conjuração. Se um personagem usar dois anéis idênticos, apenas o efeito de um anel será aplicado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="s" />
+		<set name="m_def" val="48" />
+		<set name="mp_bonus" val="21" />
+		<set name="price" val="1730000" />
+		<set name="crystal_count" val="86" />
+		<set name="item_skill_id" val="3561" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="48" order="0x10" stat="mDef" />
+			<add val="21" order="0x40" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="6659" type="Armor" name="Brinco do Zaken">
+		
+		<set name="icon" val="icon.accessory_earring_of_zaken_i00" />
+		<set name="bodypart" val="rear,lear" />
+		<set name="desc" val="Produz os seguintes efeitos: MP+31, aumento de 60% na resistência a sangramento, cura aumentada, Fúria Vampírica e aumento em 40% na resistência a choque/estado mental anormal. Se um personagem usar dois brincos idênticos, apenas os efeitos de um brinco serão aplicados." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="s" />
+		<set name="m_def" val="71" />
+		<set name="mp_bonus" val="31" />
+		<set name="price" val="2590000" />
+		<set name="crystal_count" val="129" />
+		<set name="item_skill_id" val="3559" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="71" order="0x10" stat="mDef" />
+			<add val="31" order="0x40" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="6660" type="Armor" name="Anel da Formiga Rainha">
+		
+		<set name="icon" val="icon.accessory_ring_of_queen_ant_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="Produz os seguintes efeitos: MP+21, aumento de 60% na resistência a envenenamento, aumento de precisão, aumento de Dano Crítico e aumento de 40% na resistência a imobilização. Se um personagem usar dois anéis idênticos, apenas o efeito de um anel será aplicado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="48" />
+		<set name="mp_bonus" val="21" />
+		<set name="price" val="616000" />
+		<set name="crystal_count" val="82" />
+		<set name="item_skill_id" val="3562" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="48" order="0x10" stat="mDef" />
+			<add val="21" order="0x40" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="6661" type="Armor" name="Brinco do Orfen">
+		
+		<set name="icon" val="icon.accessory_earring_of_orfen_i00" />
+		<set name="bodypart" val="rear,lear" />
+		<set name="desc" val="Produz os seguintes efeitos: MP+31, aumento de 40% na resistência a sangramento e aumento na quantidade de cura. Se um personagem usar dois brincos idênticos, o efeito de apenas um brinco será aplicado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="a" />
+		<set name="m_def" val="71" />
+		<set name="mp_bonus" val="31" />
+		<set name="price" val="1300000" />
+		<set name="crystal_count" val="104" />
+		<set name="item_skill_id" val="3560" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="71" order="0x10" stat="mDef" />
+			<add val="31" order="0x40" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="6662" type="Armor" name="Anel do Núcleo">
+		
+		<set name="icon" val="icon.accessory_ring_of_core_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="Produz os seguintes efeitos: MP+21, aumento de 40% na resistência a envenenamento e aumento na precisão. Se um personagem usar dois anéis idênticos, apenas o efeito de um anel será aplicado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="a" />
+		<set name="m_def" val="48" />
+		<set name="mp_bonus" val="21" />
+		<set name="price" val="870000" />
+		<set name="crystal_count" val="69" />
+		<set name="item_skill_id" val="3563" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="48" order="0x10" stat="mDef" />
+			<add val="21" order="0x40" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="6663" type="EtcItem" name="Pergaminho de Fuga: Orc Village">
+		<set name="icon" val="icon.etc_scroll_of_return_agit_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="" />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6664" type="EtcItem" name="Pergaminho de Fuga: Vila Silenos">
+		<set name="icon" val="icon.etc_scroll_of_return_agit_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="" />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6665" type="EtcItem" name="Chave de Baú Deluxe - Grau 1">
+		
+		<set name="icon" val="icon.etc_old_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 1 a 19 com uma taxa de sucesso de 100%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá. No entanto, a taxa de sucesso será a mesma para receber um item como recompensa." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6666" type="EtcItem" name="Chave de Baú Deluxe - Grau 2">
+		
+		<set name="icon" val="icon.etc_old_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 20~29 com uma taxa de sucesso de 100%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá. No entanto, a taxa de sucesso será a mesma para receber um item como recompensa." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6667" type="EtcItem" name="Chave de Baú Deluxe - Grau 3">
+		
+		<set name="icon" val="icon.etc_old_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 30~39 com uma taxa de sucesso de 100%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá. No entanto, a taxa de sucesso será a mesma para receber um item como recompensa." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="320" />
+	</item>
+	<item id="6668" type="EtcItem" name="Chave de Baú Deluxe - Grau 4">
+		
+		<set name="icon" val="icon.etc_old_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 40~49 com uma taxa de sucesso de 100%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá. No entanto, a taxa de sucesso será a mesma para receber um item como recompensa." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="560" />
+	</item>
+	<item id="6669" type="EtcItem" name="Chave de Baú Deluxe - Grau 5">
+		
+		<set name="icon" val="icon.etc_old_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 50~59 com uma taxa de sucesso de 100%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá. No entanto, a taxa de sucesso será a mesma para receber um item como recompensa." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="860" />
+	</item>
+	<item id="6670" type="EtcItem" name="Chave de Baú Deluxe - Grau 6">
+		
+		<set name="icon" val="icon.etc_old_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 60~69 com uma taxa de sucesso de 100%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá. No entanto, a taxa de sucesso será a mesma para receber um item como recompensa." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="6671" type="EtcItem" name="Chave de Baú de Luxo - 7a Série">
+		
+		<set name="icon" val="icon.etc_old_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 70~79 com uma taxa de sucesso de 100%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá. No entanto, a taxa de sucesso será a mesma para receber um item como recompensa." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1800" />
+	</item>
+	<item id="6672" type="EtcItem" name="Chave de Baú de Luxo - 8a Série">
+		
+		<set name="icon" val="icon.etc_old_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 80~89 com uma taxa de sucesso de 100%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá. No entanto, a taxa de sucesso será a mesma para receber um item como recompensa." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2400" />
+	</item>
+	<item id="6673" type="EtcItem" name="Adena do Festival">
+		
+		<set name="icon" val="icon.etc_coin_of_fair_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda usada no evento &quot;2005 Lineage II Live&quot;." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6674" type="Armor" name="Peitoral Cruzado Imperial Selado">
+		
+		<set name="icon" val="icon.armor_t88_u_i02" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Peitoral Cruzado Imperial Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="7620" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="193" />
+		<set name="price" val="14300000" />
+		<set name="crystal_count" val="715" />
+		<for>
+			<add val="193" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6675" type="Armor" name="Calça dos Cruzado Imperial Seladas">
+		
+		<set name="icon" val="icon.armor_t88_l_i02" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Calça dos Cruzado Imperial Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="3260" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="121" />
+		<set name="price" val="8960000" />
+		<set name="crystal_count" val="448" />
+		<for>
+			<add val="121" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6676" type="Armor" name="Manopla do Cruzado Imperial Selada">
+		
+		<set name="icon" val="icon.armor_t88_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Manopla do Cruzado Imperial Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="55" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val="55" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6677" type="Armor" name="Botas Cruzado Imperial Seladas">
+		
+		<set name="icon" val="icon.armor_t88_b_i02" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas Cruzado Imperial Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="55" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val="55" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6678" type="Weapon" name="Escudo do Cruzado Imperial Selado">
+		
+		<set name="icon" val="icon.shield_imperial_crusader_shield_i02" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Escudo do Cruzado Imperial Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1170" />
+		<set name="crystal_type" val="s" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="276" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="3760000" />
+		<set name="crystal_count" val="188" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="276" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="sDef" />
+		</for>
+	</item>
+	<item id="6679" type="Armor" name="Capacete Cruzado Imperial Selado">
+		
+		<set name="icon" val="icon.armor_helmet_i02" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Capacete Cruzado Imperial Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="83" />
+		<set name="price" val="5370000" />
+		<set name="crystal_count" val="268" />
+		<for>
+			<add val="83" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6680" type="Armor" name="Armadura Dracônica de Couro Selada">
+		
+		<set name="icon" val="icon.armor_t89_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura Dracônica de Couro Selada. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="4950" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="236" />
+		<set name="price" val="17400000" />
+		<set name="crystal_count" val="870" />
+		<for>
+			<add val="236" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6681" type="Armor" name="Luva Dracônica de Couro Selada">
+		
+		<set name="icon" val="icon.armor_t89_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luva Dracônica de Couro Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="55" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val="55" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6682" type="Armor" name="Botas Dracônica de Couro Selado">
+		
+		<set name="icon" val="icon.armor_t89_b_i02" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas Dracônica de Couro Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="55" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val="55" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6683" type="Armor" name="Capacete Dracônico de Couro Selado">
+		
+		<set name="icon" val="icon.armor_leather_helmet_i02" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Capacete Dracônico de Couro Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="83" />
+		<set name="price" val="5370000" />
+		<set name="crystal_count" val="268" />
+		<for>
+			<add val="83" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6684" type="Armor" name="Manto dos Arcanos Maiores Selados">
+		
+		<set name="icon" val="icon.armor_t90_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Manto dos Arcanos Maiores Selados. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="2300" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="157" />
+		<set name="mp_bonus" val="866" />
+		<set name="price" val="17400000" />
+		<set name="crystal_count" val="870" />
+		<for>
+			<add val="157" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6685" type="Armor" name="Luva Selada dos Arcanos Maiores">
+		
+		<set name="icon" val="icon.armor_t90_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luva Selada dos Arcanos Maioress. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="55" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val="55" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6686" type="Armor" name="Botas Seladas dos Arcanos Maiores">
+		
+		<set name="icon" val="icon.armor_t90_b_i02" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas Seladas dos Arcanos Maiores. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="55" />
+		<set name="price" val="3580000" />
+		<set name="crystal_count" val="179" />
+		<for>
+			<add val="55" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6687" type="Armor" name="Diadema dos Arcanos Maiores Selados">
+		
+		<set name="icon" val="icon.armor_leather_helmet_i02" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Diadema dos Arcanos Maiores Seladoss. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="s" />
+		<set name="p_def" val="83" />
+		<set name="price" val="5370000" />
+		<set name="crystal_count" val="268" />
+		<for>
+			<add val="83" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6688" type="EtcItem" name="Lâmina Esquecida">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer uma Lâmina Esquecida. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="92529" />
+	</item>
+	<item id="6689" type="EtcItem" name="Cabeça de Martelo de Batalha de Basalto">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer um Basalt Battlehammer. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="94306" />
+	</item>
+	<item id="6690" type="EtcItem" name="Chefe do Estado-Maior Imperial">
+		
+		<set name="icon" val="icon.etc_bark_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer um Cajado Imperial. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="92353" />
+	</item>
+	<item id="6691" type="EtcItem" name="Lâmina Assassina de Anjos">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer um Matador de Anjos. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="92529" />
+	</item>
+	<item id="6692" type="EtcItem" name="Eixo do Arco Brilhante">
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="" />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="90882" />
+	</item>
+	<item id="6693" type="EtcItem" name="Lâmina do Machado do Caçador de Dragões">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer um machado de caçador. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="90882" />
+	</item>
+	<item id="6694" type="EtcItem" name="Lâmina da Lança Santa">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer uma Lança de Santo. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="90882" />
+	</item>
+	<item id="6695" type="EtcItem" name="Lâmina Punhos Demoníacos">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um anão fazer um Punhos Demoníacos. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="94306" />
+	</item>
+	<item id="6696" type="EtcItem" name="Gume Divisora ​​Dos Céus">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer um Divisor de Céus. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="91082" />
+	</item>
+	<item id="6697" type="EtcItem" name="Cabeça de Maça Arcana">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer a Maça Arcana selada. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="94306" />
+	</item>
+	<item id="6698" type="EtcItem" name="Brinco Tateossiano Selado Parte">
+		
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer os Brincos Tateossianos Selados. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10182" />
+	</item>
+	<item id="6699" type="EtcItem" name="Gema do Anel Tateossiano Selado">
+		
+		<set name="icon" val="icon.etc_crystal_ball_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer o Anel Tateossiano Selado. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="9176" />
+	</item>
+</list>

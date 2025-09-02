@@ -1,0 +1,1074 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="8600" type="EtcItem" name="Erva da Vida">
+		<set name="item_type" val="herb" />
+		<set name="consume_type" val="normal" />
+		<set name="desc" val="" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8601" type="EtcItem" name="Erva da Vida Maior">
+		<set name="item_type" val="herb" />
+		<set name="consume_type" val="normal" />
+		<set name="desc" val="" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8602" type="EtcItem" name="Erva da Vida Superior">
+		<set name="item_type" val="herb" />
+		<set name="consume_type" val="normal" />
+		<set name="desc" val="" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8603" type="EtcItem" name="Erva de Mana">
+		<set name="item_type" val="herb" />
+		<set name="consume_type" val="normal" />
+		<set name="desc" val="" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8604" type="EtcItem" name="Erva de Mana Maior">
+		<set name="item_type" val="herb" />
+		<set name="consume_type" val="normal" />
+		<set name="desc" val="" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8605" type="EtcItem" name="Erva de Mana Superior">
+		<set name="item_type" val="herb" />
+		<set name="consume_type" val="normal" />
+		<set name="desc" val="" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8606" type="EtcItem" name="Erva do Poder">
+		<set name="item_type" val="herb" />
+		<set name="consume_type" val="normal" />
+		<set name="desc" val="" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8607" type="EtcItem" name="Erva da Magia">
+		<set name="item_type" val="herb" />
+		<set name="consume_type" val="normal" />
+		<set name="desc" val="" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8608" type="EtcItem" name="Erva de Vel. Atq.">
+		<set name="icon" val="icon.etc_attack_sp_herb_i00" />
+		<set name="item_type" val="herb" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8609" type="EtcItem" name="Erva de Vel. Conjuração.">
+		<set name="icon" val="icon.etc_magic_sp_herb_i00" />
+		<set name="item_type" val="herb" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8610" type="EtcItem" name="Erva do Ataque Crítico.">
+		<set name="icon" val="icon.etc_critical_herb_i00" />
+		<set name="item_type" val="herb" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8611" type="EtcItem" name="Erva da Velocidade">
+		<set name="icon" val="icon.etc_move_herb_i00" />
+		<set name="item_type" val="herb" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8612" type="EtcItem" name="Erva do Guerreiro">
+		<set name="icon" val="icon.etc_warrior_set_i00" />
+		<set name="item_type" val="herb" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8613" type="EtcItem" name="Erva do Místico">
+		<set name="icon" val="icon.etc_magic_set_i00" />
+		<set name="item_type" val="herb" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8614" type="EtcItem" name="Erva da Recuperação">
+		<set name="icon" val="icon.etc_recovery_set_i00" />
+		<set name="item_type" val="herb" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+	</item>
+	<item id="8615" type="EtcItem" name="Cristal de Invocação">
+		
+		<set name="icon" val="icon.etc_recall_crystal_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal imbuído de poder místico. Usado para magia de teletransporte." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="35000" />
+	</item>
+	<item id="8616" type="EtcItem" name="Livro de Feitiços: Convocar Amigo">
+		
+		<set name="icon" val="icon.etc_party_sommons_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Convocar Amigo. Usado por Warlocks, Elemental Summoners e Phantom Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6250" />
+	</item>
+	<item id="8617" type="EtcItem" name="Livro de Feitiços: Palavra de Convite">
+		
+		<set name="icon" val="icon.etc_party_sommons_i01" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Word of Invitation. Usado por Sorcerers, Spellsingers e Spellhowlers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8618" type="EtcItem" name="Livro Antigo - Inspiração Divina (Versão em Língua Moderna)">
+		
+		<set name="icon" val="icon.etc_add_buffslot_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Restaura habilidades esquecidas. O livro foi republicado depois de ser traduzido para a linguagem moderna. (Só pode ser usado por personagens de nível 52 ou superior.)" />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8619" type="EtcItem" name="Livro Antigo - Inspiração Divina (Versão No Idioma Original)">
+		
+		<set name="icon" val="icon.etc_add_buffslot_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Restaura habilidades esquecidas. Este livro foi publicado por estudiosos antigos para fins de pesquisa. Ele contém mais informações do que a versão em idioma moderno. (Só pode ser usado por personagens de nível 61 ou superior.)" />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8620" type="EtcItem" name="Livro Antigo - Inspiração Divina (Manuscrito)">
+		
+		<set name="icon" val="icon.etc_add_buffslot_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Restaura habilidades esquecidas. Este livro é uma cópia manuscrita do original. É quase igual à versão original. (Só pode ser usado por personagens de nível 76 ou superior.)" />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8621" type="EtcItem" name="Livro Antigo - Inspiração Divina (Versão Original)">
+		
+		<set name="icon" val="icon.etc_add_buffslot_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Restaura habilidades esquecidas. Aqueles que carecem do conhecimento necessário não podem entender seu conteúdo. (Só pode ser usado por personagens de nível 76 ou superior.) Este item não pode ser trocado ou descartado." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8622" type="EtcItem" name="Elixir da Vida (Sem Grau)">
+		
+		<set name="icon" val="icon.etc_super_hp_potion_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera HP. Só pode ser usado por personagens abaixo do nível 19 sobre si mesmos. O atraso de reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1300" />
+	</item>
+	<item id="8623" type="EtcItem" name="Elixir da Vida (Grau D)">
+		
+		<set name="icon" val="icon.etc_super_hp_potion_i01" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera HP. Este item só pode ser usado por um personagem cujo nível esteja entre 20 e 39. O atraso na reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="d" />
+		<set name="price" val="3450" />
+	</item>
+	<item id="8624" type="EtcItem" name="Elixir da Vida (Grau C)">
+		
+		<set name="icon" val="icon.etc_super_hp_potion_i02" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera HP. Este item só pode ser usado por um personagem cujo nível esteja entre 40 e 51. O atraso na reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="c" />
+		<set name="price" val="7200" />
+	</item>
+	<item id="8625" type="EtcItem" name="Elixir da Vida (Grau B)">
+		
+		<set name="icon" val="icon.etc_super_hp_potion_i03" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera HP. Este item só pode ser usado por um personagem cujo nível esteja entre 52 e 60. O atraso na reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="b" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="8626" type="EtcItem" name="Elixir da Vida (Grau A)">
+		
+		<set name="icon" val="icon.etc_super_hp_potion_i04" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera HP. Este item só pode ser usado por um personagem cujo nível esteja entre 61 e 75. O atraso na reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="a" />
+		<set name="price" val="12500" />
+	</item>
+	<item id="8627" type="EtcItem" name="Elixir da Vida (Grau S)">
+		
+		<set name="icon" val="icon.etc_super_hp_potion_i05" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera HP. Este item só pode ser usado por um personagem cujo nível seja 76 ou superior. O atraso de reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+		<set name="price" val="15000" />
+	</item>
+	<item id="8628" type="EtcItem" name="Elixir da Força Mental (Sem Grau)">
+		
+		<set name="icon" val="icon.etc_super_mp_potion_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera MP. Só pode ser usado por personagens abaixo do nível 19 sobre si mesmos. O atraso de reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="8629" type="EtcItem" name="Elixir da Força Mental (Grau D)">
+		
+		<set name="icon" val="icon.etc_super_mp_potion_i01" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera MP. Pode ser usado por personagens acima do nível 20 e abaixo do nível 39 sobre si mesmos. Atraso de reutilização de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="d" />
+		<set name="price" val="3400" />
+	</item>
+	<item id="8630" type="EtcItem" name="Elixir da Força Mental (Grau C)">
+		
+		<set name="icon" val="icon.etc_super_mp_potion_i02" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera MP. Pode ser usado por personagens acima do nível 40 e abaixo do nível 51 sobre si mesmos. Atraso de reutilização de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="c" />
+		<set name="price" val="8700" />
+	</item>
+	<item id="8631" type="EtcItem" name="Elixir da Força Mental (Grau B)">
+		
+		<set name="icon" val="icon.etc_super_mp_potion_i03" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera MP. Pode ser usado por personagens acima do nível 52 e abaixo do nível 60 sobre si mesmos. Atraso de reutilização de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="b" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="8632" type="EtcItem" name="Elixir da Força Mental (Grau A)">
+		
+		<set name="icon" val="icon.etc_super_mp_potion_i04" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera MP. Pode ser usado por personagens acima do nível 61 e abaixo do nível 75 sobre si mesmos. Atraso de reutilização de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="a" />
+		<set name="price" val="14400" />
+	</item>
+	<item id="8633" type="EtcItem" name="Elixir de Força Mental (Grau S)">
+		
+		<set name="icon" val="icon.etc_super_mp_potion_i05" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera MP. Pode ser usado por personagens acima do nível 76 sobre si mesmos. Atraso de reutilização de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+		<set name="price" val="16800" />
+	</item>
+	<item id="8634" type="EtcItem" name="Elixir de CP (Sem Grau)">
+		
+		<set name="icon" val="icon.etc_super_cp_potion_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera CP. Só pode ser usado por personagens abaixo do nível 19 sobre si mesmos. O atraso de reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="600" />
+	</item>
+	<item id="8635" type="EtcItem" name="Elixir de CP (Grau D)">
+		
+		<set name="icon" val="icon.etc_super_cp_potion_i01" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera CP. Este item só pode ser usado por um personagem cujo nível esteja entre 20 e 39. O atraso na reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="d" />
+		<set name="price" val="1400" />
+	</item>
+	<item id="8636" type="EtcItem" name="Elixir de CP (Grau C)">
+		
+		<set name="icon" val="icon.etc_super_cp_potion_i02" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera CP. Este item só pode ser usado por um personagem cujo nível esteja entre 40 e 51. O atraso na reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="c" />
+		<set name="price" val="3000" />
+	</item>
+	<item id="8637" type="EtcItem" name="Elixir de CP (Grau B)">
+		
+		<set name="icon" val="icon.etc_super_cp_potion_i03" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera CP. Este item só pode ser usado por um personagem cujo nível esteja entre 52 e 60. O atraso na reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="b" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="8638" type="EtcItem" name="Elixir de CP (Grau A)">
+		
+		<set name="icon" val="icon.etc_super_cp_potion_i04" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera CP. Este item só pode ser usado por um personagem cujo nível esteja entre 61 e 75. O atraso na reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="a" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="8639" type="EtcItem" name="Elixir de CP (Grau S)">
+		
+		<set name="icon" val="icon.etc_super_cp_potion_i05" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Regenera CP. Este item só pode ser usado por um personagem cujo nível seja 76 ou superior. O atraso de reutilização é de 5 minutos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+		<set name="price" val="6000" />
+	</item>
+	<item id="8640" type="EtcItem" name="Receita: Elixir da Vida (Sem Grau) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Vida (Sem Grau). Requer Habilidade de Criação de Item Comum Nível 1." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8641" type="EtcItem" name="Receita: Elixir da Vida (Grau D)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Vida (Grau D). Requer Habilidade de Criação de Item Comum nível 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8642" type="EtcItem" name="Receita: Elixir da Vida (Grau C) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Vida (Grau C). Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8643" type="EtcItem" name="Receita: Elixir da Vida (Grau B) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Vida (Grau B). Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="8644" type="EtcItem" name="Receita: Elixir da Vida (Grau A) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Vida (Grau A). Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2500" />
+	</item>
+	<item id="8645" type="EtcItem" name="Receita: Elixir da Vida (Grau S) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Vida (Grau S). Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3000" />
+	</item>
+	<item id="8646" type="EtcItem" name="Receita: Elixir da Força Mental (Sem Grau) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Força Mental (Sem Grau). Requer Habilidade de Criação de Item Comum Nível 1." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8647" type="EtcItem" name="Receita: Elixir da Força Mental (Grau D) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Força Mental (Grau D). Requer Habilidade de Criação de Item Comum nível 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8648" type="EtcItem" name="Receita: Elixir da Força Mental (Grau C) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Força Mental (Grau C). Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1760" />
+	</item>
+	<item id="8649" type="EtcItem" name="Receita: Elixir de Força Mental (Grau B) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Força Mental (Grau B). Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2320" />
+	</item>
+	<item id="8650" type="EtcItem" name="Receita: Elixir da Força Mental (Grau A) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Força Mental (Grau A). Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2880" />
+	</item>
+	<item id="8651" type="EtcItem" name="Receita: Elixir da Força Mental (Grau S) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir da Força Mental (Grau S). Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3360" />
+	</item>
+	<item id="8652" type="EtcItem" name="Receita: Elixir de CP (Sem Grau) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita do Elixir de CP (Sem Grau). Requer Habilidade de Criação de Item Comum Nível 1." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8653" type="EtcItem" name="Receita: Elixir de CP (Grau D) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir de CP (Grau D). Requer Habilidade de Criação de Item Comum nível 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8654" type="EtcItem" name="Receita: Elixir de CP (Grau C) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir de CP (Grau C). Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8655" type="EtcItem" name="Receita: Elixir de CP (Grau B) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir de CP (Grau B). Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8656" type="EtcItem" name="Receita: Elixir de CP (Grau A) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir de CP (Grau A). Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8657" type="EtcItem" name="Receita: Elixir de CP (Grau S) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Utilizável por todas as raças. A receita para o Elixir de CP (Grau S). Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8658" type="EtcItem" name="Solvente Misterioso">
+		
+		<set name="icon" val="icon.etc_dragon_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Dilui qualquer substância com a qual é misturado. Usado ao criar um elixir." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="8659" type="EtcItem" name="Arca das Sombras">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um objeto místico que tem um pouquinho de energia escura instável presa dentro. Clique duas vezes para se transformar em um item especial aleatório." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8660" type="Armor" name="Chifres de Demônio">
+		
+		<set name="icon" val="icon.accessory_hair_cornu_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Um acessório de cabelo para o evento de Halloween de 2006." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8661" type="Armor" name="Máscara de Espíritos">
+		
+		<set name="icon" val="icon.accessory_worldcup_mask_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Um acessório de cabelo para o evento de Halloween de 2006." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8662" type="Armor" name="Fadas Antenas (Evento)">
+		
+		<set name="icon" val="icon.accessory_hair_feeler_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Lindo acessório de cabelo antenas com estrelas. Este é um item de evento que não pode ser trocado ou descartado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8663" type="EtcItem" name="Óleo de Iluminação">
+		
+		<set name="icon" val="icon.etc_lesser_potion_clear_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. Os resultados são, na melhor das hipóteses, temporários&quot;." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8664" type="EtcItem" name="Óleo de Mascaramento">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8665" type="EtcItem" name="Óleo de Mascaramento">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8666" type="EtcItem" name="Óleo de Mascaramento">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8667" type="EtcItem" name="Óleo de Camaleão">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8668" type="EtcItem" name="Óleo de Camaleão">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8669" type="EtcItem" name="Óleo de Camaleão">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8670" type="EtcItem" name="Óleo de Camaleão">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8671" type="EtcItem" name="Óleo de Luxo">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8672" type="EtcItem" name="Óleo de Luxo">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8673" type="EtcItem" name="Óleo de Luxo">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8674" type="EtcItem" name="Óleo de Luxo">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8675" type="EtcItem" name="Óleo de Luxo">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8676" type="EtcItem" name="Óleo de Luxo">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8677" type="EtcItem" name="Óleo de Luxo">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Item de evento de realidades alteradas. O rótulo diz &quot;Os efeitos deste óleo podem ser imprevisíveis. CUIDADO! As alterações causadas serão permanentes. Beba por sua conta e risco!&quot;" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8678" type="Weapon" name="Lâmina de Sirra">
+		
+		<set name="icon" val="icon.weapon_sirr_blade_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Pressa, Vida ou Veneno Crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="251" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="121" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="251" order="0x08" stat="pAtk" />
+			<set val="121" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8679" type="Weapon" name="Espada de Ipos">
+		
+		<set name="icon" val="icon.weapon_sword_of_ipos_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede Foco, Aceleração ou Vida." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1820" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="305" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="121" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="305" order="0x08" stat="pAtk" />
+			<set val="121" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8680" type="Weapon" name="Machado de Barakiel">
+		
+		<set name="icon" val="icon.weapon_barakiel_axe_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Vida, Aceleração ou Foco." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1550" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="251" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="121" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="251" order="0x08" stat="pAtk" />
+			<set val="121" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8681" type="Weapon" name="Diapasão do Behemoth">
+		
+		<set name="icon" val="icon.weapon_tuning_fork_of_behemoth_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede Foco, Vida ou Raiva." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1890" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="305" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="121" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="305" order="0x08" stat="pAtk" />
+			<set val="121" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8682" type="Weapon" name="Tempestade de Naga">
+		
+		<set name="icon" val="icon.weapon_naga_storm_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Foco, Dano Crítico ou Golpe pelas Costas." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="930" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="220" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="121" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="220" order="0x08" stat="pAtk" />
+			<set val="121" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8683" type="Weapon" name="Lança de Tiphon">
+		
+		<set name="icon" val="icon.weapon_tiphon_spear_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede Atordoamento Crítico, Golpe Elevado ou Golpe Largo." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1820" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="251" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="121" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="251" order="0x08" stat="pAtk" />
+			<set val="121" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8684" type="Weapon" name="Arco de Shyeed">
+		
+		<set name="icon" val="icon.weapon_shyid_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede Tiro Barato, Foco ou Rápida Recuperação." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1640" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="570" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="227" />
+		<set name="mp_consume" val="10" />
+		<set name="m_dam" val="133" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="570" order="0x08" stat="pAtk" />
+			<set val="133" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="227" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8685" type="Weapon" name="Furacão de Sobekk">
+		
+		<set name="icon" val="icon.weapon_sobekk_hurricane_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede Rsk. Aceleração, Aceleração ou Drenagem Crítica." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1330" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="305" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="121" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="305" order="0x08" stat="pAtk" />
+			<set val="121" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8686" type="Weapon" name="Língua de Themis">
+		
+		<set name="icon" val="icon.weapon_tongue_of_themis_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Aumento de Mana, Escudo Mental ou Magic Foco." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="820" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="202" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="161" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="202" order="0x08" stat="pAtk" />
+			<set val="161" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8687" type="Weapon" name="Mão de Cabrio">
+		
+		<set name="icon" val="icon.weapon_hand_of_cabrio_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Conversão, Aumento de Mana ou Silencio Mágico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1510" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="202" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="161" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="202" order="0x08" stat="pAtk" />
+			<set val="161" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8688" type="Weapon" name="Cristal de Daimon">
+		
+		<set name="icon" val="icon.weapon_crystal_of_deamon_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede Aumento de Mana, Perspicácia ou Escudo Mental." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="880" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="245" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="161" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="245" order="0x08" stat="pAtk" />
+			<set val="161" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8689" type="Weapon" name="Espada de Sangue Akamanah">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Uma lâmina gêmea demoníaca forjada em sangue por Gran Kain, o deus do caos. A lâmina se angustia ao toque do ar e anseia por sangue para renovar suas energias. Torna-se mais forte cada vez que recebe sangue." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1840" />
+		<set name="p_dam" val="361" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="137" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="361" order="0x08" stat="pAtk" />
+			<set val="137" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="8690" type="EtcItem" name="Receita: Lâmina de Sirra (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para fazer a Lâmina de Sirra. Requer Criar Item - Nível de Habilidade 8. Taxa de sucesso de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8691" type="EtcItem" name="Receita: Lâmina de Sirra (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para fazer a Lâmina de Sirra. Requer Criar Item - Nível de Habilidade 8. Taxa de sucesso de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8692" type="EtcItem" name="Receita: Espada de Ipos (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para fazer Espada de Ipos. Requer Criar Item - Nível de Habilidade 8. Taxa de sucesso de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8693" type="EtcItem" name="Receita: Espada de Ipos (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para fazer Espada de Ipos. Requer Criar Item - Nível de Habilidade 8. Taxa de sucesso de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8694" type="EtcItem" name="Receita: Machado de Barakiel (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para fazer o Machado de Barakiel. Requer Criar Item - Nível de Habilidade 8. Taxa de sucesso de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8695" type="EtcItem" name="Receita: Machado de Barakiel (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para fazer o Machado de Barakiel. Requer Criar Item - Nível de Habilidade 8. Taxa de sucesso de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8696" type="EtcItem" name="Receita: Diapasão de Behemoth (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para fazer o Diapasão do Behemoth. Requer Criar Item - Nível de Habilidade 8. Taxa de sucesso de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8697" type="EtcItem" name="Receita: Diapasão de Behemoth (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para fazer o Diapasão do Behemoth. Requer Criar Item - Nível de Habilidade 8. Taxa de sucesso de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8698" type="EtcItem" name="Receita: Tempestade de Naga (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para fazer Tempestade de Naga. Requer Criar Item - Nível de Habilidade 8. Taxa de sucesso de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8699" type="EtcItem" name="Receita: Tempestade de Naga (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para fazer Tempestade de Naga. Requer Criar Item - Nível de Habilidade 8. Taxa de sucesso de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+</list>

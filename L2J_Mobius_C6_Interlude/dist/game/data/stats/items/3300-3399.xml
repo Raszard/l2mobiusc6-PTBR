@@ -1,0 +1,1002 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3300" type="EtcItem" name="Talismã de Kadesh">
+		
+		<set name="icon" val="icon.accessary_red_cresent_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um estranho talismã obtido após matar Kadesh. Leve isso para Sagittarius Hamil da Aldeia de Floran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3301" type="EtcItem" name="Talismã da Cobra">
+		
+		<set name="icon" val="icon.accessary_dragon_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Talismã que está relacionado a um espírito de totem da serpente adorado por Orcs Breka. Leve-o ao Prefeito Vokian da Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3302" type="EtcItem" name="Clipe de Mithril">
+		
+		<set name="icon" val="icon.accessary_ring_of_knowledge_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ingrediente chave na restauração do Arco da Lua Crescente. Leve isso, junto com o restante dos ingredientes, para o Mestre Gauen da Ivory Tower." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3303" type="EtcItem" name="Quitina de Stakato">
+		
+		<set name="icon" val="icon.etc_parasite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ingrediente chave na restauração do Arco da Lua Crescente. Leve isso, junto com o restante dos ingredientes, para o Mestre Gauen da Ivory Tower." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3304" type="EtcItem" name="Corda de Arco Reforçada">
+		
+		<set name="icon" val="icon.etc_skein_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ingrediente chave na restauração do Arco da Lua Crescente. Leve isso, junto com o restante dos ingredientes, para o Mestre Gauen da Ivory Tower." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3305" type="EtcItem" name="Chifre de Manashen">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ingrediente chave na restauração do Arco da Lua Crescente. Leve isso, junto com o restante dos ingredientes, para o Mestre Gauen da Ivory Tower." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3306" type="EtcItem" name="Sangue do Homem-Lagarto">
+		
+		<set name="icon" val="icon.etc_reagent_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O sangue derramado por Homem Lagarto Leto. Kadesh aparece quando o suficiente disso é reunido." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3307" type="EtcItem" name="Marca de Feitiçaria">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram no Teste de Feitiçaria. Um item relacionado à mudança de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3308" type="EtcItem" name="Diagrama de Orim">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um diagrama de relíquias, dado por Orim da Sombra. As 6 joias necessárias para abrir o Cubo de Aklantoth estão representadas aqui." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3309" type="EtcItem" name="Livro de Alexandria">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro que contém registros sobre quem comprou as Joias de Aklantoth. &quot;Mestre Iker, Mestre Kaira, Comerciante Lara&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3310" type="EtcItem" name="Lista de Iker">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colete e traga de volta 20 presas de wyrm atrozes, 20 amuletos de homem-lagarto Leto e 20 pedras de coração de golem de pedra encantadas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3311" type="EtcItem" name="Presa de Dire Wyrm">
+		
+		<set name="icon" val="icon.etc_fang_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As presas de um Dire Wyrm morto. Colete 20 deles e leve-os ao Mestre Iker." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3312" type="EtcItem" name="Feitiço Homem Lagarto Leto">
+		
+		<set name="icon" val="icon.etc_totem_necklace_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um totem obtido após matar o Homem Lagarto Leto. Colete 20 deles e leve-os ao Mestre Iker." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3313" type="EtcItem" name="Pedra do Coração Encantada do Golem">
+		
+		<set name="icon" val="icon.etc_stone_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cristal encontrado entre os fragmentos de um golem de pedra encantado. Colete 20 deles e leve-os ao Mestre Iker." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3314" type="EtcItem" name="Memorando de Lara">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Registros de vendas da Comerciante Lara. Está registrado que um homem chamado Ismel comprou a joia de Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3315" type="EtcItem" name="Memorando da Nestlé">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Registros de compra do Comerciante Lara. Está registrado que Leopoldo do Leão Negro trouxe a joia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3316" type="EtcItem" name="Diário de Leopoldo">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma parte do Diário de Leopoldo. Está registrado que 3 desertores morreram e se tornaram mortos-vivos enquanto fugiam para Wastelands." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3317" type="EtcItem" name="Aklantoth 1a Joia">
+		
+		<set name="icon" val="icon.etc_bead_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Joia que pode ser obtida com o Mestre Iker. Encontre todas as 6 joias de Aklantoth e leve-as para Orim, a Sombra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3318" type="EtcItem" name="Aklantoth 2a Joia">
+		
+		<set name="icon" val="icon.etc_bead_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A joia dada pelo Mestre Kaira. Encontre todas as 6 joias de Aklantoth e leve-as para Orim, a Sombra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3319" type="EtcItem" name="Aklantoth 3a Joia">
+		
+		<set name="icon" val="icon.etc_bead_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A joia que pode ser obtida matando um Regresso Sem Nome. Encontre todas as 6 joias de Aklantoth e leve-as para Orim, a Sombra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3320" type="EtcItem" name="Aklantoth 4a Joia">
+		
+		<set name="icon" val="icon.etc_bead_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A joia que pode ser obtida matando um Mercenário Esquelético. Encontre todas as 6 joias de Aklantoth e leve-as para Orim, a Sombra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3321" type="EtcItem" name="Aklantoth 5a Joia">
+		
+		<set name="icon" val="icon.etc_bead_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A joia que pode ser obtida matando um Mercenário Esquelético. Encontre todas as 6 joias de Aklantoth e leve-as para Orim, a Sombra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3322" type="EtcItem" name="Aklantoth 6a Joia">
+		
+		<set name="icon" val="icon.etc_crystal_ball_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A joia que pode ser obtida matando um Mercenário Esquelético. Encontre todas as 6 joias de Aklantoth e leve-as para Orim, a Sombra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3323" type="EtcItem" name="1a Enxofre">
+		
+		<set name="icon" val="icon.etc_powder_orange_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca deixada pelo Príncipe Drevanul Zeruel ao escapar de suas amarras." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3324" type="EtcItem" name="Instruções de Orim">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um conjunto de instruções escritas por Orim da Sombra. As instruções são para trazer de volta a Sword of Binding e o Soul Trap Crystal." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3325" type="EtcItem" name="1a Carta de Orim">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de Orim da Sombra para Senhor Karol Vasper da Cidade de Gludin. A carta pede o empréstimo da Espada do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3326" type="EtcItem" name="2a Carta de Orim">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de Orim das Sombras para Mestre Iker de Giran Castle Town. A carta pede o empréstimo do Soul-trap Crystal." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3327" type="EtcItem" name="Carta de Senhor Vasper">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de Senhor Klaus Vasper para Vadin da Town of Oren. A carta dá permissão para o uso da Espada da Vinculação." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3328" type="EtcItem" name="Crucifixo de Vadin">
+		
+		<set name="icon" val="icon.accessary_earing_of_wisdom_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um crucifixo sagrado da ordem, dado por Vadin. Pegue isso e vá caçar Tamlin Orcs." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3329" type="EtcItem" name="Amuleto Tamlin Orc">
+		
+		<set name="icon" val="icon.etc_totem_necklace_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Amuletos que os Orcs Tamlin carregam para fins de feitiçaria. Reúna 20 deles e leve-os para Vadin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3330" type="EtcItem" name="Sanções de Vadin">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de sanções de Vadin permitindo o uso da Espada da Vinculação. Leve isto para Senhor Klaus Vasper da cidade de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3331" type="EtcItem" name="Amuleto de Iker">
+		
+		<set name="icon" val="icon.accessary_necklace_of_grace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto dado pelo Mestre Iker. Diz-se que tem poderes de proteção contra o mal..." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3332" type="EtcItem" name="Cristal Armadilha da Alma">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cristal com o poder de prender e selar a alma de um monstro. Use isso para selar o espírito do Drevanul Zeruel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3333" type="EtcItem" name="Chave do Purgatório">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma chave necessária para fechar o baú de Aklantoth. Leve isso para Orim da Sombra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3334" type="EtcItem" name="Zeruel Vincular Cristal">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cristal que contém a alma aprisionada do Drevanul Zeruel. Leve isso para Orim da Sombra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3335" type="EtcItem" name="2a Enxofre">
+		
+		<set name="icon" val="icon.etc_powder_orange_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca deixada pelo Drevanul Prince Zeruel ao escapar do corpo de Fisher Evert." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3336" type="EtcItem" name="Marca do Invocador">
+		
+		<set name="icon" val="icon.weapon_apprentices_rod_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram no Teste do Invocador. Um item relacionado à mudança de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3337" type="EtcItem" name="Amuleto Homem Lagarto Leto">
+		
+		<set name="icon" val="icon.etc_totem_necklace_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto obtido após matar um Homem Lagarto Leto. Reúna 30 deles e leve-os de volta ao Comerciante Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3338" type="EtcItem" name="Saco de Esporos Vermelhos">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Esporos vermelhos obtidos dos corpos do fungo gigante. Reúna 30 deles e leve-os de volta ao Comerciante Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3339" type="EtcItem" name="Karul Bugbear Totem">
+		
+		<set name="icon" val="icon.etc_totem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um totem obtido após matar o Karul Bugbear. Reúna 30 deles e leve-os de volta ao Comerciante Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3340" type="EtcItem" name="Fragmentos de Manashen">
+		
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento do Manashen quebrado. Reúna 30 deles e leve-os de volta ao Comerciante Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3341" type="EtcItem" name="Breka Orc Totem">
+		
+		<set name="icon" val="icon.etc_totem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um totem que pode ser obtido após matar um Orc Breka. Colete 30 deles e leve-os para o Comerciante Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3342" type="EtcItem" name="Sangue Carmesim">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pedra espiritual embutida no corpo de uma alma agrilhoada. Reúna 30 deles e leve-os de volta ao Comerciante Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3343" type="EtcItem" name="Garras do Tirano">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A garra de um tirano morto. Reúna 30 deles e leve-os de volta ao Comerciante Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3344" type="EtcItem" name="Asas de Droneant">
+		
+		<set name="icon" val="icon.etc_feather_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Asas obtidas após matar Noble Ants no Ant's Nest. Reúna 30 deles e leve-os de volta ao Comerciante Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3345" type="EtcItem" name="Presa de Windsus">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As presas de um windsus morto. Reúna 30 deles e leve-os de volta ao Comerciante Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3346" type="EtcItem" name="Presas de Wyrm">
+		
+		<set name="icon" val="icon.etc_fang_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As presas de um ancião morto. Reúna 30 deles e leve-os de volta ao Comerciante Lara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3347" type="EtcItem" name="1a Lista de Lara">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="&quot;Colete 30 amuletos Homem Lagarto Leto das Planícies dos Homem Lagarto e 30 unidades de pó de esporos vermelhos do fungo gigante no Mar dos Esporos.&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3348" type="EtcItem" name="2a Lista de Lara">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="&quot;Colete 30 totens bugbear Karul do Vale dos Caçadores e 30 fragmentos de manashen da Cratera da Ivory Tower.&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3349" type="EtcItem" name="3a Lista de Lara">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="&quot;Colete 30 totens Orcs de Breka na Fortaleza de Breka e 30 pedras de sangue carmesim da alma agrilhoada na Passagem da Morte.&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3350" type="EtcItem" name="4a Lista de Lara">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="&quot;Colete 30 Tyrant Tallumns das Wastelands e 30 Windsus Tusks da Death Pass.&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3351" type="EtcItem" name="5a Lista de Lara">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="&quot;Colete 30 nobres asas de formiga do formigueiro e 30 presas de ancião do jardim de flores de Gorgon.&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3352" type="EtcItem" name="Carta Galatea">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta do Alta Invocadora Galatea para o Comerciante Lara na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3353" type="EtcItem" name="Carta Iniciante">
+		
+		<set name="icon" val="icon.etc_ticket_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta Arcana usada por aprendizes de invocadores. Você deve ter isso para participar das batalhas de invocadores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3354" type="EtcItem" name="Carta Almors">
+		
+		<set name="icon" val="icon.shield_dark_dragon_shield_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Invocador Almors. A prova da vitória de uma batalha. Leve isso para o Invocador Chefe Galatea." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3355" type="EtcItem" name="Carta Camoniell">
+		
+		<set name="icon" val="icon.shield_dark_dragon_shield_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Invocador Camoniell. A prova da vitória de uma batalha. Leve isso para o Invocador Chefe Galatea." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3356" type="EtcItem" name="Carta Belthus">
+		
+		<set name="icon" val="icon.shield_dark_dragon_shield_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Invocador Belthus. A prova da vitória de uma batalha. Leve isso para o Invocador Chefe Galatea." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3357" type="EtcItem" name="Carta Basillia">
+		
+		<set name="icon" val="icon.shield_dark_dragon_shield_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Invocadora Basillia. A prova da vitória de uma batalha. Leve isso para o Invocador Chefe Galatea." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3358" type="EtcItem" name="Carta Celestiel">
+		
+		<set name="icon" val="icon.shield_dark_dragon_shield_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Invocador Celestiel. A prova da vitória de uma batalha. Leve isso para o Invocador Chefe Galatea." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3359" type="EtcItem" name="Carta Brynthea">
+		
+		<set name="icon" val="icon.shield_dark_dragon_shield_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Invocadora Brynthea. A prova da vitória de uma batalha. Leve isso para o Invocador Chefe Galatea." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3360" type="EtcItem" name="1a Cristal de Iniciação">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador começou." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3361" type="EtcItem" name="1a Cristal do Progresso">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador está em andamento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3362" type="EtcItem" name="1a Cristal da Sujeira">
+		
+		<set name="icon" val="icon.etc_gem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que houve jogo sujo em uma batalha de Invocador. Leve isso para o Invocador Almors." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3363" type="EtcItem" name="1a Cristal da Derrota">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o invocador foi derrotado em batalha. Leve isso para o Invocador Almors." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3364" type="EtcItem" name="1a Cristal da Vitória">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o invocador foi vitorioso em uma batalha. Leve isso para o Invocador Almors." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3365" type="EtcItem" name="2a Cristal de Iniciação">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador começou." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3366" type="EtcItem" name="2a Cristal do Progresso">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador está em andamento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3367" type="EtcItem" name="2a Cristal da Sujeira">
+		
+		<set name="icon" val="icon.etc_gem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que houve jogo sujo em uma batalha de Invocador. Leve isso para o Invocador Camoniell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3368" type="EtcItem" name="2a Cristal da Derrota">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o invocador foi derrotado em uma batalha. Leve isso para o Invocador Camoniell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3369" type="EtcItem" name="2a Cristal da Vitória">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o invocador foi vitorioso em uma batalha. Leve isso para o Invocador Camoniell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3370" type="EtcItem" name="3a Cristal de Iniciação">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador começou." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3371" type="EtcItem" name="3a Cristal do Progresso">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador está em andamento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3372" type="EtcItem" name="3a Cristal da Sujeira">
+		
+		<set name="icon" val="icon.etc_gem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que houve jogo sujo em uma batalha de invocador. Leve isso para o Invocador Belthus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3373" type="EtcItem" name="3a Cristal da Derrota">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o invocador foi derrotado em uma batalha. Leve isso para o Invocador Belthus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3374" type="EtcItem" name="3a Cristal da Vitória">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o invocador foi vitorioso em uma batalha. Leve isso para o Invocador Belthus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3375" type="EtcItem" name="4a Cristal de Iniciação">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador começou." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3376" type="EtcItem" name="4a Cristal do Progresso">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador está em andamento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3377" type="EtcItem" name="4a Cristal da Sujeira">
+		
+		<set name="icon" val="icon.etc_gem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que houve jogo sujo em uma batalha de Invocador. Leve isso para a Invocadora Basillia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3378" type="EtcItem" name="4a Cristal da Derrota">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o invocador foi derrotado em uma batalha. Leve isso para a Invocadora Basillia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3379" type="EtcItem" name="4a Cristal da Vitória">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o invocador foi vitorioso em uma batalha. Leve isso para a Invocadora Basillia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3380" type="EtcItem" name="5a Cristal de Iniciação">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador começou." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3381" type="EtcItem" name="5a Cristal do Progresso">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador está em andamento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3382" type="EtcItem" name="5a Cristal da Sujeira">
+		
+		<set name="icon" val="icon.etc_gem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que houve jogo sujo em uma batalha de Invocador. Leve isso para o Invocador Celestiel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3383" type="EtcItem" name="5a Cristal da Derrota">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o invocador foi derrotado em uma batalha. Leve isso para o Invocador Celestiel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3384" type="EtcItem" name="5a Cristal da Vitória">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o invocador foi vitorioso em uma batalha. Leve isso para o Invocador Celestiel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3385" type="EtcItem" name="6a Cristal de Iniciação">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador começou." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3386" type="EtcItem" name="6a Cristal do Progresso">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que uma batalha de Invocador está em andamento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3387" type="EtcItem" name="6a Cristal da Sujeira">
+		
+		<set name="icon" val="icon.etc_gem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que houve jogo sujo em uma batalha de Invocador. Leve isso para a Invocadora Brynthea." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3388" type="EtcItem" name="6a Cristal da Derrota">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o Summoner foi derrotado em uma batalha de Summoner. Leve isso para a Invocadora Brynthea." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3389" type="EtcItem" name="6a Cristal da Vitória">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma indicação de que o Summoner foi vitorioso em uma batalha de Summoner. Leve isso para a Invocadora Brynthea." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3390" type="EtcItem" name="Marca do Senhor">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram no Teste do Senhor. Um item para mudança ocupacional." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3391" type="EtcItem" name="Colar de Provação">
+		
+		<set name="icon" val="icon.accessary_another_worlds_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar dado àqueles que estão tentando o Teste do Senhor. Vá procurar 5 chefes de tribos diferentes e retorne com suas aprovações." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3392" type="EtcItem" name="Charme de Varkee">
+		
+		<set name="icon" val="icon.accessary_earing_of_black_ore_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O charme do chefe Atuba Varkee. Volte para ele depois de concluir esta tarefa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3393" type="EtcItem" name="Encanto de Tantus">
+		
+		<set name="icon" val="icon.accessary_earing_of_blessing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O charme do chefe Neruga Tantus. Volte para ele depois de concluir esta tarefa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3394" type="EtcItem" name="Charme de Hatos">
+		
+		<set name="icon" val="icon.accessary_coral_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O charme do Chefe Urutu Hatos. Volte para ele depois de concluir esta tarefa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3395" type="EtcItem" name="Encanto de Takuna">
+		
+		<set name="icon" val="icon.accessary_another_worlds_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O charme do chefe Duda-Mara Takuna. Volte para ele depois de concluir esta tarefa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3396" type="EtcItem" name="Charme de Chianta">
+		
+		<set name="icon" val="icon.accessary_cerberuss_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O charme do chefe Gandi Chianta. Volte para ele depois de concluir esta tarefa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3397" type="EtcItem" name="Ordens de Manakia">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento contendo as ordens do Vidente Manakia. Ele diz para você matar Breka Orc shamans e Orc Breka Soberanos e trazer de volta 20 Breka Orc fangs." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3398" type="EtcItem" name="Breka Orc Fang">
+		
+		<set name="icon" val="icon.etc_fang_ivory_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A presa de um Orc Breka. Colete 20 deles e leve-os ao Vidente Manakia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3399" type="EtcItem" name="Amuleto de Manakia">
+		
+		<set name="icon" val="icon.accessary_paradia_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma nota recebida após passar no teste de Manakia. Leve isso para Atuba Chief Varkees." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

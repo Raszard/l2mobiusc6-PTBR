@@ -1,0 +1,936 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3400" type="EtcItem" name="Enorme Presa de Orc">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O totem da tribo Atuba. Reúna os totens das 5 tribos e leve-os ao Pa'agrio Lord Kakai." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3401" type="EtcItem" name="Carta de Sumari">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta do ferreiro Sumari para o vidente Somak na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3402" type="EtcItem" name="Lâmina de Urutu">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma lâmina criada pelo ferreiro Sumari. Leve isso para Urutu Chefe Hatos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3403" type="EtcItem" name="Crânio Timak Orc">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O crânio de um Timak Orc morto. Reúna 10 deles e leve-os ao chefe Urutu Hatos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3404" type="EtcItem" name="Espada na Caveira">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O totem da tribo Urutu. Reúna os totens das 5 tribos e leve-os ao Pa'agrio Lord Kakai." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3405" type="EtcItem" name="Lâmina de Machado Neruga">
+		
+		<set name="icon" val="icon.weapon_heavy_bone_club_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A parte da lâmina de um machado cerimonial. Leve isso para Neruga Chefe Tantus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3406" type="EtcItem" name="Machado de Cerimônia">
+		
+		<set name="icon" val="icon.weapon_battle_axe_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O totem da tribo Neruga. Reúna os totens das 5 tribos e leve-os ao Pa'agrio Lord Kakai." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3407" type="EtcItem" name="Apalpador de Aranha do Pântano">
+		
+		<set name="icon" val="icon.etc_ginseng_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ingrediente chave para fazer o totem da tribo Duda-Mara. Reúna 10 deles e leve-os ao chefe Duda-Mara Takuna." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3408" type="EtcItem" name="Pés de Aranha do Pântano">
+		
+		<set name="icon" val="icon.etc_insect_leg_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ingrediente chave para fazer o totem da tribo Duda-Mara. Reúna 10 deles e leve-os ao chefe Duda-Mara Takuna." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3409" type="EtcItem" name="Broche de Aranha Feito à Mão">
+		
+		<set name="icon" val="icon.shield_doom_shield_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O totem da tribo Duda-Mara. Reúna os totens das 5 tribos e leve-os ao Pa'agrio Lord Kakai." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3410" type="EtcItem" name="Córnea do Monstro Olho Encantado">
+		
+		<set name="icon" val="icon.etc_crystal_ball_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ingrediente chave na fabricação do totem tribal de Gandhi. Reúna 20 deles e leve-os ao Gandi Chief Chianta." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3411" type="EtcItem" name="Escultura em Madeira de Monstro Olho">
+		
+		<set name="icon" val="icon.etc_parasite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O totem da tribo Gandi. Reúna os totens das 5 tribos e leve-os ao Pa'agrio Lord Kakai." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3412" type="EtcItem" name="Colar Presa de Urso">
+		
+		<set name="icon" val="icon.accessary_necklace_of_binding_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O totem da tribo Hestui. Pegue isso e vá até o Ancestral Martankus na Cave of Trials." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3413" type="EtcItem" name="Encanto de Martankus">
+		
+		<set name="icon" val="icon.accessary_inferno_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O talismã do ancestral Martankus. Volte para ele depois de concluir esta tarefa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3414" type="EtcItem" name="Cabeça de Orc Ragna">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A cabeça de um Orc Ragna morto. Leve isso para o Ancestral Martankus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3415" type="EtcItem" name="Notificação do Chefe Ragna">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="&quot;Aquele que destruir o Senhor da Chama será nomeado Chefe.&quot; Leve isso para o espírito ancestral Martankus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3416" type="EtcItem" name="Chama Imortal">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A marca recebida após passar no teste do Ancestral Martankus. Leve isso para Pa'agrio Lorde Kakai." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3417" type="EtcItem" name="Lista de Amantes de Animais">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Vá e procure a Teleportadora Bella na Town of Gludio, o Guarda Metty na Town of Dion e a Joalheria Ellie na cidade de Giran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3418" type="EtcItem" name="1a Lista de Matadores de Animais">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Destrua os matadores de animais da Talking Island Village: aranhas gigantes, aranhas de garra e lâminas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3419" type="EtcItem" name="2a Lista de Matadores de Animais">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Destrua os matadores de animais da Floresta Élfica: aranhas vermelhas, aranhas-gancho e aranhas-pinça." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3420" type="EtcItem" name="3a Lista de Matadores de Animais">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Destrua os matadores de animais da Floresta Élfica das Trevas: horrores sombrios menores, horrores sombrios e vagabundos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3421" type="EtcItem" name="4a Lista de Matadores de Animais">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Destrua os matadores de animais do Planalto Indomável: aranhas kasha, aranhas kasha poker e aranhas lâmina kasha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3422" type="EtcItem" name="5a Lista de Matadores de Animais">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Destrua os matadores de animais da Zona de Mineração das Montanhas Spine: tarântulas caçadoras e tarântulas saqueadoras." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3423" type="EtcItem" name="Presa Sangrenta">
+		
+		<set name="icon" val="icon.etc_fang_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa pingando sangue animal. Colete 50 deles e leve-os para Martin, o gerente de animais de estimação da cidade de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3424" type="EtcItem" name="Garra Sangrenta">
+		
+		<set name="icon" val="icon.etc_fang_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma garra pingando sangue animal. Colete 50 deles e leve-os para Martin, o gerente de animais de estimação da cidade de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3425" type="EtcItem" name="Unha Sangrenta">
+		
+		<set name="icon" val="icon.etc_fang_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um prego pingando sangue animal. Colete 50 deles e leve-os para Martin, o gerente de animais de estimação da cidade de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3426" type="EtcItem" name="Sangrento Kasha Fang">
+		
+		<set name="icon" val="icon.etc_fang_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa de kasha pingando sangue animal. Colete 50 deles e leve-os para Martin, o gerente de animais de estimação da cidade de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3427" type="EtcItem" name="Unha de Tarântula Sangrenta">
+		
+		<set name="icon" val="icon.etc_fang_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma unha de uma tarântula pingando sangue animal. Colete 50 deles e leve-os para Martin, o gerente de animais de estimação da cidade de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3428" type="EtcItem" name="Broche de Cristal">
+		
+		<set name="icon" val="icon.accessary_elven_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um broche recebido do Armazém Wilfred. Apresente isso a Lilith do templo na vila de Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3429" type="EtcItem" name="Livro de Feitiços: Cura Superior">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender o feitiço Greater Heal. Usado por Bispos, Elven Elders e Shillien Elders." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3430" type="EtcItem" name="Livro de Feitiços: Cura de Batalha Superior">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Greater Battle Heal. Usado pelos Bispos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3431" type="EtcItem" name="Livro de Feitiços: Cura de Grupo Superior">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Greater Group Heal. Usado por bispos e anciãos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3432" type="EtcItem" name="Livro de Feitiços: Remédio">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Remedy. Usado por paladinos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3433" type="EtcItem" name="Figura de Elfo">
+		<set name="icon" val="icon.etc_figure_FElf_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3434" type="EtcItem" name="Coca">
+		<set name="icon" val="icon.etc_coke_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3435" type="EtcItem" name="Nvidia">
+		<set name="icon" val="icon.etc_nvidia_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3436" type="EtcItem" name="Rato">
+		<set name="icon" val="icon.etc_mouse_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3437" type="EtcItem" name="Livro Comercial do Comerciante">
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="20000" />
+	</item>
+	<item id="3438" type="EtcItem" name="Livro Comercial do Grande Mercador">
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="20000" />
+	</item>
+	<item id="3439" type="Weapon" name="Canino Brilhante">
+		
+		<set name="icon" val="icon.etc_pet_arms_i00" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="Clique duas vezes para vestir. Só para lobos." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="7" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="8" />
+		<set name="price" val="34000" />
+		<for>
+			<add val="7" order="0x10" stat="pAtk" />
+			<add val="8" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="3440" type="EtcItem" name="Caixa de Carga">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Caixa de frete na qual a marca da Aden Commercial Guild está estampada." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="3441" type="EtcItem" name="Caixa de Carga">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Caixa de frete na qual a marca da Aden Commercial Guild está estampada." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="3442" type="EtcItem" name="Caixa de Carga">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Caixa de frete na qual a marca da Aden Commercial Guild está estampada." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="3443" type="EtcItem" name="Caixa de Carga">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Caixa de frete na qual a marca da Aden Commercial Guild está estampada." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="3444" type="EtcItem" name="Gludio Maçãs">
+		
+		<set name="icon" val="icon.etc_fruit_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Maçã cultivada na região de Gludio. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="3445" type="EtcItem" name="Farinha de Milho Dion">
+		
+		<set name="icon" val="icon.etc_powder_orange_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Pó feito de milho cultivado em Dion. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="3446" type="EtcItem" name="Peles de Lobo Dire">
+		
+		<set name="icon" val="icon.etc_crafted_leather_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Peles curtidas do Lobo Dire. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="3447" type="EtcItem" name="Moonstone">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Joia de luz azul e branca chamada Moonjang Stone ou Moonstone. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1500" />
+	</item>
+	<item id="3448" type="EtcItem" name="Gludio Farinha de Trigo">
+		
+		<set name="icon" val="icon.etc_powder_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Pó feito de trigo cultivado na região de Gludio. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1500" />
+	</item>
+	<item id="3449" type="EtcItem" name="Corda de Seda de Aranha">
+		
+		<set name="icon" val="icon.etc_skein_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Corda forte feita de tecelagem de seda de aranha tarântula. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1500" />
+	</item>
+	<item id="3450" type="EtcItem" name="Alexandrite">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Joia preciosa que brilha verde ao sol e vermelha ao luar. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3451" type="EtcItem" name="Serviço de Chá Prata">
+		
+		<set name="icon" val="icon.etc_mechanic_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Conjunto de xícaras e pratos de alta qualidade em prata. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3452" type="EtcItem" name="Peças Sobressalentes Para Golem Mecânico">
+		
+		<set name="icon" val="icon.etc_instrument_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um componente de golems mecânicos. Inútil para qualquer outra coisa, é melhor vender." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3453" type="EtcItem" name="Esmeralda de Fogo">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Joia preciosa que brilha com uma intensa luz vermelha. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="3454" type="EtcItem" name="Vestido de Seda Avellan">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Vestido de seda de alta qualidade importado de Avellan do leste. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="3455" type="EtcItem" name="Urna de Porcelana Feriótica">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Como um copo de água feito para seus rituais, é uma relíquia do antigo império Ferios. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20000" />
+	</item>
+	<item id="3456" type="EtcItem" name="Diamante Imperial">
+		
+		<set name="icon" val="icon.etc_jewel_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Joia de luz brilhante usada na decoração da coroa do imperador Elmoreden. Pode ser vendido em lojas." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20000" />
+	</item>
+	<item id="3457" type="EtcItem" name="Estátua de Shilen - Cabeça">
+		
+		<set name="icon" val="icon.etc_stone_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte de uma estátua quebrada. Pode ser vendido em lojas. Se você coletar as peças restantes da estátua...?" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3458" type="EtcItem" name="Estátua de Shilen - Torso">
+		
+		<set name="icon" val="icon.etc_debris_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte de uma estátua quebrada. Pode ser vendido em lojas. Se você coletar as peças restantes da estátua...?" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3459" type="EtcItem" name="Estátua de Shilen - Braço">
+		
+		<set name="icon" val="icon.etc_gargoyle_claw_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte de uma estátua quebrada. Pode ser vendido em lojas. Se você coletar as peças restantes da estátua...?" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3460" type="EtcItem" name="Estátua de Shilen - Perna">
+		
+		<set name="icon" val="icon.etc_stone_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte de uma estátua quebrada. Pode ser vendido em lojas. Se você coletar as peças restantes da estátua...?" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3461" type="EtcItem" name="Estátua Completa de Shilen">
+		
+		<set name="icon" val="icon.etc_statue_of_einhasad_bronze_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Estátua de Shilen feita na época do antigo império Elmoreden. Pode ser vendido em lojas por um preço alto." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20000" />
+	</item>
+	<item id="3462" type="EtcItem" name="Fragmento de Tábua Antiga - 1a Peça">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Fragmento de tabuleta de argila antiga. Se você coletar as peças restantes da Tábua...?" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3463" type="EtcItem" name="Fragmento de Tabuleta Antiga - 2a Peça">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Fragmento de tabuleta de argila antiga. Se você coletar as peças restantes da Tábua...?" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3464" type="EtcItem" name="Fragmento de Tábua Antiga - 3a Peça">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Fragmento de tabuleta de argila antiga. Se você coletar as peças restantes da Tábua...?" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3465" type="EtcItem" name="Fragmento de Tabuleta Antiga - 4a Peça">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Fragmento de tabuleta de argila antiga. Se você coletar as peças restantes da Tábua...?" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="3466" type="EtcItem" name="Tablet Antigo Completo">
+		
+		<set name="icon" val="icon.etc_ancient_tablet_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma grande placa de argila na qual estão gravados textos antigos. Você pode vendê-lo para uma loja por um preço alto." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20000" />
+	</item>
+	<item id="3467" type="EtcItem" name="Poção dos Desejos">
+		
+		<set name="icon" val="icon.etc_lesser_potion_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Poção mágica que dizem realizar desejos." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="10" />
+	</item>
+	<item id="3468" type="EtcItem" name="Coroa Antiga">
+		
+		<set name="icon" val="icon.etc_mark_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Coroa cheia de joias, mas grande demais para usar na cabeça. Vamos vendê-lo." />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="3469" type="EtcItem" name="Certificado de Realeza">
+		
+		<set name="icon" val="icon.etc_crest_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Certificado de realeza, mas ninguém sabe quem o fez." />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="10" />
+	</item>
+	<item id="3470" type="EtcItem" name="Barra de Ouro">
+		
+		<set name="icon" val="icon.etc_lump_yellow_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Pedaço pesado de ouro puro." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="3471" type="Weapon" name="Adaga de Cybellin">
+		
+		<set name="icon" val="icon.weapon_doomed_dagger_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Adaga usada em cerimônia para aumentar a pureza do cristal de sangue." />
+		<set name="weight" val="400" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="10" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="9" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="10" order="0x08" stat="pAtk" />
+			<set val="9" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="3472" type="EtcItem" name="Medusa de Sangue">
+		
+		<set name="icon" val="icon.etc_magic_coin_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade muito baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="3473" type="EtcItem" name="Lobisomem de Sangue">
+		
+		<set name="icon" val="icon.etc_magic_coin_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="3474" type="EtcItem" name="Basilisco de Sangue">
+		
+		<set name="icon" val="icon.etc_magic_coin_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade média" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="3475" type="EtcItem" name="Drevanul de Sangue">
+		
+		<set name="icon" val="icon.etc_magic_coin_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="3476" type="EtcItem" name="Succubus de Sangue">
+		
+		<set name="icon" val="icon.etc_magic_coin_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade média" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="3477" type="EtcItem" name="Dragão de Sangue">
+		
+		<set name="icon" val="icon.etc_magic_coin_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade alta" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="3478" type="EtcItem" name="Dragão Beleth de Sangue">
+		
+		<set name="icon" val="icon.etc_magic_coin_blood_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade muito alta" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="3479" type="EtcItem" name="Lobisomem Manak de Sangue">
+		
+		<set name="icon" val="icon.etc_magic_coin_blood_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade média" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="3480" type="EtcItem" name="Medusa Nia de Sangue">
+		
+		<set name="icon" val="icon.etc_magic_coin_blood_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="3481" type="EtcItem" name="Dragão de Ouro">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade alta" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="3482" type="EtcItem" name="Wyvern de Ouro">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade muito baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="3483" type="EtcItem" name="Cavaleiro de Ouro">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="3484" type="EtcItem" name="Gigante de Ouro">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade média" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="3485" type="EtcItem" name="Drake de Ouro">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="3486" type="EtcItem" name="Wyrm de Ouro">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade média" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="3487" type="EtcItem" name="Dragão Beleth de Ouro">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade muito alta" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="3488" type="EtcItem" name="Gigante Manak de Ouro">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade média" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="3489" type="EtcItem" name="Wyvern Nia de Ouro">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="3490" type="EtcItem" name="Unicórnio de Prata">
+		
+		<set name="icon" val="icon.etc_magic_coin_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade muito baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="3491" type="EtcItem" name="Fada de Prata">
+		
+		<set name="icon" val="icon.etc_magic_coin_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="3492" type="EtcItem" name="Dríade de Prata">
+		
+		<set name="icon" val="icon.etc_magic_coin_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade média" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="3493" type="EtcItem" name="Dragão de Prata">
+		
+		<set name="icon" val="icon.etc_magic_coin_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade alta" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="3494" type="EtcItem" name="Golem de Prata">
+		
+		<set name="icon" val="icon.etc_magic_coin_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="3495" type="EtcItem" name="Undine de Prata">
+		
+		<set name="icon" val="icon.etc_magic_coin_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade média" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="3496" type="EtcItem" name="Dragão Beleth de Prata">
+		
+		<set name="icon" val="icon.etc_magic_coin_silver_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade muito alta" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="3497" type="EtcItem" name="Dríade Manak de Prata">
+		
+		<set name="icon" val="icon.etc_magic_coin_silver_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade média" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="3498" type="EtcItem" name="Fada Nia de Prata">
+		
+		<set name="icon" val="icon.etc_magic_coin_silver_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda qualidade baixa" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="3499" type="EtcItem" name="Pó de Fada">
+		
+		<set name="icon" val="icon.etc_powder_orange_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Pó que cai do corpo da fada. É vendido a um preço caro nas lojas." />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="10000" />
+		<set name="dropable" val="false" />
+	</item>
+</list>

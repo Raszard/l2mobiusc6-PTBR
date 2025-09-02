@@ -1,0 +1,2172 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5600" type="Weapon" name="Chuva de Meteoros - Sangramento Crítico">
+		
+		<set name="icon" val="icon.weapon_meteor_shower_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, aumenta a chance de sugar o sangue do alvo em 42%. Efeito 7. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1600" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="onCrit_skill_id" val="3021" /> 
+		<set name="onCrit_skill_lvl" val="5" />
+		<set name="onCrit_skill_chance" val="35" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5601" type="Weapon" name="Chuva de Meteoros - Rsk. Pressa">
+		
+		<set name="icon" val="icon.weapon_meteor_shower_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Quando o HP cai para 60% ou menos, aumenta o Vel. Atq. em 11%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1600" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3056" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<mul order="0x30" stat="pAtkSpd" val="1.11">
+				<and>
+					<player hp="60" />
+				</and>
+			</mul>
+		</for>
+	</item>
+	<item id="5602" type="Weapon" name="Elísio - Vida">
+		
+		<set name="icon" val="icon.weapon_elysian_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1580" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3013" /> 
+		<set name="item_skill_lvl" val="3" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5603" type="Weapon" name="Elísio - Raiva">
+		
+		<set name="icon" val="icon.weapon_elysian_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Diminui o HP máximo em 15% e aumenta o Atq.F em 32. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1580" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3057" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5604" type="Weapon" name="Elísio - Drenagem Crítica">
+		
+		<set name="icon" val="icon.weapon_elysian_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, absorve 19 HP do alvo. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1580" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3072" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5605" type="Weapon" name="Ramo da Árvore Mãe - Conversão">
+		
+		<set name="icon" val="icon.weapon_worldtrees_branch_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 60% e diminui o HP máximo em 40%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="226" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="152" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3048" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="226" order="0x08" stat="pAtk" />
+			<set val="152" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+		</for>
+	</item>
+	<item id="5606" type="Weapon" name="Ramo da Árvore Mãe - Dano Mágico">
+		
+		<set name="icon" val="icon.weapon_worldtrees_branch_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Concede 30% de chance de aumentar o dano ao Poder 8 ao usar magia ruim. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="226" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="152" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3552" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="226" order="0x08" stat="pAtk" />
+			<set val="152" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5607" type="Weapon" name="Ramo da Árvore Mãe - Perspicácia">
+		
+		<set name="icon" val="icon.weapon_worldtrees_branch_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Velocidade de Conjuração. em 15%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="226" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="152" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3047" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="226" order="0x08" stat="pAtk" />
+			<set val="152" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+		</for>
+	</item>
+	<item id="5608" type="Weapon" name="Arco da Carnificina - Leve">
+		
+		<set name="icon" val="icon.weapon_carnium_bow_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: O peso de uma arma diminuirá em 30%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="500" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="440" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="9" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<for>
+			<set val="440" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5609" type="Weapon" name="Arco da Carnificina - Sangramento Crítico">
+		
+		<set name="icon" val="icon.weapon_carnium_bow_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, aumenta a chance de sugar o sangue do alvo em 35%. Efeito 7. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1670" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="440" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="9" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="onCrit_skill_id" val="3021" /> 
+		<set name="onCrit_skill_lvl" val="5" />
+		<set name="onCrit_skill_chance" val="35" />
+		<for>
+			<set val="440" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5610" type="Weapon" name="Arco da Carnificina - Aumento de Mana">
+		
+		<set name="icon" val="icon.weapon_carnium_bow_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 30%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1670" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="440" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="9" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3014" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="440" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5611" type="Weapon" name="Arco da Alma - Tiro Barato">
+		
+		<set name="icon" val="icon.weapon_soul_bow_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque qualquer, 2 MP serão consumidos com uma taxa de chance de 38%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1660" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="528" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="227" />
+		<set name="mp_consume" val="10" />
+		<set name="m_dam" val="125" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<for>
+			<set val="528" order="0x08" stat="pAtk" />
+			<set val="125" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="227" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<set val="2" order="0x08" stat="MpConsume">
+				<and>
+					<game skill="false" chance="38" />
+				</and>
+			</set>
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5612" type="Weapon" name="Arco da Alma - Rápida Recuperação">
+		
+		<set name="icon" val="icon.weapon_soul_bow_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Diminui o atraso de reutilização em cerca de 15%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1660" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="528" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="227" />
+		<set name="mp_consume" val="10" />
+		<set name="m_dam" val="125" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<for>
+			<set val="528" order="0x08" stat="pAtk" />
+			<set val="125" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="227" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="0.85" order="0x30" stat="atkReuse" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5613" type="Weapon" name="Arco da Alma - Veneno Crítico">
+		
+		<set name="icon" val="icon.weapon_soul_bow_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, envenena um alvo com 18% de chance de sucesso. Efeito 7. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1660" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="528" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="227" />
+		<set name="mp_consume" val="10" />
+		<set name="m_dam" val="125" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="onCrit_skill_id" val="3024" /> 
+		<set name="onCrit_skill_lvl" val="5" />
+		<set name="onCrit_skill_chance" val="10" />
+		<for>
+			<set val="528" order="0x08" stat="pAtk" />
+			<set val="125" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="227" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5614" type="Weapon" name="Orquídea Sangrenta - Foco">
+		
+		<set name="icon" val="icon.weapon_bloody_orchid_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 67. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="960" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="186" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3051" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="186" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<add val="61" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+	<item id="5615" type="Weapon" name="Orquídea Sangrenta - Golpe nas Costas">
+		
+		<set name="icon" val="icon.weapon_bloody_orchid_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: ao atacar um alvo por trás, aumenta o Ataque Crítico em 37%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="960" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="186" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3599" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="186" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5616" type="Weapon" name="Orquídea Sangrenta - Sangramento Crítico">
+		
+		<set name="icon" val="icon.weapon_bloody_orchid_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, aumenta a chance de sugar o sangue do alvo em 12%. Efeito 7. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="960" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="186" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="onCrit_skill_id" val="3021" /> 
+		<set name="onCrit_skill_lvl" val="5" />
+		<set name="onCrit_skill_chance" val="35" />
+		<for>
+			<set val="186" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5617" type="Weapon" name="Separador de Almas - Orientação">
+		
+		<set name="icon" val="icon.weapon_soul_separator_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Precisão em cerca de 4." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="950" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="203" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3064" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="203" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5618" type="Weapon" name="Separador de Almas - Dano Crítico">
+		
+		<set name="icon" val="icon.weapon_soul_separator_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, aumenta Atq.F em 200. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="950" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="203" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3066" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="203" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<add val="200" order="0x40" stat="cAtk" />
+		</for>
+	</item>
+	<item id="5619" type="Weapon" name="Separador de Almas - Rsk. Pressa">
+		
+		<set name="icon" val="icon.weapon_soul_separator_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Quando o HP cai para 60% ou menos, aumenta o Vel. Atq. em 11%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="950" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="203" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3056" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="203" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<mul order="0x30" stat="pAtkSpd" val="1.13">
+				<and>
+					<player hp="60" />
+				</and>
+			</mul>
+		</for>
+	</item>
+	<item id="5620" type="Weapon" name="Tornado de Sangue - Pressa">
+		
+		<set name="icon" val="icon.weapon_blood_tornado_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Vel. Atq. em cerca de 6%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1370" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="259" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3068" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="259" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<mul val="1.07" order="0x30" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5621" type="Weapon" name="Tornado de Sangue - Foco">
+		
+		<set name="icon" val="icon.weapon_blood_tornado_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 61. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1370" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="259" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3565" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="259" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<add val="61" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+	<item id="5622" type="Weapon" name="Tornado de Sangue - Raiva">
+		
+		<set name="icon" val="icon.weapon_blood_tornado_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Diminui o HP máximo em 15% e aumenta o Atq.F em 38. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1370" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="259" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3058" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="259" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5623" type="Weapon" name="Moedor de Dragões - Rsk. Evasão">
+		
+		<set name="icon" val="icon.weapon_dragon_grinder_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Quando o HP cai para 60% ou menos, aumenta a Evasão em 6. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1350" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="282" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3069" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="282" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<add order="0x40" stat="rEvas" val="9">
+				<and>
+					<player hp="60" />
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="5624" type="Weapon" name="Moedor de Dragões - Orientação">
+		
+		<set name="icon" val="icon.weapon_dragon_grinder_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Precisão em cerca de 5. Aumenta o dano a um alvo durante PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1350" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="282" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3065" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="282" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5625" type="Weapon" name="Moedor de Dragões - Vida">
+		
+		<set name="icon" val="icon.weapon_dragon_grinder_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1350" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="282" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3013" /> 
+		<set name="item_skill_lvl" val="3" />
+		<for>
+			<set val="282" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5626" type="Weapon" name="Alabarda - Pressa">
+		
+		<set name="icon" val="icon.weapon_halbard_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Vel. Atq. em cerca de 6%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3601" /> 
+		<set name="item_skill_lvl" val="7" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<mul val="1.07" order="0x30" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5627" type="Weapon" name="Alabarda - Atordoamento Crítico">
+		
+		<set name="icon" val="icon.weapon_halbard_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Tem 25% de chance de atordoar durante um ataque crítico. Aumenta o dano ao alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="onCrit_skill_id" val="3070" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="25" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5628" type="Weapon" name="Alabarda - Golpe Largo">
+		
+		<set name="icon" val="icon.weapon_halbard_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Amplia o ângulo de ataque. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3599" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5629" type="Weapon" name="Alabarda Orc">
+		<set name="icon" val="icon.weapon_orcish_halbard_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1880" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="219" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="109" />
+		<set name="price" val="21300000" />
+		<set name="crystal_count" val="1704" />
+		<for>
+			<set val="219" order="0x08" stat="pAtk" />
+			<set val="109" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5630" type="Weapon" name="Alabarda Orc">
+		<set name="icon" val="icon.weapon_orcish_halbard_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1880" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="219" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="109" />
+		<set name="price" val="21300000" />
+		<set name="crystal_count" val="1704" />
+		<for>
+			<set val="219" order="0x08" stat="pAtk" />
+			<set val="109" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5631" type="Weapon" name="Alabarda Orc">
+		<set name="icon" val="icon.weapon_orcish_halbard_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1880" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="219" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="109" />
+		<set name="price" val="21300000" />
+		<set name="crystal_count" val="1704" />
+		<for>
+			<set val="219" order="0x08" stat="pAtk" />
+			<set val="109" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5632" type="Weapon" name="Gládio de Tallum - Orientação">
+		
+		<set name="icon" val="icon.weapon_tallum_glaive_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Precisão em cerca de 4. Aumenta o dano a um alvo durante PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1840" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3602" /> 
+		<set name="item_skill_lvl" val="8" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5633" type="Weapon" name="Gládio de Tallum - Vida">
+		
+		<set name="icon" val="icon.weapon_tallum_glaive_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1840" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3013" /> 
+		<set name="item_skill_lvl" val="4" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5634" type="Weapon" name="Gládio de Tallum - Golpe Largo">
+		
+		<set name="icon" val="icon.weapon_tallum_glaive_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Amplia o ângulo de ataque. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1840" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3599" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5635" type="Weapon" name="Lâmina de Tallum - Veneno Crítico">
+		
+		<set name="icon" val="icon.weapon_tallum_blade_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, envenena um alvo com 10% de chance de sucesso. Efeito 7. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1330" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="onCrit_skill_id" val="3024" /> 
+		<set name="onCrit_skill_lvl" val="5" />
+		<set name="onCrit_skill_chance" val="10" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5636" type="Weapon" name="Lâmina de Tallum - Pressa">
+		
+		<set name="icon" val="icon.weapon_tallum_blade_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Vel. Atq. em cerca de 6%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1330" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3068" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<mul val="1.07" order="0x30" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5637" type="Weapon" name="Lâmina de Tallum - Raiva">
+		
+		<set name="icon" val="icon.weapon_tallum_blade_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Diminui o HP máximo em 15% e aumenta o Atq.F em 31. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1330" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3057" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5638" type="Weapon" name="Espada Elemental - Poder Mágico">
+		
+		<set name="icon" val="icon.weapon_elemental_sword_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: ao usar magia, aumenta o consumo de MP em 15% e Atq.M B aumenta em 153. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="830" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="170" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="143" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3073" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="170" order="0x08" stat="pAtk" />
+			<set val="143" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5639" type="Weapon" name="Espada Elemental - Paralisação Mágica">
+		
+		<set name="icon" val="icon.weapon_elemental_sword_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: ao usar magia ruim, paralisa o alvo com 5% de chance de sucesso. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="830" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="170" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="143" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="onCast_skill_id" val="3075" /> 
+		<set name="onCast_skill_lvl" val="1" />
+		<set name="onCast_skill_chance" val="10" />
+		<for>
+			<set val="170" order="0x08" stat="pAtk" />
+			<set val="143" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5640" type="Weapon" name="Espada Elemental - Empoderamento">
+		
+		<set name="icon" val="icon.weapon_elemental_sword_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Atq.M em 30. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="830" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="170" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="143" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3072" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="170" order="0x08" stat="pAtk" />
+			<set val="143" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+		</for>
+	</item>
+	<item id="5641" type="Weapon" name="Espada dos Milagres - Poder Mágico">
+		
+		<set name="icon" val="icon.weapon_sword_of_miracle_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: ao usar magia, aumenta o consumo de MP em 15% e aumenta o Atq.M em 167. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="840" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="186" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="152" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3073" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="186" order="0x08" stat="pAtk" />
+			<set val="152" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5642" type="Weapon" name="Espada dos Milagres - Silencio Mágico">
+		
+		<set name="icon" val="icon.weapon_sword_of_miracle_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: ao usar magia ruim contra um alvo, lança Silêncio sobre o alvo com 10% de chance de sucesso. Efeito 1. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="840" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="186" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="152" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="onCast_skill_id" val="3074" /> 
+		<set name="onCast_skill_lvl" val="1" />
+		<set name="onCast_skill_chance" val="10" />
+		<for>
+			<set val="186" order="0x08" stat="pAtk" />
+			<set val="152" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5643" type="Weapon" name="Espada dos Milagres - Perspicácia">
+		
+		<set name="icon" val="icon.weapon_sword_of_miracle_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Velocidade de Conjuração. em 15%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="840" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="186" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="152" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3047" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="186" order="0x08" stat="pAtk" />
+			<set val="152" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+		</for>
+	</item>
+	<item id="5644" type="Weapon" name="Matador de Dragão - Vida">
+		
+		<set name="icon" val="icon.weapon_dragon_slayer_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1840" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="282" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3013" /> 
+		<set name="item_skill_lvl" val="3" />
+		<for>
+			<set val="282" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5645" type="Weapon" name="Matador de Dragão - Sangramento Crítico">
+		
+		<set name="icon" val="icon.weapon_dragon_slayer_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, aumenta a chance de sugar o sangue do alvo em 24%. Efeito 7. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1840" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="282" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="onCrit_skill_id" val="3021" /> 
+		<set name="onCrit_skill_lvl" val="5" />
+		<set name="onCrit_skill_chance" val="24" />
+		<for>
+			<set val="282" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5646" type="Weapon" name="Matador de Dragão - Drenagem Crítica">
+		
+		<set name="icon" val="icon.weapon_dragon_slayer_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, absorve 11 HP do alvo. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1840" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="282" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="onCrit_skill_id" val="3022" /> 
+		<set name="onCrit_skill_lvl" val="4" />
+		<set name="onCrit_skill_chance" val="20" />
+		<for>
+			<set val="282" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5647" type="Weapon" name="Gume da Legião das Trevas - Dano Crítico">
+		
+		<set name="icon" val="icon.weapon_dark_legions_edge_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, aumenta Atq.F em 326. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1320" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3067" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<add val="326" order="0x40" stat="cAtk" />
+		</for>
+	</item>
+	<item id="5648" type="Weapon" name="Gume da Legião das Trevas - Vida">
+		
+		<set name="icon" val="icon.weapon_dark_legions_edge_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1320" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3013" /> 
+		<set name="item_skill_lvl" val="3" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5649" type="Weapon" name="Gume da Legião das Trevas - Rsk. Foco">
+		
+		<set name="icon" val="icon.weapon_dark_legions_edge_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Quando o HP cai para 60% ou menos, aumenta o Ataque Crítico em 130. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1320" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<set name="item_skill_id" val="3071" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<add order="0x40" stat="rCrit" val="99">
+				<and>
+					<player hp="60" />
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="5650" type="EtcItem" name="Semente: Alternativa Coda das Trevas">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto da Alternativa Coda das Trevas. Para melhores resultados, um personagem de nível 5-15 deve plantá-lo em um monstro de nível 5-15." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="5651" type="EtcItem" name="Semente: Alternativa Coda Vermelha">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto da Alternativa Coda Vermelha. Para obter melhores resultados, um personagem de nível 8-18 deve plantá-lo em um monstro de nível 8-18." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="5652" type="EtcItem" name="Semente: Alternativa Coda Fria">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto da Alternativa Coda Fria. Para obter melhores resultados, um personagem de nível 11-21 deve plantá-lo em um monstro de nível 11-21." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="5653" type="EtcItem" name="Semente: Alternativa Coda Azul">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto da Alternativa Coda Azul. Para melhores resultados, um personagem de nível 14-24 deve plantá-lo em um monstro de nível 14-24." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="5654" type="EtcItem" name="Semente: Alternativa Coda Dourada">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto da Alternativa Coda Dourada. Para obter melhores resultados, um personagem de nível 17-27 deve plantá-lo em um monstro de nível 17-27." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5655" type="EtcItem" name="Semente: Alternativa Coda Alaúde">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto da Alternativa Coda Alaúde. Para obter melhores resultados, um personagem de nível 20-30 deve plantá-lo em um monstro de nível 20-30." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30" />
+	</item>
+	<item id="5656" type="EtcItem" name="Semente: Alternativa Coda do Deserto">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto da Alternativa Coda do Deserto. Para obter melhores resultados, um personagem de nível 23-33 deve plantá-lo em um monstro de nível 23-33." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5657" type="EtcItem" name="Semente: Alternativo Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Alternativo Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5658" type="EtcItem" name="Semente: Alternativa Coda Azul">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto da Alternativa Coda Azul. Para melhores resultados, um personagem de nível 14-24 deve plantá-lo em um monstro de nível 14-24." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="5659" type="EtcItem" name="Semente: Alternativa Coda Dourada">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto da Alternativa Coda Dourada. Para obter melhores resultados, um personagem de nível 17-27 deve plantá-lo em um monstro de nível 17-27." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5660" type="EtcItem" name="Semente: Alternativa Coda Alaúde">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto da Alternativa Coda Alaúde. Para melhores resultados, um personagem de nível 20-23 deve plantá-lo em um monstro de nível 20-23." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30" />
+	</item>
+	<item id="5661" type="EtcItem" name="Semente: Alternativa Coda do Deserto">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto da Alternativa Coda do Deserto. Para obter melhores resultados, um personagem de nível 23-33 deve plantá-lo em um monstro de nível 23-33." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5662" type="EtcItem" name="Semente: Alternativo Cobol Vermelho">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Alternativo Cobol Vermelho. Para obter melhores resultados, um personagem de nível 26-36 deve plantá-lo em um monstro de nível 26-36." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5663" type="EtcItem" name="Semente: Alternativo Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Alternativo Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="5664" type="EtcItem" name="Semente: Alternativo Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Alternativo Cobol Espinhento Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5665" type="EtcItem" name="Semente: Alternativo Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Alternativo Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5666" type="EtcItem" name="Semente: Alternativo Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Alternativo Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5667" type="EtcItem" name="Semente: Alternativo Cobol Vermelho">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Cobol Vermelho. Para obter melhores resultados, um personagem de nível 26-36 deve plantá-lo em um monstro de nível 26-36." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5668" type="EtcItem" name="Semente: Alternativo Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="5669" type="EtcItem" name="Semente: Alternativo Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5670" type="EtcItem" name="Semente: Alternativo Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5671" type="EtcItem" name="Semente: Alternativo Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5672" type="EtcItem" name="Semente: Alternativo Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5673" type="EtcItem" name="Semente: Alternativo Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Semente: Alternativo Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5674" type="EtcItem" name="Semente: Alternativo Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5675" type="EtcItem" name="Semente: Alternativo Codran do Deserto">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Codran do Deserto. Para obter melhores resultados, um personagem de nível 59-69 deve plantá-lo em um monstro de nível 59-69." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5676" type="EtcItem" name="Semente: Alternativa Coda das Trevas">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto da Alternativa Coda das Trevas. Para melhores resultados, um personagem de nível 5-15 deve plantá-lo em um monstro de nível 5-15." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="5677" type="EtcItem" name="Semente: Alternativa Coda Vermelha">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto da Alternativa Coda Vermelha. Para obter melhores resultados, um personagem de nível 8-18 deve plantá-lo em um monstro de nível 8-18." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="5678" type="EtcItem" name="Semente: Alternativa Coda Azul">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto da Alternativa Coda Azul. Para melhores resultados, um personagem de nível 14-24 deve plantá-lo em um monstro de nível 14-24." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="5679" type="EtcItem" name="Semente: Alternativo Cobol Vermelho">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Cobol Vermelho. Para obter melhores resultados, um personagem de nível 26-36 deve plantá-lo em um monstro de nível 26-36." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5680" type="EtcItem" name="Semente: Alternativo Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="5681" type="EtcItem" name="Semente: Alternativo Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5682" type="EtcItem" name="Semente: Alternativo Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5683" type="EtcItem" name="Semente: Alternativo Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Codran do Mar. Para melhores resultados, um personagem de nível 45-55 deve plantá-lo em um monstro de nível 45-55." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5684" type="EtcItem" name="Semente: Alternativo Codran Frio">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Codran Frio. Para obter melhores resultados, um personagem de nível 47-57 deve plantá-lo em um monstro de nível 47-57." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5685" type="EtcItem" name="Semente: Alternativo Codran Azul">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Codran Azul. Para obter melhores resultados, um personagem de nível 50-60 deve plantá-lo em um monstro de nível 50-60." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5686" type="EtcItem" name="Semente: Alternativo Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5687" type="EtcItem" name="Semente: Alternativo Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Alternativo Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5688" type="EtcItem" name="Semente: Alternativo Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Alternativo Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5689" type="EtcItem" name="Semente: Alternativo Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Alternativo Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5690" type="EtcItem" name="Semente: Alternativo Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Alternativo Codran Vermelho Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5691" type="EtcItem" name="Semente: Alternativo Codran Frio">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Alternativo Codran Frio. Para obter melhores resultados, um personagem de nível 47-57 deve plantá-lo em um monstro de nível 47-57." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5692" type="EtcItem" name="Semente: Alternativo Codran Azul">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Alternativo Codran Azul. Para obter melhores resultados, um personagem de nível 50-60 deve plantá-lo em um monstro de nível 50-60." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5693" type="EtcItem" name="Semente: Alternativo Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Alternativo Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5694" type="EtcItem" name="Semente: Alternativo Codran Grande">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Alternativo Codran Grande. Para obter melhores resultados, um personagem de nível 56-66 deve plantá-lo em um monstro de nível 56-66." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75" />
+	</item>
+	<item id="5695" type="EtcItem" name="Semente: Alternativo Codran do Deserto">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Alternativo Codran do Deserto. Para obter melhores resultados, um personagem de nível 59-69 deve plantá-lo em um monstro de nível 59-69." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5696" type="EtcItem" name="Semente: Alternativo Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Alternativo Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="5697" type="EtcItem" name="Semente: Alternativo Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Alternativo Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5698" type="EtcItem" name="Semente: Alternativo Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Alternativo Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5699" type="EtcItem" name="Semente: Alternativo Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Alternativo Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+</list>

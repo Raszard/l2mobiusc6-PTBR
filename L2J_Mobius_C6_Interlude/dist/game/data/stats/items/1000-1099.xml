@@ -1,0 +1,972 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1000" type="Armor" name="Livro de Aklantoth - Parte 3">
+		<set name="icon" val="icon.item_normal07" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="1001" type="EtcItem" name="Livro de Aklantoth - Parte 4">
+		<set name="icon" val="icon.item_normal07" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1002" type="EtcItem" name="Livro de Aklantoth - Parte 5">
+		<set name="icon" val="icon.item_normal07" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1003" type="EtcItem" name="Livro de Aklantoth - Parte 6">
+		<set name="icon" val="icon.item_normal07" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1004" type="EtcItem" name="Livro de Aklantoth - Parte 7">
+		<set name="icon" val="icon.item_normal07" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1005" type="EtcItem" name="Livro de Aklantoth - Parte 8">
+		<set name="icon" val="icon.item_normal07" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1006" type="EtcItem" name="Livro de Aklantoth - Parte 9">
+		<set name="icon" val="icon.item_normal07" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1007" type="EtcItem" name="Livro de Aklantoth - Parte 10">
+		<set name="icon" val="icon.item_normal07" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1008" type="EtcItem" name="1a Recibo de Harry">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um recibo que Harry recebeu após encomendar ferramentas. Pegue isso e vá até o Ferreiro Alltran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1009" type="EtcItem" name="2a Recibo de Harry">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O recibo que Harrys recebeu depois de fazer um pedido de suas ferramentas. Vá e reúna os fragmentos de golem necessários para criar a ferramenta." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1010" type="EtcItem" name="Estilhaço de Golem">
+		
+		<set name="icon" val="icon.etc_lump_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Fragmentos de rocha que caíram do corpo do golem. Reúna cinco deles e leve-os ao ferreiro Alltran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1011" type="EtcItem" name="Caixa de Ferramentas">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma caixa de ferramentas contendo as ferramentas forjadas pelo ferreiro Alltran. Leve isso para Mestre Harrys no templo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1012" type="EtcItem" name="Lista de Entrega">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve a Caixa de Madeira Pesada para o Comerciante Jackson. O Pacote de Panos para a Comerciante Silvia. Leve a Pote de Barro ao zelador do armazém Rant." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1013" type="EtcItem" name="Caixa de Madeira Pesada">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A caixa de madeira a ser entregue ao Comerciante Jackson da loja de armas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1014" type="EtcItem" name="Pacote de Panos">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pedaços de pano que precisam ser entregues à Comerciante Silvia do Mercearia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1015" type="EtcItem" name="Pote de Barro">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pote de barro que deve ser entregue ao lojista Rant." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1016" type="EtcItem" name="Recibo de Jackson">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O recibo que Jackson emitiu ao receber sua caixa de madeira. Leve isso para o Guarda Arnold." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1017" type="EtcItem" name="Recibo da Silvia">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O recibo que Silvia emitiu ao receber suas peças de tecido. Leve isso para o Guarda Arnold." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1018" type="EtcItem" name="Recibo do Rant">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O recibo emitido por Rant ao receber o pote de barro. Leve isso para o Guarda Arnold." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1019" type="EtcItem" name="Carta Oficial">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta oficial que o Senhor de Gludio enviou a Senhor Colin Windawood, convocando uma reunião. Entregue isto a Senhor Windawood." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1020" type="EtcItem" name="Estilhaço Flamejante">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento da alma de minério de fogo. Pode ser retirado da salamandra do espírito do fogo. Entregue-o ao Comerciante Katerina." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1021" type="EtcItem" name="Pedaço de Gelo">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento de pedra elemental da água. Pode ser retirado da ondina do espírito da água. Dê ao Comerciante Katerina." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1022" type="EtcItem" name="Carta de Lilith">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta escrita por Lilith em saudade de seu amante, separado há mil anos. Descubra notícias sobre seu amante para ela." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1023" type="EtcItem" name="Diário de Theon">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um diário escrito por Theon na saudade de sua amante, separada há mil anos. Leve isso para Lilith." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1024" type="EtcItem" name="Minério de Adamantita">
+		
+		<set name="icon" val="icon.etc_plate_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="minério de adamantita. Tudo isso é importado da Gracia. Reúna 20 deles e leve-os para o Guardião do Armazém Wilford." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1025" type="EtcItem" name="Barra de Argila">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma tabuleta elogiando Beleth que o demônio Nerkas possuía. Entregue isso ao Sumo Sacerdote Biotina." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1026" type="EtcItem" name="Teia de Aranha Prateada">
+		
+		<set name="icon" val="icon.etc_skein_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A Teia de Aranha da Aranha Prateada. Leve isso para o Comerciante Unoren da loja de armas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1027" type="EtcItem" name="Recibo de Unoren">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O recibo emitido pela loja de magia. Pegue isso e vá para Comerciante Creamees." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1028" type="EtcItem" name="Bilhete do Creamees">
+		
+		<set name="icon" val="icon.etc_ticket_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um bilhete emitido pelo armazém. Pegue isso e vá até a Armazém Julia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1029" type="EtcItem" name="Folha de Belladona">
+		
+		<set name="icon" val="icon.etc_herb_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A folha da planta de Belladona. Leve isso para Nerupa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1030" type="EtcItem" name="Crânio Rachado">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O crânio rachado do Dark Horror. Leve isso para o Mestre Vlasty." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1031" type="EtcItem" name="Crânio Perfeito">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Crânio do horror escuro. Leve isso para o Mestre Vlasty." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1032" type="EtcItem" name="Pele de Raposa">
+		
+		<set name="icon" val="icon.etc_mane_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma juba de keltirs. É macio e luxuoso e usado para fiar linhas e fios. Leve isso para Cristel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1033" type="EtcItem" name="Fio de Pele de Raposa">
+		
+		<set name="icon" val="icon.etc_skein_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Fios feitos da pele de keltirs. Leve isso para o ex-alfaiate Armazém Rolfe, e ele o transformará no cabelo da boneca." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1034" type="EtcItem" name="Boneca Donzela">
+		
+		<set name="icon" val="icon.etc_totem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma boneca semelhante a uma donzela humana. Leve isso para o Farol Keeper Rockswell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1035" type="EtcItem" name="Pó da Praga">
+		
+		<set name="icon" val="icon.etc_powder_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pó obtido do Zumbi da Praga. Leve isso para o Hierarca Asterios." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1036" type="EtcItem" name="Carta de Andellia">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de Andellia pedindo a sua irmã Thalia que lhe enviasse o fruto da Árvore Mãe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1037" type="EtcItem" name="Fruto da Árvore Mãe">
+		
+		<set name="icon" val="icon.etc_fruit_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Fruto que a Árvore Mãe produz uma vez a cada poucos anos. Leve isso para Andellia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1038" type="EtcItem" name="1a Poema de Rumiel">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O pergaminho contendo o primeiro poema de Rumiel Moonshine. Reúna todos os quatro e leve-os ao Sentinel Starden." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1039" type="EtcItem" name="2a Poema de Rumiel">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O pergaminho contendo o segundo poema de Rumiel Moonshine. Reúna todos os quatro e leve-os ao Sentinel Starden." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1040" type="EtcItem" name="3a Poema de Rumiel">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O pergaminho contendo o terceiro poema de Rumiel Moonshine. Reúna todos os quatro e leve-os ao Sentinel Starden." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1041" type="EtcItem" name="4a Poema de Rumiel">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O pergaminho contendo o quarto poema de Rumiel Moonshine. Reúna todos os quatro e leve-os ao Sentinel Starden." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1042" type="EtcItem" name="Presa de Homem rato">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A presa de um Homem rato morto. Colete-os para levar para Mestre Ellenia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1043" type="EtcItem" name="Presa de Varool Garra Suja">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A presa de Varool Garra Suja, líder dos Homems rato. Leve isso para Mestra Ellenia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1044" type="EtcItem" name="Caveira de Kirunak">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O crânio de Kirunak obtido após matar Kirunak, o líder dos drevanuls. Leve isso para o Comerciante Creamees." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1045" type="EtcItem" name="Pele de Zumbi">
+		
+		<set name="icon" val="icon.etc_bark_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pele obtida de zumbis do pântano. Colete cinco e vá até o Comerciante Minaless." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1046" type="EtcItem" name="Cristal do Pesadelo">
+		
+		<set name="icon" val="icon.etc_totem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cristal usado pela Succubus Merkenis para lançar pesadelos. Leve isso para o tetrarca Vellior." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1047" type="EtcItem" name="Livro de Feitiços: Leve">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Leve." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1048" type="EtcItem" name="Livro de Feitiços: Poder">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Might. Usado por Human Mystics, Elven Mystics e Dark Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1049" type="EtcItem" name="Livro de Feitiços: Raio de Gelo">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Ice Bolt. Usado por Human Mystics, Elven Mystics e Dark Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1050" type="EtcItem" name="Livro de Feitiços: Cura de Batalha">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Battle Heal. Usado por Human Mystics, Elven Mystics e Dark Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1051" type="EtcItem" name="Livro de Feitiços: Toque Vampírico">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Vampiric Touch. Usado por Human Mystics e Dark Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1052" type="EtcItem" name="Livro de Feitiços: Ataque Flamejante">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Flame Strike. Usado por magos humanos, magos élficos e magos das trevas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1053" type="EtcItem" name="Livro de Feitiços: Curar Venenos">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Cure Poison. Usado por Human Mystics, Elven Mystics e Dark Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1054" type="EtcItem" name="Livro de Feitiços: Cura em Grupo">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Group Heal. Usado por Human Mystics, Elven Mystics e Dark Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1055" type="EtcItem" name="Livro de Feitiços: Maldição: Veneno">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Curse: Poison. Usado por Human Mystics e Dark Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1056" type="EtcItem" name="Livro de Feitiços: Maldição: Fraqueza">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Curse: Weakness. Usado por místicos humanos e místicos élficos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1057" type="EtcItem" name="Livro de Feitiços: Convocar Refeição">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Meal. Usado por místicos humanos e místicos élficos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1058" type="EtcItem" name="Livro de Feitiços: Escudo">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Shield. Usado por Human Mystics, Elven Mystics e Dark Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1059" type="EtcItem" name="Livro de Feitiços: Conheça O Inimigo">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Know Enemy." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1060" type="EtcItem" name="Poção de Cura Inferior">
+		
+		<set name="icon" val="icon.etc_lesser_potion_red_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que lentamente restaura o HP. Poder fraco." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="90" />
+	</item>
+	<item id="1061" type="EtcItem" name="Poção de Cura">
+		
+		<set name="icon" val="icon.etc_potion_red_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que lentamente restaura o HP. Poder forte." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="330" />
+	</item>
+	<item id="1062" type="EtcItem" name="Poção de Pressa">
+		
+		<set name="icon" val="icon.etc_reagent_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que aumenta a velocidade." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="1063" type="EtcItem" name="Pergaminho Tutorial">
+		
+		<set name="icon" val="icon.item_canuse15" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve o pergaminho do tutorial para o Grão-Mestre Roien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1064" type="EtcItem" name="Pergaminho Tutorial">
+		
+		<set name="icon" val="icon.item_canuse15" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve o pergaminho do tutorial para o Grão-Mestre Roien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1065" type="EtcItem" name="Pergaminho Tutorial">
+		
+		<set name="icon" val="icon.item_canuse15" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve o pergaminho tutorial para Nerupa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1066" type="EtcItem" name="Pergaminho Tutorial">
+		
+		<set name="icon" val="icon.item_canuse15" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve o pergaminho tutorial para Mitraell, o chefe dos Elfos Sombrios." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1067" type="EtcItem" name="Recomendação">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve a recomendação ao Grão-Mestre Roien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1068" type="EtcItem" name="Recomendação">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve a recomendação ao Grande Mestre Gallint." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1069" type="EtcItem" name="Folha da Árvore Mãe">
+		
+		<set name="icon" val="icon.etc_leaf_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve a folha da Árvore Mãe para Nerupa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1070" type="EtcItem" name="Sangue de Mitraell">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve o sangue de Mitraell ao Hierarca Mitraell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1071" type="EtcItem" name="Feitiço Hyacinth">
+		
+		<set name="icon" val="icon.etc_jewel_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto dado pelo Hierarca Asterios. Vá até a fonte de água para procurar aqueles que poluem as águas da Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1072" type="EtcItem" name="Feitiço Hyacinth">
+		
+		<set name="icon" val="icon.etc_jewel_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto dado pelo Hierarca Asterios. Vá até a fonte de água e obtenha cinco punhados de pó de peste dos zumbis." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1073" type="EtcItem" name="Poção de Principiante">
+		
+		<set name="icon" val="icon.etc_potion_red_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que lentamente restaura o HP. Poder fraco." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="1074" type="EtcItem" name="Bilhete de Barco: Talking Island Village para Gludin">
+		
+		<set name="icon" val="icon.etc_ticket_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Bilhete de barco: partida da Talking Island Village - chegada ao porto de Gludin" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1075" type="EtcItem" name="Bilhete de Barco: Gludin Para Talking Island Village">
+		
+		<set name="icon" val="icon.etc_ticket_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Bilhete de barco: partida do porto de Gludin - chegada à Ilha Talking" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1076" type="EtcItem" name="Carta de Carlon">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Resumo financeiro do primeiro semestre da guilda Portão de Ferro: balanço e demonstração de lucros e perdas da guilda Dark Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1077" type="EtcItem" name="Saco de Veneno">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um saco venenoso de aranha venenosa. Reúna dez deles e leve para Astaron." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1078" type="EtcItem" name="Fragmento do Vento">
+		
+		<set name="icon" val="icon.etc_crystal_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento da pedra elementar do vento. Você pode obtê-los de lirein, os espíritos do vento. Colete-os para levar para Rizraell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1079" type="EtcItem" name="Recibo de Darin">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um recibo de uma poção mágica que Darin recebeu após pagar Baulro. Isso deve ser entregue a Baulro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1080" type="EtcItem" name="Poção de Baulro">
+		
+		<set name="icon" val="icon.etc_lesser_potion_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma poção de coragem que Baulro criou para o tímido Darin, mas seus efeitos são desconhecidos. Isso deve ser entregue a Darin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1081" type="EtcItem" name="Olho da Besta Presságio">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O primeiro dos três materiais que Tetrarch Talloth pediu para você coletar." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1082" type="EtcItem" name="Pedra Mágica">
+		
+		<set name="icon" val="icon.etc_totem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O segundo de três materiais que Tetrarch Talloth pediu para você coletar." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1083" type="EtcItem" name="Sangue de Succubus">
+		
+		<set name="icon" val="icon.etc_lesser_potion_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O terceiro dos três materiais que Tetrarch Talloth pediu para você coletar." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1084" type="EtcItem" name="Marca do Lorde Gludio">
+		
+		<set name="icon" val="icon.etc_jewel_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca indicando que o portador está cumprindo as ordens do senhor. Mantenha isso em sua posse e cace Orcs ou lobisomens." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1085" type="EtcItem" name="Colar de Orc">
+		
+		<set name="icon" val="icon.accessary_necklace_of_anguish_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar de osso que os lutadores Orcs possuem em seus corpos para propósitos mágicos. Leve isto ao Capitão Gilbert." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1086" type="EtcItem" name="Presa de Lobisomem">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Presas de um lobisomem morto. Leve isto ao Capitão Gilbert." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1087" type="EtcItem" name="Perna de Aranha Gigante">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As pernas cortadas de uma aranha gigante. Colete 8 deles e leve-os para Alshupes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1088" type="EtcItem" name="Carta de Undrias">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta do Celebrante Abissal Undrias. Leve esta carta ao Comerciante Iria, ao Guardião do Armazém Dorankus e à Mestra Trudy." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1089" type="EtcItem" name="Adaga Cerimonial">
+		
+		<set name="icon" val="icon.weapon_mystic_knife_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma adaga cerimonial usada durante a massa de escuridão. Leve isso para Celebrante Abissal Undrias." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1090" type="EtcItem" name="Vinho Dreviant">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Vinho sagrado usado na massa da escuridão. Leve isso para Celebrante Abissal Undrias." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1091" type="EtcItem" name="Escritura de Garmiel">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A escritura usada durante a massa de escuridão. Leve isso para Celebrante Abissal Undrias." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1092" type="EtcItem" name="Carta de Arujien">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta que Arujien escreveu em saudade de Greenis. Mostre isso ao Teleportadora Mirabel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1093" type="EtcItem" name="Carta de Arujien">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta que Arujien escreveu em saudade de Greenis. Mostre isso ao Comerciante Herbiel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1094" type="EtcItem" name="Carta de Arujien">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta de amor de Arujien. Já que você mostrou isso para Mirabel e Herbiel, você deve voltar para Arujien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1095" type="EtcItem" name="Livro de Feitiços: Aura de Ataque">
+		
+		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Aura de Ataque. Usado por Elven Fighters e Dark Fighters." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="75" />
+	</item>
+	<item id="1096" type="EtcItem" name="Livro de Feitiços: Cura Elemental">
+		
+		<set name="icon" val="icon.etc_spell_books_efighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Cura Elemental. Usado por Elven Fighters." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="550" />
+	</item>
+	<item id="1097" type="EtcItem" name="Livro de Feitiços: Drenar Vida">
+		
+		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Drenar Vida. Usado por Cavaleiros Humanos e Lutadores das Trevas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="550" />
+	</item>
+	<item id="1098" type="EtcItem" name="Livro de Feitiços: Caminhada No Vento">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Caminhada no Vento. Usado por Clérigos, Oráculos Élficos e Oráculos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1099" type="EtcItem" name="Livro de Feitiços: Manilha do Vento">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Manilha do Vento. Usado por Elven Mystics e Dark Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+</list>

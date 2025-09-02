@@ -1,0 +1,1995 @@
+28/09/2024 17:49:07>Miany [268477700]>admin_admin>no-target>
+28/09/2024 17:49:10>Miany [268477700]>admin_admin2>no-target>
+28/09/2024 17:49:10>Miany [268477700]>admin_show_characters>no-target> 0
+28/09/2024 17:49:11>Miany [268477700]>admin_character_info>no-target> Miany
+28/09/2024 17:49:13>Miany [268477700]>admin_setclass>Miany>
+28/09/2024 17:49:23>Miany [268477700]>admin_setclass>Miany> 118
+28/09/2024 17:49:25>Miany [268477700]>admin_admin>Miany>
+28/09/2024 17:49:26>Miany [268477700]>admin_admin2>Miany>
+28/09/2024 17:49:28>Miany [268477700]>admin_show_characters>Miany> 0
+28/09/2024 17:49:28>Miany [268477700]>admin_character_info>Miany> Miany
+28/09/2024 17:49:30>Miany [268477700]>admin_show_skills>Miany>
+28/09/2024 17:49:31>Miany [268477700]>admin_remove_all_skills>Miany>
+28/09/2024 17:49:32>Miany [268477700]>admin_admin>Miany>
+28/09/2024 17:49:33>Miany [268477700]>admin_admin2>Miany>
+28/09/2024 17:49:34>Miany [268477700]>admin_show_characters>Miany> 0
+28/09/2024 17:49:34>Miany [268477700]>admin_find_character>Miany>
+28/09/2024 17:49:35>Miany [268477700]>admin_character_info>Miany> Miany
+28/09/2024 17:49:36>Miany [268477700]>admin_show_skills>Miany>
+28/09/2024 17:49:38>Miany [268477700]>admin_give_all_skills>Miany>
+28/09/2024 17:49:41>Miany [268477700]>admin_admin>Miany>
+28/09/2024 17:49:46>Miany [268477700]>admin_admin2>Miany>
+28/09/2024 17:49:47>Miany [268477700]>admin_show_characters>Miany> 0
+28/09/2024 17:49:47>Miany [268477700]>admin_character_info>Miany> Miany
+28/09/2024 17:49:48>Miany [268477700]>admin_add_exp_sp_to_character>Miany>
+28/09/2024 17:49:51>Miany [268477700]>admin_set_level>Miany> 81
+28/09/2024 17:49:59>Miany [268477700]>admin_admin>Miany>
+28/09/2024 17:50:02>Miany [268477700]>admin_admin2>Miany>
+28/09/2024 17:50:03>Miany [268477700]>admin_show_characters>Miany> 0
+28/09/2024 17:50:04>Miany [268477700]>admin_character_info>Miany> Miany
+28/09/2024 17:50:06>Miany [268477700]>admin_show_skills>Miany>
+28/09/2024 17:50:07>Miany [268477700]>admin_give_all_skills>Miany>
+28/09/2024 17:50:39>Miany [268477700]>admin_admin>Miany>
+28/09/2024 17:50:40>Miany [268477700]>admin_move_to>Miany>
+28/09/2024 17:50:41>Miany [268477700]>admin_help>Miany> tele/towns.htm
+28/09/2024 17:50:42>Miany [268477700]>admin_help>Miany> tele/towns/giran.htm
+28/09/2024 17:50:42>Miany [268477700]>admin_move_to>Miany> 82698 148638 -3473
+28/09/2024 17:50:59>Miany [268477700]>admin_admin>no-target>
+28/09/2024 17:51:00>Miany [268477700]>admin_gmshop>no-target>
+28/09/2024 17:51:02>Miany [268477700]>admin_help>no-target> gmshop/Armors.htm
+28/09/2024 17:51:03>Miany [268477700]>admin_help>no-target> gmshop/sgradea.htm
+28/09/2024 17:51:20>Miany [268477700]>admin_help>no-target> gmshops.htm
+28/09/2024 17:51:21>Miany [268477700]>admin_help>no-target> gmshop/sets.htm
+28/09/2024 17:51:25>Miany [268477700]>admin_buy>no-target> 9117
+28/09/2024 17:51:39>Miany [268477700]>admin_admin>no-target>
+28/09/2024 17:51:40>Miany [268477700]>admin_gmshop>no-target>
+28/09/2024 17:51:41>Miany [268477700]>admin_help>no-target> gmshop/Weapons.htm
+28/09/2024 17:51:43>Miany [268477700]>admin_help>no-target> gmshop/sgradew.htm
+28/09/2024 17:51:46>Miany [268477700]>admin_buy>no-target> 9049
+28/09/2024 17:53:49>Miany [268477700]>admin_admin>Keira>
+28/09/2024 17:53:50>Miany [268477700]>admin_gmshop>Keira>
+28/09/2024 17:53:52>Miany [268477700]>admin_help>Keira> gmshop/Weapons.htm
+28/09/2024 17:53:53>Miany [268477700]>admin_help>Keira> gmshop/sgradew.htm
+28/09/2024 17:54:04>Miany [268477700]>admin_buy>Keira> 9053
+28/09/2024 17:55:59>Miany [268477700]>admin_admin>Clarissa>
+28/09/2024 17:56:00>Miany [268477700]>admin_gmshop>Clarissa>
+28/09/2024 17:56:03>Miany [268477700]>admin_help>Clarissa> gmshop/Weapons.htm
+28/09/2024 17:56:04>Miany [268477700]>admin_help>Clarissa> gmshop/sgradew.htm
+28/09/2024 17:56:06>Miany [268477700]>admin_buy>Clarissa> 9052
+28/09/2024 17:56:19>Miany [268477700]>admin_admin>Clarissa>
+28/09/2024 17:56:20>Miany [268477700]>admin_gmshop>Clarissa>
+28/09/2024 17:56:22>Miany [268477700]>admin_help>Clarissa> gmshop/Armors.htm
+28/09/2024 17:56:24>Miany [268477700]>admin_help>Clarissa> gmshop/sgradea.htm
+28/09/2024 17:56:26>Miany [268477700]>admin_buy>Clarissa> 9060
+28/09/2024 18:01:09>Miany [268477700]>admin_admin>Clarissa>
+28/09/2024 18:01:11>Miany [268477700]>admin_gmshop>Clarissa>
+28/09/2024 18:01:13>Miany [268477700]>admin_help>Clarissa> gmshop/sets.htm
+28/09/2024 18:01:15>Miany [268477700]>admin_buy>Clarissa> 9115
+29/09/2024 11:35:23>Miany [268477700]>admin_admin>no-target>
+29/09/2024 11:35:24>Miany [268477700]>admin_move_to>no-target>
+29/09/2024 11:35:26>Miany [268477700]>admin_help>no-target> tele/towns.htm
+29/09/2024 11:35:27>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+29/09/2024 11:35:30>Miany [268477700]>admin_move_to>no-target> 80385 147867 -3512
+29/09/2024 11:37:56>Miany [268477700]>admin_admin>Meridic>
+29/09/2024 11:37:58>Miany [268477700]>admin_admin4>Meridic>
+29/09/2024 11:37:59>Miany [268477700]>admin_cache_htm_rebuild>Meridic>
+29/09/2024 11:38:01>Miany [268477700]>admin_admin>Meridic>
+29/09/2024 11:38:02>Miany [268477700]>admin_admin4>Meridic>
+29/09/2024 11:38:06>Miany [268477700]>admin_cache_htm_rebuild>Meridic>
+29/09/2024 11:41:33>Miany [268477700]>admin_admin>no-target>
+29/09/2024 11:41:35>Miany [268477700]>admin_gmshop>no-target>
+29/09/2024 11:41:36>Miany [268477700]>admin_help>no-target> gmshop/Armors.htm
+29/09/2024 11:41:37>Miany [268477700]>admin_help>no-target> gmshop/cgradea.htm
+29/09/2024 11:41:38>Miany [268477700]>admin_buy>no-target> 9081
+29/09/2024 11:59:03>Miany [268477700]>admin_admin>no-target>
+29/09/2024 11:59:04>Miany [268477700]>admin_gmshop>no-target>
+29/09/2024 11:59:06>Miany [268477700]>admin_help>no-target> gmshop/Armors.htm
+29/09/2024 11:59:09>Miany [268477700]>admin_help>no-target> gmshop/bgradea.htm
+29/09/2024 11:59:10>Miany [268477700]>admin_buy>no-target> 9072
+29/09/2024 11:59:37>Miany [268477700]>admin_admin>no-target>
+29/09/2024 11:59:38>Miany [268477700]>admin_move_to>no-target>
+29/09/2024 11:59:39>Miany [268477700]>admin_help>no-target> tele/towns.htm
+29/09/2024 11:59:40>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+29/09/2024 11:59:41>Miany [268477700]>admin_move_to>no-target> 82698 148638 -3473
+29/09/2024 12:06:55>Miany [268477700]>admin_admin>no-target>
+29/09/2024 12:06:56>Miany [268477700]>admin_gmshop>no-target>
+29/09/2024 12:06:58>Miany [268477700]>admin_help>no-target> gmshop/Armors.htm
+29/09/2024 12:06:59>Miany [268477700]>admin_help>no-target> gmshop/dgradea.htm
+29/09/2024 12:07:00>Miany [268477700]>admin_buy>no-target> 9090
+29/09/2024 12:10:43>Miany [268477700]>admin_admin>no-target>
+29/09/2024 12:10:44>Miany [268477700]>admin_gmshop>no-target>
+29/09/2024 12:10:45>Miany [268477700]>admin_help>no-target> gmshop/Armors.htm
+29/09/2024 12:10:46>Miany [268477700]>admin_help>no-target> gmshop/agradea.htm
+29/09/2024 12:10:46>Miany [268477700]>admin_buy>no-target> 9063
+29/09/2024 12:16:20>Miany [268477700]>admin_admin>no-target>
+29/09/2024 12:16:22>Miany [268477700]>admin_gmshop>no-target>
+29/09/2024 12:16:25>Miany [268477700]>admin_help>no-target> gmshop/Armors.htm
+29/09/2024 12:16:26>Miany [268477700]>admin_help>no-target> gmshop/agradea.htm
+29/09/2024 12:16:27>Miany [268477700]>admin_buy>no-target> 9063
+29/09/2024 12:18:12>Miany [268477700]>admin_admin>no-target>
+29/09/2024 12:18:13>Miany [268477700]>admin_gmshop>no-target>
+29/09/2024 12:18:14>Miany [268477700]>admin_help>no-target> gmshop/Armors.htm
+29/09/2024 12:18:16>Miany [268477700]>admin_help>no-target> gmshop/sgradea.htm
+29/09/2024 12:18:18>Miany [268477700]>admin_help>no-target> gmshops.htm
+29/09/2024 12:18:19>Miany [268477700]>admin_help>no-target> gmshop/Armors.htm
+29/09/2024 12:18:20>Miany [268477700]>admin_help>no-target> gmshop/agradea.htm
+29/09/2024 12:18:21>Miany [268477700]>admin_buy>no-target> 9063
+29/09/2024 12:36:11>Miany [268477700]>admin_admin>no-target>
+29/09/2024 12:36:12>Miany [268477700]>admin_move_to>no-target>
+29/09/2024 12:36:13>Miany [268477700]>admin_help>no-target> tele/towns.htm
+29/09/2024 12:36:15>Miany [268477700]>admin_help>no-target> tele/towns/ti_starting.htm
+29/09/2024 12:36:16>Miany [268477700]>admin_move_to>no-target> -82687 243157 -3734
+29/09/2024 12:36:19>Miany [268477700]>admin_admin>no-target>
+29/09/2024 12:36:21>Miany [268477700]>admin_superhaste>no-target> 4
+30/09/2024 20:20:17>Miany [268477700]>admin_admin>no-target>
+30/09/2024 20:20:18>Miany [268477700]>admin_gmshop>no-target>
+30/09/2024 20:20:19>Miany [268477700]>admin_help>no-target> gmshop/Armors.htm
+30/09/2024 20:20:20>Miany [268477700]>admin_help>no-target> gmshops.htm
+30/09/2024 20:20:21>Miany [268477700]>admin_help>no-target> gmshop/sets.htm
+30/09/2024 20:20:22>Miany [268477700]>admin_buy>no-target> 9500
+30/09/2024 20:20:24>Miany [268477700]>admin_admin>no-target>
+30/09/2024 20:20:25>Miany [268477700]>admin_gmshop>no-target>
+30/09/2024 20:20:57>Miany [268477700]>admin_admin>no-target>
+30/09/2024 20:20:58>Miany [268477700]>admin_create_item>no-target>
+30/09/2024 20:21:02>Miany [268477700]>admin_create_item>no-target> 9315 1
+30/09/2024 20:21:05>Miany [268477700]>admin_admin>Miany>
+30/09/2024 20:21:06>Miany [268477700]>admin_create_item>Miany>
+30/09/2024 20:21:10>Miany [268477700]>admin_create_item>Miany> 9316 1
+30/09/2024 20:21:11>Miany [268477700]>admin_admin>Miany>
+30/09/2024 20:21:13>Miany [268477700]>admin_create_item>Miany>
+30/09/2024 20:21:18>Miany [268477700]>admin_create_item>Miany> 9317 1
+30/09/2024 20:21:19>Miany [268477700]>admin_admin>Miany>
+30/09/2024 20:21:20>Miany [268477700]>admin_create_item>Miany>
+30/09/2024 20:21:24>Miany [268477700]>admin_create_item>Miany> 9318 1
+30/09/2024 20:21:25>Miany [268477700]>admin_admin>Miany>
+30/09/2024 20:21:27>Miany [268477700]>admin_create_item>Miany>
+30/09/2024 20:21:31>Miany [268477700]>admin_create_item>Miany> 9319 1
+30/09/2024 20:21:55>Miany [268477700]>admin_admin>Miany>
+30/09/2024 20:21:56>Miany [268477700]>admin_create_item>Miany>
+30/09/2024 20:22:01>Miany [268477700]>admin_create_item>Miany> 9990 1
+30/09/2024 20:22:02>Miany [268477700]>admin_admin>Miany>
+30/09/2024 20:22:04>Miany [268477700]>admin_create_item>Miany>
+30/09/2024 20:22:09>Miany [268477700]>admin_create_item>Miany> 9991 1
+30/09/2024 20:22:30>Miany [268477700]>admin_admin>Miany>
+30/09/2024 20:22:31>Miany [268477700]>admin_create_item>Miany>
+30/09/2024 20:22:35>Miany [268477700]>admin_create_item>Miany> 9823 1
+30/09/2024 20:27:18>Miany [268477700]>admin_admin>no-target>
+30/09/2024 20:27:20>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:32:23>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:32:25>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:32:32>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:32:33>Miany [268477700]>admin_enchant>no-target>
+01/10/2024 20:32:35>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:32:35>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:36:25>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:36:26>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:36:34>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:36:35>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:36:45>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:36:46>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:39:49>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:39:49>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:44:51>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:44:52>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:46:25>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:46:26>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:46:30>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:46:31>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:46:42>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:46:43>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:46:45>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:46:48>Miany [268477700]>admin_ride_wyvern>no-target>
+01/10/2024 20:47:06>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:47:07>Miany [268477700]>admin_ride_wyvern>no-target>
+01/10/2024 20:47:12>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:47:23>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 20:49:57>Miany [268477700]>admin_admin>no-target>
+01/10/2024 20:49:58>Miany [268477700]>admin_ride_strider>no-target>
+01/10/2024 23:57:47>Miany [268477700]>admin_admin>no-target>
+01/10/2024 23:59:35>Miany [268477700]>admin_admin>Guia de Novatos>
+01/10/2024 23:59:36>Miany [268477700]>admin_move_to>Guia de Novatos>
+01/10/2024 23:59:37>Miany [268477700]>admin_help>Guia de Novatos> tele/towns.htm
+01/10/2024 23:59:40>Miany [268477700]>admin_show_moves>Guia de Novatos>
+01/10/2024 23:59:41>Miany [268477700]>admin_help>Guia de Novatos> tele/other.htm
+01/10/2024 23:59:43>Miany [268477700]>admin_move_to>Guia de Novatos> -113360 -244676 -15536
+05/10/2024 21:55:46>Miany [268477700]>admin_admin>Jake>
+05/10/2024 21:55:49>Miany [268477700]>admin_create_item>Miany>
+05/10/2024 21:55:54>Miany [268477700]>admin_create_coin>Miany> Adena 1000000
+05/10/2024 22:10:22>Miany [268477700]>admin_admin>Jake>
+05/10/2024 22:10:23>Miany [268477700]>admin_admin4>Jake>
+05/10/2024 22:10:24>Miany [268477700]>admin_cache_htm_rebuild>Jake>
+05/10/2024 22:12:32>Miany [268477700]>admin_admin>Jake>
+05/10/2024 22:12:33>Miany [268477700]>admin_admin4>Jake>
+05/10/2024 22:12:34>Miany [268477700]>admin_cache_htm_rebuild>Jake>
+05/10/2024 22:14:14>Miany [268477700]>admin_admin>Jake>
+05/10/2024 22:14:15>Miany [268477700]>admin_admin4>Jake>
+05/10/2024 22:14:18>Miany [268477700]>admin_admin>Jake>
+05/10/2024 22:14:19>Miany [268477700]>admin_admin4>Jake>
+05/10/2024 22:14:19>Miany [268477700]>admin_cache_htm_rebuild>Jake>
+05/10/2024 22:14:47>Miany [268477700]>admin_admin>Jake>
+05/10/2024 22:14:48>Miany [268477700]>admin_admin4>Jake>
+05/10/2024 22:14:49>Miany [268477700]>admin_cache_htm_rebuild>Jake>
+05/10/2024 22:14:59>Miany [268477700]>admin_admin>Jake>
+05/10/2024 22:15:00>Miany [268477700]>admin_admin4>Jake>
+05/10/2024 22:15:00>Miany [268477700]>admin_cache_htm_rebuild>Jake>
+05/10/2024 22:15:47>Miany [268477700]>admin_admin>Jake>
+05/10/2024 22:15:48>Miany [268477700]>admin_admin4>Jake>
+05/10/2024 22:15:49>Miany [268477700]>admin_cache_htm_rebuild>Jake>
+05/10/2024 22:26:09>Miany [268477700]>admin_admin>Ryza>
+05/10/2024 22:26:09>Miany [268477700]>admin_admin4>Ryza>
+05/10/2024 22:26:10>Miany [268477700]>admin_cache_htm_rebuild>Ryza>
+05/10/2024 22:26:33>Miany [268477700]>admin_admin>Ryza>
+05/10/2024 22:26:34>Miany [268477700]>admin_admin4>Ryza>
+05/10/2024 22:26:35>Miany [268477700]>admin_cache_htm_rebuild>Ryza>
+05/10/2024 22:30:40>Miany [268477700]>admin_admin>no-target>
+05/10/2024 22:30:41>Miany [268477700]>admin_admin4>no-target>
+05/10/2024 22:30:41>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+05/10/2024 22:30:49>Miany [268477700]>admin_admin>no-target>
+05/10/2024 22:30:50>Miany [268477700]>admin_admin4>no-target>
+05/10/2024 22:30:51>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+05/10/2024 22:34:50>Miany [268477700]>admin_admin>no-target>
+05/10/2024 22:34:51>Miany [268477700]>admin_admin4>no-target>
+05/10/2024 22:34:52>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+05/10/2024 22:35:07>Miany [268477700]>admin_admin>no-target>
+05/10/2024 22:35:07>Miany [268477700]>admin_admin4>no-target>
+05/10/2024 22:35:08>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+05/10/2024 23:27:27>Miany [268477700]>admin_admin>Dorya>
+05/10/2024 23:27:28>Miany [268477700]>admin_admin4>Dorya>
+05/10/2024 23:27:29>Miany [268477700]>admin_cache_htm_rebuild>Dorya>
+05/10/2024 23:34:44>Miany [268477700]>admin_admin>Meridic>
+05/10/2024 23:34:45>Miany [268477700]>admin_admin4>Meridic>
+05/10/2024 23:34:46>Miany [268477700]>admin_cache_htm_rebuild>Meridic>
+06/10/2024 1:47:10>Miany [268477700]>admin_admin>no-target>
+06/10/2024 1:47:10>Miany [268477700]>admin_gmshop>no-target>
+06/10/2024 1:47:13>Miany [268477700]>admin_buy>no-target> 3001
+06/10/2024 1:50:09>Miany [268477700]>admin_admin>no-target>
+06/10/2024 1:50:11>Miany [268477700]>admin_gmshop>no-target>
+06/10/2024 1:50:14>Miany [268477700]>admin_buy>no-target> 3001
+06/10/2024 1:54:24>Miany [268477700]>admin_admin>no-target>
+06/10/2024 1:54:25>Miany [268477700]>admin_move_to>no-target>
+06/10/2024 1:54:26>Miany [268477700]>admin_help>no-target> tele/towns.htm
+06/10/2024 1:54:27>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+06/10/2024 1:54:29>Miany [268477700]>admin_move_to>no-target> 80385 147867 -3512
+06/10/2024 1:55:08>Miany [268477700]>admin_admin>Miany>
+06/10/2024 1:55:11>Miany [268477700]>admin_gmshop>Miany>
+06/10/2024 1:55:12>Miany [268477700]>admin_admin>Miany>
+06/10/2024 1:55:13>Miany [268477700]>admin_create_item>Miany>
+06/10/2024 1:55:19>Miany [268477700]>admin_create_coin>Miany> Adena 100000000
+06/10/2024 2:17:51>Miany [268477700]>admin_admin>no-target>
+06/10/2024 2:17:52>Miany [268477700]>admin_move_to>no-target>
+06/10/2024 2:17:55>Miany [268477700]>admin_help>no-target> tele/other.htm
+06/10/2024 2:17:57>Miany [268477700]>admin_help>no-target> tele/others/cruma.htm
+06/10/2024 2:17:58>Miany [268477700]>admin_move_to>no-target> 17719 115430 -6582
+06/10/2024 2:18:06>Miany [268477700]>admin_admin>no-target>
+06/10/2024 2:18:08>Miany [268477700]>admin_move_to>no-target>
+06/10/2024 2:18:10>Miany [268477700]>admin_help>no-target> tele/locations/c5.htm
+06/10/2024 2:18:15>Miany [268477700]>admin_move_to>no-target> 123743 -75032 -2902
+06/10/2024 2:18:20>Miany [268477700]>admin_admin>no-target>
+06/10/2024 2:18:21>Miany [268477700]>admin_superhaste>no-target> 4
+06/10/2024 2:18:39>Miany [268477700]>admin_admin>Buscador Silencioso>
+06/10/2024 2:18:40>Miany [268477700]>admin_superhaste>Buscador Silencioso> 0
+06/10/2024 2:19:41>Miany [268477700]>admin_admin>no-target>
+06/10/2024 2:19:42>Miany [268477700]>admin_move_to>no-target>
+06/10/2024 2:19:43>Miany [268477700]>admin_help>no-target> tele/towns.htm
+06/10/2024 2:19:43>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+06/10/2024 2:19:44>Miany [268477700]>admin_move_to>no-target> 82698 148638 -3473
+06/10/2024 11:20:37>Miany [268477700]>admin_admin>Clarissa>
+06/10/2024 11:20:38>Miany [268477700]>admin_gmshop>Clarissa>
+06/10/2024 11:20:39>Miany [268477700]>admin_help>Clarissa> gmshop/Weapons.htm
+06/10/2024 11:20:40>Miany [268477700]>admin_help>Clarissa> gmshop/sgradew.htm
+06/10/2024 11:20:48>Miany [268477700]>admin_buy>Clarissa> 9052
+06/10/2024 11:37:06>Miany [268477700]>admin_admin>no-target>
+07/10/2024 18:28:54>Miany [268477700]>admin_admin>no-target>
+07/10/2024 18:28:56>Miany [268477700]>admin_admin2>no-target>
+07/10/2024 18:28:58>Miany [268477700]>admin_show_characters>no-target> 0
+07/10/2024 18:29:01>Miany [268477700]>admin_character_info>no-target> Miany
+07/10/2024 18:29:03>Miany [268477700]>admin_setclass>Miany>
+07/10/2024 18:29:17>Miany [268477700]>admin_setclass>Miany> 92
+07/10/2024 18:29:34>Miany [268477700]>admin_admin>no-target>
+07/10/2024 18:30:07>Miany [268477700]>admin_admin>no-target>
+07/10/2024 18:30:09>Miany [268477700]>admin_admin2>no-target>
+07/10/2024 18:30:10>Miany [268477700]>admin_show_characters>no-target> 0
+07/10/2024 18:30:11>Miany [268477700]>admin_character_info>no-target> Miany
+07/10/2024 18:30:13>Miany [268477700]>admin_setclass>Miany>
+07/10/2024 18:30:15>Miany [268477700]>admin_current_player>Miany>
+07/10/2024 18:30:16>Miany [268477700]>admin_show_skills>Miany>
+07/10/2024 18:30:20>Miany [268477700]>admin_remove_all_skills>Miany>
+07/10/2024 18:30:22>Miany [268477700]>admin_admin>Miany>
+07/10/2024 18:30:24>Miany [268477700]>admin_admin2>Miany>
+07/10/2024 18:30:25>Miany [268477700]>admin_show_characters>Miany> 0
+07/10/2024 18:30:26>Miany [268477700]>admin_character_info>Miany> Miany
+07/10/2024 18:30:28>Miany [268477700]>admin_show_skills>Miany>
+07/10/2024 18:30:30>Miany [268477700]>admin_give_all_skills>Miany>
+07/10/2024 18:33:44>Miany [268477700]>admin_admin>Keira>
+07/10/2024 18:33:46>Miany [268477700]>admin_create_item>Keira>
+07/10/2024 18:33:48>Miany [268477700]>admin_admin>Keira>
+07/10/2024 18:33:49>Miany [268477700]>admin_gmshop>Keira>
+07/10/2024 18:34:10>Miany [268477700]>admin_buy>Keira> 300511
+09/10/2024 19:42:31>Miany [268477700]>admin_admin>no-target>
+09/10/2024 19:42:34>Miany [268477700]>admin_admin4>no-target>
+09/10/2024 19:42:34>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+09/10/2024 19:42:45>Miany [268477700]>admin_admin>no-target>
+09/10/2024 19:42:47>Miany [268477700]>admin_admin4>no-target>
+09/10/2024 19:42:48>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+09/10/2024 19:42:49>Miany [268477700]>admin_admin>no-target>
+09/10/2024 19:45:02>Miany [268477700]>admin_admin>no-target>
+09/10/2024 19:45:03>Miany [268477700]>admin_admin4>no-target>
+09/10/2024 19:45:04>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+09/10/2024 22:18:52>Miany [268477700]>admin_admin>no-target>
+09/10/2024 22:18:53>Miany [268477700]>admin_move_to>no-target>
+09/10/2024 22:18:56>Miany [268477700]>admin_help>no-target> tele/towns.htm
+09/10/2024 22:18:57>Miany [268477700]>admin_help>no-target> tele/towns/gludin.htm
+09/10/2024 22:19:00>Miany [268477700]>admin_help>no-target> tele/towns.htm
+09/10/2024 22:19:01>Miany [268477700]>admin_help>no-target> tele/towns/gludio.htm
+09/10/2024 22:19:04>Miany [268477700]>admin_help>no-target> tele/towns.htm
+09/10/2024 22:19:06>Miany [268477700]>admin_show_moves>no-target>
+09/10/2024 22:19:09>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:19:12>Miany [268477700]>admin_help>no-target> tele/others/gludio.htm
+09/10/2024 22:19:14>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:19:15>Miany [268477700]>admin_help>no-target> tele/others/gludin.htm
+09/10/2024 22:19:20>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:19:24>Miany [268477700]>admin_show_moves>no-target>
+09/10/2024 22:19:25>Miany [268477700]>admin_help>no-target> tele/locations/interlude.htm
+09/10/2024 22:19:28>Miany [268477700]>admin_help>no-target> teleports.htm
+09/10/2024 22:19:30>Miany [268477700]>admin_help>no-target> tele/locations/c5.htm
+09/10/2024 22:19:36>Miany [268477700]>admin_show_moves>no-target>
+09/10/2024 22:19:37>Miany [268477700]>admin_help>no-target> tele/locations/c4.htm
+09/10/2024 22:19:41>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:19:43>Miany [268477700]>admin_show_moves>no-target>
+09/10/2024 22:19:44>Miany [268477700]>admin_help>no-target> tele/locations/c2.htm
+09/10/2024 22:19:52>Miany [268477700]>admin_show_moves>no-target>
+09/10/2024 22:19:53>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:19:55>Miany [268477700]>admin_help>no-target> tele/others/dvc.htm
+09/10/2024 22:19:57>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:19:58>Miany [268477700]>admin_help>no-target> tele/others/aden.htm
+09/10/2024 22:20:00>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:01>Miany [268477700]>admin_help>no-target> tele/others/cruma.htm
+09/10/2024 22:20:02>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:03>Miany [268477700]>admin_help>no-target> tele/others/darkelven.htm
+09/10/2024 22:20:06>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:07>Miany [268477700]>admin_help>no-target> tele/others/dvc.htm
+09/10/2024 22:20:08>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:09>Miany [268477700]>admin_help>no-target> tele/others/elmored.htm
+09/10/2024 22:20:10>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:11>Miany [268477700]>admin_help>no-target> tele/others/elmoreo.htm
+09/10/2024 22:20:12>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:13>Miany [268477700]>admin_help>no-target> tele/others/elven.htm
+09/10/2024 22:20:14>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:15>Miany [268477700]>admin_help>no-target> tele/others/goe.htm
+09/10/2024 22:20:16>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:17>Miany [268477700]>admin_help>no-target> tele/others/giran.htm
+09/10/2024 22:20:19>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:20>Miany [268477700]>admin_help>no-target> tele/others/gludin.htm
+09/10/2024 22:20:24>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:25>Miany [268477700]>admin_help>no-target> tele/others/gludio.htm
+09/10/2024 22:20:26>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:27>Miany [268477700]>admin_help>no-target> tele/others/goddard.htm
+09/10/2024 22:20:32>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:33>Miany [268477700]>admin_help>no-target> tele/others/innadril.htm
+09/10/2024 22:20:35>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:37>Miany [268477700]>admin_help>no-target> tele/others/ivorytower.htm
+09/10/2024 22:20:39>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:39>Miany [268477700]>admin_help>no-target> tele/others/rune.htm
+09/10/2024 22:20:44>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:46>Miany [268477700]>admin_help>no-target> tele/others/oren.htm
+09/10/2024 22:20:49>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:51>Miany [268477700]>admin_help>no-target> tele/others/wastelands.htm
+09/10/2024 22:20:54>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:20:55>Miany [268477700]>admin_help>no-target> tele/others/goodies.htm
+09/10/2024 22:21:00>Miany [268477700]>admin_help>no-target> tele/other.htm
+09/10/2024 22:21:04>Miany [268477700]>admin_help>no-target> tele/others/fortress.htm
+09/10/2024 22:21:09>Miany [268477700]>admin_show_moves>no-target>
+09/10/2024 22:21:13>Miany [268477700]>admin_admin>no-target>
+09/10/2024 22:21:15>Miany [268477700]>admin_move_to>no-target>
+09/10/2024 22:21:19>Miany [268477700]>admin_tele>no-target>
+09/10/2024 22:21:22>Miany [268477700]>admin_show_moves>no-target>
+09/10/2024 22:22:40>Miany [268477700]>admin_admin>Homem-Lagarto Langk Tenente>
+09/10/2024 22:22:41>Miany [268477700]>admin_superhaste>Homem-Lagarto Langk Tenente> 4
+12/10/2024 11:22:28>Miany [268477700]>admin_admin>no-target>
+12/10/2024 11:22:30>Miany [268477700]>admin_superhaste>no-target> 4
+12/10/2024 11:23:23>Miany [268477700]>admin_admin>no-target>
+12/10/2024 11:23:26>Miany [268477700]>admin_ride_wyvern>no-target>
+12/10/2024 11:23:33>Miany [268477700]>admin_admin>no-target>
+12/10/2024 11:23:34>Miany [268477700]>admin_ride_strider>no-target>
+12/10/2024 11:23:36>Miany [268477700]>admin_admin>no-target>
+12/10/2024 11:23:38>Miany [268477700]>admin_ride_wyvern>no-target>
+12/10/2024 11:23:39>Miany [268477700]>admin_admin>no-target>
+12/10/2024 11:23:46>Miany [268477700]>admin_ride_strider>no-target>
+12/10/2024 11:24:07>Miany [268477700]>admin_admin>no-target>
+12/10/2024 11:24:08>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 11:24:09>Miany [268477700]>admin_help>no-target> tele/towns.htm
+12/10/2024 11:24:10>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+12/10/2024 11:24:11>Miany [268477700]>admin_move_to>no-target> 82698 148638 -3473
+12/10/2024 11:31:07>Miany [268477700]>admin_admin>no-target>
+12/10/2024 11:33:10>Miany [268477700]>admin_admin>Keira>
+12/10/2024 11:33:10>Miany [268477700]>admin_superhaste>Keira> 4
+12/10/2024 14:32:22>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:32:24>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:32:42>Miany [268477700]>admin_move_to>no-target> -75128 -239144 -8208
+12/10/2024 14:33:04>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:33:07>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:33:21>Miany [268477700]>admin_move_to>no-target> -87784 -239688 -8448
+12/10/2024 14:33:46>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:33:49>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:34:00>Miany [268477700]>admin_move_to>no-target> -75784 -252088 -7752
+12/10/2024 14:34:14>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:34:18>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:34:43>Miany [268477700]>admin_move_to>no-target> -75128 -239144 8208
+12/10/2024 14:34:54>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:34:55>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:35:08>Miany [268477700]>admin_move_to>no-target> -75128 -239144 -8000
+12/10/2024 14:35:19>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:35:22>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:35:33>Miany [268477700]>admin_move_to>no-target> -75128 239144 -5000
+12/10/2024 14:35:50>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:35:54>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:36:05>Miany [268477700]>admin_move_to>no-target> -75128 -239144 -7000
+12/10/2024 14:36:22>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:36:24>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:36:37>Miany [268477700]>admin_move_to>no-target> -75128 -239144 -3344
+12/10/2024 14:38:12>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:38:13>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:38:26>Miany [268477700]>admin_move_to>no-target> -88824 -252637 -3342
+12/10/2024 14:48:07>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:48:08>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:48:32>Miany [268477700]>admin_move_to>no-target> -75128 -239144 -8208
+12/10/2024 14:48:53>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:48:56>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:49:06>Miany [268477700]>admin_move_to>no-target> -87784 -239688 -8448
+12/10/2024 14:49:37>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:49:39>Miany [268477700]>admin_spawn_monster>no-target>
+12/10/2024 14:49:40>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:49:41>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:49:53>Miany [268477700]>admin_move_to>no-target> -75784 -252088 -7752
+12/10/2024 14:50:35>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:50:36>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:50:49>Miany [268477700]>admin_move_to>no-target> -87784 -239688 -8448
+12/10/2024 14:51:29>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:51:30>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:51:41>Miany [268477700]>admin_move_to>no-target> -75128 -239144 -8208
+12/10/2024 14:51:49>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:51:51>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:51:52>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:52:15>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:52:17>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:52:33>Miany [268477700]>admin_move_to>no-target> -87784 -239688 -8448
+12/10/2024 14:54:06>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:54:08>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:54:12>Miany [268477700]>admin_help>no-target> tele/other.htm
+12/10/2024 14:54:15>Miany [268477700]>admin_help>no-target> tele/others/goodies.htm
+12/10/2024 14:54:23>Miany [268477700]>admin_move_to>no-target> 106545 -175091 1300
+12/10/2024 14:54:39>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:54:42>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:54:44>Miany [268477700]>admin_help>no-target> tele/locations/interlude.htm
+12/10/2024 14:54:45>Miany [268477700]>admin_help>no-target> teleports.htm
+12/10/2024 14:54:46>Miany [268477700]>admin_help>no-target> tele/locations/c5.htm
+12/10/2024 14:54:51>Miany [268477700]>admin_show_moves>no-target>
+12/10/2024 14:54:52>Miany [268477700]>admin_help>no-target> tele/other.htm
+12/10/2024 14:54:56>Miany [268477700]>admin_move_to>no-target> -113360 -244676 -15536
+12/10/2024 14:55:08>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:55:09>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:55:11>Miany [268477700]>admin_help>no-target> tele/other.htm
+12/10/2024 14:55:14>Miany [268477700]>admin_help>no-target> tele/raid.htm
+12/10/2024 14:55:15>Miany [268477700]>admin_help>no-target> tele/other.htm
+12/10/2024 14:55:19>Miany [268477700]>admin_move_to>no-target> -114542 -251005 -2992
+12/10/2024 14:55:32>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:55:33>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:55:35>Miany [268477700]>admin_help>no-target> tele/other.htm
+12/10/2024 14:55:39>Miany [268477700]>admin_help>no-target> tele/others/arenas.htm
+12/10/2024 14:55:43>Miany [268477700]>admin_move_to>no-target> -20814 -21189 -3030
+12/10/2024 14:55:50>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:55:51>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:55:53>Miany [268477700]>admin_help>no-target> tele/other.htm
+12/10/2024 14:55:55>Miany [268477700]>admin_help>no-target> tele/others/arenas.htm
+12/10/2024 14:55:59>Miany [268477700]>admin_move_to>no-target> -114413 -213241 -3331
+12/10/2024 14:56:04>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:56:06>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:56:08>Miany [268477700]>admin_help>no-target> tele/locations/interlude.htm
+12/10/2024 14:56:09>Miany [268477700]>admin_help>no-target> teleports.htm
+12/10/2024 14:56:09>Miany [268477700]>admin_help>no-target> tele/other.htm
+12/10/2024 14:56:11>Miany [268477700]>admin_help>no-target> tele/others/arenas.htm
+12/10/2024 14:56:12>Miany [268477700]>admin_move_to>no-target> 73890 142656 -3778
+12/10/2024 14:56:27>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:56:28>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:56:29>Miany [268477700]>admin_help>no-target> tele/other.htm
+12/10/2024 14:56:31>Miany [268477700]>admin_help>no-target> tele/others/arenas.htm
+12/10/2024 14:56:34>Miany [268477700]>admin_move_to>no-target> 147451 46728 -3410
+12/10/2024 14:56:49>Miany [268477700]>admin_admin>no-target>
+12/10/2024 14:56:50>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 14:56:53>Miany [268477700]>admin_help>no-target> tele/others/dimrift.htm
+12/10/2024 14:56:56>Miany [268477700]>admin_move_to>no-target> -113829 -186653 -6756
+12/10/2024 14:57:21>Miany [268477700]>admin_admin>Guardião da Fronteira>
+12/10/2024 14:57:22>Miany [268477700]>admin_move_to>Guardião da Fronteira>
+12/10/2024 14:57:23>Miany [268477700]>admin_help>Guardião da Fronteira> tele/towns.htm
+12/10/2024 14:57:24>Miany [268477700]>admin_help>Guardião da Fronteira> tele/towns/giran.htm
+12/10/2024 14:57:25>Miany [268477700]>admin_move_to>Guardião da Fronteira> 82698 148638 -3473
+12/10/2024 18:16:02>Miany [268477700]>admin_admin>no-target>
+12/10/2024 18:16:03>Miany [268477700]>admin_move_to>no-target>
+12/10/2024 18:16:07>Miany [268477700]>admin_help>no-target> tele/other.htm
+12/10/2024 18:16:09>Miany [268477700]>admin_move_to>no-target> -113360 -244676 -15536
+12/10/2024 18:16:15>Miany [268477700]>admin_admin>no-target>
+12/10/2024 18:16:17>Miany [268477700]>admin_spawn_monster>no-target>
+12/10/2024 18:16:22>Miany [268477700]>admin_spawn_once>no-target> 8401
+12/10/2024 18:18:10>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+12/10/2024 18:18:22>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+12/10/2024 18:18:25>Miany [268477700]>admin_admin>no-target>
+12/10/2024 18:18:27>Miany [268477700]>admin_admin4>no-target>
+12/10/2024 18:18:28>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+12/10/2024 18:18:29>Miany [268477700]>admin_admin>no-target>
+12/10/2024 18:18:31>Miany [268477700]>admin_admin4>no-target>
+12/10/2024 18:18:32>Miany [268477700]>admin_reload>no-target>
+12/10/2024 18:18:33>Miany [268477700]>admin_reload>no-target> npc
+12/10/2024 18:18:36>Miany [268477700]>admin_admin>no-target>
+12/10/2024 18:18:37>Miany [268477700]>admin_spawn_monster>no-target>
+12/10/2024 18:18:40>Miany [268477700]>admin_spawn_once>no-target> 8401
+12/10/2024 18:20:44>Miany [268477700]>admin_admin>no-target>
+12/10/2024 18:20:58>Miany [268477700]>admin_list_spawns>no-target>
+12/10/2024 18:21:01>Miany [268477700]>admin_admin>no-target>
+12/10/2024 18:21:03>Miany [268477700]>admin_spawn_monster>no-target>
+12/10/2024 18:21:06>Miany [268477700]>admin_spawn_once>no-target> 8401
+12/10/2024 18:21:44>Miany [268477700]>admin_admin>no-target>
+12/10/2024 18:25:17>Miany [268477700]>admin_admin>no-target>
+12/10/2024 18:25:18>Miany [268477700]>admin_spawn_monster>no-target>
+12/10/2024 18:25:21>Miany [268477700]>admin_spawn_once>no-target> 8401
+12/10/2024 18:27:02>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+12/10/2024 18:27:09>Miany [268477700]>admin_kill_menu>Glio, Deus da Praga>
+12/10/2024 18:27:40>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 1:13:24>Miany [268477700]>admin_admin>no-target>
+13/10/2024 1:13:25>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 1:13:31>Miany [268477700]>admin_spawn_once>no-target> 8401
+13/10/2024 1:18:22>Miany [268477700]>admin_admin>no-target>
+13/10/2024 1:18:23>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 1:18:24>Miany [268477700]>admin_reload>no-target>
+13/10/2024 1:18:27>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 1:19:01>Miany [268477700]>admin_admin>no-target>
+13/10/2024 1:19:05>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 1:19:08>Miany [268477700]>admin_spawn_index>no-target> 80
+13/10/2024 1:19:19>Miany [268477700]>admin_spawn_monster>no-target> 21428
+13/10/2024 1:19:42>Miany [268477700]>admin_admin>Hasturan>
+13/10/2024 1:19:43>Miany [268477700]>admin_admin2>Hasturan>
+13/10/2024 1:19:45>Miany [268477700]>admin_admin>Hasturan>
+13/10/2024 1:19:46>Miany [268477700]>admin_delete>Hasturan>
+13/10/2024 1:19:48>Miany [268477700]>admin_admin>Miany>
+13/10/2024 1:19:50>Miany [268477700]>admin_heal>Miany>
+13/10/2024 1:36:43>Miany [268477700]>admin_admin>no-target>
+13/10/2024 1:36:44>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 1:36:46>Miany [268477700]>admin_reload>no-target>
+13/10/2024 1:36:47>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 1:39:57>Miany [268477700]>admin_admin>no-target>
+13/10/2024 1:40:01>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 1:40:04>Miany [268477700]>admin_spawn_monster>no-target> 8401
+13/10/2024 1:40:28>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 1:40:34>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 1:59:15>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 1:59:16>Miany [268477700]>admin_admin4>Glio, Deus da Praga>
+13/10/2024 1:59:17>Miany [268477700]>admin_reload>Glio, Deus da Praga>
+13/10/2024 1:59:18>Miany [268477700]>admin_reload>Glio, Deus da Praga> npc
+13/10/2024 1:59:58>Miany [268477700]>admin_admin>no-target>
+13/10/2024 1:59:59>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 2:00:04>Miany [268477700]>admin_spawn_once>no-target> 35647
+13/10/2024 2:00:22>Miany [268477700]>admin_delete>Vampiro Líder>
+13/10/2024 2:01:02>Miany [268477700]>admin_admin>no-target>
+13/10/2024 2:01:05>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 2:01:14>Miany [268477700]>admin_spawn_once>no-target> 35637
+13/10/2024 2:01:27>Miany [268477700]>admin_delete>Vampiro Líder>
+13/10/2024 2:01:50>Miany [268477700]>admin_admin>no-target>
+13/10/2024 2:01:52>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 2:01:56>Miany [268477700]>admin_spawn_once>no-target> 35629
+13/10/2024 2:02:21>Miany [268477700]>admin_delete>no-target>
+13/10/2024 2:02:26>Miany [268477700]>admin_delete>Lidia von Hellmann>
+13/10/2024 2:08:54>Miany [268477700]>admin_admin>no-target>
+13/10/2024 2:08:56>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 2:08:57>Miany [268477700]>admin_reload>no-target>
+13/10/2024 2:08:57>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 2:10:03>Miany [268477700]>admin_admin>no-target>
+13/10/2024 2:10:04>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 2:28:24>Miany [268477700]>admin_admin>no-target>
+13/10/2024 2:28:26>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 2:28:27>Miany [268477700]>admin_reload>no-target>
+13/10/2024 2:28:29>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 2:28:45>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 2:31:18>Miany [268477700]>admin_admin>no-target>
+13/10/2024 2:31:22>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 2:31:23>Miany [268477700]>admin_admin>no-target>
+13/10/2024 2:31:24>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 2:31:25>Miany [268477700]>admin_reload>no-target>
+13/10/2024 2:31:26>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 2:33:27>Miany [268477700]>admin_admin>no-target>
+13/10/2024 2:33:29>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 2:33:32>Miany [268477700]>admin_spawn_once>no-target> 8401
+13/10/2024 2:33:57>Miany [268477700]>admin_admin>no-target>
+13/10/2024 2:34:05>Miany [268477700]>admin_invul_menu_main>no-target>
+13/10/2024 2:34:30>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 2:34:32>Miany [268477700]>admin_spawn_monster>Glio, Deus da Praga>
+13/10/2024 2:34:41>Miany [268477700]>admin_spawn_once>Glio, Deus da Praga> 35629
+13/10/2024 2:34:58>Miany [268477700]>admin_admin>Lidia von Hellmann>
+13/10/2024 2:35:02>Miany [268477700]>admin_invul_menu_main>Lidia von Hellmann>
+13/10/2024 2:35:06>Miany [268477700]>admin_delete>no-target>
+13/10/2024 2:35:07>Miany [268477700]>admin_admin>no-target>
+13/10/2024 2:35:12>Miany [268477700]>admin_delete>Lidia von Hellmann>
+13/10/2024 2:35:44>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 2:35:53>Miany [268477700]>admin_admin>no-target>
+13/10/2024 16:09:50>Miany [268477700]>admin_admin>no-target>
+13/10/2024 16:09:51>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 16:10:01>Miany [268477700]>admin_spawn_once>no-target> 38029
+13/10/2024 16:12:30>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 16:56:48>Miany [268477700]>admin_admin>no-target>
+13/10/2024 16:56:50>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 16:56:53>Miany [268477700]>admin_spawn_monster>no-target> 84001
+13/10/2024 16:57:19>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 16:57:20>Miany [268477700]>admin_admin>no-target>
+13/10/2024 16:57:21>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 16:57:22>Miany [268477700]>admin_reload>no-target>
+13/10/2024 16:57:23>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 16:57:24>Miany [268477700]>admin_admin>no-target>
+13/10/2024 16:57:25>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 16:57:29>Miany [268477700]>admin_spawn_monster>no-target> 84001
+13/10/2024 16:57:43>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 16:57:46>Miany [268477700]>admin_admin>no-target>
+13/10/2024 16:57:47>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 16:57:51>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 16:58:37>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 16:58:42>Miany [268477700]>admin_admin2>Glio, Deus da Praga>
+13/10/2024 16:58:44>Miany [268477700]>admin_admin4>Glio, Deus da Praga>
+13/10/2024 16:58:47>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 16:58:55>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 90
+13/10/2024 16:58:59>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 16:59:00>Miany [268477700]>admin_admin>no-target>
+13/10/2024 16:59:00>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 16:59:04>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 16:59:13>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 16:59:20>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 175
+13/10/2024 16:59:26>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 16:59:27>Miany [268477700]>admin_admin>no-target>
+13/10/2024 16:59:29>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 16:59:33>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 16:59:41>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 16:59:47>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 16:59:52>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 190
+13/10/2024 16:59:56>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 16:59:57>Miany [268477700]>admin_admin>no-target>
+13/10/2024 16:59:59>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 17:00:02>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 17:00:19>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 17:00:20>Miany [268477700]>admin_admin>no-target>
+13/10/2024 17:00:23>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 17:00:26>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 17:00:31>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 17:00:35>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 195
+13/10/2024 17:00:43>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 attackRange 60
+13/10/2024 17:00:45>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 17:00:46>Miany [268477700]>admin_admin>no-target>
+13/10/2024 17:00:47>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 17:00:50>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 17:01:31>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 17:01:35>Miany [268477700]>admin_admin4>Glio, Deus da Praga>
+13/10/2024 17:01:36>Miany [268477700]>admin_admin3>Glio, Deus da Praga>
+13/10/2024 17:01:37>Miany [268477700]>admin_admin2>Glio, Deus da Praga>
+13/10/2024 17:01:38>Miany [268477700]>admin_admin4>Glio, Deus da Praga>
+13/10/2024 17:01:40>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 17:01:41>Miany [268477700]>admin_spawn_monster>Glio, Deus da Praga>
+13/10/2024 17:01:49>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 17:06:22>Miany [268477700]>admin_admin>no-target>
+13/10/2024 17:06:23>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 17:06:28>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 17:06:57>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 17:07:02>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 17:11:24>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 17:11:26>Miany [268477700]>admin_admin>no-target>
+13/10/2024 17:11:28>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 17:11:30>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 17:11:41>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 17:11:42>Miany [268477700]>admin_admin>no-target>
+13/10/2024 17:11:43>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 17:11:44>Miany [268477700]>admin_reload>no-target>
+13/10/2024 17:11:45>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 17:11:52>Miany [268477700]>admin_admin>no-target>
+13/10/2024 17:11:53>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 17:11:56>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 17:12:26>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 17:12:27>Miany [268477700]>admin_admin4>Glio, Deus da Praga>
+13/10/2024 17:12:28>Miany [268477700]>admin_admin2>Glio, Deus da Praga>
+13/10/2024 17:12:29>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 17:12:34>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 17:13:01>Miany [268477700]>admin_admin>no-target>
+13/10/2024 17:13:02>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 17:13:03>Miany [268477700]>admin_reload>no-target>
+13/10/2024 17:13:05>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 17:13:08>Miany [268477700]>admin_admin>no-target>
+13/10/2024 17:13:09>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 17:13:13>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 17:14:47>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 17:44:37>Miany [268477700]>admin_admin>no-target>
+13/10/2024 17:44:38>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 17:44:41>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 17:45:21>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 17:46:29>Miany [268477700]>admin_admin>no-target>
+13/10/2024 17:46:30>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 17:46:35>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 17:57:40>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 17:57:53>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 75
+13/10/2024 17:58:06>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 74
+13/10/2024 17:58:24>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:01:40>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:01:41>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:01:44>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:03:15>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:03:19>Miany [268477700]>admin_move_to>no-target>
+13/10/2024 18:03:21>Miany [268477700]>admin_help>no-target> tele/other.htm
+13/10/2024 18:03:27>Miany [268477700]>admin_move_to>no-target> -113360 -244676 -15536
+13/10/2024 18:03:40>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 18:04:19>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:07:11>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:07:12>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:07:15>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:07:37>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:07:38>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:07:39>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 18:07:40>Miany [268477700]>admin_reload>no-target>
+13/10/2024 18:07:41>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 18:07:42>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:07:43>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:07:46>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:07:50>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:08:19>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:08:20>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 18:08:21>Miany [268477700]>admin_reload>no-target>
+13/10/2024 18:08:22>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 18:08:23>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:08:25>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:08:28>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:08:39>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:10:44>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:10:45>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:10:48>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:13:15>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 18:13:19>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:13:20>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:13:20>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 18:13:21>Miany [268477700]>admin_reload>no-target>
+13/10/2024 18:13:23>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 18:13:26>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:13:27>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:13:30>Miany [268477700]>admin_spawn_monster>no-target> 84001
+13/10/2024 18:19:09>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:19:10>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:19:11>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:19:14>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:20:36>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 18:20:41>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 50
+13/10/2024 18:20:44>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:20:45>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:20:47>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:20:49>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:35:16>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:35:18>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:35:19>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:35:22>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:35:24>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:35:25>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 18:35:26>Miany [268477700]>admin_reload>no-target>
+13/10/2024 18:35:27>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 18:35:30>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:35:30>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:35:31>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:35:34>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:35:46>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:37:42>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:37:43>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:37:46>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:39:53>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:44:41>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:44:42>Miany [268477700]>admin_gmchat_menu>no-target>
+13/10/2024 18:44:43>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:44:46>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 18:58:37>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:58:38>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 18:58:38>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+13/10/2024 18:58:41>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:58:42>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 18:58:43>Miany [268477700]>admin_reload>no-target>
+13/10/2024 18:58:44>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 18:58:47>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 18:58:48>Miany [268477700]>admin_admin>no-target>
+13/10/2024 18:58:49>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 18:58:52>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:00:19>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 19:01:09>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:01:10>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:01:14>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:03:00>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 19:03:01>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:03:02>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 19:03:03>Miany [268477700]>admin_reload>no-target>
+13/10/2024 19:03:04>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 19:03:04>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:03:06>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:03:09>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:04:34>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 19:07:31>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:07:32>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 19:07:32>Miany [268477700]>admin_reload>no-target>
+13/10/2024 19:07:33>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 19:07:35>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 19:07:35>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:07:36>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:07:39>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:11:37>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:11:38>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:11:41>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:13:59>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 19:14:03>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 0
+13/10/2024 19:14:08>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 19:14:10>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:14:11>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:14:13>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:26:15>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 19:26:16>Miany [268477700]>admin_spawn_monster>Glio, Deus da Praga>
+13/10/2024 19:26:31>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 19:26:32>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:26:33>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 19:26:34>Miany [268477700]>admin_reload>no-target>
+13/10/2024 19:26:35>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 19:26:36>Miany [268477700]>admin_admin4>no-target>
+13/10/2024 19:26:38>Miany [268477700]>admin_reload>no-target>
+13/10/2024 19:26:39>Miany [268477700]>admin_reload>no-target> npc
+13/10/2024 19:26:40>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:26:40>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:26:43>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:30:23>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 19:30:26>Miany [268477700]>admin_spawn_monster>Glio, Deus da Praga>
+13/10/2024 19:30:27>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 19:30:31>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 19:30:35>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionRadius 75
+13/10/2024 19:30:37>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 19:30:39>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:30:40>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:30:44>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:30:51>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 19:31:02>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionRadius 34
+13/10/2024 19:31:04>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 75
+13/10/2024 19:31:08>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 19:31:08>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:31:09>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:31:12>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:31:23>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 19:31:28>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 30
+13/10/2024 19:31:32>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 19:31:33>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:31:35>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:31:38>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:31:53>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 19:31:54>Miany [268477700]>admin_spawn_monster>Glio, Deus da Praga>
+13/10/2024 19:31:57>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+13/10/2024 19:32:00>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 19:32:05>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 20
+13/10/2024 19:32:08>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 19:32:10>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:32:11>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:32:14>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 19:32:21>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 19:32:34>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 15
+13/10/2024 19:32:37>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 19:32:38>Miany [268477700]>admin_admin>no-target>
+13/10/2024 19:32:39>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 19:32:41>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 23:55:00>Miany [268477700]>admin_admin>no-target>
+13/10/2024 23:55:01>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 23:55:03>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 23:55:22>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 23:55:27>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 75
+13/10/2024 23:55:33>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 23:55:34>Miany [268477700]>admin_admin>no-target>
+13/10/2024 23:55:34>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 23:55:39>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 23:55:49>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 23:55:54>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 150
+13/10/2024 23:55:57>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 23:55:57>Miany [268477700]>admin_admin>no-target>
+13/10/2024 23:55:58>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 23:56:01>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 23:56:08>Miany [268477700]>admin_admin>no-target>
+13/10/2024 23:56:14>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 23:56:18>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+13/10/2024 23:56:22>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 195
+13/10/2024 23:56:24>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+13/10/2024 23:56:25>Miany [268477700]>admin_admin>no-target>
+13/10/2024 23:56:26>Miany [268477700]>admin_spawn_monster>no-target>
+13/10/2024 23:56:29>Miany [268477700]>admin_spawn_once>no-target> 84001
+13/10/2024 23:57:09>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 0:00:15>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:00:16>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:00:20>Miany [268477700]>admin_spawn_once>no-target> 8401
+14/10/2024 0:00:28>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:00:29>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:00:32>Miany [268477700]>admin_spawn_once>no-target> 8401
+14/10/2024 0:00:42>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:00:44>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:00:47>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:01:00>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+14/10/2024 0:01:04>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 15
+14/10/2024 0:01:07>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 0:01:08>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:01:10>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:01:13>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:08:38>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:08:39>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:08:42>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:08:50>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 0:08:51>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 0:08:52>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:08:53>Miany [268477700]>admin_admin4>no-target>
+14/10/2024 0:08:54>Miany [268477700]>admin_reload>no-target>
+14/10/2024 0:08:55>Miany [268477700]>admin_reload>no-target> npc
+14/10/2024 0:08:56>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:08:57>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:09:02>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:09:34>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:09:43>Miany [268477700]>admin_admin4>no-target>
+14/10/2024 0:09:44>Miany [268477700]>admin_reload>no-target>
+14/10/2024 0:09:45>Miany [268477700]>admin_reload>no-target> npc
+14/10/2024 0:09:47>Miany [268477700]>admin_admin4>no-target>
+14/10/2024 0:09:49>Miany [268477700]>admin_admin2>no-target>
+14/10/2024 0:09:49>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:09:51>Miany [268477700]>admin_list_spawns>no-target>
+14/10/2024 0:09:53>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:09:55>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:09:58>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:10:23>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:10:28>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 0:10:29>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:10:30>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:10:34>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:10:36>Miany [268477700]>admin_admin4>no-target>
+14/10/2024 0:10:37>Miany [268477700]>admin_reload>no-target>
+14/10/2024 0:10:38>Miany [268477700]>admin_reload>no-target> npc
+14/10/2024 0:10:39>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:10:40>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:10:46>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:11:14>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+14/10/2024 0:11:21>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 0:11:22>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:11:23>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:11:26>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:11:30>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:11:30>Miany [268477700]>admin_admin4>no-target>
+14/10/2024 0:11:31>Miany [268477700]>admin_reload>no-target>
+14/10/2024 0:11:32>Miany [268477700]>admin_reload>no-target> npc
+14/10/2024 0:11:34>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 0:11:36>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:11:37>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:11:40>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:15:12>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 0:17:54>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:17:55>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:17:58>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:18:10>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+14/10/2024 0:18:17>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight -159
+14/10/2024 0:18:21>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 0:18:21>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:18:22>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:18:25>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:34:17>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:34:20>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:34:23>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:34:45>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:34:46>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:34:49>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:34:52>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:34:54>Miany [268477700]>admin_admin4>no-target>
+14/10/2024 0:34:55>Miany [268477700]>admin_reload>no-target>
+14/10/2024 0:34:56>Miany [268477700]>admin_reload>no-target> npc
+14/10/2024 0:34:57>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:34:58>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:35:01>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 0:45:46>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+14/10/2024 0:45:51>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 0:45:51>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:45:52>Miany [268477700]>admin_admin4>no-target>
+14/10/2024 0:45:53>Miany [268477700]>admin_reload>no-target>
+14/10/2024 0:45:54>Miany [268477700]>admin_reload>no-target> npc
+14/10/2024 0:45:55>Miany [268477700]>admin_admin>no-target>
+14/10/2024 0:45:56>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 0:45:59>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 1:00:26>Miany [268477700]>admin_admin>no-target>
+14/10/2024 1:00:27>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 1:00:30>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 1:03:01>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+14/10/2024 1:03:06>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+14/10/2024 1:03:10>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 20
+14/10/2024 1:03:13>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+14/10/2024 1:03:16>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 1:03:17>Miany [268477700]>admin_admin>no-target>
+14/10/2024 1:03:18>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 1:03:21>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 1:03:28>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+14/10/2024 1:03:32>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 1:03:34>Miany [268477700]>admin_admin>no-target>
+14/10/2024 1:03:35>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 1:03:38>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 1:03:43>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+14/10/2024 1:03:54>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 78
+14/10/2024 1:03:56>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+14/10/2024 1:04:02>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 1:04:02>Miany [268477700]>admin_admin>no-target>
+14/10/2024 1:04:03>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 1:04:06>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 1:04:24>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+14/10/2024 1:04:27>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 50
+14/10/2024 1:04:31>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 1:04:32>Miany [268477700]>admin_admin>no-target>
+14/10/2024 1:04:34>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 1:04:37>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 1:04:51>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+14/10/2024 1:05:01>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 35
+14/10/2024 1:05:04>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 1:05:05>Miany [268477700]>admin_admin>no-target>
+14/10/2024 1:05:06>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 1:05:09>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 1:09:24>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 1:09:25>Miany [268477700]>admin_admin>no-target>
+14/10/2024 1:09:25>Miany [268477700]>admin_admin4>no-target>
+14/10/2024 1:09:27>Miany [268477700]>admin_reload>no-target>
+14/10/2024 1:09:28>Miany [268477700]>admin_reload>no-target> npc
+14/10/2024 1:09:29>Miany [268477700]>admin_admin>no-target>
+14/10/2024 1:09:30>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 1:09:33>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 1:12:01>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+14/10/2024 1:12:06>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 50
+14/10/2024 1:12:11>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 1:12:12>Miany [268477700]>admin_admin>no-target>
+14/10/2024 1:12:13>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 1:12:16>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 1:12:24>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+14/10/2024 1:12:28>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 15
+14/10/2024 1:12:31>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+14/10/2024 1:12:32>Miany [268477700]>admin_admin>no-target>
+14/10/2024 1:12:33>Miany [268477700]>admin_spawn_monster>no-target>
+14/10/2024 1:12:36>Miany [268477700]>admin_spawn_once>no-target> 84001
+14/10/2024 1:18:39>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+18/10/2024 0:00:06>Miany [268477700]>admin_admin>no-target>
+18/10/2024 0:00:08>Miany [268477700]>admin_spawn_monster>no-target>
+18/10/2024 0:00:12>Miany [268477700]>admin_spawn_once>no-target> 84001
+18/10/2024 0:00:28>Miany [268477700]>admin_admin>no-target>
+18/10/2024 0:00:29>Miany [268477700]>admin_admin4>no-target>
+18/10/2024 0:00:30>Miany [268477700]>admin_reload>no-target>
+18/10/2024 0:00:31>Miany [268477700]>admin_reload>no-target> npc
+18/10/2024 0:00:33>Miany [268477700]>admin_admin>no-target>
+18/10/2024 0:00:34>Miany [268477700]>admin_spawn_monster>no-target>
+18/10/2024 0:00:38>Miany [268477700]>admin_spawn_once>no-target> 84001
+18/10/2024 0:02:00>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+18/10/2024 0:03:10>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+18/10/2024 0:03:13>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+18/10/2024 20:53:03>Miany [268477700]>admin_admin>no-target>
+18/10/2024 20:53:04>Miany [268477700]>admin_spawn_monster>no-target>
+18/10/2024 20:53:07>Miany [268477700]>admin_spawn_once>no-target> 84001
+18/10/2024 20:53:43>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+18/10/2024 20:53:47>Miany [268477700]>admin_move_to>Glio, Deus da Praga>
+18/10/2024 20:53:50>Miany [268477700]>admin_tele>Glio, Deus da Praga>
+18/10/2024 20:53:53>Miany [268477700]>admin_show_moves>Glio, Deus da Praga>
+18/10/2024 20:53:54>Miany [268477700]>admin_help>Glio, Deus da Praga> tele/others/arenas.htm
+18/10/2024 20:53:57>Miany [268477700]>admin_help>Glio, Deus da Praga> teleports.htm
+18/10/2024 20:53:58>Miany [268477700]>admin_help>Glio, Deus da Praga> tele/others/necat.htm
+18/10/2024 20:54:01>Miany [268477700]>admin_help>Glio, Deus da Praga> tele/other.htm
+18/10/2024 20:54:05>Miany [268477700]>admin_show_moves>Glio, Deus da Praga>
+18/10/2024 20:54:10>Miany [268477700]>admin_help>Glio, Deus da Praga> tele/locations/c5.htm
+18/10/2024 20:54:15>Miany [268477700]>admin_show_moves>Glio, Deus da Praga>
+18/10/2024 20:54:16>Miany [268477700]>admin_help>Glio, Deus da Praga> tele/locations/interlude.htm
+18/10/2024 20:54:17>Miany [268477700]>admin_help>Glio, Deus da Praga> teleports.htm
+18/10/2024 20:54:18>Miany [268477700]>admin_help>Glio, Deus da Praga> tele/locations/c4.htm
+18/10/2024 20:54:21>Miany [268477700]>admin_help>Glio, Deus da Praga> tele/other.htm
+18/10/2024 20:54:30>Miany [268477700]>admin_help>Glio, Deus da Praga> tele/others/arenas.htm
+18/10/2024 20:54:37>Miany [268477700]>admin_help>Glio, Deus da Praga> teleports.htm
+18/10/2024 20:54:39>Miany [268477700]>admin_help>Glio, Deus da Praga> tele/other.htm
+18/10/2024 20:54:43>Miany [268477700]>admin_help>Glio, Deus da Praga> tele/others/goodies.htm
+18/10/2024 20:54:50>Miany [268477700]>admin_move_to>Glio, Deus da Praga> 83196 37195 -2264
+18/10/2024 20:56:29>Miany [268477700]>admin_admin>Morrison>
+18/10/2024 20:56:32>Miany [268477700]>admin_move_to>Morrison>
+18/10/2024 20:56:35>Miany [268477700]>admin_help>Morrison> tele/other.htm
+18/10/2024 20:58:04>Miany [268477700]>admin_help>Morrison> tele/others/dvc.htm
+18/10/2024 20:58:07>Miany [268477700]>admin_move_to>Morrison> 154623 121134 -3809
+18/10/2024 20:58:59>Miany [268477700]>admin_admin>Místico Sangrento>
+18/10/2024 21:02:13>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:02:15>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:02:27>Miany [268477700]>admin_move_to>no-target> -20296 -185528 -9992
+18/10/2024 21:05:18>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:05:21>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:05:22>Miany [268477700]>admin_tele>no-target>
+18/10/2024 21:05:26>Miany [268477700]>admin_goeast>no-target>
+18/10/2024 21:05:28>Miany [268477700]>admin_goeast>no-target>
+18/10/2024 21:05:30>Miany [268477700]>admin_gonorth>no-target>
+18/10/2024 21:05:41>Miany [268477700]>admin_superhaste>no-target> 4
+18/10/2024 21:05:53>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:05:54>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:05:55>Miany [268477700]>admin_tele>no-target>
+18/10/2024 21:05:56>Miany [268477700]>admin_teleto>no-target> r
+18/10/2024 21:06:08>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:06:11>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:06:12>Miany [268477700]>admin_tele>no-target>
+18/10/2024 21:06:14>Miany [268477700]>admin_godown>no-target>
+18/10/2024 21:06:21>Miany [268477700]>admin_godown>no-target>
+18/10/2024 21:06:28>Miany [268477700]>admin_godown>no-target>
+18/10/2024 21:06:35>Miany [268477700]>admin_godown>no-target> 500
+18/10/2024 21:06:39>Miany [268477700]>admin_godown>no-target> 5000
+18/10/2024 21:08:23>Miany [268477700]>admin_teleto>no-target> end
+18/10/2024 21:08:30>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:08:31>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:08:46>Miany [268477700]>admin_move_to>no-target> -20296 -185528 -9992
+18/10/2024 21:10:12>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:10:13>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:10:15>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:10:19>Miany [268477700]>admin_show_moves>no-target>
+18/10/2024 21:10:28>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:10:34>Miany [268477700]>admin_show_moves>no-target>
+18/10/2024 21:10:56>Miany [268477700]>admin_help>no-target> tele/others/arenas.htm
+18/10/2024 21:10:58>Miany [268477700]>admin_help>no-target> teleports.htm
+18/10/2024 21:10:59>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:11:01>Miany [268477700]>admin_move_to>no-target> -113360 -244676 -15536
+18/10/2024 21:12:04>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:12:06>Miany [268477700]>admin_admin4>no-target>
+18/10/2024 21:12:07>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+18/10/2024 21:12:09>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:12:12>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:12:13>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:12:15>Miany [268477700]>admin_help>no-target> tele/others/goodies.htm
+18/10/2024 21:12:16>Miany [268477700]>admin_move_to>no-target> -113360 -244676 -15536
+18/10/2024 21:12:52>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:12:54>Miany [268477700]>admin_admin4>no-target>
+18/10/2024 21:12:55>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+18/10/2024 21:12:56>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:12:57>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:12:58>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:12:59>Miany [268477700]>admin_help>no-target> tele/others/goodies.htm
+18/10/2024 21:13:00>Miany [268477700]>admin_move_to>no-target> -10973 -185523 -10936
+18/10/2024 21:14:20>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:14:21>Miany [268477700]>admin_spawn_monster>no-target>
+18/10/2024 21:14:25>Miany [268477700]>admin_spawn_once>no-target> 8401
+18/10/2024 21:14:28>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:14:29>Miany [268477700]>admin_spawn_monster>no-target>
+18/10/2024 21:14:31>Miany [268477700]>admin_spawn_once>no-target> 84001
+18/10/2024 21:15:09>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+18/10/2024 21:16:54>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:16:55>Miany [268477700]>admin_spawn_monster>no-target>
+18/10/2024 21:16:58>Miany [268477700]>admin_spawn_once>no-target> 84001
+18/10/2024 21:37:23>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+18/10/2024 21:39:07>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:39:08>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:39:10>Miany [268477700]>admin_help>no-target> tele/castles.htm
+18/10/2024 21:39:11>Miany [268477700]>admin_show_moves>no-target>
+18/10/2024 21:39:13>Miany [268477700]>admin_help>no-target> tele/towns.htm
+18/10/2024 21:39:14>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+18/10/2024 21:39:17>Miany [268477700]>admin_help>no-target> tele/towns.htm
+18/10/2024 21:39:19>Miany [268477700]>admin_show_moves>no-target>
+18/10/2024 21:39:22>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:39:27>Miany [268477700]>admin_help>no-target> tele/others/goddard.htm
+18/10/2024 21:39:35>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:39:36>Miany [268477700]>admin_show_moves>no-target>
+18/10/2024 21:39:38>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:39:40>Miany [268477700]>admin_show_moves>no-target>
+18/10/2024 21:39:42>Miany [268477700]>admin_help>no-target> tele/towns.htm
+18/10/2024 21:39:43>Miany [268477700]>admin_help>no-target> tele/towns/goddard.htm
+18/10/2024 21:39:44>Miany [268477700]>admin_move_to>no-target> 147725 -56517 -2780
+18/10/2024 21:40:09>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:40:10>Miany [268477700]>admin_superhaste>no-target> 4
+18/10/2024 21:41:11>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:41:11>Miany [268477700]>admin_superhaste>no-target> 4
+18/10/2024 21:41:52>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:41:54>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:41:55>Miany [268477700]>admin_help>no-target> tele/towns.htm
+18/10/2024 21:41:55>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+18/10/2024 21:41:56>Miany [268477700]>admin_move_to>no-target> 82698 148638 -3473
+18/10/2024 21:45:53>Miany [268477700]>admin_admin>Árvore do Carrasco>
+18/10/2024 21:45:55>Miany [268477700]>admin_move_to>Árvore do Carrasco>
+18/10/2024 21:45:56>Miany [268477700]>admin_help>Árvore do Carrasco> tele/towns.htm
+18/10/2024 21:46:51>Miany [268477700]>admin_show_moves>Árvore do Carrasco>
+18/10/2024 21:46:52>Miany [268477700]>admin_help>Árvore do Carrasco> tele/other.htm
+18/10/2024 21:46:55>Miany [268477700]>admin_help>Árvore do Carrasco> tele/others/aden.htm
+18/10/2024 21:47:00>Miany [268477700]>admin_move_to>Árvore do Carrasco> 150477 85907 -2753
+18/10/2024 21:47:21>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:47:22>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:47:25>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:47:29>Miany [268477700]>admin_help>no-target> tele/others/aden.htm
+18/10/2024 21:47:46>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:47:50>Miany [268477700]>admin_help>no-target> tele/others/rune.htm
+18/10/2024 21:47:54>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:47:57>Miany [268477700]>admin_help>no-target> tele/others/goddard.htm
+18/10/2024 21:48:01>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:04>Miany [268477700]>admin_help>no-target> tele/others/gludio.htm
+18/10/2024 21:48:05>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:06>Miany [268477700]>admin_help>no-target> tele/others/giran.htm
+18/10/2024 21:48:07>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:08>Miany [268477700]>admin_help>no-target> tele/others/innadril.htm
+18/10/2024 21:48:10>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:16>Miany [268477700]>admin_help>no-target> tele/others/dvc.htm
+18/10/2024 21:48:19>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:20>Miany [268477700]>admin_help>no-target> tele/others/darkelven.htm
+18/10/2024 21:48:24>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:25>Miany [268477700]>admin_help>no-target> tele/others/cruma.htm
+18/10/2024 21:48:26>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:28>Miany [268477700]>admin_help>no-target> tele/others/elmored.htm
+18/10/2024 21:48:29>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:29>Miany [268477700]>admin_help>no-target> tele/others/elmoreo.htm
+18/10/2024 21:48:31>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:32>Miany [268477700]>admin_help>no-target> tele/others/goe.htm
+18/10/2024 21:48:33>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:34>Miany [268477700]>admin_help>no-target> tele/others/giran.htm
+18/10/2024 21:48:35>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:36>Miany [268477700]>admin_help>no-target> tele/others/gludin.htm
+18/10/2024 21:48:37>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:37>Miany [268477700]>admin_help>no-target> tele/others/goddard.htm
+18/10/2024 21:48:42>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:43>Miany [268477700]>admin_help>no-target> tele/others/innadril.htm
+18/10/2024 21:48:44>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:45>Miany [268477700]>admin_help>no-target> tele/others/ivorytower.htm
+18/10/2024 21:48:47>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:48>Miany [268477700]>admin_help>no-target> tele/others/rune.htm
+18/10/2024 21:48:50>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:51>Miany [268477700]>admin_help>no-target> tele/others/necat.htm
+18/10/2024 21:48:52>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:53>Miany [268477700]>admin_help>no-target> tele/others/oren.htm
+18/10/2024 21:48:54>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:48:55>Miany [268477700]>admin_help>no-target> tele/others/toi.htm
+18/10/2024 21:48:57>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:49:27>Miany [268477700]>admin_help>no-target> tele/others/oren.htm
+18/10/2024 21:49:28>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:49:30>Miany [268477700]>admin_help>no-target> tele/others/wastelands.htm
+18/10/2024 21:49:31>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:49:38>Miany [268477700]>admin_help>no-target> tele/others/ivorytower.htm
+18/10/2024 21:49:45>Miany [268477700]>admin_move_to>no-target> 85332 16186 -3673
+18/10/2024 21:53:27>Miany [268477700]>admin_admin>no-target>
+18/10/2024 21:53:28>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 21:53:30>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 21:53:31>Miany [268477700]>admin_help>no-target> tele/others/ivorytower.htm
+18/10/2024 21:53:32>Miany [268477700]>admin_move_to>no-target> 85332 16186 -3673
+18/10/2024 22:01:42>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:01:51>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 22:01:54>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 22:01:58>Miany [268477700]>admin_help>no-target> tele/others/ivorytower.htm
+18/10/2024 22:02:00>Miany [268477700]>admin_move_to>no-target> 70833 6426 -3639
+18/10/2024 22:02:26>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:02:27>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 22:02:28>Miany [268477700]>admin_help>no-target> tele/towns.htm
+18/10/2024 22:02:29>Miany [268477700]>admin_show_moves>no-target>
+18/10/2024 22:02:30>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 22:02:33>Miany [268477700]>admin_help>no-target> tele/others/ivorytower.htm
+18/10/2024 22:02:35>Miany [268477700]>admin_move_to>no-target> 85332 16186 -3673
+18/10/2024 22:13:11>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:13:12>Miany [268477700]>admin_admin4>no-target>
+18/10/2024 22:13:13>Miany [268477700]>admin_reload>no-target>
+18/10/2024 22:13:14>Miany [268477700]>admin_reload>no-target> npc
+18/10/2024 22:13:16>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:13:17>Miany [268477700]>admin_spawn_monster>no-target>
+18/10/2024 22:13:21>Miany [268477700]>admin_spawn_once>no-target> 84002
+18/10/2024 22:14:05>Miany [268477700]>admin_admin>Fantasma de Maria>
+18/10/2024 22:14:06>Miany [268477700]>admin_move_to>Fantasma de Maria>
+18/10/2024 22:14:08>Miany [268477700]>admin_help>Fantasma de Maria> tele/other.htm
+18/10/2024 22:14:09>Miany [268477700]>admin_help>Fantasma de Maria> tele/others/ivorytower.htm
+18/10/2024 22:14:10>Miany [268477700]>admin_move_to>Fantasma de Maria> 85332 16186 -3673
+18/10/2024 22:14:55>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:14:56>Miany [268477700]>admin_spawn_monster>no-target>
+18/10/2024 22:15:04>Miany [268477700]>admin_spawn_monster>no-target> 84003
+18/10/2024 22:16:17>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:16:19>Miany [268477700]>admin_spawn_monster>no-target>
+18/10/2024 22:16:28>Miany [268477700]>admin_spawn_monster>no-target> 84004
+18/10/2024 22:16:32>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:16:37>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 22:16:38>Miany [268477700]>admin_help>no-target> tele/other.htm
+18/10/2024 22:16:48>Miany [268477700]>admin_help>no-target> tele/others/ivorytower.htm
+18/10/2024 22:16:49>Miany [268477700]>admin_move_to>no-target> 85332 16186 -3673
+18/10/2024 22:17:35>Miany [268477700]>admin_delete>Fantasma de Maria>
+18/10/2024 22:17:38>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:17:40>Miany [268477700]>admin_spawn_monster>no-target>
+18/10/2024 22:17:44>Miany [268477700]>admin_spawn_monster>no-target> 84002
+18/10/2024 22:17:46>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:17:48>Miany [268477700]>admin_move_to>no-target>
+18/10/2024 22:17:48>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:17:49>Miany [268477700]>admin_admin4>no-target>
+18/10/2024 22:17:50>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+18/10/2024 22:17:51>Miany [268477700]>admin_admin>no-target>
+18/10/2024 22:17:52>Miany [268477700]>admin_admin4>no-target>
+18/10/2024 22:17:53>Miany [268477700]>admin_reload>no-target>
+18/10/2024 22:17:54>Miany [268477700]>admin_reload>no-target> npc
+19/10/2024 17:38:26>Miany [268477700]>admin_admin>no-target>
+19/10/2024 17:38:27>Miany [268477700]>admin_move_to>no-target>
+19/10/2024 17:38:43>Miany [268477700]>admin_admin>no-target>
+19/10/2024 17:38:44>Miany [268477700]>admin_move_to>no-target>
+19/10/2024 17:38:46>Miany [268477700]>admin_help>no-target> tele/towns.htm
+19/10/2024 17:38:49>Miany [268477700]>admin_help>no-target> tele/towns/ti_starting.htm
+19/10/2024 17:38:50>Miany [268477700]>admin_move_to>no-target> -82687 243157 -3734
+19/10/2024 17:38:55>Miany [268477700]>admin_admin>no-target>
+19/10/2024 17:38:56>Miany [268477700]>admin_superhaste>no-target> 4
+19/10/2024 17:39:06>Miany [268477700]>admin_show_droplist>Keltir Ancião> 20544
+19/10/2024 17:39:15>Miany [268477700]>admin_show_droplist>Keltir Barbudo> 20481
+19/10/2024 17:39:48>Miany [268477700]>admin_show_droplist>Keltir Barbudo> 20481
+19/10/2024 17:39:56>Miany [268477700]>admin_admin>Keltir Barbudo>
+19/10/2024 17:58:28>Miany [268477700]>admin_admin>Keltir Barbudo>
+19/10/2024 17:58:43>Miany [268477700]>admin_admin>no-target>
+19/10/2024 17:58:47>Miany [268477700]>admin_create_item>no-target>
+19/10/2024 17:58:49>Miany [268477700]>admin_admin>no-target>
+19/10/2024 18:26:03>Miany [268477700]>admin_admin>no-target>
+19/10/2024 18:26:05>Miany [268477700]>admin_create_item>no-target>
+19/10/2024 18:26:06>Miany [268477700]>admin_admin>no-target>
+19/10/2024 18:26:07>Miany [268477700]>admin_gmshop>no-target>
+19/10/2024 18:26:09>Miany [268477700]>admin_help>no-target> gmshop/Jewels.htm
+19/10/2024 18:26:10>Miany [268477700]>admin_buy>no-target> 9300
+19/10/2024 18:39:48>Miany [268477700]>admin_admin>Keltir Barbudo>
+19/10/2024 18:39:49>Miany [268477700]>admin_superhaste>Keltir Barbudo> 4
+19/10/2024 18:39:54>Miany [268477700]>admin_admin>Keltir Barbudo>
+19/10/2024 18:39:55>Miany [268477700]>admin_superhaste>Keltir Barbudo> 0
+19/10/2024 18:42:21>Miany [268477700]>admin_admin>Miany>
+19/10/2024 19:16:46>Miany [268477700]>admin_admin>no-target>
+19/10/2024 19:17:08>Miany [268477700]>admin_admin>no-target>
+19/10/2024 19:17:46>Miany [268477700]>admin_admin>no-target>
+19/10/2024 19:18:02>Miany [268477700]>admin_admin>no-target>
+19/10/2024 19:25:04>Miany [268477700]>admin_admin>no-target>
+19/10/2024 19:25:28>Miany [268477700]>admin_admin>no-target>
+19/10/2024 20:37:52>Miany [268477700]>admin_admin>no-target>
+19/10/2024 20:46:14>Miany [268477700]>admin_admin>no-target>
+19/10/2024 20:47:06>Miany [268477700]>admin_admin>no-target>
+19/10/2024 20:47:07>Miany [268477700]>admin_admin4>no-target>
+19/10/2024 20:47:08>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+19/10/2024 20:47:09>Miany [268477700]>admin_admin>no-target>
+19/10/2024 20:47:37>Miany [268477700]>admin_admin>no-target>
+19/10/2024 20:47:38>Miany [268477700]>admin_admin4>no-target>
+19/10/2024 20:47:39>Miany [268477700]>admin_cache_htm_rebuild>no-target>
+19/10/2024 20:47:57>Miany [268477700]>admin_admin>no-target>
+20/10/2024 13:17:52>Miany [268477700]>admin_admin>no-target>
+20/10/2024 13:17:53>Miany [268477700]>admin_superhaste>no-target> 4
+20/10/2024 13:20:54>Miany [268477700]>admin_admin>no-target>
+20/10/2024 13:21:33>Miany [268477700]>admin_show_droplist>Keltir Barbudo> 20481
+20/10/2024 13:25:16>Miany [268477700]>admin_admin>Aranha de Garras>
+20/10/2024 13:25:17>Miany [268477700]>admin_move_to>Aranha de Garras>
+20/10/2024 13:25:18>Miany [268477700]>admin_help>Aranha de Garras> tele/towns.htm
+20/10/2024 13:25:20>Miany [268477700]>admin_help>Aranha de Garras> tele/towns/ti_starting.htm
+20/10/2024 13:25:21>Miany [268477700]>admin_move_to>Aranha de Garras> -82687 243157 -3734
+20/10/2024 13:26:36>Miany [268477700]>admin_admin>no-target>
+20/10/2024 13:26:37>Miany [268477700]>admin_move_to>no-target>
+20/10/2024 13:26:40>Miany [268477700]>admin_admin>no-target>
+20/10/2024 13:26:41>Miany [268477700]>admin_admin2>no-target>
+20/10/2024 13:26:42>Miany [268477700]>admin_show_characters>no-target> 0
+20/10/2024 13:26:43>Miany [268477700]>admin_character_info>no-target> Humanio
+20/10/2024 13:26:48>Miany [268477700]>admin_goto_char_menu>Humanio> Humanio
+20/10/2024 13:26:54>Miany [268477700]>admin_admin>Humanio>
+20/10/2024 13:26:56>Miany [268477700]>admin_admin3>Humanio>
+20/10/2024 13:26:57>Miany [268477700]>admin_admin4>Humanio>
+20/10/2024 13:27:02>Miany [268477700]>admin_admin3>Humanio>
+20/10/2024 13:27:05>Miany [268477700]>admin_admin2>Humanio>
+20/10/2024 13:27:08>Miany [268477700]>admin_help>Humanio> mods_menu.htm
+20/10/2024 13:27:13>Miany [268477700]>admin_admin2>Humanio>
+20/10/2024 13:27:16>Miany [268477700]>admin_char_manage>Humanio>
+20/10/2024 13:28:50>Miany [268477700]>admin_admin>Humanio>
+20/10/2024 13:28:51>Miany [268477700]>admin_create_item>Humanio>
+20/10/2024 13:29:17>Miany [268477700]>admin_create_item>Humanio> 9507
+20/10/2024 13:39:42>Miany [268477700]>admin_admin>Humanio>
+20/10/2024 13:39:43>Miany [268477700]>admin_create_item>Humanio>
+20/10/2024 13:40:00>Miany [268477700]>admin_create_item>Humanio> 9507
+20/10/2024 13:43:09>Miany [268477700]>admin_admin>Humanio>
+20/10/2024 13:43:10>Miany [268477700]>admin_create_item>Humanio>
+20/10/2024 13:43:13>Miany [268477700]>admin_create_item>Humanio> 9507
+20/10/2024 14:04:30>Miany [268477700]>admin_admin>Humanio>
+20/10/2024 14:04:32>Miany [268477700]>admin_create_item>Humanio>
+20/10/2024 14:04:39>Miany [268477700]>admin_create_item>Humanio> 9507
+20/10/2024 14:14:54>Miany [268477700]>admin_admin>Humanio>
+20/10/2024 14:14:55>Miany [268477700]>admin_create_item>Humanio>
+20/10/2024 14:15:00>Miany [268477700]>admin_create_item>Humanio> 9507
+20/10/2024 16:33:42>Miany [268477700]>admin_admin>no-target>
+20/10/2024 16:33:43>Miany [268477700]>admin_move_to>no-target>
+20/10/2024 16:33:44>Miany [268477700]>admin_help>no-target> tele/towns.htm
+20/10/2024 16:33:47>Miany [268477700]>admin_show_moves>no-target>
+20/10/2024 16:33:48>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:33:51>Miany [268477700]>admin_help>no-target> tele/others/ivorytower.htm
+20/10/2024 16:33:52>Miany [268477700]>admin_move_to>no-target> 85332 16186 -3673
+20/10/2024 16:34:10>Miany [268477700]>admin_admin>no-target>
+20/10/2024 16:34:11>Miany [268477700]>admin_superhaste>no-target> 4
+20/10/2024 16:34:26>Miany [268477700]>admin_delete>Michael>
+20/10/2024 16:35:23>Miany [268477700]>admin_delete>Michaelle>
+20/10/2024 16:35:28>Miany [268477700]>admin_admin>no-target>
+20/10/2024 16:35:29>Miany [268477700]>admin_move_to>no-target>
+20/10/2024 16:35:31>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:35:45>Miany [268477700]>admin_help>no-target> tele/others/ivorytower.htm
+20/10/2024 16:35:46>Miany [268477700]>admin_move_to>no-target> 85332 16186 -3673
+20/10/2024 16:37:32>Miany [268477700]>admin_admin>no-target>
+20/10/2024 16:37:33>Miany [268477700]>admin_spawn_monster>no-target>
+20/10/2024 16:38:31>Miany [268477700]>admin_spawn_monster>no-target> 84003
+20/10/2024 16:38:45>Miany [268477700]>admin_admin>no-target>
+20/10/2024 16:38:46>Miany [268477700]>admin_spawn_monster>no-target>
+20/10/2024 16:38:51>Miany [268477700]>admin_spawn_monster>no-target> 84003
+20/10/2024 16:38:58>Miany [268477700]>admin_edit_npc>Michael> 84003
+20/10/2024 16:39:04>Miany [268477700]>admin_delete>Michael>
+20/10/2024 16:39:26>Miany [268477700]>admin_delete>Michael>
+20/10/2024 16:40:52>Miany [268477700]>admin_admin>Cronos>
+20/10/2024 16:40:53>Miany [268477700]>admin_move_to>Cronos>
+20/10/2024 16:40:54>Miany [268477700]>admin_help>Cronos> tele/other.htm
+20/10/2024 16:41:01>Miany [268477700]>admin_help>Cronos> tele/others/ivorytower.htm
+20/10/2024 16:41:02>Miany [268477700]>admin_move_to>Cronos> 85332 16186 -3673
+20/10/2024 16:41:27>Miany [268477700]>admin_admin>no-target>
+20/10/2024 16:41:28>Miany [268477700]>admin_move_to>no-target>
+20/10/2024 16:41:29>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:41:30>Miany [268477700]>admin_help>no-target> tele/others/ivorytower.htm
+20/10/2024 16:41:31>Miany [268477700]>admin_move_to>no-target> 85332 16186 -3673
+20/10/2024 16:43:48>Miany [268477700]>admin_admin>no-target>
+20/10/2024 16:43:49>Miany [268477700]>admin_move_to>no-target>
+20/10/2024 16:43:51>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:43:56>Miany [268477700]>admin_show_moves>no-target>
+20/10/2024 16:43:57>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:44:02>Miany [268477700]>admin_help>no-target> tele/others/goddard.htm
+20/10/2024 16:44:06>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:44:13>Miany [268477700]>admin_help>no-target> tele/others/aden.htm
+20/10/2024 16:44:16>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:44:17>Miany [268477700]>admin_help>no-target> tele/others/goe.htm
+20/10/2024 16:44:19>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:44:20>Miany [268477700]>admin_help>no-target> tele/others/giran.htm
+20/10/2024 16:44:23>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:44:32>Miany [268477700]>admin_help>no-target> tele/others/rune.htm
+20/10/2024 16:44:37>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:44:38>Miany [268477700]>admin_show_moves>no-target>
+20/10/2024 16:44:39>Miany [268477700]>admin_help>no-target> tele/towns.htm
+20/10/2024 16:44:40>Miany [268477700]>admin_show_moves>no-target>
+20/10/2024 16:44:40>Miany [268477700]>admin_help>no-target> tele/castles.htm
+20/10/2024 16:44:41>Miany [268477700]>admin_show_moves>no-target>
+20/10/2024 16:44:42>Miany [268477700]>admin_help>no-target> tele/locations/c2.htm
+20/10/2024 16:44:46>Miany [268477700]>admin_show_moves>no-target>
+20/10/2024 16:44:47>Miany [268477700]>admin_help>no-target> tele/locations/c4.htm
+20/10/2024 16:44:51>Miany [268477700]>admin_help>no-target> tele/other.htm
+20/10/2024 16:44:53>Miany [268477700]>admin_show_moves>no-target>
+20/10/2024 16:44:54>Miany [268477700]>admin_help>no-target> tele/locations/interlude.htm
+20/10/2024 16:44:57>Miany [268477700]>admin_help>no-target> teleports.htm
+20/10/2024 16:44:58>Miany [268477700]>admin_help>no-target> tele/locations/c5.htm
+20/10/2024 16:45:05>Miany [268477700]>admin_move_to>no-target> 123743 -75032 -2902
+20/10/2024 16:45:50>Miany [268477700]>admin_admin>no-target>
+20/10/2024 16:45:52>Miany [268477700]>admin_invis_menu_main>no-target>
+20/10/2024 16:46:24>Miany [268477700]>admin_invul_menu_main>no-target>
+20/10/2024 16:46:24>Miany [268477700]>admin_invis_menu_main>no-target>
+20/10/2024 16:46:31>Miany [268477700]>admin_admin4>no-target>
+20/10/2024 16:59:15>Miany [268477700]>admin_admin>no-target>
+20/10/2024 16:59:25>Miany [268477700]>admin_spawn_monster>no-target>
+20/10/2024 16:59:28>Miany [268477700]>admin_spawn_monster>no-target> 84002
+20/10/2024 17:16:25>Miany [268477700]>admin_admin>no-target>
+20/10/2024 17:16:26>Miany [268477700]>admin_gmchat_menu>no-target>
+20/10/2024 17:16:27>Miany [268477700]>admin_spawn_monster>no-target>
+20/10/2024 17:16:34>Miany [268477700]>admin_spawn_monster>no-target> 84003
+20/10/2024 17:16:39>Miany [268477700]>admin_delete>Michael>
+20/10/2024 17:16:40>Miany [268477700]>admin_admin>no-target>
+20/10/2024 17:16:41>Miany [268477700]>admin_spawn_monster>no-target>
+20/10/2024 17:16:44>Miany [268477700]>admin_spawn_monster>no-target> 84005
+20/10/2024 17:17:07>Miany [268477700]>admin_admin>no-target>
+20/10/2024 17:17:09>Miany [268477700]>admin_spawn_monster>no-target>
+20/10/2024 17:17:20>Miany [268477700]>admin_spawn_monster>no-target> 84004
+20/10/2024 17:19:17>Miany [268477700]>admin_admin>Michaelle>
+20/10/2024 17:19:19>Miany [268477700]>admin_recall_npc>Michaelle>
+20/10/2024 17:31:08>Miany [268477700]>admin_admin>no-target>
+20/10/2024 17:31:10>Miany [268477700]>admin_move_to>no-target>
+20/10/2024 17:31:11>Miany [268477700]>admin_help>no-target> tele/locations/c5.htm
+20/10/2024 17:31:18>Miany [268477700]>admin_move_to>no-target> 123743 -75032 -2902
+20/10/2024 17:31:32>Miany [268477700]>admin_admin>no-target>
+20/10/2024 17:31:33>Miany [268477700]>admin_spawn_monster>no-target>
+20/10/2024 17:31:43>Miany [268477700]>admin_spawn_monster>no-target> 84003
+20/10/2024 17:50:59>Miany [268477700]>admin_admin>Michael>
+20/10/2024 17:51:04>Miany [268477700]>admin_admin4>Michael>
+20/10/2024 17:51:04>Miany [268477700]>admin_cache_htm_rebuild>Michael>
+20/10/2024 17:57:11>Miany [268477700]>admin_admin>>
+20/10/2024 17:57:12>Miany [268477700]>admin_res>>
+20/10/2024 17:57:15>Miany [268477700]>admin_admin>>
+20/10/2024 17:57:18>Miany [268477700]>admin_heal>>
+20/10/2024 17:57:19>Miany [268477700]>admin_admin>>
+20/10/2024 17:57:21>Miany [268477700]>admin_close>>
+20/10/2024 17:57:22>Miany [268477700]>admin_admin>>
+20/10/2024 17:57:25>Miany [268477700]>admin_res>>
+20/10/2024 18:00:14>Miany [268477700]>admin_admin>>
+20/10/2024 18:00:16>Miany [268477700]>admin_open>>
+20/10/2024 18:00:18>Miany [268477700]>admin_admin>>
+20/10/2024 18:00:20>Miany [268477700]>admin_close>>
+20/10/2024 18:00:57>Miany [268477700]>admin_admin>Adorador do Esplendor>
+20/10/2024 18:00:59>Miany [268477700]>admin_move_to>Adorador do Esplendor>
+20/10/2024 18:06:34>Miany [268477700]>admin_admin>Adorador do Esplendor>
+20/10/2024 18:06:36>Miany [268477700]>admin_move_to>Adorador do Esplendor>
+22/10/2024 20:24:03>Miany [268477700]>admin_admin>no-target>
+22/10/2024 20:24:04>Miany [268477700]>admin_move_to>no-target>
+22/10/2024 20:24:05>Miany [268477700]>admin_help>no-target> tele/towns.htm
+22/10/2024 20:24:06>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+22/10/2024 20:24:06>Miany [268477700]>admin_move_to>no-target> 82698 148638 -3473
+22/10/2024 21:06:01>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:06:02>Miany [268477700]>admin_move_to>no-target>
+22/10/2024 21:06:05>Miany [268477700]>admin_help>no-target> tele/other.htm
+22/10/2024 21:06:09>Miany [268477700]>admin_help>no-target> tele/others/goodies.htm
+22/10/2024 21:06:10>Miany [268477700]>admin_move_to>no-target> -11029 -185526 -10936
+22/10/2024 21:06:17>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:06:18>Miany [268477700]>admin_superhaste>no-target> 4
+22/10/2024 21:06:36>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:06:37>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:06:42>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:06:54>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:06:58>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 175
+22/10/2024 21:07:01>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:07:05>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:07:06>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:07:10>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:07:17>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:07:21>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:07:28>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 180
+22/10/2024 21:07:33>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:07:34>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:07:35>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:07:39>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:08:13>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+22/10/2024 21:08:15>Miany [268477700]>admin_invul_menu_main>Glio, Deus da Praga>
+22/10/2024 21:08:25>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+22/10/2024 21:08:26>Miany [268477700]>admin_spawn_monster>Glio, Deus da Praga>
+22/10/2024 21:08:30>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:08:34>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 185
+22/10/2024 21:08:38>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:08:40>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:08:42>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:08:45>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:08:58>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:08:59>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:09:03>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:09:06>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:09:09>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:09:13>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 190
+22/10/2024 21:09:16>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:09:20>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:09:21>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:09:25>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:10:39>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:12:59>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:13:00>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:13:02>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:25:01>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:25:05>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 75
+22/10/2024 21:25:08>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:25:11>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:25:12>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:25:15>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:25:21>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:25:24>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:25:32>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 65
+22/10/2024 21:25:39>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:25:40>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:25:41>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:25:44>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:25:55>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:26:02>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 55
+22/10/2024 21:26:15>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:26:16>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:26:17>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:26:21>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:26:29>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:26:33>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 50
+22/10/2024 21:26:35>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:26:36>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:26:37>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:26:41>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:26:45>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:26:48>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 45
+22/10/2024 21:26:51>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:26:52>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:26:53>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:26:56>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:27:01>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:27:02>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:27:07>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:27:10>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:27:14>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:27:17>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 0
+22/10/2024 21:27:22>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:27:23>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:27:25>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:27:28>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:27:31>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:27:34>Miany [268477700]>admin_list_spawns>no-target>
+22/10/2024 21:27:38>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:27:39>Miany [268477700]>admin_recall_char_menu>no-target>
+22/10/2024 21:27:40>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:27:45>Miany [268477700]>admin_recall_char_menu>no-target> 84001
+22/10/2024 21:27:49>Miany [268477700]>admin_admin2>no-target>
+22/10/2024 21:27:50>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:27:56>Miany [268477700]>admin_recall_npc>no-target>
+22/10/2024 21:28:21>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+22/10/2024 21:28:22>Miany [268477700]>admin_recall_npc>Glio, Deus da Praga>
+22/10/2024 21:28:36>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+22/10/2024 21:28:47>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:29:05>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:29:07>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:29:09>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:29:10>Miany [268477700]>admin_admin4>no-target>
+22/10/2024 21:29:11>Miany [268477700]>admin_reload>no-target>
+22/10/2024 21:29:12>Miany [268477700]>admin_reload>no-target> npc
+22/10/2024 21:29:15>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:29:16>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:29:18>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:29:27>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+22/10/2024 21:29:33>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:29:37>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 15
+22/10/2024 21:29:41>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 20
+22/10/2024 21:29:44>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:29:44>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:29:45>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:29:48>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:29:52>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:29:56>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 25
+22/10/2024 21:30:04>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:30:16>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:30:17>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:30:18>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:30:21>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:30:29>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:30:33>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 30
+22/10/2024 21:30:39>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:30:40>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:30:41>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:30:43>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:31:56>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:32:00>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 84
+22/10/2024 21:32:03>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:32:04>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:32:05>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:32:07>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:32:13>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:32:18>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionRadius 28
+22/10/2024 21:32:24>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:32:25>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:32:25>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:32:28>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:34:59>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:44:51>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:45:05>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 65
+22/10/2024 21:45:10>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:45:11>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:45:12>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:45:16>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:45:26>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:45:31>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:45:36>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:45:40>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 75
+22/10/2024 21:45:50>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+22/10/2024 21:45:52>Miany [268477700]>admin_spawn_monster>Glio, Deus da Praga>
+22/10/2024 21:45:55>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:45:56>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:45:57>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:45:59>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 21:53:59>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 21:54:05>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionRadius 35
+22/10/2024 21:54:07>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 74
+22/10/2024 21:54:10>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 21:54:11>Miany [268477700]>admin_admin>no-target>
+22/10/2024 21:54:12>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 21:54:15>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 22:17:49>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 22:17:53>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 150
+22/10/2024 22:18:00>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 22:18:02>Miany [268477700]>admin_admin>no-target>
+22/10/2024 22:18:03>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 22:18:06>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 22:19:44>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 22:22:35>Miany [268477700]>admin_admin>no-target>
+22/10/2024 22:22:37>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 22:22:42>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 22:24:03>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 22:24:07>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 74
+22/10/2024 22:24:09>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 22:24:10>Miany [268477700]>admin_admin>no-target>
+22/10/2024 22:24:11>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 22:24:15>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 22:25:24>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+22/10/2024 22:25:25>Miany [268477700]>admin_admin4>Glio, Deus da Praga>
+22/10/2024 22:25:26>Miany [268477700]>admin_reload>Glio, Deus da Praga>
+22/10/2024 22:25:27>Miany [268477700]>admin_reload>Glio, Deus da Praga> npc
+22/10/2024 22:25:30>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 22:25:31>Miany [268477700]>admin_admin>no-target>
+22/10/2024 22:25:32>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 22:25:34>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 22:26:21>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 22:26:25>Miany [268477700]>admin_admin>no-target>
+22/10/2024 22:26:26>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 22:26:29>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 22:28:17>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 22:37:25>Miany [268477700]>admin_admin>no-target>
+22/10/2024 22:37:27>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 22:37:29>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 22:38:01>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 22:38:05>Miany [268477700]>admin_admin>no-target>
+22/10/2024 22:38:06>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 22:38:09>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 22:47:20>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 22:47:20>Miany [268477700]>admin_admin>no-target>
+22/10/2024 22:47:21>Miany [268477700]>admin_admin4>no-target>
+22/10/2024 22:47:22>Miany [268477700]>admin_reload>no-target>
+22/10/2024 22:47:23>Miany [268477700]>admin_reload>no-target> npc
+22/10/2024 22:47:26>Miany [268477700]>admin_admin>no-target>
+22/10/2024 22:47:28>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 22:47:30>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 23:20:53>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 23:20:55>Miany [268477700]>admin_admin>no-target>
+22/10/2024 23:20:56>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 23:20:59>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 23:21:07>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 23:21:18>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 148
+22/10/2024 23:21:21>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 23:21:22>Miany [268477700]>admin_admin>no-target>
+22/10/2024 23:21:23>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 23:21:26>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 23:21:44>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 23:21:45>Miany [268477700]>admin_admin>no-target>
+22/10/2024 23:21:46>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 23:21:50>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 23:25:28>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 23:25:32>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 74
+22/10/2024 23:25:35>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 23:25:36>Miany [268477700]>admin_admin>no-target>
+22/10/2024 23:25:37>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 23:25:40>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 23:26:35>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 23:26:39>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 148
+22/10/2024 23:26:42>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 23:26:43>Miany [268477700]>admin_admin>no-target>
+22/10/2024 23:26:46>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 23:26:49>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 23:28:39>Miany [268477700]>admin_edit_npc>Glio, Deus da Praga> 84001
+22/10/2024 23:28:42>Miany [268477700]>admin_save_npc>Glio, Deus da Praga> 84001 collisionHeight 74
+22/10/2024 23:28:44>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 23:28:46>Miany [268477700]>admin_admin>no-target>
+22/10/2024 23:28:47>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 23:28:50>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 23:29:26>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+22/10/2024 23:30:30>Miany [268477700]>admin_admin>no-target>
+22/10/2024 23:31:04>Miany [268477700]>admin_admin>no-target>
+22/10/2024 23:31:05>Miany [268477700]>admin_spawn_monster>no-target>
+22/10/2024 23:31:09>Miany [268477700]>admin_spawn_once>no-target> 84001
+22/10/2024 23:31:28>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+23/10/2024 19:07:50>Miany [268477700]>admin_admin>no-target>
+23/10/2024 19:07:52>Miany [268477700]>admin_move_to>no-target>
+23/10/2024 19:08:18>Miany [268477700]>admin_move_to>no-target> 92272 3914 -2816
+23/10/2024 19:08:33>Miany [268477700]>admin_admin>no-target>
+23/10/2024 19:08:38>Miany [268477700]>admin_move_to>no-target>
+23/10/2024 19:08:39>Miany [268477700]>admin_tele>no-target>
+23/10/2024 19:08:41>Miany [268477700]>admin_teleto>no-target> r
+23/10/2024 19:09:01>Miany [268477700]>admin_admin>no-target>
+23/10/2024 19:09:03>Miany [268477700]>admin_move_to>no-target>
+23/10/2024 19:09:05>Miany [268477700]>admin_tele>no-target>
+23/10/2024 19:09:06>Miany [268477700]>admin_teleto>no-target> end
+23/10/2024 19:09:35>Miany [268477700]>admin_admin>no-target>
+23/10/2024 19:09:36>Miany [268477700]>admin_superhaste>no-target> 4
+23/10/2024 19:09:52>Miany [268477700]>admin_admin>no-target>
+23/10/2024 19:09:54>Miany [268477700]>admin_move_to>no-target>
+23/10/2024 19:10:10>Miany [268477700]>admin_move_to>no-target> 92272 3914 -3000
+23/10/2024 19:10:18>Miany [268477700]>admin_delete>Fantasma de Maria>
+23/10/2024 19:10:27>Miany [268477700]>admin_admin>no-target>
+23/10/2024 19:10:29>Miany [268477700]>admin_move_to>no-target>
+23/10/2024 19:10:30>Miany [268477700]>admin_help>no-target> tele/other.htm
+23/10/2024 19:10:36>Miany [268477700]>admin_show_moves>no-target>
+23/10/2024 19:10:37>Miany [268477700]>admin_help>no-target> tele/locations/c5.htm
+23/10/2024 19:10:40>Miany [268477700]>admin_move_to>no-target> 123743 -75032 -2902
+23/10/2024 19:13:21>Miany [268477700]>admin_admin>no-target>
+23/10/2024 19:13:26>Miany [268477700]>admin_admin4>no-target>
+23/10/2024 19:13:27>Miany [268477700]>admin_admin2>no-target>
+23/10/2024 19:13:28>Miany [268477700]>admin_admin>no-target>
+23/10/2024 19:13:29>Miany [268477700]>admin_move_to>no-target>
+23/10/2024 19:13:30>Miany [268477700]>admin_help>no-target> tele/locations/c5.htm
+23/10/2024 19:21:03>Miany [268477700]>admin_admin>Michael>
+26/10/2024 13:59:32>Miany [268477700]>admin_admin>Michael>
+26/10/2024 13:59:32>Miany [268477700]>admin_move_to>Michael>
+26/10/2024 13:59:33>Miany [268477700]>admin_help>Michael> tele/towns.htm
+26/10/2024 13:59:34>Miany [268477700]>admin_help>Michael> tele/towns/giran.htm
+26/10/2024 13:59:35>Miany [268477700]>admin_move_to>Michael> 82698 148638 -3473
+26/10/2024 13:59:43>Miany [268477700]>admin_admin>no-target>
+26/10/2024 13:59:44>Miany [268477700]>admin_superhaste>no-target> 4
+26/10/2024 13:59:52>Miany [268477700]>admin_admin>Keira>
+26/10/2024 13:59:53>Miany [268477700]>admin_superhaste>Keira> 4
+26/10/2024 13:59:59>Miany [268477700]>admin_admin>Keira>
+26/10/2024 14:00:00>Miany [268477700]>admin_move_to>Keira>
+26/10/2024 14:00:01>Miany [268477700]>admin_help>Keira> tele/towns.htm
+26/10/2024 14:00:02>Miany [268477700]>admin_help>Keira> tele/towns/giran.htm
+26/10/2024 14:00:05>Miany [268477700]>admin_move_to>Keira> 80385 147867 -3512
+26/10/2024 14:02:52>Miany [268477700]>admin_admin>no-target>
+26/10/2024 14:02:53>Miany [268477700]>admin_move_to>no-target>
+26/10/2024 14:02:54>Miany [268477700]>admin_help>no-target> tele/towns.htm
+26/10/2024 14:02:55>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+26/10/2024 14:02:57>Miany [268477700]>admin_move_to>no-target> 80385 147867 -3512
+29/10/2024 20:08:11>Miany [268477700]>admin_admin>no-target>
+29/10/2024 20:10:59>Miany [268477700]>admin_polymorph 12077>no-target>
+29/10/2024 20:11:15>Miany [268477700]>admin_polymorph 12077>Miany>
+29/10/2024 20:13:28>Miany [268477700]>admin_polymorph 12077>Jake>
+29/10/2024 20:16:58>Miany [268477700]>admin_polymorph 12077>Miany>
+29/10/2024 20:22:34>Miany [268477700]>admin_admin>Miany>
+29/10/2024 20:22:36>Miany [268477700]>admin_move_to>Miany>
+29/10/2024 20:22:38>Miany [268477700]>admin_admin>Miany>
+29/10/2024 20:22:39>Miany [268477700]>admin_admin2>Miany>
+29/10/2024 20:22:40>Miany [268477700]>admin_show_characters>Miany> 0
+29/10/2024 20:22:41>Miany [268477700]>admin_character_info>Miany> Humanio
+29/10/2024 20:22:43>Miany [268477700]>admin_goto_char_menu>Humanio> Humanio
+29/10/2024 20:23:00>Miany [268477700]>admin_admin>no-target>
+29/10/2024 20:23:02>Miany [268477700]>admin_invul_menu_main>no-target>
+29/10/2024 20:23:05>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 20:25:56>Miany [268477700]>admin_polymorph 12077>no-target>
+29/10/2024 20:26:05>Miany [268477700]>admin_polymorph 12077>Miany>
+29/10/2024 20:26:13>Miany [268477700]>admin_admin>no-target>
+29/10/2024 20:26:14>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 20:29:15>Miany [268477700]>admin_admin>no-target>
+29/10/2024 20:29:29>Miany [268477700]>admin_polymorph 12077>no-target>
+29/10/2024 20:29:30>Miany [268477700]>admin_admin>no-target>
+29/10/2024 20:29:31>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 20:29:33>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 20:29:42>Miany [268477700]>admin_polymorph 12077>Miany>
+29/10/2024 20:29:45>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 20:29:48>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 20:31:33>Miany [268477700]>admin_polymorph 12077>Miany>
+29/10/2024 20:31:34>Miany [268477700]>admin_admin>no-target>
+29/10/2024 20:31:35>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 20:59:27>Miany [268477700]>admin_polymorph 12077>Miany>
+29/10/2024 20:59:29>Miany [268477700]>admin_admin>no-target>
+29/10/2024 20:59:29>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 21:16:03>Miany [268477700]>admin_admin>no-target>
+29/10/2024 21:16:13>Miany [268477700]>admin_polymorph 12077>no-target>
+29/10/2024 21:16:16>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 21:24:35>Miany [268477700]>admin_admin>no-target>
+29/10/2024 21:24:36>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 21:24:38>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 21:29:23>Miany [268477700]>admin_polymorph 12077>Miany>
+29/10/2024 21:32:12>Miany [268477700]>admin_polymorph 12077>no-target>
+29/10/2024 22:12:54>Miany [268477700]>admin_admin>no-target>
+29/10/2024 22:13:20>Miany [268477700]>admin_polymorph 12077>no-target>
+29/10/2024 22:13:57>Miany [268477700]>admin_admin>no-target>
+29/10/2024 22:13:59>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 22:21:44>Miany [268477700]>admin_admin>no-target>
+29/10/2024 22:21:53>Miany [268477700]>admin_polymorph 12077>no-target>
+29/10/2024 22:21:58>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 22:21:59>Miany [268477700]>admin_invis_menu_main>no-target>
+29/10/2024 22:29:37>Miany [268477700]>admin_admin>Humanio>
+29/10/2024 22:29:57>Miany [268477700]>admin_polymorph 12077>Humanio>
+29/10/2024 22:30:18>Miany [268477700]>admin_admin>Humanio>
+29/10/2024 22:30:20>Miany [268477700]>admin_admin2>Humanio>
+29/10/2024 22:30:20>Miany [268477700]>admin_show_characters>Humanio> 0
+29/10/2024 22:30:21>Miany [268477700]>admin_character_info>Humanio> Humanio
+29/10/2024 22:30:23>Miany [268477700]>admin_recall_char_menu>Humanio> Humanio
+29/10/2024 22:30:43>Miany [268477700]>admin_admin>no-target>
+29/10/2024 22:30:44>Miany [268477700]>admin_move_to>no-target>
+29/10/2024 22:30:45>Miany [268477700]>admin_admin>no-target>
+29/10/2024 22:30:46>Miany [268477700]>admin_admin2>no-target>
+29/10/2024 22:30:47>Miany [268477700]>admin_show_characters>no-target> 0
+29/10/2024 22:30:49>Miany [268477700]>admin_character_info>no-target> Humanio
+29/10/2024 22:30:50>Miany [268477700]>admin_recall_char_menu>Humanio> Humanio
+29/10/2024 22:30:52>Miany [268477700]>admin_admin2>no-target>
+29/10/2024 22:31:36>Miany [268477700]>admin_admin>Humanio>
+29/10/2024 22:31:47>Miany [268477700]>admin_recall_char_menu>Humanio>
+29/10/2024 22:31:51>Miany [268477700]>admin_admin>Humanio>
+29/10/2024 22:31:53>Miany [268477700]>admin_admin2>Humanio>
+29/10/2024 22:31:54>Miany [268477700]>admin_show_characters>Humanio> 0
+29/10/2024 22:31:55>Miany [268477700]>admin_character_info>Humanio> Humanio
+29/10/2024 22:31:57>Miany [268477700]>admin_recall_char_menu>Humanio> Humanio
+29/10/2024 22:31:59>Miany [268477700]>admin_admin2>no-target>
+29/10/2024 22:32:22>Miany [268477700]>admin_polymorph 12077>no-target>
+29/10/2024 22:32:35>Miany [268477700]>admin_admin>no-target>
+29/10/2024 22:32:36>Miany [268477700]>admin_move_to>no-target>
+29/10/2024 22:32:37>Miany [268477700]>admin_admin>no-target>
+29/10/2024 22:32:38>Miany [268477700]>admin_admin2>no-target>
+29/10/2024 22:32:39>Miany [268477700]>admin_show_characters>no-target> 0
+29/10/2024 22:32:40>Miany [268477700]>admin_character_info>no-target> Humanio
+29/10/2024 22:32:41>Miany [268477700]>admin_goto_char_menu>Humanio> Humanio
+30/10/2024 19:02:23>Miany [268477700]>admin_admin>no-target>
+30/10/2024 19:02:25>Miany [268477700]>admin_polymorph 12077>no-target>
+30/10/2024 19:02:29>Miany [268477700]>admin_invis_menu_main>no-target>
+30/10/2024 19:02:58>Miany [268477700]>admin_admin>no-target>
+30/10/2024 19:03:00>Miany [268477700]>admin_invis_menu_main>no-target>
+30/10/2024 19:03:53>Miany [268477700]>admin_polymorph 12077>Humanio>
+30/10/2024 19:04:12>Miany [268477700]>admin_admin>Humanio>
+30/10/2024 19:04:13>Miany [268477700]>admin_move_to>Humanio>
+30/10/2024 19:04:15>Miany [268477700]>admin_admin>Humanio>
+30/10/2024 19:04:15>Miany [268477700]>admin_admin2>Humanio>
+30/10/2024 19:04:16>Miany [268477700]>admin_show_characters>Humanio> 0
+30/10/2024 19:04:17>Miany [268477700]>admin_character_info>Humanio> Humanio
+30/10/2024 19:04:18>Miany [268477700]>admin_recall_char_menu>Humanio> Humanio
+30/10/2024 19:17:11>Miany [268477700]>admin_polymorph 12077>no-target>
+30/10/2024 19:17:16>Miany [268477700]>admin_admin>no-target>
+30/10/2024 19:17:18>Miany [268477700]>admin_invis_menu_main>no-target>
+30/10/2024 19:17:48>Miany [268477700]>admin_polymorph 12077>Humanio>
+30/10/2024 19:25:25>Miany [268477700]>admin_polymorph 12077>Miany>
+30/10/2024 19:25:29>Miany [268477700]>admin_admin>no-target>
+30/10/2024 19:25:31>Miany [268477700]>admin_invis_menu_main>no-target>
+30/10/2024 20:26:24>Miany [268477700]>admin_admin>Miss Queen>
+30/10/2024 20:26:27>Miany [268477700]>admin_move_to>Miss Queen>
+30/10/2024 20:26:28>Miany [268477700]>admin_tele>Miss Queen>
+30/10/2024 20:26:29>Miany [268477700]>admin_teleto>Miss Queen> r
+30/10/2024 20:40:03>Miany [268477700]>admin_admin>Jake>
+30/10/2024 20:46:16>Miany [268477700]>admin_admin>Jake>
+30/10/2024 20:46:17>Miany [268477700]>admin_move_to>Jake>
+30/10/2024 20:46:18>Miany [268477700]>admin_tele>Jake>
+30/10/2024 20:46:19>Miany [268477700]>admin_teleto>Jake> end
+30/10/2024 21:51:59>Miany [268477700]>admin_admin>Jake>
+30/10/2024 21:52:00>Miany [268477700]>admin_admin4>Jake>
+30/10/2024 21:52:02>Miany [268477700]>admin_reload>Jake>
+30/10/2024 21:52:03>Miany [268477700]>admin_reload>Jake> npc
+30/10/2024 21:52:04>Miany [268477700]>admin_admin>Jake>
+30/10/2024 21:52:05>Miany [268477700]>admin_move_to>Jake>
+30/10/2024 21:52:08>Miany [268477700]>admin_help>Jake> tele/locations/c5.htm
+30/10/2024 21:52:14>Miany [268477700]>admin_show_moves>Jake>
+30/10/2024 21:52:15>Miany [268477700]>admin_help>Jake> tele/locations/c4.htm
+30/10/2024 21:52:21>Miany [268477700]>admin_help>Jake> tele/other.htm
+30/10/2024 21:52:23>Miany [268477700]>admin_show_moves>Jake>
+30/10/2024 21:52:25>Miany [268477700]>admin_help>Jake> tele/locations/c2.htm
+30/10/2024 21:52:29>Miany [268477700]>admin_show_moves>Jake>
+30/10/2024 21:52:30>Miany [268477700]>admin_help>Jake> tele/other.htm
+30/10/2024 21:52:38>Miany [268477700]>admin_show_moves>Jake>
+30/10/2024 21:52:41>Miany [268477700]>admin_help>Jake> tele/locations/interlude.htm
+30/10/2024 21:52:42>Miany [268477700]>admin_help>Jake> teleports.htm
+30/10/2024 21:52:43>Miany [268477700]>admin_help>Jake> tele/locations/c5.htm
+30/10/2024 21:52:50>Miany [268477700]>admin_move_to>Jake> 123743 -75032 -2902
+30/10/2024 21:53:00>Miany [268477700]>admin_admin>no-target>
+30/10/2024 21:53:01>Miany [268477700]>admin_superhaste>no-target> 4
+30/10/2024 21:56:08>Miany [268477700]>admin_admin>no-target>
+30/10/2024 21:56:10>Miany [268477700]>admin_invul_menu_main>no-target>
+30/10/2024 21:56:16>Miany [268477700]>admin_invis_menu_main>Buscador Silencioso>
+30/10/2024 21:56:46>Miany [268477700]>admin_admin>no-target>
+30/10/2024 21:56:46>Miany [268477700]>admin_admin>no-target>
+30/10/2024 21:57:29>Miany [268477700]>admin_admin>Buscador Silencioso>
+30/10/2024 21:57:30>Miany [268477700]>admin_invis_menu_main>Buscador Silencioso>
+30/10/2024 21:57:32>Miany [268477700]>admin_invis_menu_main>Buscador Silencioso>
+30/10/2024 21:58:01>Miany [268477700]>admin_invis_menu_main>Buscador Silencioso>
+30/10/2024 21:58:03>Miany [268477700]>admin_invis_menu_main>Buscador Silencioso>
+30/10/2024 21:58:43>Miany [268477700]>admin_admin>Buscador Silencioso>
+30/10/2024 21:58:44>Miany [268477700]>admin_move_to>Buscador Silencioso>
+30/10/2024 21:58:46>Miany [268477700]>admin_help>Buscador Silencioso> tele/other.htm
+30/10/2024 21:58:48>Miany [268477700]>admin_help>Buscador Silencioso> tele/others/goodies.htm
+30/10/2024 21:58:49>Miany [268477700]>admin_move_to>Buscador Silencioso> -11029 -185526 -10936
+30/10/2024 21:59:11>Miany [268477700]>admin_admin>no-target>
+30/10/2024 21:59:12>Miany [268477700]>admin_spawn_monster>no-target>
+30/10/2024 21:59:18>Miany [268477700]>admin_spawn_monster>no-target> 84007
+30/10/2024 22:06:57>Miany [268477700]>admin_admin>Irmão Solina Leigo>
+30/10/2024 22:06:59>Miany [268477700]>admin_invul_menu_main>Irmão Solina Leigo>
+30/10/2024 22:07:09>Miany [268477700]>admin_admin>Fantasma de Maria>
+30/10/2024 22:07:12>Miany [268477700]>admin_invis_menu_main>Fantasma de Maria>
+30/10/2024 22:08:24>Miany [268477700]>admin_admin>Fantasma de Maria>
+30/10/2024 22:08:25>Miany [268477700]>admin_admin4>Fantasma de Maria>
+30/10/2024 22:08:27>Miany [268477700]>admin_cache_htm_rebuild>Fantasma de Maria>
+30/10/2024 22:08:48>Miany [268477700]>admin_admin>Fantasma de Maria>
+30/10/2024 22:08:50>Miany [268477700]>admin_admin4>Fantasma de Maria>
+30/10/2024 22:08:50>Miany [268477700]>admin_reload>Fantasma de Maria>
+30/10/2024 22:08:52>Miany [268477700]>admin_reload>Fantasma de Maria> htm
+30/10/2024 22:09:11>Miany [268477700]>admin_admin>Fantasma de Maria>
+30/10/2024 22:09:16>Miany [268477700]>admin_admin4>Fantasma de Maria>
+30/10/2024 22:09:18>Miany [268477700]>admin_admin>Fantasma de Maria>
+30/10/2024 22:09:19>Miany [268477700]>admin_move_to>Fantasma de Maria>
+30/10/2024 22:09:22>Miany [268477700]>admin_help>Fantasma de Maria> tele/other.htm
+30/10/2024 22:09:23>Miany [268477700]>admin_help>Fantasma de Maria> tele/others/goodies.htm
+30/10/2024 22:09:24>Miany [268477700]>admin_move_to>Fantasma de Maria> -11029 -185526 -10936
+02/11/2024 2:59:41>Miany [268477700]>admin_admin>no-target>
+02/11/2024 2:59:42>Miany [268477700]>admin_superhaste>no-target> 4
+02/11/2024 3:00:01>Miany [268477700]>admin_admin>no-target>
+02/11/2024 3:00:03>Miany [268477700]>admin_spawn_monster>no-target>
+02/11/2024 3:00:06>Miany [268477700]>admin_spawn_once>no-target> 84001
+02/11/2024 3:00:29>Miany [268477700]>admin_admin>Glio, Deus da Praga>
+02/11/2024 3:00:32>Miany [268477700]>admin_delete>Glio, Deus da Praga>
+02/11/2024 3:01:18>Miany [268477700]>admin_admin>no-target>
+02/11/2024 3:01:20>Miany [268477700]>admin_admin4>no-target>
+02/11/2024 3:01:21>Miany [268477700]>admin_reload>no-target>
+02/11/2024 3:01:22>Miany [268477700]>admin_reload>no-target> npc
+02/11/2024 3:01:25>Miany [268477700]>admin_admin>no-target>
+02/11/2024 3:01:28>Miany [268477700]>admin_spawn_monster>no-target>
+02/11/2024 3:01:31>Miany [268477700]>admin_spawn_once>no-target> 84001
+08/12/2024 3:11:33>Miany [268477700]>admin_admin>no-target>
+08/12/2024 3:11:34>Miany [268477700]>admin_move_to>no-target>
+08/12/2024 3:11:35>Miany [268477700]>admin_help>no-target> tele/towns.htm
+08/12/2024 3:11:37>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+08/12/2024 3:11:38>Miany [268477700]>admin_move_to>no-target> 82698 148638 -3473
+08/12/2024 3:11:51>Miany [268477700]>admin_admin>no-target>
+08/12/2024 3:11:53>Miany [268477700]>admin_admin4>no-target>
+08/12/2024 3:11:55>Miany [268477700]>admin_admin3>no-target>
+08/12/2024 3:11:56>Miany [268477700]>admin_admin2>no-target>
+08/12/2024 3:11:58>Miany [268477700]>admin_admin>no-target>
+08/12/2024 3:11:59>Miany [268477700]>admin_gmshop>no-target>
+08/12/2024 3:12:13>Miany [268477700]>admin_buy>no-target> 1006
+08/12/2024 3:12:20>Miany [268477700]>admin_admin>no-target>
+08/12/2024 3:12:21>Miany [268477700]>admin_gmshop>no-target>
+08/12/2024 3:12:22>Miany [268477700]>admin_buy>no-target> 1011
+08/12/2024 3:36:50>Miany [268477700]>admin_admin>no-target>
+08/12/2024 3:36:52>Miany [268477700]>admin_create_item>no-target>
+08/12/2024 3:36:56>Miany [268477700]>admin_create_item>no-target> 9311 1
+08/12/2024 3:37:52>Miany [268477700]>admin_admin>Miany>
+08/12/2024 3:37:53>Miany [268477700]>admin_create_item>Miany>
+08/12/2024 3:37:58>Miany [268477700]>admin_create_item>Miany> 9321 1
+08/12/2024 3:40:04>Miany [268477700]>admin_admin>no-target>
+08/12/2024 3:41:53>Miany [268477700]>admin_admin>Donzela da Caverna>
+08/12/2024 3:41:54>Miany [268477700]>admin_move_to>no-target>
+08/12/2024 3:41:55>Miany [268477700]>admin_help>no-target> tele/towns.htm
+08/12/2024 3:41:55>Miany [268477700]>admin_help>no-target> tele/towns/giran.htm
+08/12/2024 3:41:57>Miany [268477700]>admin_move_to>no-target> 82698 148638 -3473

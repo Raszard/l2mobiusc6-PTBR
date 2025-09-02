@@ -1,0 +1,952 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5500" type="EtcItem" name="Forro de Botas de Chamas Vermelhas Seladas">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas de Chamas Vermelhas Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5501" type="EtcItem" name="Forro de Botas da Fênix Selado">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas da Fênix Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5502" type="EtcItem" name="Forro de Botas do Pesadelo Seladas">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas do Pesadelo Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11842" />
+	</item>
+	<item id="5503" type="EtcItem" name="Forro de Botas Majestosas Selado">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas Majestosas Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11842" />
+	</item>
+	<item id="5504" type="EtcItem" name="Forro de Botas Legião das Trevas Seladas">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas Legião das Trevas Seladas Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5505" type="EtcItem" name="Forro de Botas Fantasma Seladas">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas Fantasma Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5506" type="EtcItem" name="Forro de Botas Cerberus Selado">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas Cerberus Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5507" type="EtcItem" name="Forro de Botas de Dasparion Selado">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas Seladas de Dasparion. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5508" type="EtcItem" name="Projeto de Luvas de Cristal Escuro Selado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Luvas de Cristal Negro Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8530" />
+	</item>
+	<item id="5509" type="EtcItem" name="Projeto de Luvas de Tallum Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Luvas de Tallum Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8530" />
+	</item>
+	<item id="5510" type="EtcItem" name="Projeto de Luvas do Submundo Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Luvas do Submundo Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5511" type="EtcItem" name="Projeto de Braçadeira do Vento Selada">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Braçadeira do Vento Selada. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5512" type="EtcItem" name="Projeto de Luvas de Minério Negro Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Luvas de Minério Negro Seladas. Pode ser vendido em uma loja normal." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5513" type="EtcItem" name="Projeto de Luvas da Fênix Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Luvas da Fênix Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5514" type="EtcItem" name="Projeto de Manoplas do Pesadelo Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Manoplas do Pesadelo Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11842" />
+	</item>
+	<item id="5515" type="EtcItem" name="Projeto de Manoplas Majestosas Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Manoplas Majestosas Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11842" />
+	</item>
+	<item id="5516" type="EtcItem" name="Projeto de Luvas Legião das Trevas Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Luvas Legião das Trevas Seladas . Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5517" type="EtcItem" name="Projeto de Luvas Fantasma Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Luvas Fantasma Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5518" type="EtcItem" name="Projeto de Luvas Cerberus Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Luvas Cerberus Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5519" type="EtcItem" name="Projeto de Luvas de Dasparion Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Luvas Seladas de Dasparion. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5520" type="EtcItem" name="Padrão de Peitoral de Cristal Escuro Selado">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Peitoral de Cristal Escuro Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="31015" />
+	</item>
+	<item id="5521" type="EtcItem" name="Padrão de Armadura de Placas de Tallum Selado">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Armadura Tallum de Placas Selada. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="43953" />
+	</item>
+	<item id="5522" type="EtcItem" name="Padrão de Armadura de Pesadelo Selada">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Armadura do Pesadelo Selada. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="58728" />
+	</item>
+	<item id="5523" type="EtcItem" name="Padrão de Armadura Majestosa de Placas Selada">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Armadura Majestosa de Placas Selada. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="58728" />
+	</item>
+	<item id="5524" type="EtcItem" name="Padrão de Botas de Cristal Escuro Selado">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas de cristal escuro selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20292" />
+	</item>
+	<item id="5525" type="EtcItem" name="Projeto de Capacete de Cristal Escuro Selado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Capacete de Cristal Escuro Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12938" />
+	</item>
+	<item id="5526" type="EtcItem" name="Projeto de Elmo de Tallum Selado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Elmo de Tallum Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12938" />
+	</item>
+	<item id="5527" type="EtcItem" name="Desenho de Elmo do Pesadelo Selado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um anão fazer um Elmo do Pesadelo Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="16728" />
+	</item>
+	<item id="5528" type="EtcItem" name="Projeto de Diadema Majestoso Selado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Diadema Majestoso Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="16728" />
+	</item>
+	<item id="5529" type="EtcItem" name="Gume do Matador de Dragões">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Destruidor de Dragões. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72900" />
+	</item>
+	<item id="5530" type="EtcItem" name="Fio da Lâmina Berserker">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Lâmina Berserker. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="43600" />
+	</item>
+	<item id="5531" type="EtcItem" name="Gume da Espada Pesada">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Espada Pesada. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11912" />
+	</item>
+	<item id="5532" type="EtcItem" name="Cabeça do Chuva de Meteoro">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Chuva de Meteoros. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="59308" />
+	</item>
+	<item id="5533" type="EtcItem" name="Cabeça da Elísia">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Elísio. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72914" />
+	</item>
+	<item id="5534" type="EtcItem" name="Cajado do Arco da Alma">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Arco da Alma. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72850" />
+	</item>
+	<item id="5535" type="EtcItem" name="Cajado do Arco da Carnificina">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Arco da Carnificina. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="58615" />
+	</item>
+	<item id="5536" type="EtcItem" name="Cabeça da Orquídea Sangrenta">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Orquídea Sangrenta. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="58785" />
+	</item>
+	<item id="5537" type="EtcItem" name="Cabeça da Separadora de Almas">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Separador de Almas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72900" />
+	</item>
+	<item id="5538" type="EtcItem" name="Gume do Moedor de Dragão">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Moedor de Dragão. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72914" />
+	</item>
+	<item id="5539" type="EtcItem" name="Gume do Tornado de Sangue">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Tornado de Sangue. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="59308" />
+	</item>
+	<item id="5540" type="EtcItem" name="Fio de Alabarda Orc">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Alabarda Orc. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="62500" />
+	</item>
+	<item id="5541" type="EtcItem" name="Gume do Gládio de Tallum">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Gládio de Tallum. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72929" />
+	</item>
+	<item id="5542" type="EtcItem" name="Alabarda">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Alabarda. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="59308" />
+	</item>
+	<item id="5543" type="EtcItem" name="Gume do Cajado de Dasparion">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Bastão de Dasparion. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="58754" />
+	</item>
+	<item id="5544" type="EtcItem" name="Ramo da Cabeça da Árvore Mãe">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Ramo da Árvore Mãe. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72986" />
+	</item>
+	<item id="5545" type="EtcItem" name="Lâmina Afiada Legião das Trevas">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão para fazer um Dark Legion's Edge. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72900" />
+	</item>
+	<item id="5546" type="EtcItem" name="Espada dos Milagres Edge">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Espada dos Milagres. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="66369" />
+	</item>
+	<item id="5547" type="EtcItem" name="Fio da Espada Elemental">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Espada Elemental. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="58785" />
+	</item>
+	<item id="5548" type="EtcItem" name="Tallum Blade Edge">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Tallum Blade. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="58785" />
+	</item>
+	<item id="5549" type="EtcItem" name="Fio Metálico">
+		
+		<set name="icon" val="icon.etc_skein_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Material usado por um Anão para fazer um item. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="5550" type="EtcItem" name="Placas de Metal Durável">
+		
+		<set name="icon" val="icon.etc_squares_wood_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Material usado por um Anão para fazer um item. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15000" />
+	</item>
+	<item id="5551" type="EtcItem" name="Molde de Leolin">
+		
+		<set name="icon" val="icon.etc_blacksmiths_frame_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Material usado por um Anão para fazer um item. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="238000" />
+	</item>
+	<item id="5552" type="EtcItem" name="Molde de Ferreiro de Guerra">
+		
+		<set name="icon" val="icon.etc_blacksmiths_frame_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Material usado por um Anão para fazer um item. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="385000" />
+	</item>
+	<item id="5553" type="EtcItem" name="Bigorna do Arqueiro">
+		
+		<set name="icon" val="icon.etc_blacksmiths_frame_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Material usado por um Anão para fazer um item. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="531200" />
+	</item>
+	<item id="5554" type="EtcItem" name="Suporte do Ferreiro de Guerra">
+		
+		<set name="icon" val="icon.etc_blacksmiths_frame_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Material usado por um Anão para fazer um item. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="884000" />
+	</item>
+	<item id="5555" type="EtcItem" name="Símbolo do Amor">
+		
+		<set name="icon" val="icon.etc_x_mas_2004_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Peça comemorativa do Natal de 2004." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5556" type="EtcItem" name="Enfeite de Estrela">
+		
+		<set name="icon" val="icon.etc_deco_star_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para fazer uma árvore de Natal. Leve-o a um estagiário do Papai Noel e ele criará uma árvore de Natal para você." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="5557" type="EtcItem" name="Enfeite de Miçangas">
+		
+		<set name="icon" val="icon.etc_deco_bead_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente de uma Árvore de Natal. Leve-o a um estagiário do Papai Noel, junto com os outros ingredientes necessários, e ele criará uma Árvore de Natal para você." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="5558" type="EtcItem" name="Galho de Abeto">
+		
+		<set name="icon" val="icon.etc_fir_spring_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente de uma Árvore de Natal. Leve-o a um estagiário do Papai Noel, junto com os outros ingredientes necessários, e ele criará uma Árvore de Natal para você." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="5559" type="EtcItem" name="Vaso de Flores">
+		
+		<set name="icon" val="icon.etc_flowerpot_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente de uma Árvore de Natal. Leve-o a um estagiário do Papai Noel, junto com os outros ingredientes necessários, e ele criará uma Árvore de Natal para você." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="5560" type="EtcItem" name="Árvore de Natal">
+		
+		<set name="icon" val="icon.etc_x_mas_tree_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Summons a Árvore de Natal." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="5561" type="EtcItem" name="Árvore de Natal Especial">
+		
+		<set name="icon" val="icon.etc_x_mas_tree_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Summons a Christmas tree that will increase HP e MP regeneration.  This effect is only produced if the Árvore de Natal Especial is summoned outside of a village." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="5562" type="EtcItem" name="Cristal de Eco - 1a Carol">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a 1a canção. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5563" type="EtcItem" name="Cristal de Eco - 2a Carol">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a 2a canção. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5564" type="EtcItem" name="Cristal de Eco - 3a Carol">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a 3a canção. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5565" type="EtcItem" name="Cristal de Eco - 4a Carol">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a 4a canção. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5566" type="EtcItem" name="Cristal de Eco - 5a Carol">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a 5a canção. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5567" type="EtcItem" name="Carta de Saudações">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta de Sla aos seus discípulos. Entregue-o a Nyakuri na Dwarven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5568" type="EtcItem" name="Carta de Saudações">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta de Sla aos seus discípulos. Entregue-o a Ramus na Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5569" type="EtcItem" name="Runa da Água">
+		
+		<set name="icon" val="icon.etc_water_rune_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um fragmento de pedra de selo coletado pelos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5570" type="EtcItem" name="Mantra da Água">
+		
+		<set name="icon" val="icon.etc_water_mantra_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um fragmento de pedra de selo coletado pelos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5571" type="EtcItem" name="Runa do Vento">
+		
+		<set name="icon" val="icon.etc_wind_rune_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um fragmento de pedra de selo coletado pelos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5572" type="EtcItem" name="Mantra do Vento">
+		
+		<set name="icon" val="icon.etc_wind_mantra_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um fragmento de pedra de selo coletado pelos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5573" type="EtcItem" name="Runa do Fogo">
+		
+		<set name="icon" val="icon.etc_fire_rune_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um fragmento de pedra de selo coletado pelos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5574" type="EtcItem" name="Mantra de Fogo">
+		
+		<set name="icon" val="icon.etc_fire_mantra_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um fragmento de pedra de selo coletado pelos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5575" type="EtcItem" name="Adena Ancestral">
+		
+		<set name="icon" val="icon.etc_ancient_adena_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Dinheiro que circula apenas entre os Lordes do Amanhecer e os Revolucionários do Crepúsculo. Também é usado ao negociar com o Ferreiro de Mamom." />
+		<set name="consume_type" val="asset" />
+	</item>
+	<item id="5576" type="Armor" name="Botas de Teste de Som">
+		<set name="icon" val="icon.armor_t30_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="50" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="5577" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 11">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 11. Uma vez saturado, confere habilidades especiais a uma arma. Consome 26 MP. Quando uma pedra da alma atinge esse estágio, ela pode absorver almas de forma independente. Nenhuma segmentação é necessária." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5578" type="EtcItem" name="Cristal Verde da Alma - Estágio 11">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 11. Uma vez saturado, confere habilidades especiais a uma arma. Consome 26 MP. Quando uma pedra da alma atinge esse estágio, ela pode absorver almas de forma independente. Nenhuma segmentação é necessária." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5579" type="EtcItem" name="Cristal Azul da Alma - Estágio 11">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 11. Uma vez saturado, confere habilidades especiais a uma arma. Consome 26 MP. Quando uma pedra da alma atinge esse estágio, ela pode absorver almas de forma independente. Nenhuma segmentação é necessária." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5580" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 12">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 12. Uma vez saturado, confere habilidades especiais a uma arma. Consome 26 MP. Quando uma pedra da alma atinge esse estágio, ela pode absorver almas de forma independente. Nenhuma segmentação é necessária." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5581" type="EtcItem" name="Cristal Verde da Alma - Estágio 12">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 12. Uma vez saturado, confere habilidades especiais a uma arma. Consome 26 MP. Quando uma pedra da alma atinge esse estágio, ela pode absorver almas de forma independente. Nenhuma segmentação é necessária." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5582" type="EtcItem" name="Cristal Azul da Alma - Estágio 12">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 12. Uma vez saturado, confere habilidades especiais a uma arma. Consome 26 MP. Quando uma pedra da alma atinge esse estágio, ela pode absorver almas de forma independente. Nenhuma segmentação é necessária." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5583" type="EtcItem" name="Cristal de Eco - 6a Carol">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a 6a canção. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5584" type="EtcItem" name="Cristal de Eco - 7a Carol">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a sétima canção. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5585" type="EtcItem" name="Cristal de Eco - 8a Carol">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a oitava canção. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5586" type="EtcItem" name="Cristal de Eco - 9a Carol">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a 9a canção. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5587" type="EtcItem" name="Cristal de Eco - 10a Carol">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a décima canção. Desaparece após um uso." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5588" type="EtcItem" name="Livro Guia">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro contendo informações gerais para jogadores novatos." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="5589" type="EtcItem" name="Pedra da Energia">
+		
+		<set name="icon" val="icon.etc_energy_stone_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Restaura a energia de um Gladiator ou Tyrant 1 estágio por vez. Pode ser recarregado em até 2 estágios." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5590" type="Armor" name="Sapatos Que Rangem">
+		
+		<set name="icon" val="icon.armor_t02_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Faz um som único ao andar neles." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="50" />
+		<set name="price" val="350000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="5591" type="EtcItem" name="Poção de CP">
+		
+		<set name="icon" val="icon.etc_cp_potion_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Restaura CP em 50." />
+		<set name="weight" val="25" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="240" />
+	</item>
+	<item id="5592" type="EtcItem" name="Poção de CP Superior">
+		
+		<set name="icon" val="icon.etc_cp_potion_i01" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Restaura CP em 200." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="600" />
+	</item>
+	<item id="5593" type="EtcItem" name="Pergaminho SP: Grau Baixo">
+		
+		<set name="icon" val="icon.etc_sp_scroll1_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Restaura SP em 500." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2400" />
+	</item>
+	<item id="5594" type="EtcItem" name="Pergaminho SP: Grau Médio">
+		
+		<set name="icon" val="icon.etc_sp_scroll2_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Restaura SP em 5000." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5595" type="EtcItem" name="Pergaminho SP: Grau Alto">
+		
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Restaura SP em 100.000." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="480000" />
+	</item>
+	<item id="5596" type="Weapon" name="Cajado de Dasparion - Aumento de Mana">
+		
+		<set name="icon" val="icon.weapon_dasparions_staff_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 30%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="920" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="207" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="143" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3014" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="207" order="0x08" stat="pAtk" />
+			<set val="143" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5597" type="Weapon" name="Cajado de Dasparion - Conversão">
+		
+		<set name="icon" val="icon.weapon_dasparions_staff_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 60% e diminui o HP máximo em 40%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="920" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="207" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="143" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3048" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="207" order="0x08" stat="pAtk" />
+			<set val="143" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+		</for>
+	</item>
+	<item id="5598" type="Weapon" name="Cajado de Dasparion - Perspicácia">
+		
+		<set name="icon" val="icon.weapon_dasparions_staff_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Velocidade de Conjuração. em 15%. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="920" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="207" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="143" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3047" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="207" order="0x08" stat="pAtk" />
+			<set val="143" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+		</for>
+	</item>
+	<item id="5599" type="Weapon" name="Chuva de Meteoros - Foco">
+		
+		<set name="icon" val="icon.weapon_meteor_shower_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 61. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1600" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<set name="item_skill_id" val="3050" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<add val="61" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+</list>

@@ -1,0 +1,983 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3100" type="EtcItem" name="Livro de Feitiços: Orientação">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Orientação. Usado por profetas e anciãos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3101" type="EtcItem" name="Livro de Feitiços: Sussurro da Morte">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços precisava aprender Death Whisper. Usado por profetas e anciãos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3102" type="EtcItem" name="Livro de Feitiços: Abençoe O Escudo">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Bless Shield. Usado por profetas e anciãos élficos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3103" type="EtcItem" name="Amuleto: Sabedoria de Pa'Agrio">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Sabedoria do Pa'agrio. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3104" type="EtcItem" name="Amuleto: Glória de Pa'Agrio">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Glória do Pa'agrio. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3105" type="EtcItem" name="Amuleto: Selo do Inverno">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Winter. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3106" type="EtcItem" name="Amuleto: Selo da Chama">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Flame. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4600" />
+	</item>
+	<item id="3107" type="EtcItem" name="Amuleto: Selo da Melancolia">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Gloom. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3108" type="EtcItem" name="Amuleto: Selo da Miragem">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Mirage. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3109" type="EtcItem" name="Amuleto: Selo do Silêncio">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Silence. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4600" />
+	</item>
+	<item id="3110" type="EtcItem" name="Amuleto: Selo do Flagelo">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Scourge. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3111" type="EtcItem" name="Amuleto: Selo de Suspensão">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Suspension. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4600" />
+	</item>
+	<item id="3112" type="EtcItem" name="Amuleto: Visão de Pa'Agrio">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Visão do Pa'agrio. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3113" type="EtcItem" name="Amuleto: Proteção de Pa'Agrio">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Proteção do Pa'agrio. Usado por Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3114" type="EtcItem" name="Amuleto: Roubar Essência">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Steal Essence. Usado por Warcryers e Overlords." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3115" type="EtcItem" name="Amuleto: Chama Congelante">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Chama Congelante. Usado por Warcryers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3116" type="EtcItem" name="Amuleto: Canto da Fúria">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Chant of Fury. Usado por Warcryers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4600" />
+	</item>
+	<item id="3117" type="EtcItem" name="Amuleto: Canto de Evasão">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Chant of Evasão. Usado por Warcryers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3118" type="EtcItem" name="Amuleto: Canto da Fúria">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Chant of Rage. Usado por Warcryers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3119" type="EtcItem" name="Marca da Guilda">
+		
+		<set name="icon" val="icon.etc_badge_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram no Julgamento da Guilda. Um item relacionado à mudança de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3120" type="EtcItem" name="Recomendação de Valkon">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de recomendação escrita pelo Armazém Valkon. Pegue isso e vá até o ferreiro Altran da Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3121" type="EtcItem" name="Baga da Mandrágora">
+		
+		<set name="icon" val="icon.etc_fruit_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O fruto das mandrágoras, conhecido por seus usos no tratamento de doenças." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3122" type="EtcItem" name="Instruções da Altran">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Instruções do ferreiro Altran. As instruções são para reunir materiais e criar 7 anéis de jornaleiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3123" type="EtcItem" name="1a Recomendação da Altran">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de recomendação escrita pelo ferreiro Altran. Pegue isso e vá até o Armazém Norman da Vila de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3124" type="EtcItem" name="2a Recomendação da Altran">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de recomendação escrita pelo ferreiro Altran. Pegue isso e vá até o ferreiro Pinter da Town of Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3125" type="EtcItem" name="Instruções de Norman">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Instruções do Armazém Norman. As instruções são para ir ao Ferreiro Duning of Hunters Village e trazer a chave de volta." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3126" type="EtcItem" name="Recibo de Norman">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Recibo do Armazém Norman. Pegue isso e vá para Ferreiro Duning of the Hunters Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3127" type="EtcItem" name="Instruções de Duning">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Instruções do ferreiro Duning. Dá uma ordem para recuperar 30 chaves dos Orcs Breka." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3128" type="EtcItem" name="Chave de Duning">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Chave de mithril recuperada dos Orcs de Breka. Colete 30 e leve-os para Ferreiro Duning." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3129" type="EtcItem" name="Lista de Norman">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Lista de ingredientes do Armazém Norman: 70 unidades de pó de osso cinza, 70 pedras de amolar de granito, 70 unidades de pigmento vermelho e 70 unidades de fio trançado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3130" type="EtcItem" name="Pó de Osso Cinza">
+		
+		<set name="icon" val="icon.etc_powder_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O pó coletado dos ossos de carniçais e estirpes. Reúna 70 deles e leve-os ao Armazém Norman." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3131" type="EtcItem" name="Pedra de Amolar de Granito">
+		
+		<set name="icon" val="icon.etc_plate_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pedra de amolar feita dos fragmentos do golem de granito. Reúna 70 deles e leve-os ao Armazém Norman." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3132" type="EtcItem" name="Pigmento Vermelho">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pigmento vermelho obtido matando o Morcego caçador morto. Reúna 70 deles e leve-os ao Armazém Norman." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3133" type="EtcItem" name="Fio Trançado">
+		
+		<set name="icon" val="icon.etc_skein_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Fio trançado obtido matando os silenos. Reúna 70 deles e leve-os ao Armazém Norman." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3134" type="EtcItem" name="Joia do Viajante">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um material usado para fazer o Anel do Viajante." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3135" type="EtcItem" name="Instruções de Pinter">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Instruções do Ferreiro Pinter: Encontre e traga de volta 70 Pérolas de Âmbar." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3136" type="EtcItem" name="Pérola de Âmbar">
+		
+		<set name="icon" val="icon.etc_crystal_ball_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de âmbar em forma de pérola. Colete 70 deles e leve-os ao Ferreiro Pinter." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3137" type="EtcItem" name="Pedaço de Âmbar">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço não refinado de âmbar. O material usado na criação do Amber Bead." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3138" type="EtcItem" name="Pulseira do Viajante">
+		
+		<set name="icon" val="icon.etc_bead_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Item de ingrediente usado para fazer um Anel do Viajante." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3139" type="EtcItem" name="Anel do Viajante">
+		
+		<set name="icon" val="icon.accessary_ring_of_blessing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Para passar no Julgamento da Guilda, você deve criar 7 desses anéis. Leve os anéis completos para o Guardião do Armazém Valkon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3140" type="EtcItem" name="Marca da Vida">
+		
+		<set name="icon" val="icon.etc_herb_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada aos que passaram no Testemunho da Vida. Um item relacionado à mudança de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3141" type="EtcItem" name="Carta de Cardien">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta de Mestre Cardien. Pegue isso e vá até Hierarch Asterios da Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3142" type="EtcItem" name="Amuleto de Camomile">
+		
+		<set name="icon" val="icon.accessary_near_forest_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um talismã dado pelo Hierarca Asterios. Pegue isso e volte para Master Cardien na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3143" type="EtcItem" name="Carta do Hierarca">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta dada pelo Hierarca Asterios. Pegue isso e vá até Thalia, que mora na margem leste do Lago Iris." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3144" type="EtcItem" name="Amuleto Flor da Lua">
+		
+		<set name="icon" val="icon.accessary_paradia_ring_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O feitiço dado pelo Hierarca Asterios para manter a posse enquanto procura a água da vida." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3145" type="EtcItem" name="Diagrama do Graal">
+		
+		<set name="icon" val="icon.etc_spellbook_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um diagrama do Graal, dado por Thalia. Pegue isso e vá até o ferreiro Pushkin de Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3146" type="EtcItem" name="1a Carta de Thalia">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta de Thalia. Pegue isso e vá até Arkenia, que está no Altar of Rites." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3147" type="EtcItem" name="2a Carta de Thalia">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta de Thalia. Pegue isso e vá para Israel Silver Shadow of the Hunters Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3148" type="EtcItem" name="Instruções de Thalia">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta contendo as instruções de Thalia. As instruções são para voltar depois de atingir o nível 38." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3149" type="EtcItem" name="Lista de Pushkin">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma lista fornecida pelo ferreiro Pushkin. &quot;10 Minério de Mithril puro, 20 ácido de soldado formiga, 20 garras de Wyrm&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3150" type="EtcItem" name="Taça de Mithril Puro">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cálice feito pelo ferreiro Pushkin feito de mithril puro. Leve isso de volta para Thalia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3151" type="EtcItem" name="Contrato de Arkenia">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um contrato escrito por Arkenia. O contrato afirma que ela dará poeira estelar em troca do livro de Andariel da Vila de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3152" type="EtcItem" name="Instruções de Arkenia">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Instruções de Arkenia. As instruções são para trazer de volta o livro de Andariel do Templo de Einhasad na Vila de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3153" type="EtcItem" name="Lista de Adonio">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma lista dada pelo Sacerdote Adonius: 20 spider ichor e 20 harpy's down." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3154" type="EtcItem" name="Andariel Escritura Cópia">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma cópia do livro de Andariel dada pelo Sacerdote Adonius. Leve isso de volta para Arkenia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3155" type="EtcItem" name="Poeira Estelar">
+		
+		<set name="icon" val="icon.etc_powder_orange_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O pó de prata recebido de Arkenia dos Elfos Sombrios. Leve isso de volta para Thalia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3156" type="EtcItem" name="Instruções de Isael">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento contendo as instruções de Isael Silvershadow. Ele pede que você recupere 6 pedaços de lança talins de Homem Lagarto Leto shamans." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3157" type="EtcItem" name="Carta de Isael">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta dada por Isael Silvershadow. Leve isso de volta para Thalia junto com a lança de Talin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3158" type="EtcItem" name="Graal da Pureza">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um graal feito de mithril puro. Pegue as lágrimas do unicórnio com o graal e leve-o de volta para Thalia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3159" type="EtcItem" name="Lágrimas de Unicórnio">
+		
+		<set name="icon" val="icon.etc_crystal_ball_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As lágrimas derramadas pelo unicórnio de Eva quando é morto com a lança de Talin. Leve isso de volta para Thalia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3160" type="EtcItem" name="Água da Vida">
+		
+		<set name="icon" val="icon.etc_potion_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A água benta que contém os poderes da vida para rejuvenescer a Árvore Mãe. Pegue isso e vá até Hierarch Asterios." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3161" type="EtcItem" name="Minério de Mithril Puro">
+		
+		<set name="icon" val="icon.etc_stone_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O minério de mithril puro. Reúna 10 deles, junto com o restante dos ingredientes, e leve-os de volta ao ferreiro Pushkin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3162" type="EtcItem" name="Ácido de Formiga Soldado">
+		
+		<set name="icon" val="icon.etc_reagent_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O ácido coletado de Formiga Soldado depois de matá-los. Reúna 20 garrafas disso, junto com o restante dos ingredientes, e leve-as de volta ao ferreiro Pushkin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3163" type="EtcItem" name="Garra de Wyrm">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A garra de um ancião obtido após matá-lo. Reúna 20 deles, junto com o restante dos ingredientes, e leve-os de volta ao ferreiro Pushkin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3164" type="EtcItem" name="Sangue de Aranha">
+		
+		<set name="icon" val="icon.etc_reagent_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O Sangue de uma aranha do pântano. Reúna 20 unidades disso e leve-as de volta ao Sacerdote Adonius." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3165" type="EtcItem" name="Pena de Harpia">
+		
+		<set name="icon" val="icon.etc_feather_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As penas obtidas após matar uma harpia. Reúna 20 deles e leve-os de volta ao Sacerdote Adonius." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3166" type="EtcItem" name="Lâmina da Lança de Talin">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A parte da lâmina da lança de Talin. Leve isso, junto com as porções restantes da lança, de volta para Isael Silvershadow." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3167" type="EtcItem" name="Haste da Lança de Talin">
+		
+		<set name="icon" val="icon.weapon_club_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A parte da haste da lança de Talin. Leve isso, junto com as porções restantes da lança, de volta para Isael Silvershadow." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3168" type="EtcItem" name="Rubi de Talin">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma joia decorativa que adornava a lança de Talin. Leve isso, junto com as porções restantes da lança, de volta para Isael Silvershadow." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3169" type="EtcItem" name="Água-Marinha de Talin">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma joia decorativa que adornava a lança de Talin. Leve isso, junto com as porções restantes da lança, de volta para Isael Silvershadow." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3170" type="EtcItem" name="Ametista de Talin">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma joia decorativa que adornava a lança de Talin. Leve isso, junto com as porções restantes da lança, de volta para Isael Silvershadow." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3171" type="EtcItem" name="Peridoto de Talin">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma joia decorativa que adornava a lança de Talin. Leve isso, junto com as porções restantes da lança, de volta para Isael Silvershadow." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3172" type="EtcItem" name="Marca do Destino">
+		
+		<set name="icon" val="icon.etc_jewel_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram no Testemunho do Destino. Um item para mudança ocupacional." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3173" type="EtcItem" name="Carta de Kaira">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada pelo Mestre Kaira ao Irmão Metheus do Templo de Einhasad. Isso deve ser entregue secretamente." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3174" type="EtcItem" name="Jarro Funerário de Metheus">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma jarra para guardar os restos dos mortos. Leve isso para o Execution Grounds e procure os restos mortais da irmã de Metheus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3175" type="EtcItem" name="Restos Mortais de Kasandra">
+		
+		<set name="icon" val="icon.etc_ashes_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os restos mortais de Kasandra, irmã de Metheus. Leve isso de volta para o irmão Metheus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3176" type="EtcItem" name="Livro de Fitoterapia">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro de várias ervas e seus usos. Ele também contém informações sobre o veneno mortal Belladona." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3177" type="EtcItem" name="Lista de Ixia">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="10 unidades cada de sangue de medusa, fluidos de aranha do pântano, esterco de buscador morto, sangue de tirano e raiz de Belladona." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3178" type="EtcItem" name="Sangue da Medusa">
+		
+		<set name="icon" val="icon.etc_reagent_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O sangue engarrafado de uma medusa. Colete 10 deles e leve-os de volta ao Mestre Ixia" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3179" type="EtcItem" name="Fluidos de Aranha do Pântano">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os fluidos engarrafados de uma aranha do pântano. Colete 10 deles e leve-os de volta ao Mestre Ixia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3180" type="EtcItem" name="Estrume de Caçador de Mortos">
+		
+		<set name="icon" val="icon.etc_powder_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O esterco de Morcegos Caçador de Mortos. Colete 10 deles e leve-os de volta ao Mestre Ixia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3181" type="EtcItem" name="Sangue de Tirano">
+		
+		<set name="icon" val="icon.etc_potion_scarlet_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O sangue engarrafado do tirano. Colete 10 deles e leve-os de volta ao Mestre Ixia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3182" type="EtcItem" name="Raiz de Belladona">
+		
+		<set name="icon" val="icon.etc_ginseng_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As raízes da erva rara de Belladona. Colete 10 deles e leve-os de volta ao Mestre Ixia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3183" type="EtcItem" name="Belladona">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um veneno lendário que pode matar um touro com uma única gota. Leve isso para o irmão Metheus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3184" type="EtcItem" name="Crânio de Alder">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A caveira de Alders, que redigiu a cópia das Revelações de Kaysha. Leve isso para o Mestre Kaira." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3185" type="EtcItem" name="Crânio de Alder">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Crânio do Sacerdote Alders. Leve-o para Mestre Roa, um descendente distante do sacerdote." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3186" type="EtcItem" name="Recibo do Alder">
+		
+		<set name="icon" val="icon.etc_ticket_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O recibo do artigo que o Alder confiou ao armazém. Pegue isso e vá para o armazém na vila de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3187" type="EtcItem" name="Manuscrito do Apocalipse">
+		
+		<set name="icon" val="icon.etc_spellbook_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma cópia das Revelações de Kaysha. Leve isso para o Mestre Kaira." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3188" type="EtcItem" name="Instruções de Kaira">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma nota onde estão escritas as instruções do Mestre Kaira. As instruções são para voltar depois de atingir o nível 38." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3189" type="EtcItem" name="Recomendação de Kaira">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de recomendação escrita por Mestre Kaira. Pegue isso e vá até Tetrarch Thifiell da Dark Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3190" type="EtcItem" name="Feitiço Palus">
+		
+		<set name="icon" val="icon.accessary_onyxbeastseye_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um feitiço dado pelo tetrarca Thifiell para manter em posse até que a Cerimônia de Iniciação do Círculo de Shilien esteja completa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3191" type="EtcItem" name="Carta de Thifield">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta do tetrarca Thifiell para Arkenia. Arkenia está no Altar de Iniciação dos Elfos Sombrios." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3192" type="EtcItem" name="Nota de Arkenia">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma nota escrita por Arkenia. Ele contém instruções para trazer de volta o pó de fada vermelho e a seiva do ente da praga." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3193" type="EtcItem" name="Granada Pixy">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma granada dada pelo duende sangrento como uma marca de promessa. Traga de volta 10 caveiras de quatro raças diferentes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3194" type="EtcItem" name="Crânio de Grandis">
+		
+		<set name="icon" val="icon.etc_ashes_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Crânio de um Grandis. Colete dez deles e leve-os de volta ao duende sangrento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3195" type="EtcItem" name="Crânio de Karul Bugbear">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Crânio de um Karul Bugbear. Colete 10 deles e leve-os de volta ao duende sangrento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3196" type="EtcItem" name="Crânio de Breka Soberano">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Crânio de um Orc Breka Soberano. Colete 10 deles e leve-os para Bloody Pixy." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3197" type="EtcItem" name="Crânio de Leto Soberano">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Crânio de um Homem Lagarto Leto Soberano. Colete 10 deles e leve-os de volta ao duende sangrento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3198" type="EtcItem" name="Pó de Fada Vermelha">
+		
+		<set name="icon" val="icon.etc_powder_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pó de fada vermelho dado pelo duende sangrento. Leve isso para Arkenia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3199" type="EtcItem" name="Semente de Ente Praga">
+		
+		<set name="icon" val="icon.etc_fruit_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma semente dada por um ente da praga como uma marca de promessa. Mate o espreitador do salgueiro negro e traga de volta sua folha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

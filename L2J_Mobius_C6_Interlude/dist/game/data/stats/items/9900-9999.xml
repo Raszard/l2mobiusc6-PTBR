@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<item id="9990" type="Armor" name="Cabelo Estiloso - A">
+		<set name="icon" val="JohnScott_Goddess_Hair.br_plastic_hair_f_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um novo estilo de cabelo." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9991" type="Armor" name="Cabelo Estiloso - B">
+		<set name="icon" val="JohnScott_Goddess_Hair.br_plastic_hair_f_i01" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um novo estilo de cabelo." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+</list>

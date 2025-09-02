@@ -1,0 +1,902 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1700" type="EtcItem" name="(Não Usado) Oriharukon">
+		
+		<set name="icon" val="icon.etc_squares_wood_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6300" />
+	</item>
+	<item id="1701" type="EtcItem" name="Solução de Feitiço">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8160" />
+	</item>
+	<item id="1702" type="EtcItem" name="Estrutura de Metal">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12500" />
+	</item>
+	<item id="1703" type="EtcItem" name="Aço da Mais Alta Qualidade">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3720" />
+	</item>
+	<item id="1704" type="EtcItem" name="Pedra da Angústia">
+		
+		<set name="icon" val="icon.etc_bead_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="157" />
+	</item>
+	<item id="1705" type="EtcItem" name="Raminho de Sabedoria">
+		
+		<set name="icon" val="icon.etc_leaf_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="258" />
+	</item>
+	<item id="1706" type="EtcItem" name="Fragmento de Diamante Azul">
+		
+		<set name="icon" val="icon.etc_crystal_ball_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="471" />
+	</item>
+	<item id="1707" type="EtcItem" name="Santo Molar">
+		
+		<set name="icon" val="icon.etc_molar_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="568" />
+	</item>
+	<item id="1708" type="EtcItem" name="Quartzo Fumê">
+		
+		<set name="icon" val="icon.etc_bead_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1136" />
+	</item>
+	<item id="1709" type="EtcItem" name="Sangue de Mantícora">
+		
+		<set name="icon" val="icon.etc_reagent_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="568" />
+	</item>
+	<item id="1710" type="EtcItem" name="Cristal Olho de Tigre">
+		
+		<set name="icon" val="icon.etc_crystal_ball_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3215" />
+	</item>
+	<item id="1711" type="EtcItem" name="Garra de Leopardo">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="402" />
+	</item>
+	<item id="1712" type="EtcItem" name="Material de Sapatos de Couro">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="87" />
+	</item>
+	<item id="1713" type="EtcItem" name="Material da Manto de Couro">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="261" />
+	</item>
+	<item id="1714" type="EtcItem" name="Material das Calça de Couro">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="129" />
+	</item>
+	<item id="1715" type="EtcItem" name="Material do Capacete de Couro">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="240" />
+	</item>
+	<item id="1716" type="EtcItem" name="Luvas de Couro Textura">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="226" />
+	</item>
+	<item id="1717" type="EtcItem" name="Forro de Luvas de Couro">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="113" />
+	</item>
+	<item id="1718" type="EtcItem" name="Fragmento de Osso Negro">
+		
+		<set name="icon" val="icon.etc_piece_bone_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="693" />
+	</item>
+	<item id="1719" type="EtcItem" name="Material da Camisa de Couro Duro">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="963" />
+	</item>
+	<item id="1720" type="EtcItem" name="Fragmento de Osso Azul-Preto">
+		
+		<set name="icon" val="icon.etc_piece_bone_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1493" />
+	</item>
+	<item id="1721" type="EtcItem" name="Material da Calça de Couro Duro">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1722" type="EtcItem" name="Material das Botas">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="271" />
+	</item>
+	<item id="1723" type="EtcItem" name="Material das Botas de Couro">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="364" />
+	</item>
+	<item id="1724" type="EtcItem" name="Fragmento de Crânio">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="512" />
+	</item>
+	<item id="1725" type="EtcItem" name="Material de Calça Escuras">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="632" />
+	</item>
+	<item id="1726" type="EtcItem" name="Forro de Luvas de Couro Artesanal">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="523" />
+	</item>
+	<item id="1727" type="EtcItem" name="Textura de Luvas de Couro Trabalhadas">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="261" />
+	</item>
+	<item id="1728" type="EtcItem" name="Balança de Aço">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1790" />
+	</item>
+	<item id="1729" type="EtcItem" name="Pano Branco Puro">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="833" />
+	</item>
+	<item id="1730" type="EtcItem" name="Poção Purificadora">
+		
+		<set name="icon" val="icon.etc_potion_clear_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3330" />
+	</item>
+	<item id="1731" type="EtcItem" name="Botas em Escamas de Aço">
+		
+		<set name="icon" val="icon.etc_plate_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1148" />
+	</item>
+	<item id="1732" type="EtcItem" name="Acessórios de Couro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1520" />
+	</item>
+	<item id="1733" type="EtcItem" name="Folha de Ferro Grande">
+		
+		<set name="icon" val="icon.etc_plate_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1900" />
+	</item>
+	<item id="1734" type="EtcItem" name="Acessórios de Couro Pequenos">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="952" />
+	</item>
+	<item id="1735" type="EtcItem" name="Folha de Ferro Pequena">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1190" />
+	</item>
+	<item id="1736" type="EtcItem" name="Encadernação de Botas de Ferro">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="635" />
+	</item>
+	<item id="1737" type="EtcItem" name="Armação de Botas de Ferro">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="508" />
+	</item>
+	<item id="1738" type="EtcItem" name="Lâmina Larga">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="625" />
+	</item>
+	<item id="1739" type="EtcItem" name="Molde de Espada Larga">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1740" type="EtcItem" name="Ramo de Salgueiro Artesanal">
+		
+		<set name="icon" val="icon.etc_branch_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="833" />
+	</item>
+	<item id="1741" type="EtcItem" name="Pauta">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="1742" type="EtcItem" name="Ramo de Cedro Vermelho">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1797" />
+	</item>
+	<item id="1743" type="EtcItem" name="Lâmina Dirk">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1082" />
+	</item>
+	<item id="1744" type="EtcItem" name="Dirk Molde">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5410" />
+	</item>
+	<item id="1745" type="EtcItem" name="Lâmina de Brandir">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1880" />
+	</item>
+	<item id="1746" type="EtcItem" name="Lâmina de Lança Curta">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3000" />
+	</item>
+	<item id="1747" type="EtcItem" name="Lâmina Brilhante">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1700" />
+	</item>
+	<item id="1748" type="EtcItem" name="Molde de Espada de Reflexão">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="13600" />
+	</item>
+	<item id="1749" type="EtcItem" name="Ramo da Árvore Mãe">
+		
+		<set name="icon" val="icon.etc_branch_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4533" />
+	</item>
+	<item id="1750" type="EtcItem" name="Folha da Floresta Escura">
+		
+		<set name="icon" val="icon.etc_herb_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2267" />
+	</item>
+	<item id="1751" type="EtcItem" name="Pedaço de Ferro">
+		
+		<set name="icon" val="icon.etc_bead_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5278" />
+	</item>
+	<item id="1752" type="EtcItem" name="Pedaço de Quebra-Espada">
+		
+		<set name="icon" val="icon.etc_bark_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3050" />
+	</item>
+	<item id="1753" type="EtcItem" name="Molde Quebra Espada">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24400" />
+	</item>
+	<item id="1754" type="EtcItem" name="Molde de Arco de Aço">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4067" />
+	</item>
+	<item id="1755" type="EtcItem" name="Pauta Metálica">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8133" />
+	</item>
+	<item id="1756" type="EtcItem" name="Espírito do Sabre Smith">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4544" />
+	</item>
+	<item id="1757" type="EtcItem" name="Lâmina de Sabre">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5453" />
+	</item>
+	<item id="1758" type="EtcItem" name="Molde Sabre">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="13633" />
+	</item>
+	<item id="1759" type="EtcItem" name="Sangue de Assassino">
+		
+		<set name="icon" val="icon.etc_reagent_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4544" />
+	</item>
+	<item id="1760" type="EtcItem" name="Lâmina Assassina">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5453" />
+	</item>
+	<item id="1761" type="EtcItem" name="Molde Assassino">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="27267" />
+	</item>
+	<item id="1762" type="EtcItem" name="Pedaço de Tridente">
+		
+		<set name="icon" val="icon.etc_bark_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6850" />
+	</item>
+	<item id="1763" type="EtcItem" name="Fragmento de Rubi">
+		
+		<set name="icon" val="icon.etc_powder_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5113" />
+	</item>
+	<item id="1764" type="EtcItem" name="Água do Mar Profundo">
+		
+		<set name="icon" val="icon.etc_potion_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10225" />
+	</item>
+	<item id="1765" type="EtcItem" name="Fragmento de Espinha">
+		
+		<set name="icon" val="icon.etc_piece_bone_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6440" />
+	</item>
+	<item id="1766" type="EtcItem" name="Padrão de Espinha">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12880" />
+	</item>
+	<item id="1767" type="EtcItem" name="Pedaço de Maça do Julgamento">
+		
+		<set name="icon" val="icon.etc_bark_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7156" />
+	</item>
+	<item id="1768" type="EtcItem" name="Padrão de Julgamento">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10733" />
+	</item>
+	<item id="1769" type="EtcItem" name="Pedaço do Cajado do Conjurador">
+		
+		<set name="icon" val="icon.etc_bark_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6440" />
+	</item>
+	<item id="1770" type="EtcItem" name="Flauta Mágica">
+		
+		<set name="icon" val="icon.etc_flute_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12880" />
+	</item>
+	<item id="1771" type="EtcItem" name="Cajado Élfico">
+		
+		<set name="icon" val="icon.etc_branch_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="21467" />
+	</item>
+	<item id="1772" type="EtcItem" name="Folha da Árvore Mãe">
+		
+		<set name="icon" val="icon.etc_herb_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5367" />
+	</item>
+	<item id="1773" type="EtcItem" name="Pedaço do Tridente Anão">
+		
+		<set name="icon" val="icon.etc_bark_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8613" />
+	</item>
+	<item id="1774" type="EtcItem" name="Pedaço de Espada de Duas Mãos">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5688" />
+	</item>
+	<item id="1775" type="EtcItem" name="Molde de Espada de Duas Mãos">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="96700" />
+	</item>
+	<item id="1776" type="EtcItem" name="Pedaço de Taco Cravado">
+		
+		<set name="icon" val="icon.etc_bark_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="32233" />
+	</item>
+	<item id="1777" type="EtcItem" name="Peça de Aço do Porrete">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6447" />
+	</item>
+	<item id="1778" type="EtcItem" name="Osso de Shilen">
+		
+		<set name="icon" val="icon.etc_piece_bone_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6447" />
+	</item>
+	<item id="1779" type="EtcItem" name="Shilen Mane">
+		
+		<set name="icon" val="icon.etc_mane_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="64467" />
+	</item>
+	<item id="1780" type="EtcItem" name="Bronze de Pureza">
+		
+		<set name="icon" val="icon.etc_plate_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="9210" />
+	</item>
+	<item id="1781" type="EtcItem" name="Pauta Gastrafete">
+		
+		<set name="icon" val="icon.weapon_short_bow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="32233" />
+	</item>
+	<item id="1782" type="EtcItem" name="Adendo Gastraphetes">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6447" />
+	</item>
+	<item id="1783" type="EtcItem" name="Sangue do Demônio">
+		
+		<set name="icon" val="icon.etc_reagent_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10744" />
+	</item>
+	<item id="1784" type="EtcItem" name="Couro Amaldiçoado">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10744" />
+	</item>
+	<item id="1785" type="EtcItem" name="Minério da Alma">
+		
+		<set name="icon" val="icon.etc_crystal_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250" />
+	</item>
+	<item id="1786" type="EtcItem" name="Receita: Espada Larga">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada Larga. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250" />
+	</item>
+	<item id="1787" type="EtcItem" name="Receita: Cajado de Salgueiro">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Cajado de Salgueiro. Requer Criar Item - Nível de Habilidade 1 A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250" />
+	</item>
+	<item id="1788" type="EtcItem" name="Receita: Arco">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um arco. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250" />
+	</item>
+	<item id="1789" type="EtcItem" name="Receita: Cajado de Cedro">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um cajado de cedro. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1082" />
+	</item>
+	<item id="1790" type="EtcItem" name="Receita: Dirk">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Dirk. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1082" />
+	</item>
+	<item id="1791" type="EtcItem" name="Receita: Brandish">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Brandish. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1082" />
+	</item>
+	<item id="1792" type="EtcItem" name="Receita: Lança Curta">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma lança curta. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2720" />
+	</item>
+	<item id="1793" type="EtcItem" name="Receita: Espada da Reflexão">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada de Reflexão. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2720" />
+	</item>
+	<item id="1794" type="EtcItem" name="Receita: Arco da Floresta">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Arco da Floresta. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2720" />
+	</item>
+	<item id="1795" type="EtcItem" name="Receita: Sapatos de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Sapatos de Couro. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="53" />
+	</item>
+	<item id="1796" type="EtcItem" name="Receita: Manto de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma túnica de couro. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="159" />
+	</item>
+	<item id="1797" type="EtcItem" name="Receita: Calça de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para meias de couro. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="99" />
+	</item>
+	<item id="1798" type="EtcItem" name="Receita: Capacete de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um capacete de couro. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="204" />
+	</item>
+	<item id="1799" type="EtcItem" name="Receita: Luvas de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para luvas de couro. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="135" />
+	</item>
+</list>

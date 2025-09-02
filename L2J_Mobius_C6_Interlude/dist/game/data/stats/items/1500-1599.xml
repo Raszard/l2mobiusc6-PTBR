@@ -1,0 +1,1010 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1500" type="EtcItem" name="Totem de Hestui">
+		
+		<set name="icon" val="icon.etc_totem_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="O totem dos Hestui. Pode ser vendido em qualquer loja por um preço alto." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11000" />
+	</item>
+	<item id="1501" type="EtcItem" name="Totem do Lobisomem Maraku">
+		
+		<set name="icon" val="icon.etc_totem_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Totem dos Lobos Maraku. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="1502" type="EtcItem" name="Pérola da Vovó">
+		
+		<set name="icon" val="icon.etc_crystal_ball_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um artigo deixado pela avó de Redbonnet. Pode ser vendido em qualquer loja por um preço alto." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="1503" type="EtcItem" name="Espelho da Vovó">
+		
+		<set name="icon" val="icon.etc_mirror_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um artigo deixado pela avó de Redbonnet. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1504" type="EtcItem" name="Colar da Vovó">
+		
+		<set name="icon" val="icon.accessary_aquastone_necklace_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um artigo deixado pela avó de Redbonnet. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="1505" type="EtcItem" name="Grampo de Cabelo da Vovó">
+		
+		<set name="icon" val="icon.etc_jewel_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um artigo deixado pela avó de Redbonnet. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1506" type="Armor" name="Colar de Coragem">
+		
+		<set name="icon" val="icon.accessary_necklace_of_courage_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="Um colar que é dado aos jovens Orcs que provaram sua coragem." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="m_def" val="15" />
+		<set name="price" val="66" />
+		<for>
+			<add val="15" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="1507" type="Armor" name="Colar de Valor">
+		
+		<set name="icon" val="icon.accessary_necklace_of_valor_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="Um colar que é dado aos jovens Orcs que provaram seu valor." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="m_def" val="21" />
+		<set name="price" val="4680" />
+		<for>
+			<add val="21" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="1508" type="Armor" name="Anel de Guaxinim">
+		
+		<set name="icon" val="icon.accessary_ring_of_raccoon_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="Um anel dado aos aprendizes da Guilda da Chave de Bronze." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="m_def" val="11" />
+		<set name="price" val="2340" />
+		<for>
+			<add val="11" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="1509" type="Armor" name="Anel de Vaga-Lume">
+		
+		<set name="icon" val="icon.accessary_ring_of_firefly_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="Um anel dado aos aprendizes da Guilda Bigorna das Trevas." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="m_def" val="11" />
+		<set name="price" val="2340" />
+		<for>
+			<add val="11" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="1510" type="Weapon" name="Espada do Açougueiro">
+		
+		<set name="icon" val="icon.weapon_orcish_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Uma espada concedida a jovens Orc Lutadores que se destacaram na guerra." />
+		<set name="weight" val="1450" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="13" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="10" />
+		<set name="price" val="25500" />
+		<for>
+			<set val="13" order="0x08" stat="pAtk" />
+			<set val="10" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1511" type="Weapon" name="Martelo de Ourives">
+		
+		<set name="icon" val="icon.weapon_iron_hammer_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Um martelo que os ourives da antiga Elmoreden usavam." />
+		<set name="weight" val="1860" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="13" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="10" />
+		<set name="price" val="25500" />
+		<for>
+			<set val="13" order="0x08" stat="pAtk" />
+			<set val="10" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1512" type="EtcItem" name="Livro de Feitiços: Confusão">
+		
+		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Confusion. Usado por Cavaleiros Palus e Assassinos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1150" />
+	</item>
+	<item id="1513" type="EtcItem" name="Livro de Feitiços: Charme">
+		
+		<set name="icon" val="icon.etc_spell_books_efighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Charm. Usado por Elven Knights e Elven Scouts." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1514" type="EtcItem" name="Livro de Feitiços: Ressurreição">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Ressurreição. Usado por Clérigos, Elfos Oráculos e Oráculos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1515" type="EtcItem" name="Livro de Feitiços: Beijo da Eva">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços precisava aprender Beijo da Eva. Usado por Clérigos, Oráculos Élficos e Oráculos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1516" type="EtcItem" name="Livro de Feitiços: Drenar Vida do Cadáver">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Drenar Vida do Cadáver. Usado por Humanos Magos e Magos das Trevas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1800" />
+	</item>
+	<item id="1517" type="EtcItem" name="Livro de Feitiços: Do Corpo à Mente">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Do Corpo à Mente. Usado por Humanos Magos e Magos das Trevas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1518" type="EtcItem" name="Amuleto: Canto da Chama">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Flame Chant. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1800" />
+	</item>
+	<item id="1519" type="EtcItem" name="Amuleto: Presente de Pa'Agrio">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Presente de Pa'Agrio. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1800" />
+	</item>
+	<item id="1520" type="EtcItem" name="Amuleto: Bênção de Pa'Agrio">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Bênção do Pa'agrio. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="2450" />
+	</item>
+	<item id="1521" type="EtcItem" name="Amuleto: Canto do Fogo">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Chant of Fire. Usado por Orc Xamã." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1522" type="EtcItem" name="Amuleto: Canto da Batalha">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Chant of Battle. Usado por Orcs Místicos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="750" />
+	</item>
+	<item id="1523" type="EtcItem" name="Amuleto: Canto de Proteção">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Chant of Shielding. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1524" type="EtcItem" name="Amuleto: Escudo da Alma">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Soul Shield. Usado por Orc Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1525" type="EtcItem" name="Amuleto: Drenagem de Vida">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Life Drain. Usado por Orc Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1526" type="EtcItem" name="Amuleto: Medo">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Medo. Usado por Orcs Místicos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="400" />
+	</item>
+	<item id="1527" type="EtcItem" name="Amuleto: Veneno">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Venom. Usado por Orcs Místicos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1528" type="EtcItem" name="Amuleto: Selo do Caos">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Chaos. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1800" />
+	</item>
+	<item id="1529" type="EtcItem" name="Amuleto: Espírito Sonhador">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Spirit Dream. Usado por Orcs Místicos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1530" type="EtcItem" name="Amuleto: Selo de Lentidão">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Slow. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="2450" />
+	</item>
+	<item id="1531" type="EtcItem" name="Amuleto: Chama Congelante">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Chill Flame. Usado por Orcs Místicos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1532" type="EtcItem" name="Amuleto: Terremoto de Chamas">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Blaze Quake. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1533" type="EtcItem" name="Amuleto: Decair Aura">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Decair Aura. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1534" type="EtcItem" name="Amuleto: Loucura">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Loucura. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1535" type="EtcItem" name="Amuleto: Chama de Gelo">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Um amuleto necessário para o feitiço Frost Flame. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1536" type="EtcItem" name="Amuleto: Selo de Vinculação">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Binding. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1537" type="EtcItem" name="Amuleto: Selo do Veneno">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Poison. Usado por Orcs Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1538" type="EtcItem" name="Pergaminho de Fuga Abençoado">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i01" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho mágico que o teleporta para a aldeia mais próxima." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="1539" type="EtcItem" name="Poção de Cura Superior">
+		
+		<set name="icon" val="icon.etc_reagent_red_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que restaura HP rapidamente. Seu efeito dura 15 segundos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1080" />
+	</item>
+	<item id="1540" type="EtcItem" name="Poção de Cura Rápida">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que restaura HP rapidamente." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="1541" type="EtcItem" name="Mel Khandar">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um remédio milagroso feito da mistura de mel e extrato de khandar. Leve isso para o Centurião Nakusin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1542" type="EtcItem" name="Manto de Pele de Urso">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um Manto feito de pele de urso pardo. Excelente para manter aquecido. Leve isso para o Centurião Nakusin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1543" type="EtcItem" name="Machado Sangrento">
+		
+		<set name="icon" val="icon.weapon_tomahawk_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um machado que contém o sangue de animais selvagens. Diz-se que fortalece a força vital de seu dono. Leve isso para o Centurião Nakusin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1544" type="EtcItem" name="Crânio Ancestral">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um crânio de um ancestral de Urutus. Diz-se que fortalece a força vital de seu dono. Leve isso para o Centurião Nakusin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1545" type="EtcItem" name="Pó de Aranha">
+		
+		<set name="icon" val="icon.etc_powder_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um grão de pó feito de pernas secas de aranhas venenosas. Cheirá-lo fará você se sentir revigorado. Leve isso para o Centurião Nakusin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1546" type="EtcItem" name="Orbe do Mar Profundo">
+		
+		<set name="icon" val="icon.etc_crystal_ball_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pérola trazida de um mar profundo. Diz-se que ajuda a prever o futuro. Leve isso para o Centurião Nakusin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1547" type="EtcItem" name="Lista de Bolter">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A lista de coisas que Bolter quer que você traga da vila." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1548" type="EtcItem" name="Botas de Mineração">
+		
+		<set name="icon" val="icon.armor_apprentices_shoes_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um par de botas de Mineração que você comprou do Comerciante Garita. Leve isso para Mineiro Bolter." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1549" type="EtcItem" name="Picareta do Mineiro">
+		
+		<set name="icon" val="icon.weapon_guard_spear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma picareta de mineiro que você obteve do Ferreiro Brunon. Leve isso para Mineiro Bolter." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1550" type="EtcItem" name="Pó Boom">
+		
+		<set name="icon" val="icon.etc_powder_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um saco de pó boomboom que você conseguiu do Comerciante Shari. Leve isso para Mineiro Bolter." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1551" type="EtcItem" name="Cerveja Redstone">
+		
+		<set name="icon" val="icon.etc_potion_scarlet_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cerveja deliciosa que você comprou no Warehouse Chief Reed. Leve isso para Mineiro Bolter." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1552" type="EtcItem" name="Meia Fedorenta do Bolter">
+		
+		<set name="icon" val="icon.armor_cotton_shoes_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um par de meias que Mineiro Bolter te deu. Para que...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1553" type="EtcItem" name="1a Ordem de Hatos">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A ordem para matar o mensageiro de Baranka. Após matá-lo, recupere a carta e leve-a ao chefe Urutu Hatos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1554" type="EtcItem" name="2a Ordem de Hatos">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A ordem diz que você deve matar o mensageiro de Baranka. Após matá-lo, recupere a carta e leve-a ao chefe Urutu Hatos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1555" type="EtcItem" name="3a Ordem de Hatos">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A ordem diz que você deve matar o mensageiro de Baranka. Após matá-lo, recupere a carta e leve-a ao chefe Urutu Hatos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1556" type="EtcItem" name="Carta ao Elfo Sombrio">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta secreta que Baranka está enviando para Dark Elven Mestre Kaland. Leve a carta ao chefe Urutu Hatos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1557" type="EtcItem" name="Carta ao Humano">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta secreta que Baranka está enviando para Duke Van Halter. Leve a carta ao chefe Urutu Hatos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1558" type="EtcItem" name="Carta Para Elfo">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta secreta que Baranka está enviando para Elven Master Laria. Leve a carta ao chefe Urutu Hatos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1559" type="EtcItem" name="Contrato de Gouph">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O colecionador Gouph elaborou este contrato ao comprar o diamante estrela do Comerciante Reep. Leve isso para o Comerciante Reep." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1560" type="EtcItem" name="Contrato da Reep">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O Comerciante Reep redigiu este contrato quando solicitou a entrega do diamante estrela. Leve isso para a Carrier Torocco." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1561" type="EtcItem" name="Vinho Élfico">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O transportador Torocco comprou este vinho de alta qualidade para presentear seu velho amigo Maron. Leve isso para o Mineiro Maron." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1562" type="EtcItem" name="Dados de Brunon">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Esses dados foram feitos especialmente para jogos de azar. Leve-os para o ferreiro Brunon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1563" type="EtcItem" name="Contrato de Brunon">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este contrato diz que se Brunon recuperar as 20 joias roubadas dos goblins, ele pode recuperar o diamante estelar." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1564" type="EtcItem" name="Aquamarine">
+		
+		<set name="icon" val="icon.etc_jewel_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Esta joia é obtida pelo goblin bandido líder. Leve 10 águas-marinhas e 10 crisoberilos para o ferreiro Brunon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1565" type="EtcItem" name="Crisoberilo">
+		
+		<set name="icon" val="icon.etc_jewel_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Esta joia é obtida pelo goblin bandido líder. Leve 10 águas-marinhas e 10 crisoberilos para o ferreiro Brunon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1566" type="EtcItem" name="Caixa de Joias">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O ferreiro Brunon dá esta caixa de joias. Leve-o ao Coletor Gouph." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1567" type="EtcItem" name="Pedaço de Carvão">
+		
+		<set name="icon" val="icon.etc_plate_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este pedaço de carvão está na Caixa de Joias. Leve isso para o Ferreiro Brunon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1568" type="EtcItem" name="Carta de Brunon">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O ferreiro Brunon envia esta carta ao Armazém Murdoc pedindo a caixa certa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1569" type="EtcItem" name="Torta de Frutas Vermelhas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Torta doce sabor morango. Armazém Murdoc envia isso para Armazém Airy como um presente de desculpas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1570" type="EtcItem" name="Diagrama do Morcego">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este diagrama mostra o Morcego Lâmina em detalhes. Pegue isso e vá caçar Morcego Lâmina para obter o diamante estrela." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1571" type="EtcItem" name="Diamante Estrela">
+		
+		<set name="icon" val="icon.etc_jewel_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Todo mundo está procurando por este diamante. Leve isso ao verdadeiro dono." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1572" type="EtcItem" name="Pedra da Estrela">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um Minério coletado do Golem de Pedra Cinza destruído. Colete 20 deles e leve-os ao Teleportadora Tamil." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1573" type="EtcItem" name="Pedra da Estrela">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um Minério obtido por Golems de Pedra Branca derrotados. Recolha vinte e leve-os ao Teleportadora Wirphy." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1574" type="EtcItem" name="Revisão de Mirien">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta que Magistrada Mirien escreveu depois de provar o prato de Jonas. Pegue isso e vá até Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1575" type="EtcItem" name="Revisão de Mirien">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta que Magistrada Mirien escreveu depois de provar o prato de Jonas. Leve isso para Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1576" type="EtcItem" name="Revisão de Mirien">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta que Magistrada Mirien escreveu depois de provar o prato de Jonas. Leve isso para Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1577" type="EtcItem" name="Revisão de Mirien">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta que Magistrada Mirien escreveu depois de provar o prato de Jonas. Leve isso para Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1578" type="EtcItem" name="Sangue Verde">
+		
+		<set name="icon" val="icon.etc_reagent_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Sangue de Goblin. Se você tiver o suficiente deste item, o líder do homem-rato Kuruka aparecerá." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1579" type="EtcItem" name="Mapa da Morada dos Goblins">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um mapa mostrando a morada dos goblins. Pegue isso e encontre as tribos goblins e destrua-as." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1580" type="EtcItem" name="Dente Homem Rato Kuruka">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um dente obtido após matar o líder do Homem Rato Kuruka. Colete dez deles para levar ao Prefeito Karukia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1581" type="EtcItem" name="Relatório do Traidor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relato detalhado de um traidor que recentemente se juntou à tribo Umbar e se estabeleceu nos arredores de uma montanha a oeste do Ninho da Aranha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1582" type="EtcItem" name="Relatório do Traidor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relato detalhado de um traidor que recentemente se juntou à tribo Umbar e se estabeleceu nos arredores de uma montanha a oeste do Ninho da Aranha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1583" type="EtcItem" name="Relatório do Traidor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relato detalhado de um traidor que recentemente se juntou à tribo Umbar e se estabeleceu nos arredores de uma montanha a oeste do Ninho da Aranha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1584" type="EtcItem" name="Relatório do Traidor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relato detalhado de um traidor que recentemente se juntou à tribo Umbar e se estabeleceu nos arredores de uma montanha a oeste do Ninho da Aranha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1585" type="EtcItem" name="Relatório do Traidor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relato detalhado de um traidor que recentemente se juntou à tribo Umbar e se estabeleceu nos arredores de uma montanha a oeste do Ninho da Aranha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1586" type="EtcItem" name="Relatório do Traidor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relato detalhado de um traidor que recentemente se juntou à tribo Umbar e se estabeleceu nos arredores de uma montanha a oeste do Ninho da Aranha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1587" type="EtcItem" name="Relatório do Traidor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relato detalhado de um traidor que recentemente se juntou à tribo Umbar e se estabeleceu nos arredores de uma montanha a oeste do Ninho da Aranha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1588" type="EtcItem" name="Relatório do Traidor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relato detalhado de um traidor que recentemente se juntou à tribo Umbar e se estabeleceu nos arredores de uma montanha a oeste do Ninho da Aranha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1589" type="EtcItem" name="Relatório do Traidor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relato detalhado de um traidor que recentemente se juntou à tribo Umbar e se estabeleceu nos arredores de uma montanha a oeste do Ninho da Aranha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1590" type="EtcItem" name="Relatório do Traidor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relato detalhado de um traidor que recentemente se juntou à tribo Umbar e se estabeleceu nos arredores de uma montanha a oeste do Ninho da Aranha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1591" type="EtcItem" name="Cabeça do Traidor">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A cabeça de um Orc traidor. Colete 2 e leve-os ao Prefeito Kasman em Gludin Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1592" type="EtcItem" name="Marca do Invasor">
+		
+		<set name="icon" val="icon.accessary_earing_of_black_ore_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar dado a um Orc que ganhou a qualificação para se tornar um Orc Raider. Leve isso ao alto Prefeito para mudar sua classe para um Orc Raider." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1593" type="EtcItem" name="Romã">
+		
+		<set name="icon" val="icon.etc_fruit_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma romã vermelha dada por Gantaki. Pegue isso e vá para Khavatari Rosheek." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1594" type="EtcItem" name="1a Bolsa de Couro">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma bolsa de couro dada por Khavatari Rosheek. Pegue isso e cace Ursos Kasha e colete 5 de suas garras." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1595" type="EtcItem" name="2a Bolsa de Couro">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma bolsa de couro dada por Khavatari Rosheek. Cace Aranhas Kasha Lâmina com isso e colete 5 garras." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1596" type="EtcItem" name="3a Bolsa de Couro">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma bolsa de couro dada por Khavatari Rosheek. Pegue isso enquanto caça Salamandras Escarlates para obter 5 de suas escamas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1597" type="EtcItem" name="1a Bolsa de Couro (Cheia)">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma bolsa que contém 5 Garras de urso kasha. Leve isso para Khavatari Rosheek." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1598" type="EtcItem" name="2a Bolsa de Couro (Cheia)">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma bolsa que contém 5 pinças de garra de aranha de lâmina kasha. Leve isso para Khavatari Rosheek." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1599" type="EtcItem" name="3a Bolsa de Couro (Cheia)">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma bolsa que contém 5 escamas da salamandra escarlate. Leve isso para Khavatari Rosheek." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

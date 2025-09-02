@@ -1,0 +1,1002 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3700" type="EtcItem" name="Cristal de Sangue: Pureza 3">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jóia sangrenta que contém poder mágico sombrio. Pureza 3. Quanto maior a pureza do cristal, maior o valor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3701" type="EtcItem" name="Cristal de Sangue: Pureza 4">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jóia sangrenta que contém poder mágico sombrio. Pureza 4. Quanto maior a pureza do cristal, maior o valor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3702" type="EtcItem" name="Cristal de Sangue: Pureza 5">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jóia sangrenta que contém poder mágico sombrio. Pureza 5. Quanto maior a pureza do cristal, maior o valor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3703" type="EtcItem" name="Cristal de Sangue: Pureza 6">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jóia sangrenta que contém poder mágico sombrio. Pureza 6. Quanto maior a pureza do cristal, maior o valor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3704" type="EtcItem" name="Cristal de Sangue: Pureza 7">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jóia sangrenta que contém poder mágico sombrio. Pureza 7. Quanto maior a pureza do cristal, maior o valor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3705" type="EtcItem" name="Cristal de Sangue: Pureza 8">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jóia sangrenta que contém poder mágico sombrio. Pureza 8. Quanto maior a pureza do cristal, maior o valor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3706" type="EtcItem" name="Cristal de Sangue: Pureza 9">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jóia sangrenta que contém poder mágico sombrio. Pureza 9. Quanto maior a pureza do cristal, maior o valor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3707" type="EtcItem" name="Cristal de Sangue: Pureza 10">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jóia sangrenta que contém poder mágico sombrio. Pureza 10. Quanto maior a pureza do cristal, maior o valor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3708" type="EtcItem" name="Cristal de Sangue: Quebrado">
+		
+		<set name="icon" val="icon.etc_broken_crystal_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cristal de sangue quebrado por desigualdade mágica." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3709" type="EtcItem" name="Escamas do Basilisco Guardião">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Escamas que foi arrancada do cadáver do basilisco guardião. Colete 40 e leve-os para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3710" type="EtcItem" name="Erva Daninha Karut">
+		
+		<set name="icon" val="icon.etc_branch_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Lâmina de grama que os xamãs Homem Lagarto Leto usam como remédio. Colete 20 e leve-os para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3711" type="EtcItem" name="Cabeça de Haka">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado provando que o Breka Soberano Haka, foi morto. Leve-o junto com as cabeças de Jaka e Marka para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3712" type="EtcItem" name="Cabeça de Jakas">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado provando que o Breka Soberano jaka foi morto. Leve-o junto com as cabeças de haka e marka para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3713" type="EtcItem" name="Cabeça de Marka">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado provando que o Breka Somberano marka foi morto. Leve-o junto com as cabeças de haka e jaka para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3714" type="EtcItem" name="Pele de Windsus Aleph">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pele foi arrancada depois de matar Windsus Aleph. Leve-o para o membro da Guilda dos Caçadores Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3715" type="EtcItem" name="Pedra Rúnica Índigo">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pedra rúnica obtida ao matar manashen ou golem de pedra encantada. Colete 20 e leve-os para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3716" type="EtcItem" name="Semente de Esporos">
+		
+		<set name="icon" val="icon.etc_seed_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Esporo que sai do corpo do fungo gigante. Colete 30 e leve-os para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3717" type="EtcItem" name="Totem Orc Timak">
+		
+		<set name="icon" val="icon.etc_totem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pequena estátua que os lutadores Orcs Timak carregam em seus corpos. Colete 20 e leve-os para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3718" type="EtcItem" name="Teia de Trisalim">
+		
+		<set name="icon" val="icon.etc_cobweb_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Forte teia de aranha que sai do corpo do trisalim. Colete 20 e leve-os para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3719" type="EtcItem" name="Fruta Ambrosius">
+		
+		<set name="icon" val="icon.etc_fruit_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Fruta da árvore obtida ao matar entes do vale. Colete 30 e leve-os para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3720" type="EtcItem" name="Cristal Balefire">
+		
+		<set name="icon" val="icon.etc_crystal_ball_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cristal da má vontade obtido ao matar tairim. Colete 20 e leve-os para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3721" type="EtcItem" name="Ponta de Flecha Imperial">
+		
+		<set name="icon" val="icon.etc_arrowhead_i02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ponta de flecha usada por arqueiros do antigo império Elmoreden. Colete 20 e leve-os para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3722" type="EtcItem" name="Cabeça de Athu">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado provando que o Athu foi morto. Colete cabeças de cinco invasores e leve-as para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3723" type="EtcItem" name="Cabeça de Lanka">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado provando que o Lanka foi morto. Colete cabeças de cinco invasores e leve-as para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3724" type="EtcItem" name="Cabeça de Triska">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado provando que o Triska foi morto. Colete cabeças de cinco invasores e leve-as para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3725" type="EtcItem" name="Cabeça de Motura">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado provando que o Motura foi morto. Colete cabeças de cinco invasores e leve-as para Guilda dos Caçadores Member Grey." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3726" type="EtcItem" name="Cabeça de Kalath">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado provando que o Kalath foi morto. Colete as cabeças de cinco invasores e leve-as para Greay, membro da Guilda dos Caçadores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3727" type="EtcItem" name="Pedido do 1a Círculo: 1C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o arqueiro ou soldado Homem Lagarto Leto e obtenha 40 totens de War Hero Kadesh." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3728" type="EtcItem" name="Pedido do 1a Círculo: 2C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o guerreiro ou senhor Orc timak e ganhe 50 colares de jade timak." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3729" type="EtcItem" name="Pedido do 1a Círculo: 3C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate golems de pedra encantados, colete e traga de volta 50 dos fragmentos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3730" type="EtcItem" name="Pedido do 1a Círculo: 4C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Obtenha 30 pedaços de olho flutuante gigante." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3731" type="EtcItem" name="Pedido do 1a Círculo: 5C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate anciões atrozes e colete e traga 40 ovos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3732" type="EtcItem" name="Pedido do 1a Círculo: 6C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colete e traga 100 garras de basilisco guardião." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3733" type="EtcItem" name="Pedido do 1a Círculo: 7C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate as almas agrilhoadas e obtenha 50 correntes do revenant." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3734" type="EtcItem" name="Pedido do 1a Círculo: 8C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colete e traga 30 presas de windsus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3735" type="EtcItem" name="Pedido do 1a Círculo: 9C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colete e traga 100 crânios de grandis." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3736" type="EtcItem" name="Pedido do 1a Círculo: 10C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o arqueiro ou guerreiro taik Orc e colete e traga 50 colares de obsidiana taik." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3737" type="EtcItem" name="Pedido do 1a Círculo: 11C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Traga 30 cabeças de karul bugbear." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3738" type="EtcItem" name="Pedido do 1a Círculo: 12C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o Orc tamlin ou o arqueiro Orc tamlin e colete e traga 40 amuletos de marfim tamlin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3739" type="EtcItem" name="Pedido do 1a Círculo: 1B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate leto chefe narak e traga a cabeça." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3740" type="EtcItem" name="Pedido do 1a Círculo: 2B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colete e traga 50 chifres de gárgula encantados." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3741" type="EtcItem" name="Pedido do 1a Círculo: 3B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o guerreiro ou xamã breka Orc e obtenha 50 totens de serpente enrolada." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3742" type="EtcItem" name="Pedido do 1a Círculo: 4B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate leto shaman ketz e obtenha o demon kadesh totem." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3743" type="EtcItem" name="Pedido do 1a Círculo: 5B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o timak raider kaikee e traga a cabeça." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3744" type="EtcItem" name="Pedido do 1a Círculo: 6B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Obtenha e traga 30 sacos de veneno de coroas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3745" type="EtcItem" name="Pedido do 1a Círculo: 1A">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o zumbi Spore no Spore Sea e traga 30 amuletos de Eva." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3746" type="EtcItem" name="Pedido do 1a Círculo: 2A">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o grandis chief gok magok e traga de volta a placa de pedra Titan." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3747" type="EtcItem" name="Pedido do 1a Círculo: 3A">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate Karul Chefe Orooto e traga de volta o Livro de Shunaiman." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3748" type="EtcItem" name="Pedido do 2a Círculo: 1C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate a árvore podre no Mar de Esporos e colete e traga 40 sementes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3749" type="EtcItem" name="Pedido do 2a Círculo 2C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Reúna e traga 40 sacos de veneno trisalim." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3750" type="EtcItem" name="Pedido do 2a Círculo 3C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o capitão ou xamã taik Orc e obtenha 50 totens taik Orc." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3751" type="EtcItem" name="Pedido do 2a Círculo: 4C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o soldado, o arqueiro e o guerreiro Harit Lizardman e colete e traga 40 Harit Farpados Colares." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3752" type="EtcItem" name="Pedido do 2a Círculo: 5C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate os Harat Ratmen que moram nas War-Torn Plains e colete 20 moedas do antigo império e leve-as para o Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3753" type="EtcItem" name="Pedido do 2a Círculo: 6C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Traga 30 couros farcran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3754" type="EtcItem" name="Pedido do 2a Círculo: 7C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate moscas no Vale Encantado, colete e traga de volta 40 fragmentos de tempestade." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3755" type="EtcItem" name="Pedido do 2a Círculo: 8C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate lieles no Vale Encantado, colete e traga de volta 40 fragmentos de tsunami." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3756" type="EtcItem" name="Pedido do 2a Círculo: 9C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o sátiro ou ancião sátiro e colete e traga 40 manes que foram obtidos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3757" type="EtcItem" name="Pedido do 2a Círculo: 10C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o corredor da floresta e colete e traga 40 fragmentos hamadryadesung." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3758" type="EtcItem" name="Pedido do 2a Círculo: 11C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o soldado vanor silenos, batedor ou guerreiro e colete e traga 30 de suas crinas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3759" type="EtcItem" name="Pedido do 2a Círculo: 12C">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate os guerreiros taik bugbear e colete e traga 30 totens falantes de bugbear." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3760" type="EtcItem" name="Pedido do 2a Círculo: 1B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o timak overlord okun e traga a cabeça." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3761" type="EtcItem" name="Pedido do 2a Círculo: 2B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o taik overlord kakran e traga a cabeça." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3762" type="EtcItem" name="Pedido do 2a Círculo: 3B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Destrua os espelhos da Floresta dos Espelhos e colete e traga 40 pedras da alma de narciso." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3763" type="EtcItem" name="Pedido do 2a Círculo: 4B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colete e traga 20 olhos de mergulho." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3764" type="EtcItem" name="Pedido do 2a Círculo: 5B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Traga 20 chifres de unicórnio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3765" type="EtcItem" name="Pedido do 2a Círculo: 6B">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate Vanor Chief Kerunos e remova e traga a crina." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3766" type="EtcItem" name="Pedido do 2a Círculo: 1A">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate os andarilhos do túmulo e colete e traga 20 crânios de pessoas executadas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3767" type="EtcItem" name="Pedido do 2a Círculo: 2A">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate Harit Chieftain Kubel, recupere o busto do Rei Travis e traga-o." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3768" type="EtcItem" name="Pedido do 2a Círculo: 3A">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate os juízes do pântano e colete e traga 10 espadas dos guarda-costas do Rei Cadmus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3769" type="EtcItem" name="Amuleto do Kadesh">
+		
+		<set name="icon" val="icon.etc_parasite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Totem obtido ao matar arqueiros ou soldados de Homem Lagarto Leto. Colete 40 e leve-os para Guilda dos Caçadores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3770" type="EtcItem" name="Colar de Jade Timak">
+		
+		<set name="icon" val="icon.etc_totem_necklace_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colar obtido ao matar o guerreiro Orc Timak ou senhores da guerra. Colete 50 e leve-os para Guilda dos Caçadores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3771" type="EtcItem" name="Fragmento de Golem Encantado">
+		
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Fragmento de golem de pedra encantada destruído. Colete 50 e leve-os para Guilda dos Caçadores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3772" type="EtcItem" name="Carne de Monstro Olho Gigante">
+		
+		<set name="icon" val="icon.etc_meat_of_monstereye_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pedaço cortado para comida do cadáver de um Monstro Olho gigante. Colete 30 e leve-os para Guilda dos Caçadores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3773" type="EtcItem" name="Ovo de Wyrm Dire">
+		
+		<set name="icon" val="icon.etc_dragon_egg_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ovo obtido de um ancião atroz feminino. Colete 40 e leve-os para Guilda dos Caçadores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3774" type="EtcItem" name="Garra de Basilisco Grd">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Garra removida do cadáver do basilisco guardião. Colete 100 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3775" type="EtcItem" name="Correntes da Alma Algemada">
+		
+		<set name="icon" val="icon.etc_chain_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Correntes enrolada no corpo de uma Alma Algemada. Colete 50 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3776" type="EtcItem" name="Presa de Windsus">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Dente gigante de um windsus. Colete 30 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3777" type="EtcItem" name="Crânio de Grandis">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Crânio obtido ao matar grandis. Colete 100 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3778" type="EtcItem" name="Amuleto de Obsidiana Taik">
+		
+		<set name="icon" val="icon.etc_totem_necklace_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Amuleto obtido ao matar arqueiros ou guerreiros Orcs Taik. Colete 50 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3779" type="EtcItem" name="Cabeça de Karul Bugbear">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cabeça cortada após matar bugbears de Karul. Colete 30 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3780" type="EtcItem" name="Amuleto Tamlin de Marfim">
+		
+		<set name="icon" val="icon.etc_stick_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Amuleto obtido ao matar Orcs Tamlin ou arqueiros Orcs Tamlin. Colete 40 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3781" type="EtcItem" name="Presa de Narak">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado de ter matado o ancião Leto Narak. Leve-o para o membro da guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3782" type="EtcItem" name="Chifre de Gárgula Encantada">
+		
+		<set name="icon" val="icon.etc_gargoyle_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Chifre obtido de um corpo de gárgula encantado destruído. Colete 50 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3783" type="EtcItem" name="Totem da Serpente Enrolada">
+		
+		<set name="icon" val="icon.etc_parasite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Estátua obtida ao matar guerreiros Orcs de Breka ou Shamen. Colete 50 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3784" type="EtcItem" name="Totem de Kadesh">
+		
+		<set name="icon" val="icon.etc_parasite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Estátua do demônio Kadesh obtida ao matar o xamã Leto Ketz. Leve-o para o membro da guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3785" type="EtcItem" name="Cabeça de Kaiki">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado de ter matado o invasor Timak Kaikee. Leve-o para o membro da guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3786" type="EtcItem" name="Saco de Veneno de Kronbe">
+		
+		<set name="icon" val="icon.etc_poison_pouch_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Saco de veneno obtido ao matar kronbe. Colete 30 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3787" type="EtcItem" name="Amuleto da Eva">
+		
+		<set name="icon" val="icon.etc_statue_of_einhasad_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O charme carregava os corpos dos antigos guerreiros élficos. Colete 30 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3788" type="EtcItem" name="Tábua do Titã">
+		
+		<set name="icon" val="icon.etc_ancient_tablet_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Tabuleta de pedra antiga recuperada do chefe grandis Gok Magok. Leve-o para o membro da guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3789" type="EtcItem" name="Livro de Shunaiman">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento antigo recuperado do Chefe Karul Orooto. Leve-o para o membro da guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3790" type="EtcItem" name="Esporos de Árvore Podre">
+		
+		<set name="icon" val="icon.etc_seed_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Semente coletada de troncos de árvores podres. Colete 40 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3791" type="EtcItem" name="Saco de Veneno Trisalim">
+		
+		<set name="icon" val="icon.etc_poison_pouch_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Saco de veneno removido do cadáver de trisalim. Colete 40 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3792" type="EtcItem" name="Totem Orc Taik">
+		
+		<set name="icon" val="icon.etc_totem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Estátua obtida ao matar Taik Orc shamen ou capitães. Colete 50 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3793" type="EtcItem" name="Colar Farpado Harit">
+		
+		<set name="icon" val="icon.etc_leash_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colar obtido ao matar soldados, arqueiros ou guerreiros lizardman de Harit. Colete 40 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3794" type="EtcItem" name="Moeda do Antigo Império">
+		
+		<set name="icon" val="icon.etc_coins_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Moeda usada durante a época do antigo Império Elmoreden. Colete 20 e leve-os para o Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3795" type="EtcItem" name="Pele de Farcran">
+		
+		<set name="icon" val="icon.etc_leather_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pele removida após matar farcran. Colete 30 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3796" type="EtcItem" name="Fragmento da Tempestade">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Minério de espírito obtido ao matar uma mosca. Colete 40 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3797" type="EtcItem" name="Fragmento da Tsunami">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Minério de espírito obtido matando um liele. Colete 40 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3798" type="EtcItem" name="Juba de Sátiro">
+		
+		<set name="icon" val="icon.etc_mane_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Juba obtido ao matar sátiros ou anciãos sátiros. Colete 40 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3799" type="EtcItem" name="Fragmento de Hamadríade">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pedra rúnica obtida ao matar o corredor da floresta. Colete 40 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

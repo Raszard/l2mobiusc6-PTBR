@@ -1,0 +1,897 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="8000" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Arco/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Lords of Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8001" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Clérigo/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Lords of Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8002" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Mago/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Lords of Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8003" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Espada/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Lords of Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8004" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Lança/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Lords of Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8005" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Arco/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Lords of Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8006" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Clérigo/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Lords of Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8007" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Mago/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Lords of Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8008" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Espada/Estacionária. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8009" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Lança/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8010" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Arco/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8011" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Clérigo/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8012" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Mago/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8013" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Espada/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8014" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Lança/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8015" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Arco/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8016" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Clérigo/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8017" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Mago/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8018" type="EtcItem" name="Bilhete do Recruta (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Espada/Estacionária. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8019" type="EtcItem" name="Bilhete do Recruta (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Lança/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8020" type="EtcItem" name="Bilhete do Recruta (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Arco/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8021" type="EtcItem" name="Bilhete do Recruta (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Clérigo/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8022" type="EtcItem" name="Bilhete do Recruta (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Mago/Estático. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8023" type="EtcItem" name="Bilhete do Recruta (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Espada/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8024" type="EtcItem" name="Bilhete do Recruta (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Lança/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8025" type="EtcItem" name="Bilhete do Recruta (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Arco/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8026" type="EtcItem" name="Bilhete do Recruta (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Clérigo/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8027" type="EtcItem" name="Bilhete do Recruta (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Mago/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Revolutionaries of Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8028" type="EtcItem" name="Bilhete do Nephilim Guerreiro">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Rune/Espada/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Lords of Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8029" type="EtcItem" name="Bilhete do Nephilim Xãma">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Rune/Mago/Móvel. O Seal of Strife só pode ser usado para colocar um mercenário quando estiver na posse dos Lords of Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8030" type="EtcItem" name="Néctar Termal">
+		
+		<set name="icon" val="icon.etc_hot_spring_nectar_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Usado durante a batalha Salão do Clã Arco-íris Nascente Este item pode ser usado no Hot Springs Yeti. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8031" type="EtcItem" name="Água Termal Minério">
+		
+		<set name="icon" val="icon.etc_hot_spring_mineral_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado durante a batalha Salão do Clã Arco-íris Nascente. Este item pode ser usado no Hot Springs Yeti. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8032" type="EtcItem" name="Fonte de Água Termal">
+		
+		<set name="icon" val="icon.etc_hot_spring_fountain_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Usado durante a batalha Salão do Clã Arco-íris Nascente. Este item pode ser usado no Hot Springs Yeti. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8033" type="EtcItem" name="Enxofre de Fonte Termal">
+		
+		<set name="icon" val="icon.etc_hot_spring_sulfur_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Usado durante a batalha Salão do Clã Arco-íris Nascente. Este item pode ser usado no Hot Springs Yeti. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8034" type="EtcItem" name="Decreto de Guerra do Salão do Clã de Rainbow Springs">
+		
+		<set name="icon" val="icon.etc_hs_agit_war_joining_certificate_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Este ingresso permite a entrada no Salão do Clã de Rainbow Springs.  É uma recompensa por pescar em Goddard." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8035" type="EtcItem" name="Fonte Termal Letra A">
+		
+		<set name="icon" val="icon.etc_alphabet_a_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8036" type="EtcItem" name="Fonte Termal Letra B">
+		
+		<set name="icon" val="icon.etc_alphabet_b_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8037" type="EtcItem" name="Fonte Termal Letra C">
+		
+		<set name="icon" val="icon.etc_alphabet_c_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8038" type="EtcItem" name="Fonte Termal Letra D">
+		
+		<set name="icon" val="icon.etc_alphabet_d_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8039" type="EtcItem" name="Fonte Termal Letra E">
+		
+		<set name="icon" val="icon.etc_alphabet_e_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8040" type="EtcItem" name="Fonte Termal Letra F">
+		
+		<set name="icon" val="icon.etc_alphabet_f_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8041" type="EtcItem" name="Fonte Termal Letra G">
+		
+		<set name="icon" val="icon.etc_alphabet_g_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8042" type="EtcItem" name="Fonte Termal Letra H">
+		
+		<set name="icon" val="icon.etc_alphabet_h_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8043" type="EtcItem" name="Fonte Termal Letra I">
+		
+		<set name="icon" val="icon.etc_alphabet_i_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8044" type="EtcItem" name="Fonte Termal Letra J">
+		
+		<set name="item_type" val="none" />
+		<set name="consume_type" val="stackable" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8045" type="EtcItem" name="Fonte Termal Letra K">
+		
+		<set name="icon" val="icon.etc_alphabet_k_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8046" type="EtcItem" name="Fonte Termal Letra L">
+		
+		<set name="icon" val="icon.etc_alphabet_l_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8047" type="EtcItem" name="Fonte Termal Letra N">
+		
+		<set name="icon" val="icon.etc_alphabet_n_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8048" type="EtcItem" name="Fonte Termal Letra O">
+		
+		<set name="icon" val="icon.etc_alphabet_o_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8049" type="EtcItem" name="Fonte Termal Letra P">
+		
+		<set name="icon" val="icon.etc_alphabet_p_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8050" type="EtcItem" name="Fonte Termal Letra R">
+		
+		<set name="icon" val="icon.etc_alphabet_r_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8051" type="EtcItem" name="Fonte Termal Letra S">
+		
+		<set name="icon" val="icon.etc_alphabet_s_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8052" type="EtcItem" name="Fonte Termal Letra T">
+		
+		<set name="icon" val="icon.etc_alphabet_t_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8053" type="EtcItem" name="Fonte Termal Letra U">
+		
+		<set name="icon" val="icon.etc_alphabet_u_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8054" type="EtcItem" name="Fonte Termal Letra W">
+		
+		<set name="icon" val="icon.etc_alphabet_w_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8055" type="EtcItem" name="Fonte Termal Letra Y">
+		
+		<set name="icon" val="icon.etc_alphabet_y_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A combinação desses textos pode conceder recompensas durante a batalha Salão do Clã Arco-íris Nascente. Não pode ser trocado ou descartado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8056" type="EtcItem" name="Quarto Chave do Esplendor">
+		
+		<set name="icon" val="icon.etc_old_key_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A chave da Sala do Esplendor no Monastério do Silêncio." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8057" type="EtcItem" name="Hemócito de Prata">
+		
+		<set name="icon" val="icon.etc_lesser_potion_clear_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A comida favorita dos animais de estimação da Rainha do Gelo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8058" type="EtcItem" name="Relatório de Pesquisa de Bloqueio">
+		
+		<set name="icon" val="icon.etc_magic_book_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Relatório de pesquisa do Dr. Chaos. Está trancado." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8059" type="EtcItem" name="Relatório de Pesquisa">
+		
+		<set name="icon" val="icon.etc_magic_book_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra o cadeado para ler o relatório de pesquisa do Dr. Chaos." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8060" type="EtcItem" name="Chave do Enigma">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A pequena chave do diário incluída no memorando." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8061" type="EtcItem" name="Memorando Rabiscado">
+		
+		<set name="icon" val="icon.etc_memopad_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Relatório de pesquisa do Dr. Chaos." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8062" type="EtcItem" name="Sangue de Homem Lagarto Maille">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Sangue obtido matando Maille Homem Lagarto." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8063" type="EtcItem" name="Perna do Araneid Rainha">
+		
+		<set name="icon" val="icon.etc_sting_b_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As pernas obtidas ao derrotar o Araneid Rainha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8064" type="EtcItem" name="Marca do Visitante">
+		
+		<set name="icon" val="icon.etc_red_rose_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Permite a entrada no Pagan`s Temple. Não perca!" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8065" type="EtcItem" name="Marca do Visitante Desbotada">
+		
+		<set name="icon" val="icon.etc_white_rose_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Esta marca desbotada permite a entrada no Pagan`s Temple." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8066" type="EtcItem" name="Coração do Necromante">
+		
+		<set name="icon" val="icon.etc_bodypart_heart_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Obtenha este coração necromântico matando Bone Animators, Bone Slayers ou Skull Animators." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8067" type="EtcItem" name="Marca de Pagan">
+		
+		<set name="icon" val="icon.etc_totem_necklace_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Permite a entrada e acesso à capela do Pagan`s Temple." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8068" type="EtcItem" name="Totem Pagão">
+		
+		<set name="icon" val="icon.etc_totem_necklace_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O totem obtido ao derrotar os pagãos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8069" type="EtcItem" name="Escritura do Monge">
+		
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A escritura obtida ao derrotar os monges dentro do Monastério do Silêncio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8070" type="EtcItem" name="Garrafa de Agua">
+		
+		<set name="icon" val="icon.etc_potion_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A garrafa de Gremory. Despeje a água no Santo Graal na Sala do Esplendor e leve-a com você." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8071" type="EtcItem" name="Garrafa de Água do Santo Graal">
+		
+		<set name="icon" val="icon.etc_potion_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A garrafa contendo a água do Santo Graal na Sala do Esplendor. Leve-o para Gremory." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8072" type="EtcItem" name="Pele de Antílope">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pele excepcional necessária para criar o pergaminho mágico." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8073" type="EtcItem" name="Pergaminho de Remoção do Campo de Força Mágica de Frintezza">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O pergaminho que permite a passagem pelo Campo de Força Mágica de Frintezza. Encontre seu guia próximo à entrada da Imperial Tomb e ele permitirá que você entre na área proibida." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8074" type="EtcItem" name="Olho Observador">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este &quot;Olho Errante&quot; tem assediado os fazendeiros de Floran. Leve-o para Almankel em Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8075" type="EtcItem" name="Fragmento de Golem de Rocha Bruta">
+		
+		<set name="icon" val="icon.etc_debris_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este é um fragmento de um Golem de Rocha Roughly Hewn. Leve-o para Almankel em Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8076" type="EtcItem" name="Escamas de Homem Lagarto Delu">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Esta é uma escala do Homem Lagarto Delu que tem assediado os fazendeiros de Floran. Leve-o para Almankel em Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8077" type="EtcItem" name="Cristal de Gelo Prateado">
+		
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cristal obtido de um monstro. Quando processado, torna-se o Cristal de Gelo Negro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8078" type="EtcItem" name="Cristal de Gelo Negro">
+		
+		<set name="icon" val="icon.etc_gem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Quando preso em um alvo, o personagem se torna violento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8079" type="EtcItem" name="Carta de Misa">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta secreta de Misa para Rafforty. Não quebre o selo!" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8080" type="EtcItem" name="Carta de Rafforty">
+		
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta secreta de Rafforty para Misa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8081" type="EtcItem" name="Pedaço da Tábua">
+		
+		<set name="icon" val="icon.etc_broken_tablet_fragment_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento de comprimido desconhecido." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8082" type="EtcItem" name="Relatório">
+		
+		<set name="icon" val="icon.etc_piece_of_report_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento do relatório da estátua de pedra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8083" type="EtcItem" name="Memorando do Escoteiro">
+		
+		<set name="icon" val="icon.etc_piece_of_report_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma nota rabiscada escrita por um batedor que vasculha o ninho." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8084" type="EtcItem" name="Cristal da Pureza">
+		
+		<set name="icon" val="icon.etc_crystal_ball_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este cristal branco foi expelido por uma fera cujo coração era puro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8085" type="EtcItem" name="Presa de Stakato">
+		
+		<set name="icon" val="icon.etc_fang_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Presas ganhas ao matar Stakatos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8086" type="EtcItem" name="Caixa Contendo O Fogo do Espírito Santo">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa contendo o Fogo do Espírito Santo" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8087" type="EtcItem" name="Boneca Amaldiçoada">
+		
+		<set name="icon" val="icon.etc_totem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma boneca encantada que dizem controlar as criaturas malignas dos Orc Ragnas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8088" type="EtcItem" name="Bens dos Túmulos Orcs">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Restos roubados por ladrões de túmulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8089" type="EtcItem" name="Bens dos Túmulo Amaldiçoados">
+		
+		<set name="icon" val="icon.etc_totem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Itens feitos por espíritos raivosos para usar força física." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8090" type="EtcItem" name="Detector de Ondas Elétricas">
+		
+		<set name="icon" val="icon.weapon_the_staff_of_hero_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Esta haste acende na presença de fortes ondas elétricas. Atualmente está apagado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8091" type="EtcItem" name="Detector de Ondas Elétricas">
+		
+		<set name="icon" val="icon.weapon_the_staff_of_hero_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Esta haste acende na presença de fortes ondas elétricas. Atualmente está aceso." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8092" type="EtcItem" name="Telescópio Cadáver de Golem">
+		
+		<set name="icon" val="icon.etc_debris_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Metal obtido ao caçar o Scout Golem. Pode estar escondendo algo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8093" type="EtcItem" name="Despachante do Golem">
+		
+		<set name="icon" val="icon.etc_mechanic_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Despachante obtido ao caçar o Telescópio Golem." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8094" type="EtcItem" name="Meio de Armazenamento">
+		
+		<set name="icon" val="icon.etc_calculator_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="O meio de armazenamento retirado do Golem. Ele está vazio." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8095" type="EtcItem" name="Meio de Armazenamento">
+		
+		<set name="icon" val="icon.etc_calculator_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O meio de armazenamento retirado do Golem. Ele contém informações." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8096" type="EtcItem" name="Caixa Preta de Ginzu Golem">
+		
+		<set name="icon" val="icon.etc_mechanic_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O dispositivo de análise obtido do Ginzu Golem." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8097" type="EtcItem" name="X-688">
+		
+		<set name="icon" val="icon.etc_map_ivory_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pergaminho curioso encontrado na estante do Dr. Chaos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8098" type="EtcItem" name="Fornecimento de Mercadorias Para Ferroviário">
+		
+		<set name="icon" val="icon.etc_squares_wood_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Suprimentos enviados por um anão ancião a um ferroviário." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="8099" type="EtcItem" name="Marca da Guilda dos Ladrões">
+		
+		<set name="icon" val="icon.etc_fang_ivory_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um dente de animal usado pelos ladrões das Planícies Plunderous." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

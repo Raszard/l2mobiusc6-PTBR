@@ -1,0 +1,973 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7000" type="EtcItem" name="Receita: Tintura Superior de SagSag+3 Int-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de SAG Sag+3 Int-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="7001" type="EtcItem" name="Receita: Tintura Superior de SAG Sag+3 Men-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para o Tintura Superior de SAG Sag+3 Men-3; pode ser usado por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="7002" type="EtcItem" name="Receita: Tintura Superior de For For+4 Vit-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de FOR For+4 Vit-4; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7003" type="EtcItem" name="Receita: Tintura Superior de For For+4 Des-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de FOR For+4 Des-4; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7004" type="EtcItem" name="Receita: Tintura Superior de Vit Vit+4 For-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de VIT Vit+4 For-4; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7005" type="EtcItem" name="Receita: Tintura Superior de Vit Vit+4 Des-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de VIT Vit+4 Des-4; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7006" type="EtcItem" name="Receita: Tintura Superior de Des Des+4 For-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de DES Des+4 For-4; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7007" type="EtcItem" name="Receita: Tintura Superior de Des Des+4 Vit-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de DES Des+4 Vit-4; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7008" type="EtcItem" name="Receita: Tintura Superior de Int Int+4 Men-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de INT Int+4 Men-4; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7009" type="EtcItem" name="Receita: Tintura Superior de Int Int+4 Sag-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de INT Int+4 Sag-4; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7010" type="EtcItem" name="Receita: Tintura Superior de Men Men+4 Int-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para o Greater Dye of MEN Men+4 Int-4; pode ser usado por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7011" type="EtcItem" name="Receita: Tintura Superior de Men Men+4 Sag-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Greater Dye of MEN Men+4 Sag-4; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7012" type="EtcItem" name="Receita: Tintura Superior de SagSag+4 Int-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de SAG Sag+4 Int-4; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7013" type="EtcItem" name="Receita: Tintura Superior de SagSag+4 Men-4; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para o Greater Dye of SAG Sag+4 Men-4; pode ser usado por todas as raças. Requer Habilidade de Criação de Item Comum Nível 6." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29000" />
+	</item>
+	<item id="7014" type="Weapon" name="Monster Only (Escudo do Dragão Negro)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="4800" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="230" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="845000" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="230" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="sDef" />
+		</for>
+	</item>
+	<item id="7015" type="Weapon" name="Promessa do Escudo do Castelo">
+		
+		<set name="icon" val="icon.shield_pledge_shield_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Um escudo que só pode ser usado pelos membros de um clã que possui um castelo." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="90" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="12900" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="90" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="sDef" />
+		</for>
+	</item>
+	<item id="7016" type="EtcItem" name="Semente: Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7017" type="EtcItem" name="Semente: Codran Azul">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Codran Azul. Para obter melhores resultados, um personagem de nível 50-60 deve plantá-lo em um monstro de nível 50-60." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7018" type="EtcItem" name="Semente: Codran Azul">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Codran Azul. Para obter melhores resultados, um personagem de nível 50-60 deve plantá-lo em um monstro de nível 50-60." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7019" type="EtcItem" name="Semente: Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="7020" type="EtcItem" name="Semente: Coda Fria">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Coda Fria. Para obter melhores resultados, um personagem de nível 11-21 deve plantá-lo em um monstro de nível 11-21." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="7021" type="EtcItem" name="Semente: Codran Frio">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Codran Frio. Para obter melhores resultados, um personagem de nível 47-57 deve plantá-lo em um monstro de nível 47-57." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="7022" type="EtcItem" name="Semente: Codran Frio">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Codran Frio. Para obter melhores resultados, um personagem de nível 47-57 deve plantá-lo em um monstro de nível 47-57." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="7023" type="EtcItem" name="Semente: Codran do Deserto">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Codran do Deserto. Para obter melhores resultados, um personagem de nível 59-69 deve plantá-lo em um monstro de nível 59-69." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="7024" type="EtcItem" name="Semente: Codran do Deserto">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto do Codran do Deserto. Para obter melhores resultados, um personagem de nível 59-69 deve plantá-lo em um monstro de nível 59-69." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="7025" type="EtcItem" name="Semente: Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7026" type="EtcItem" name="Semente: Coda Dourada">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Coda do Deserto. Para obter melhores resultados, um personagem de nível 17-27 deve plantá-lo em um monstro de nível 17-27." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="7027" type="EtcItem" name="Semente: Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7028" type="EtcItem" name="Semente: Codran Grande">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela produzirá o fruto do Codran Grande. Para obter melhores resultados, um personagem de nível 56-66 deve plantá-lo em um monstro de nível 56-66." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75" />
+	</item>
+	<item id="7029" type="EtcItem" name="Semente: Codran Grande">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela produzirá o fruto do Codran Grande. Para obter melhores resultados, um personagem de nível 56-66 deve plantá-lo em um monstro de nível 56-66." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75" />
+	</item>
+	<item id="7030" type="EtcItem" name="Semente: Alternativo Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Alternativo Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7031" type="EtcItem" name="Semente: Alternativo Codran Azul">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Alternativo Codran Azul. Para obter melhores resultados, um personagem de nível 50-60 deve plantá-lo em um monstro de nível 50-60." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7032" type="EtcItem" name="Semente: Alternativo Codran Azul">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Codran Azul. Para obter melhores resultados, um personagem de nível 50-60 deve plantá-lo em um monstro de nível 50-60." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7033" type="EtcItem" name="Semente: Alternativo Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Alternativo Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="7034" type="EtcItem" name="Semente: Alternativa Coda Fria">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto da Alternativa Coda Fria. Para obter melhores resultados, um personagem de nível 11-21 deve plantá-lo em um monstro de nível 11-21." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="7035" type="EtcItem" name="Semente: Alternativa Codran Frio">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Alternativo Codran Frio. Para obter melhores resultados, um personagem de nível 47-57 deve plantá-lo em um monstro de nível 47-57." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="7036" type="EtcItem" name="Semente: Alternativa Codran Frio">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Codran Frio. Para obter melhores resultados, um personagem de nível 47-57 deve plantá-lo em um monstro de nível 47-57." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="7037" type="EtcItem" name="Semente: Alternativo Codran do Deserto">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Alternativo Codran do Deserto. Para obter melhores resultados, um personagem de nível 59-69 deve plantá-lo em um monstro de nível 59-69." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="7038" type="EtcItem" name="Semente: Alternativo Codran do Deserto">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto do Alternativo Codran do Deserto. Para obter melhores resultados, um personagem de nível 59-69 deve plantá-lo em um monstro de nível 59-69." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="7039" type="EtcItem" name="Semente: Alternativo Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7040" type="EtcItem" name="Semente: Alternativa Coda Dourada">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto da Alternativa Coda Dourada. Para obter melhores resultados, um personagem de nível 17-27 deve plantá-lo em um monstro de nível 17-27." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="7041" type="EtcItem" name="Semente: Alternativo Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="7042" type="EtcItem" name="Semente: Alternativo Codran Grande">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Alternativo Codran Grande. Para obter melhores resultados, um personagem de nível 56-66 deve plantá-lo em um monstro de nível 56-66." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75" />
+	</item>
+	<item id="7043" type="EtcItem" name="Semente: Alternativo Codran Grande">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Codran Grande. Para obter melhores resultados, um personagem de nível 56-66 deve plantá-lo em um monstro de nível 56-66." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75" />
+	</item>
+	<item id="7044" type="EtcItem" name="Semente: Alternativo Cobol Vermelho">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Alternativo Cobol Vermelho. Para obter melhores resultados, um personagem de nível 26-36 deve plantá-lo em um monstro de nível 26-36." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="7045" type="EtcItem" name="Semente: Alternativo Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Alternativo Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="7046" type="EtcItem" name="Semente: Alternativo Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Alternativo Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="7047" type="EtcItem" name="Semente: Alternativo Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Alternativo Codran do Mar. Para melhores resultados, um personagem de nível 45-55 deve plantá-lo em um monstro de nível 45-55." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7048" type="EtcItem" name="Semente: Alternativo Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Alternativo Codran do Mar. Para melhores resultados, um personagem de nível 45-55 deve plantá-lo em um monstro de nível 45-55." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7049" type="EtcItem" name="Semente: Alternativo Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Alternativo Codran do Mar. Para melhores resultados, um personagem de nível 45-55 deve plantá-lo em um monstro de nível 45-55." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7050" type="EtcItem" name="Semente: Alternativo Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Alternativo Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7051" type="EtcItem" name="Semente: Cobol Vermelho">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Cobol Vermelho. Para obter melhores resultados, um personagem de nível 26-36 deve plantá-lo em um monstro de nível 26-36." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="7052" type="EtcItem" name="Semente: Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="7053" type="EtcItem" name="Semente: Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="7054" type="EtcItem" name="Semente: Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Codran do Mar. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7055" type="EtcItem" name="Semente: Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Codran do Mar. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7056" type="EtcItem" name="Semente: Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Codran do Mar. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7057" type="EtcItem" name="Semente: Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7058" type="Weapon" name="Chrono Darbuka">
+		
+		<set name="icon" val="icon.weapon_chrono_darbuka_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Lembrança da Crônica IV!!!" />
+		<set name="p_dam" val="1" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="1" />
+		<set name="dropable" val="false" />
+		<for>
+			<set val="1" order="0x08" stat="pAtk" />
+			<set val="1" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7059" type="Armor" name="Máscara do Festival de Ouro">
+		
+		<set name="icon" val="icon.accessory_taiwan_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Item exclusivo entregue aos participantes da convenção." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7060" type="Armor" name="Faixa de Cabelo Tateossiana">
+		
+		<set name="icon" val="icon.accessory_tateossian_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Faixa de Cabelo Tateossiana" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="dropable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7061" type="EtcItem" name="Cristal de Eco - Tema de Aniversário">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a música tema do aniversário. Só pode ser usado uma vez." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7062" type="EtcItem" name="Cristal de Eco - Tema do Casamento">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a música tema de um casamento. Só pode ser usado uma vez." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7063" type="EtcItem" name="Mapa - Floresta dos Mortos">
+		
+		<set name="icon" val="icon.etc_map_ivory_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um mapa desenhado por um velho caçador de tesouros. Clique duas vezes para visualizar o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7064" type="EtcItem" name="Diário da Lidia">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Escrito pessoalmente por Lidia. Clique duas vezes para visualizar o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7065" type="EtcItem" name="Carta da Lidia">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Carta enviada por Lidia. Clique duas vezes para visualizar o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7066" type="EtcItem" name="Contrato">
+		
+		<set name="icon" val="icon.etc_permit_card_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="O contrato perdido. Clique duas vezes para visualizar o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7067" type="EtcItem" name="Isca Especial 1">
+		
+		<set name="icon" val="icon.etc_ultra_bomb_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Isca especial usada para obter o baú do tesouro." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7068" type="EtcItem" name="Isca Especial 2">
+		
+		<set name="icon" val="icon.etc_ultra_bomb_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Isca especial usada para obter o baú do tesouro." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7069" type="EtcItem" name="Isca Especial 3">
+		
+		<set name="icon" val="icon.etc_ultra_bomb_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Isca especial usada para obter o baú do tesouro." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7070" type="EtcItem" name="Isca Especial 4">
+		
+		<set name="icon" val="icon.etc_ultra_bomb_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Isca especial usada para obter o baú do tesouro." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7071" type="EtcItem" name="Peixe Especial 1">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Baú do tesouro obtido pela pesca." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7072" type="EtcItem" name="Peixe Especial 2">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Baú do tesouro obtido pela pesca." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7073" type="EtcItem" name="Peixe Especial 3">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Baú do tesouro obtido pela pesca." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7074" type="EtcItem" name="Peixe Especial 4">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Baú do tesouro obtido pela pesca." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7075" type="EtcItem" name="Passe de Entrada Para O Sepulcro">
+		
+		<set name="icon" val="icon.etc_bead_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Passe necessário para entrar no 4a sepulcro no Túmulo Imperial. Peça instruções ao Espírito Sem Nome na entrada do 4a sepulcro." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7076" type="EtcItem" name="Pano Misterioso">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Tecido premium usado na confecção de roupas formais" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7077" type="EtcItem" name="Caixa de Joias">
+		
+		<set name="icon" val="icon.etc_treasure_box_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Contém as joias que irão adornar o Traje Formal" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7078" type="EtcItem" name="Kit de Costura">
+		
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Contém as ferramentas necessárias para costurar (criar) roupas formais" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7079" type="EtcItem" name="Fragmento Dimensional">
+		
+		<set name="icon" val="icon.etc_broken_crystal_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Joia que difunde a energia da dimensão. Necessário para sobreviver na Fenda Dimensional." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7080" type="EtcItem" name="Cristal de Gelo">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Entidade bizarra que constantemente emite ar frio" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7081" type="EtcItem" name="Pedra Divina da Sabedoria">
+		
+		<set name="icon" val="icon.etc_stone_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Fragmento de rocha emanando uma energia misteriosa" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7082" type="EtcItem" name="Relatório da Guilda">
+		
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento contendo informações sobre Demon Allector. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7083" type="EtcItem" name="Relatório da Guilda">
+		
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento contendo informações sobre Demon Allector. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7084" type="EtcItem" name="Relatório da Guilda">
+		
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento contendo informações sobre Demon Allector. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7085" type="EtcItem" name="Relatório da Guilda">
+		
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento contendo informações sobre a Iconoclásia do Grande Anjo. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7086" type="EtcItem" name="Relatório da Guilda">
+		
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento contendo informações sobre a Iconoclásia do Grande Anjo. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7087" type="EtcItem" name="Livro Esfarrapado">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento contendo informações sobre demônios. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7088" type="EtcItem" name="Livro Esfarrapado">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento contendo informações sobre demônios. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7089" type="EtcItem" name="Livro Esfarrapado">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento contendo informações sobre demônios. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7090" type="EtcItem" name="Livro Esfarrapado">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento contendo informações sobre demônios. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7091" type="EtcItem" name="Relatório da Guilda">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento secreto usado na guilda. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7092" type="EtcItem" name="Relatório da Guilda">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Documento secreto usado na guilda. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7093" type="EtcItem" name="Escultura do Cavaleiro Caído">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Contém informações sobre Adhil, o cavaleiro caído. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7094" type="EtcItem" name="Registro da Mãe Árvore Guardiã">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Contém informações sobre o Guardião da Árvore Mãe. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7095" type="EtcItem" name="Crítica à Canção de Biel">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Contém informações sobre Biel. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7096" type="EtcItem" name="Os Últimos Dias do Espadachim de Ferro">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Contém a história do Espadachim Ferro. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7097" type="EtcItem" name="Contemplação do Exército de Asa Branca">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Contém a história de White Wing, o exército de deus. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7098" type="EtcItem" name="Registro do Traidor Muhark">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Contém a história do traidor Muhark. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7099" type="EtcItem" name="Livro Secreto de Khavatari">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Contém instruções para o uso da energia de Khavatari, bem como instruções sobre como lidar com aqueles subjugados por sua maldade. Clique duas vezes para visualizar o conteúdo." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

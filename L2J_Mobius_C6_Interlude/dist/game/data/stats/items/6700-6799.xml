@@ -1,0 +1,1022 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6700" type="EtcItem" name="Correntes de Colar Tateossiana Selada">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer o Colar Tateossiano Selado. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="16706" />
+	</item>
+	<item id="6701" type="EtcItem" name="Peitoral do Cruzado Imperial Selado">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer o Peitoral do Cruzado Imperial Selado. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37565" />
+	</item>
+	<item id="6702" type="EtcItem" name="Padrão de Calça do Cruzado Imperial Lacrado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer as Calça do Cruzado Imperial Seladas. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="29182" />
+	</item>
+	<item id="6703" type="EtcItem" name="Projeto de Manoplas do Cruzado Imperial Selado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer a manopla do cruzado imperial selada. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="14047" />
+	</item>
+	<item id="6704" type="EtcItem" name="Projeto de Botas Cruzado Imperial Seladas">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer as Calça do Cruzado Imperial Seladas. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="14047" />
+	</item>
+	<item id="6705" type="EtcItem" name="Peça do Escudo do Cruzado Imperial Selada">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer o Escudo do Cruzado Imperial Selado. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="14341" />
+	</item>
+	<item id="6706" type="EtcItem" name="Padrão de Capacete Cruzado Imperial Lacrado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer o Capacete do Cruzado Imperial Selado. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12329" />
+	</item>
+	<item id="6707" type="EtcItem" name="Parte da Armadura Dracônica de Couro Selada">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer a Armadura Dracônica de Couro Selada. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40365" />
+	</item>
+	<item id="6708" type="EtcItem" name="Tecido de Luvas Dracônica de Couro Selado">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer as Luvas Dracônica de Couro Selado. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="14047" />
+	</item>
+	<item id="6709" type="EtcItem" name="Projeto de Botas Dracônica de Couro Selado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer as Botas de Couro Dracônica Selada. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="14047" />
+	</item>
+	<item id="6710" type="EtcItem" name="Padrão de Capacete Dracônico de Couro Selado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer o Capacete Dracônico de Couro Selado. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12329" />
+	</item>
+	<item id="6711" type="EtcItem" name="Peça de Manto dos Arcanos Maiores Selada">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer o Manto dos Arcanos Maiores Selados. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40365" />
+	</item>
+	<item id="6712" type="EtcItem" name="Tecido de Luvas dos Arcanos Maiores Selados">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer as Luvas Seladas dos Arcanos Maiores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="14047" />
+	</item>
+	<item id="6713" type="EtcItem" name="Projeto de Botas dos Arcanos Maiores Selados">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer as Botas Seladas dos Arcanos Maiores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="14047" />
+	</item>
+	<item id="6714" type="EtcItem" name="Padrão de Diamante dos Arcanos Maiores Selados">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal necessário para um Anão fazer o Diadema dos Arcanos Maiores Selados. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12329" />
+	</item>
+	<item id="6715" type="Weapon" name="Monster Only (Silenos Archer)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1950" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="16" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="1" />
+		<set name="m_dam" val="6" />
+		<set name="price" val="768" />
+		<for>
+			<set val="16" order="0x08" stat="pAtk" />
+			<set val="6" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6716" type="Weapon" name="Monster Only (Silenos Xãma)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1080" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="11" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="12" />
+		<set name="price" val="12500" />
+		<for>
+			<set val="11" order="0x08" stat="pAtk" />
+			<set val="12" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6717" type="Weapon" name="Monster Only (Guerreiro Einhasad)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="24" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="17" />
+		<set name="price" val="136000" />
+		<for>
+			<set val="24" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6718" type="Weapon" name="Monster Only (Einhasad Xãma)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="24" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="17" />
+		<set name="price" val="136000" />
+		<for>
+			<set val="24" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6719" type="Weapon" name="Monster Only (Orc Ketra Chieftain)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="990" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="141" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="104" />
+		<set name="price" val="4780000" />
+		<set name="crystal_count" val="1912" />
+		<for>
+			<set val="141" order="0x08" stat="pAtk" />
+			<set val="104" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6720" type="Weapon" name="Monster Only (Sombra de Halisha)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1950" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="16" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="1" />
+		<set name="m_dam" val="6" />
+		<set name="price" val="768" />
+		<for>
+			<set val="16" order="0x08" stat="pAtk" />
+			<set val="6" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6721" type="Weapon" name="Monster Only (Shield Of Imperial Warlord Zombie)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1430" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="47" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="39" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="47" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="sDef" />
+		</for>
+	</item>
+	<item id="6722" type="Weapon" name="Monster Only (Ahrimanes)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="2080" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="236" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="99" />
+		<set name="price" val="13100000" />
+		<set name="crystal_count" val="1746" />
+		<for>
+			<set val="236" order="0x08" stat="pAtk" />
+			<set val="99" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6723" type="Weapon" name="Monster Only (Guerreiro Vampiro)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="2090" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="112" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="54" />
+		<set name="price" val="1800000" />
+		<set name="crystal_count" val="3272" />
+		<for>
+			<set val="112" order="0x08" stat="pAtk" />
+			<set val="54" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6724" type="Armor" name="Brinco Tateossiano Selado">
+		
+		<set name="icon" val="icon.accessory_tateossian_earring_i02" />
+		<set name="bodypart" val="rear,lear" />
+		<set name="desc" val="O selo pode ser quebrado com a ajuda do Ferreiro de Mamom. Quando o selo é quebrado, o efeito de Def.M+3 e MP+31 é dado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="s" />
+		<set name="m_def" val="68" />
+		<set name="price" val="3700000" />
+		<set name="crystal_count" val="185" />
+		<for>
+			<add val="68" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="6725" type="Armor" name="Anel Tateossiano Selado">
+		
+		<set name="icon" val="icon.accessory_tateossian_ring_i02" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="O selo deste item pode ser quebrado passando pelo Ferreiro de Mamom. Quando o selo for rompido, produzirá os efeitos de Def.M +2 e PM+21." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="s" />
+		<set name="m_def" val="46" />
+		<set name="price" val="2470000" />
+		<set name="crystal_count" val="123" />
+		<for>
+			<add val="46" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="6726" type="Armor" name="Colar Tateossiano Selado">
+		
+		<set name="icon" val="icon.accessory_tateossian_necklace_i02" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="O selo pode ser quebrado com a ajuda do Ferreiro de Mamom. Uma vez que o selo é quebrado, o efeito de Def.M+4 e MP+42 são dados." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="s" />
+		<set name="m_def" val="91" />
+		<set name="price" val="4940000" />
+		<set name="crystal_count" val="247" />
+		<for>
+			<add val="91" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="6727" type="EtcItem" name="Semente: Alternativa Coba Grande">
+		
+		<set name="icon" val="icon.etc_great_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Alternativa Coba Grande. Para melhores resultados, um personagem de nível 80-90 deve plantá-lo em um monstro de nível 80-90." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="6728" type="EtcItem" name="Semente: Alternativa Coba do Mar">
+		
+		<set name="icon" val="icon.etc_sea_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o Alternativo fruto da Coba do Mar. Para obter melhores resultados, um personagem de nível 74-84 deve plantá-lo em um monstro de nível 74-84." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="6729" type="EtcItem" name="Semente: Alternativa Coba do Mar">
+		
+		<set name="icon" val="icon.etc_sea_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o Alternativo fruto da Coba do Mar. Para obter melhores resultados, um personagem de nível 74-84 deve plantá-lo em um monstro de nível 74-84." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="6730" type="EtcItem" name="Semente: Alternativa Coba do Mar">
+		
+		<set name="icon" val="icon.etc_sea_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Alternativo fruto da Coba do Mar. Para obter melhores resultados, um personagem de nível 74-84 deve plantá-lo em um monstro de nível 74-84." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="6731" type="EtcItem" name="Semente: Alternativa Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto da Alternativa Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6732" type="EtcItem" name="Semente: Alternativa Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto da Alternativa Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6733" type="EtcItem" name="Semente: Alternativa Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto da Alternativa Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6734" type="EtcItem" name="Semente: Alternativa Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Alternativa Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6735" type="EtcItem" name="Semente: Alternativa Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Alternativa Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6736" type="EtcItem" name="Semente: Alternativa Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto da Alternativa Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="6737" type="EtcItem" name="Semente: Alternativa Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto da Alternativa Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="6738" type="EtcItem" name="Semente: Alternativa Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto da Alternativa Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="6739" type="EtcItem" name="Semente: Alternativa Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Alternativa Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="6740" type="EtcItem" name="Semente: Alternativa Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ela produzirá o fruto da Alternativa Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="6741" type="EtcItem" name="Semente: Alternativa Coba Dupla">
+		
+		<set name="icon" val="icon.etc_twin_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Alternativa Coba Dupla. Para obter melhores resultados, um personagem de nível 77-87 deve plantá-lo em um monstro de nível 77-87." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="6742" type="EtcItem" name="Semente: Alternativa Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto da Alternativa Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6743" type="EtcItem" name="Semente: Alternativa Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto da Alternativa Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6744" type="EtcItem" name="Semente: Alternativa Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto da Alternativa Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6745" type="EtcItem" name="Semente: Alternativa Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Alternativa Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6746" type="EtcItem" name="Semente: Alternativa Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Alternativa Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6747" type="EtcItem" name="Semente: Alternativa Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto da Alternativa Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6748" type="EtcItem" name="Semente: Alternativa Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto da Alternativa Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6749" type="EtcItem" name="Semente: Alternativa Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto da Alternativa Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6750" type="EtcItem" name="Semente: Alternativa Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Alternativa Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6751" type="EtcItem" name="Semente: Alternativa Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Alternativa Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6752" type="EtcItem" name="Semente: Alternativa Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Alternativa Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6753" type="EtcItem" name="Semente: Coba Grande">
+		
+		<set name="icon" val="icon.etc_great_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Coba Grande. Para melhores resultados, um personagem de nível 80-90 deve plantá-lo em um monstro de nível 80-90." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="6754" type="EtcItem" name="Semente: Coba do Mar">
+		
+		<set name="icon" val="icon.etc_sea_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Coba do Mar. Para obter melhores resultados, um personagem de nível 74-84 deve plantá-lo em um monstro de nível 74-84." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="6755" type="EtcItem" name="Semente: Coba do Mar">
+		
+		<set name="icon" val="icon.etc_sea_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ele dará o fruto do Coba do Mar. Para obter melhores resultados, um personagem de nível 74-84 deve plantá-lo em um monstro de nível 74-84." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="6756" type="EtcItem" name="Semente: Coba do Mar">
+		
+		<set name="icon" val="icon.etc_sea_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto do Coba do Mar. Para obter melhores resultados, um personagem de nível 74-84 deve plantá-lo em um monstro de nível 74-84." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="6757" type="EtcItem" name="Semente: Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ele dará o fruto da Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6758" type="EtcItem" name="Semente: Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto da Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6759" type="EtcItem" name="Semente: Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto da Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6760" type="EtcItem" name="Semente: Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6761" type="EtcItem" name="Semente: Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6762" type="EtcItem" name="Semente: Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="6763" type="EtcItem" name="Semente: Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="6764" type="EtcItem" name="Semente: Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="6765" type="EtcItem" name="Semente: Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto do Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="6766" type="EtcItem" name="Semente: Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto do Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="6767" type="EtcItem" name="Semente: Coba Dupla">
+		
+		<set name="icon" val="icon.etc_twin_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto do Coba Dupla. Para obter melhores resultados, um personagem de nível 77-87 deve plantá-lo em um monstro de nível 77-87." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="6768" type="EtcItem" name="Semente: Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto da Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6769" type="EtcItem" name="Semente: Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ele dará o fruto da Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6770" type="EtcItem" name="Semente: Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ele dará o fruto da Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6771" type="EtcItem" name="Semente: Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6772" type="EtcItem" name="Semente: Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6773" type="EtcItem" name="Semente: Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto da Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6774" type="EtcItem" name="Semente: Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto da Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6775" type="EtcItem" name="Semente: Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de aden e ele dará o fruto da Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6776" type="EtcItem" name="Semente: Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto da Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6777" type="EtcItem" name="Semente: Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Goddard e ela dará o fruto da Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6778" type="EtcItem" name="Semente: Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="6779" type="EtcItem" name="Bilhete do Mercenário (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Estático" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6780" type="EtcItem" name="Bilhete do Mercenário (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Lança/Estático" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6781" type="EtcItem" name="Bilhete do Mercenário (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Arco/Estático" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6782" type="EtcItem" name="Bilhete do Mercenário (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Clérigo/Estático" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6783" type="EtcItem" name="Bilhete do Mercenário (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Mago/Estático" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6784" type="EtcItem" name="Bilhete do Mercenário (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Móvel" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6785" type="EtcItem" name="Bilhete do Mercenário (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Lança/Móvel" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6786" type="EtcItem" name="Bilhete do Mercenário (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Arco/Móvel" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6787" type="EtcItem" name="Bilhete do Mercenário (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Clérigo/Móvel" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6788" type="EtcItem" name="Bilhete do Mercenário (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Mago/Móvel" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6789" type="EtcItem" name="Bilhete do Mercenário (Teleporter1)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Goddard, no Teleporter ou dentro do castelo, este bilhete permite o teletransporte para o interior do castelo ou para a localização do guardião." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6790" type="EtcItem" name="Bilhete do Mercenário (Teleporter2)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Goddard, no Teleporter ou dentro do castelo, este bilhete permite o teletransporte para o castelo exterior ou para a localização do guardião." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6791" type="EtcItem" name="Bilhete do Mercenário (Teleporter3)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Goddard, no Teleporter ou dentro do castelo, este bilhete permite o teletransporte para o interior ou exterior do castelo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6792" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Estático. Postar impossível quando Seal of Strife é propriedade de Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6793" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Lança/Estático. Postar impossível quando Seal of Strife é propriedade de Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6794" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Arco/Estático. Postar impossível quando Seal of Strife é propriedade de Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6795" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Clérigo/Estático. Postar impossível quando Seal of Strife é propriedade de Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6796" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Mago/Estático. Postar impossível quando Seal of Strife é propriedade de Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6797" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Móvel. Postar impossível quando Seal of Strife é propriedade de Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6798" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Lança/Móvel. Postar impossível quando Seal of Strife é propriedade de Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6799" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Arco/Móvel. Postar impossível quando Seal of Strife é propriedade de Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+</list>

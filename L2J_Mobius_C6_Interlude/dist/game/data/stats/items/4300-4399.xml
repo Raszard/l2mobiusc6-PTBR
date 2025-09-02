@@ -1,0 +1,908 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="4300" type="EtcItem" name="Documento de Operação - 2/10">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este documento foi encontrado na carga da Guilda Comercial. O documento contém várias informações sobre Innadril. Como isso pode ter acontecido...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4301" type="EtcItem" name="Documento de Operação - 3/10">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este documento foi encontrado na carga da Guilda Comercial. O documento contém várias informações sobre Innadril. Como isso pode ter acontecido...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4302" type="EtcItem" name="Documento de Operação - 4/10">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este documento foi encontrado na carga da Guilda Comercial. O documento contém várias informações sobre Innadril. Como isso pode ter acontecido...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4303" type="EtcItem" name="Documento de Operação - 5/10">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este documento foi encontrado na carga da Guilda Comercial. O documento contém várias informações sobre Innadril. Como isso pode ter acontecido...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4304" type="EtcItem" name="Documento de Operação - 6/10">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este documento foi encontrado na carga da Guilda Comercial. O documento contém várias informações sobre Innadril. Como isso pode ter acontecido...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4305" type="EtcItem" name="Documento de Operação - 7/10">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este documento foi encontrado na carga da Guilda Comercial. O documento contém várias informações sobre Innadril. Como isso pode ter acontecido...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4306" type="EtcItem" name="Documento de Operação - 8/10">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este documento foi encontrado na carga da Guilda Comercial. O documento contém várias informações sobre Innadril. Como isso pode ter acontecido...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4307" type="EtcItem" name="Documento de Operação - 9/10">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este documento foi encontrado na carga da Guilda Comercial. O documento contém várias informações sobre Innadril. Como isso pode ter acontecido...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4308" type="EtcItem" name="Documento de Operação - 10/10">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este documento foi encontrado na carga da Guilda Comercial. O documento contém várias informações sobre Innadril. Como isso pode ter acontecido...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4309" type="EtcItem" name="Ordem de Operação Concluída">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro composto por 10 páginas de ordens de operação encadernadas. A quem devemos levá-lo...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4310" type="EtcItem" name="Projeto de Lei de Iason Heine">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O valor de face da nota é de 1.000 adena. Se você levá-lo ao Roman of the Ferreiro Guild em Innadril, poderá usá-lo para comprar vários ingredientes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4311" type="EtcItem" name="Diário de Gillian">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="diário de Gillian. A última entrada foi feita há um ano." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4312" type="EtcItem" name="Notas de Gillian">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Letras parciais de uma música que Gillian estava anotando." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4313" type="EtcItem" name="Música Inacabada">
+		
+		<set name="icon" val="icon.etc_musical_note_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma partitura inacabada de uma canção que Gilian compôs para um ex-amante." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4314" type="EtcItem" name="Coração de Gillian">
+		
+		<set name="icon" val="icon.etc_bodypart_heart_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O coração que Gillian jogou fora para esquecer seus sentimentos de amor. Devolva-o ao Revenant of Gillian." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4315" type="EtcItem" name="Relíquia da Tribo Gandi">
+		
+		<set name="icon" val="icon.etc_royal_seal_of_lord_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O objeto sagrado da tribo Gandi que foi recuperado dos Bugbears. Leve-o para Gandi Chief Chianta na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4316" type="EtcItem" name="Flauta do Cisne">
+		
+		<set name="icon" val="icon.etc_dragon_flute_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma flauta que Bardo Swan obteve como presente para o músico Nanarin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4317" type="EtcItem" name="Carta do Cisne">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de amor que o Bardo Swan quer enviar ao músico Nanarin junto com a flauta. Leve-os ao músico Nanarin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4318" type="EtcItem" name="Roupas de Evento">
+		
+		<set name="icon" val="icon.etc_ladys_dress_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um presente que o Músico Nanarin está enviando para o Músico Barbado. Leve-o para Barbado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4319" type="EtcItem" name="Flauta de Nanarin">
+		
+		<set name="icon" val="icon.etc_dragon_flute_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um presente que o Músico Nanarin está enviando para o Músico Barbado. Leve-o para Barbado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4320" type="EtcItem" name="Cerveja Preta de Sabrin">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um presente que o Músico Nanarin está enviando para o Músico Barbado. Leve-o para Barbado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4321" type="EtcItem" name="Cerveja Preta Roubada">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cerveja preta que foi roubada de Jonas. Leve-o ao Comerciante Sabrin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4322" type="EtcItem" name="Roupas Roubadas Para Eventos">
+		
+		<set name="icon" val="icon.etc_ladys_dress_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Roupas de eventos que foram roubadas da Comerciante Sônia. Leve-os ao Guarda Xaber." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4323" type="EtcItem" name="Chave do Baú de Roupas">
+		
+		<set name="icon" val="icon.etc_old_key_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A chave dada por Bardo Swan. Use esta chave para abrir o baú de roupas e recuperar as roupas do evento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4324" type="EtcItem" name="Chave do Baú de Cerveja">
+		
+		<set name="icon" val="icon.etc_old_key_i02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A chave dada por Bardo Swan. Use esta chave para abrir a caixa de cerveja e tirar a cerveja preta de dentro dela." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4325" type="EtcItem" name="Folha de Fada">
+		
+		<set name="icon" val="icon.etc_leaf_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma folha dada pela Fada Mimyu para colocar na ferida do pescoço da fada que foi infligida por um filhote." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4326" type="EtcItem" name="Crânio do Ratman Scavenger">
+		
+		<set name="icon" val="icon.etc_pet_arms_i04" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cabeças de Ratman Scavengers que você caçou depois de receber um pedido de Katari. Colete 10 deles e leve-os para Katari." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4327" type="EtcItem" name="Cauda do Cão de Guerra Turek">
+		
+		<set name="icon" val="icon.etc_mane_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As caudas dos Cão de Guerra Turek que Piotur pede para você pegar. Colete 10 deles e leve-os para Piotur." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4328" type="EtcItem" name="Coração do Chefão Tirano">
+		
+		<set name="icon" val="icon.etc_heart_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Coração do Chefão Tirano. Leve-o para o Ancião Casian." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4329" type="EtcItem" name="Saco de Veneno de Tarântula Trisalim">
+		
+		<set name="icon" val="icon.etc_poison_pouch_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os sacos de veneno de Tarântulas Trisalim que Mestre Joan pediu para você caçar. Colete três e leve-os ao Mestre Joan." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4330" type="EtcItem" name="Algemas do Penitente">
+		
+		<set name="icon" val="icon.etc_leash_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pesado conjunto de algemas forjadas a mando do Juiz Negro. Leve-os ao Juiz Negro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4331" type="EtcItem" name="Manual de Algemas">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Armação do Ferreiro x 1, Aço x 5, Pepita de Adamantita x 2, Pepita de Prata x 10, Carvão Coque x 10" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4332" type="EtcItem" name="Amuleto Tarlk">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca que pode ser obtida capturando um Tarlk Bugbear ou um Tarlk Basilisk. Colete 30 e leve-os a um Clan Hall Herald." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4333" type="EtcItem" name="Certificado do Concurso">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um certificado que pode ser apresentado para participar da caça aos Basiliscos Tarlk, um concurso preliminar para uma Guerra de Cerco ao Clan Hall." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4334" type="EtcItem" name="Sangue de Formiga">
+		
+		<set name="icon" val="icon.etc_reagent_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Fluidos corporais extraídos de formigas ou capitães de formigas. Colete 20 e leve-os ao Ancião Casian." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4335" type="EtcItem" name="Tecido Nervoso da Formiga Nobre">
+		
+		<set name="icon" val="icon.etc_bodypart_brain_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O tecido nervoso colhido da cabeça de uma formiga nobre. Leve-o para Elder Casian junto com o Ant's Ichor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4336" type="EtcItem" name="Enzima de Casian">
+		
+		<set name="icon" val="icon.etc_spell_shot_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Enzima criada pelo Ancião Casian. Encontre as larvas de formigas dormindo dentro do Ant Nest Dungeon e administre a enzima a elas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4337" type="EtcItem" name="Couro de Crocodilo">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Peles obtidas de jacarés capturados na ilha Alligator. Você pode vendê-lo para Enverun." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4338" type="EtcItem" name="Couro de Crocodilo Com Dorso Azul">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Couro de Jacarés Blue Back capturados na Ilha dos Jacarés. Você pode vendê-lo para Enberun por um preço alto." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4339" type="EtcItem" name="Couro de Crocodilo Cravejado de Joias">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A piece of Couro de Crocodilo Cravejado de Joias caught on Alligator Island. You can sell it to Enberun at a high price." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4340" type="EtcItem" name="Certificado de Aprovação Para Criar Um Cinto">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Se você pegar uma quantidade suficiente de Couro de Jacaré e mostrá-lo a Gabana, um mestre artesão de couro, você poderá fazer um Cinto de Couro de Jacaré." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4341" type="EtcItem" name="Certificado de Aprovação Para Criar Uma Bolsa">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Se você pegar uma quantidade suficiente de Couro de Jacaré e mostrá-lo a Gabana, um mestre artesão de couro, você poderá fazer uma Bolsa de Couro de Jacaré." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4342" type="EtcItem" name="Cristal de Água">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de cristal que contém a energia da água. Você deve encontrar a Estátua de Pedra da Água e dedicá-la à estátua." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4343" type="EtcItem" name="Cristal de Fogo">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de cristal que contém a energia do fogo. Você deve encontrar a Estátua de Fogo de Pedra e dedicá-la à estátua." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4344" type="EtcItem" name="Cristal do Vento">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de cristal que contém a energia do vento. Você deve encontrar a Estátua de Pedra do Vento e dedicá-la à estátua." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4345" type="EtcItem" name="Cristal da Terra">
+		
+		<set name="icon" val="icon.etc_gem_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de cristal que contém a energia da terra. Você deve encontrar a Estátua de Pedra da Terra e dedicá-la à estátua." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4346" type="EtcItem" name="Cristal da Escuridão">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de cristal que contém a energia das trevas Você deve encontrar a Estátua de Pedra das Trevas e dedicá-la à estátua." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4347" type="EtcItem" name="Cristal de Luz">
+		
+		<set name="icon" val="icon.etc_gem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de cristal que contém a energia da luz. Você deve encontrar a Estátua de Pedra da Leve e dedicá-la à estátua." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4348" type="EtcItem" name="Cristal de Jade">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Cristais de jade que foram recolhidos no Vale Encantado. Colete-os e leve-os para Bentley of Hunters Village." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4349" type="EtcItem" name="Busto da Deusa Antiga">
+		
+		<set name="icon" val="icon.etc_holy_statue_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma estátua de uma deusa que foi criada pelo antigo escultor Berona nos tempos antigos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4350" type="EtcItem" name="O Trabalho da Antiga Escultura Verona">
+		
+		<set name="icon" val="icon.etc_statue_of_einhasad_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma estátua criada pelo antigo escultor Berona. Ainda não foi avaliado por especialistas em antiguidades." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3400" />
+	</item>
+	<item id="4351" type="EtcItem" name="Antiga Estátua da Deusa - Protótipo">
+		
+		<set name="icon" val="icon.etc_statue_of_einhasad_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma estátua criada por Berona, um antigo escultor. - Protótipo" />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="4352" type="EtcItem" name="Antiga Estátua da Deusa - Original">
+		
+		<set name="icon" val="icon.etc_statue_of_einhasad_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma estátua criada por Berona, um escultor nos tempos antigos. - Original" />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6800" />
+	</item>
+	<item id="4353" type="EtcItem" name="Antiga Estátua da Deusa - Réplica">
+		
+		<set name="icon" val="icon.etc_statue_of_einhasad_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Estátuas replicadas que foram criadas por escultores atuais que imitaram as obras de Berona." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="850" />
+	</item>
+	<item id="4354" type="EtcItem" name="Antiga Estátua da Deusa - Falsificação">
+		
+		<set name="icon" val="icon.etc_statue_of_einhasad_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Falsificações que foram criadas em imitação das obras do antigo escultor Berona." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="850" />
+	</item>
+	<item id="4355" type="EtcItem" name="Eva Azul">
+		
+		<set name="icon" val="icon.etc_magic_coin_blue_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="moeda especial" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4356" type="EtcItem" name="Ouro Einhasad">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="moeda especial" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4357" type="EtcItem" name="Prata Shilen">
+		
+		<set name="icon" val="icon.etc_magic_coin_silver_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="moeda especial" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4358" type="EtcItem" name="Sangrento Pa'Agrio">
+		
+		<set name="icon" val="icon.etc_magic_coin_blood_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="moeda especial" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4359" type="EtcItem" name="Barril de Licor">
+		
+		<set name="icon" val="icon.etc_wine_barrel_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um barril cheio até a borda com um delicioso e perfumado licor. O barril é muito pesado." />
+		<set name="weight" val="2000" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4360" type="EtcItem" name="Precioso Escaravelho">
+		
+		<set name="icon" val="icon.etc_beetle_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um escaravelho que é transparente e brilha como uma pedra preciosa. Entre os traficantes, é negociado a um preço alto." />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4361" type="EtcItem" name="Simbelmyne">
+		
+		<set name="icon" val="icon.etc_flower_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um tipo de flor que se acredita ter o poder de curar doenças. É o favorito dos elfos." />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4362" type="EtcItem" name="Boneca Estranha (De Aparência)">
+		
+		<set name="icon" val="icon.etc_totem_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="É uma estranha estátua de uma criatura viva que se parece com um diabinho. É o item favorito de um Orc." />
+		<set name="weight" val="500" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4363" type="EtcItem" name="Vestido Escarlate">
+		
+		<set name="icon" val="icon.etc_ladys_dress_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um vestido escarlate muito atraente estilo Aden projetado para uma senhora virtuosa." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4364" type="EtcItem" name="Orbe de Nebulita">
+		
+		<set name="icon" val="icon.etc_crystal_ball_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="É feito cortando Nebulita em uma forma esférica. Leve isso para Magic Comerciante Cema nHardin's Academy." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="4365" type="EtcItem" name="Licor de Ectoplasma">
+		
+		<set name="icon" val="icon.etc_dragon_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um licor de sabor exótico feito de ectoplasma. Muito popular entre os conhecedores." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4366" type="EtcItem" name="Troféu do Príncipe">
+		
+		<set name="icon" val="icon.etc_trophy_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="O troféu vencedor que o príncipe Malcom ganhou em uma competição de dança. Você pode vendê-lo em uma loja ou guardá-lo como lembrança." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4367" type="EtcItem" name="Autobiografia do Príncipe">
+		
+		<set name="icon" val="icon.etc_spellbook_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A autobiografia do príncipe Malcom que leva sua assinatura manuscrita. Venda em uma loja." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4368" type="EtcItem" name="Busto do Príncipe">
+		
+		<set name="icon" val="icon.etc_holy_statue_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma estátua do Príncipe Malcom feita de ouro puro. Embora bastante feio, vai buscar um preço considerável." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4369" type="EtcItem" name="Lenço de Seda">
+		
+		<set name="icon" val="icon.etc_kerchief_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um lindo e elaborado lenço decorado com um padrão de flores e rendas. Seu design pode atrair a atenção de príncipes e princesas." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4370" type="EtcItem" name="Cálice Luxuoso">
+		
+		<set name="icon" val="icon.etc_holy_grail_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cálice de design luxuoso. Parece ser um objeto feito durante o período do Império Elmo Aden." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4371" type="EtcItem" name="Cetro da Escuridão">
+		
+		<set name="icon" val="icon.etc_imperial_scepter_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cajado que emite poder de magia negra. em sua alça, as palavras &quot;Grande Rei Demônio&quot; estão gravadas." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4372" type="EtcItem" name="Perfume Succubus">
+		
+		<set name="icon" val="icon.etc_dragons_blood_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Perfume usado por nobres Succubus. Uma fragrância muito forte, não popular entre Elfos e Humanos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4373" type="EtcItem" name="Espelho Succubus">
+		
+		<set name="icon" val="icon.etc_mirror_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um espelho usado pelas nobres Succubus quando elas colocam cosméticos. Também é dito ser usado ocasionalmente por rainhas de sangue." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4374" type="EtcItem" name="Coração de Escuridão">
+		
+		<set name="icon" val="icon.etc_heart_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma peça de pedra em forma de coração que emite a aura de poder de magia negra. No verso, as palavras &quot;Eu te amo Merkenis!&quot; estão gravados." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4375" type="EtcItem" name="Totem Orc Real">
+		
+		<set name="icon" val="icon.etc_totem_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um totem feito esculpindo um pedaço inteiro de granito vermelho." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4376" type="EtcItem" name="Pérola Pisada Por Um POrco Selvagem">
+		
+		<set name="icon" val="icon.etc_crystal_ball_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma pérola do tamanho de uma noz manchada de sujeira. Talvez seja uma pérola." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4377" type="EtcItem" name="Presa de Javali">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A presa de um javali que se parece um pouco com o marfim de um elefante." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4378" type="EtcItem" name="Batata Doce">
+		
+		<set name="icon" val="icon.etc_seed_yellow_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma batata-doce de tamanho grande que acabou de ser arrancada do solo. Você s-lo ou assá-lo. Fará um deleite delicioso." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4379" type="EtcItem" name="Garras da Besta">
+		
+		<set name="icon" val="icon.etc_fang_ivory_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="As garras afiadas do leão branco. Há rumores de que está sendo negociado entre colecionadores por um preço alto." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4380" type="EtcItem" name="Juba da Besta">
+		
+		<set name="icon" val="icon.etc_metallic_fiber_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A juba luxuriante de um leão branco. Há rumores de que é vendido por um preço alto entre os colecionadores." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4381" type="EtcItem" name="Raiz de Ginseng">
+		
+		<set name="icon" val="icon.etc_ginseng_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Medicamento raro importado do Oriente." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4382" type="EtcItem" name="Pote de Mel">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um frasco contendo mel doce." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4383" type="EtcItem" name="Galha de Urso">
+		
+		<set name="icon" val="icon.etc_bodypart_liver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="O fel de um urso que é conhecido por ser altamente eficaz na promoção da saúde e bem-estar, além de ter misteriosas propriedades curativas." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4384" type="EtcItem" name="Salmão Fresco">
+		
+		<set name="icon" val="icon.etc_fish_seawater_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um salmão fresco que parece ter acabado de ser pescado em um rio." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4385" type="EtcItem" name="Sushi Riceball">
+		
+		<set name="icon" val="icon.etc_meat_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A bola de arroz de sushi tipo Schuttgart. O delicioso tempero da carne bem picada é absorvido pelo arroz e produz um sabor maravilhoso." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4386" type="EtcItem" name="Especiaria Avelã">
+		
+		<set name="icon" val="icon.etc_powder_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Especiaria exótica importada da Avella do Oriente." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4387" type="EtcItem" name="Erva Daninha Coelho da Sorte">
+		
+		<set name="icon" val="icon.etc_herb_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Erva de coelho que supostamente traz sorte. É a comida favorita de coelhos e elpys." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4388" type="EtcItem" name="Cheque de Malcom">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cheque de enorme valor nominal assinado pelo Príncipe Malcom. Pode ser descontado em um armazém em Giran Castle Town." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4389" type="EtcItem" name="Chave da Caixa de Depósito">
+		
+		<set name="icon" val="icon.etc_old_key_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma chave para um cofre particular localizado em um armazém na Giran Castle Town." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4390" type="EtcItem" name="Selo Real Anão">
+		
+		<set name="icon" val="icon.etc_royal_seal_of_lord_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um selo real feito de jade esculpido. Está gravado com o selo da família real anã." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4391" type="EtcItem" name="Coroa Real dos Anões">
+		
+		<set name="icon" val="icon.etc_ancient_crown_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A coroa de um rei feita de ouro. Está gravado com o selo da família real anã." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4392" type="EtcItem" name="Manual de Dança dos Anões">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um manual de dança que detalha técnicas de dança de salão. Este livro fará de você um herói dançante!" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4393" type="EtcItem" name="Calculadora">
+		
+		<set name="icon" val="icon.etc_calculator_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Permite realizar um cálculo simples." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="200" />
+	</item>
+	<item id="4394" type="EtcItem" name="Flor Branca de Hanellin">
+		
+		<set name="icon" val="icon.etc_flower_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma marca de Hannelin. Junto com seus companheiros, cada um carregando uma flor vermelha e uma flor amarela, respectivamente, vá para Aden Castle Town para vê-la." />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+	</item>
+	<item id="4395" type="EtcItem" name="Flor Vermelha de Hanellin">
+		
+		<set name="icon" val="icon.etc_flower_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma marca de Hannelin. Junto com seus companheiros, cada um carregando uma flor branca e uma flor amarela, respectivamente, vá para Aden Castle Town para vê-la." />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+	</item>
+	<item id="4396" type="EtcItem" name="Flor Amarela de Hanellin">
+		
+		<set name="icon" val="icon.etc_flower_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma marca de Hannelin. Junto com seus companheiros, cada um carregando uma flor branca e uma flor vermelha, respectivamente, vá para Aden Castle Town para vê-la." />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+	</item>
+	<item id="4397" type="EtcItem" name="Livro da Santa">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="O livro da Santa Solina. Leve-o junto com o Sangue da Santa e o Galho da Santa para o Magistrada Hanellin." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+	</item>
+	<item id="4398" type="EtcItem" name="Sangue da Santa">
+		
+		<set name="icon" val="icon.etc_dragons_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="O Sangue da Santa Solina, endurecido em uma substância de cor escura contida em uma garrafa de vidro. Leve-o junto com o Livro da Santa e o Galho da Santa para a Magistrada Hanellin." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+	</item>
+	<item id="4399" type="EtcItem" name="Cetro da Santa">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="O Cetro da Santa Solina. Parece ser apenas um galho de árvore seco e morto. Leve-o junto com o Livro da Santa e o Sangue da Santa e leve-o ao Magistrada Hanellin." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+	</item>
+</list>

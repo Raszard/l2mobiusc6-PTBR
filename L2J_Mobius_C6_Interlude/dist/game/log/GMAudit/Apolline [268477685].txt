@@ -1,0 +1,126 @@
+23/02/2024 19:07:49>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:07:53>Apolline [268477685]>admin_list_spawns>no-target>
+23/02/2024 19:07:55>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:07:56>Apolline [268477685]>admin_list_spawns>no-target> 1
+23/02/2024 19:07:58>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:08:16>Apolline [268477685]>admin_spawn_monster>no-target>
+23/02/2024 19:08:26>Apolline [268477685]>admin_show_npcs>no-target>
+23/02/2024 19:08:29>Apolline [268477685]>admin_show_spawns>no-target>
+23/02/2024 19:08:31>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:08:42>Apolline [268477685]>admin_admin3>no-target>
+23/02/2024 19:08:44>Apolline [268477685]>admin_admin4>no-target>
+23/02/2024 19:08:48>Apolline [268477685]>admin_geomap>no-target>
+23/02/2024 19:11:14>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:11:16>Apolline [268477685]>admin_admin4>no-target>
+23/02/2024 19:11:19>Apolline [268477685]>admin_geogrid>no-target>
+23/02/2024 19:11:41>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:11:42>Apolline [268477685]>admin_admin4>no-target>
+23/02/2024 19:11:43>Apolline [268477685]>admin_geogrid>no-target>
+23/02/2024 19:11:50>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:11:51>Apolline [268477685]>admin_admin4>no-target>
+23/02/2024 19:11:52>Apolline [268477685]>admin_geogrid>no-target>
+23/02/2024 19:12:02>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:12:03>Apolline [268477685]>admin_admin4>no-target>
+23/02/2024 19:12:05>Apolline [268477685]>admin_geo_can_see>no-target>
+23/02/2024 19:12:10>Apolline [268477685]>admin_admin>Orc Tunath Guerreiro>
+23/02/2024 19:12:11>Apolline [268477685]>admin_admin4>Orc Tunath Guerreiro>
+23/02/2024 19:12:13>Apolline [268477685]>admin_geo_can_see>Orc Tunath Guerreiro>
+23/02/2024 19:12:19>Apolline [268477685]>admin_admin>Orc Tunath Guerreiro>
+23/02/2024 19:12:21>Apolline [268477685]>admin_admin4>Orc Tunath Guerreiro>
+23/02/2024 19:12:31>Apolline [268477685]>admin_geo_can_move>Orc Tunath Guerreiro>
+23/02/2024 19:12:35>Apolline [268477685]>admin_admin>Orc Tunath Guerreiro>
+23/02/2024 19:12:35>Apolline [268477685]>admin_admin4>Orc Tunath Guerreiro>
+23/02/2024 19:12:38>Apolline [268477685]>admin_admin3>Orc Tunath Guerreiro>
+23/02/2024 19:12:43>Apolline [268477685]>admin_admin2>Orc Tunath Guerreiro>
+23/02/2024 19:12:51>Apolline [268477685]>admin_admin>Orc Tunath Guerreiro>
+23/02/2024 19:13:03>Apolline [268477685]>admin_list_spawns>Orc Tunath Guerreiro>
+23/02/2024 19:13:33>Apolline [268477685]>admin_admin>Orc Tunath Guerreiro>
+23/02/2024 19:13:34>Apolline [268477685]>admin_admin4>Orc Tunath Guerreiro>
+23/02/2024 19:13:37>Apolline [268477685]>admin_geogrid>Orc Tunath Guerreiro>
+23/02/2024 19:14:09>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:14:16>Apolline [268477685]>admin_admin2>no-target>
+23/02/2024 19:14:18>Apolline [268477685]>admin_admin3>no-target>
+23/02/2024 19:14:19>Apolline [268477685]>admin_admin4>no-target>
+23/02/2024 19:14:22>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:14:25>Apolline [268477685]>admin_help>no-target>
+23/02/2024 19:18:46>Apolline [268477685]>admin_admin>Orc Tunath Atirador>
+23/02/2024 19:18:47>Apolline [268477685]>admin_recall_npc>Orc Tunath Atirador>
+23/02/2024 19:23:33>Apolline [268477685]>admin_admin>no-target>
+23/02/2024 19:23:36>Apolline [268477685]>admin_kill_menu>no-target>
+23/02/2024 19:23:39>Apolline [268477685]>admin_kill_menu>no-target>
+23/02/2024 19:23:41>Apolline [268477685]>admin_kill_menu>no-target>
+23/02/2024 19:23:42>Apolline [268477685]>admin_kill_menu>no-target>
+23/02/2024 19:23:42>Apolline [268477685]>admin_kill_menu>no-target>
+23/02/2024 19:23:42>Apolline [268477685]>admin_kill_menu>no-target>
+23/02/2024 19:23:43>Apolline [268477685]>admin_kill_menu>no-target>
+23/02/2024 19:23:43>Apolline [268477685]>admin_kill_menu>no-target>
+23/02/2024 19:23:43>Apolline [268477685]>admin_kill_menu>no-target>
+23/02/2024 19:23:50>Apolline [268477685]>admin_recall_char_menu>no-target>
+24/02/2024 13:21:19>Apolline [268477685]>admin_admin>Membro dos Aventureiros>
+24/02/2024 13:21:21>Apolline [268477685]>admin_admin4>Membro dos Aventureiros>
+24/02/2024 13:21:22>Apolline [268477685]>admin_cache_htm_rebuild>Membro dos Aventureiros>
+24/02/2024 13:24:56>Apolline [268477685]>admin_admin>no-target>
+24/02/2024 13:24:57>Apolline [268477685]>admin_admin4>no-target>
+24/02/2024 13:24:57>Apolline [268477685]>admin_cache_htm_rebuild>no-target>
+24/02/2024 13:54:33>Apolline [268477685]>admin_admin>Orc Tunath Guerreiro>
+24/02/2024 13:54:36>Apolline [268477685]>admin_recall_npc>Orc Tunath Guerreiro>
+24/02/2024 14:32:20>Apolline [268477685]>admin_admin>Golem de Pedra>
+24/02/2024 14:32:21>Apolline [268477685]>admin_gmshop>Golem de Pedra>
+24/02/2024 14:32:26>Apolline [268477685]>admin_buy>Golem de Pedra> 3001
+24/02/2024 15:05:26>Apolline [268477685]>admin_admin>Orc Tunath Guerreiro>
+24/02/2024 15:05:28>Apolline [268477685]>admin_recall_npc>Orc Tunath Guerreiro>
+24/02/2024 15:05:36>Apolline [268477685]>admin_admin>Orc Tunath Guerreiro>
+24/02/2024 15:05:38>Apolline [268477685]>admin_recall_npc>Orc Tunath Guerreiro>
+24/02/2024 15:15:59>Apolline [268477685]>admin_admin>no-target>
+24/02/2024 15:16:00>Apolline [268477685]>admin_gmshop>no-target>
+24/02/2024 15:16:14>Apolline [268477685]>admin_buy>no-target> 3001
+24/02/2024 15:25:37>Apolline [268477685]>admin_admin>Miss Queen>
+24/02/2024 15:25:44>Apolline [268477685]>admin_gmshop>Miss Queen>
+24/02/2024 15:25:45>Apolline [268477685]>admin_buy>Miss Queen> 3001
+24/02/2024 15:33:49>Apolline [268477685]>admin_admin>no-target>
+24/02/2024 15:33:49>Apolline [268477685]>admin_gmshop>no-target>
+24/02/2024 15:33:51>Apolline [268477685]>admin_buy>no-target> 3001
+24/02/2024 15:41:30>Apolline [268477685]>admin_admin>Apolline>
+24/02/2024 15:41:31>Apolline [268477685]>admin_gmshop>Apolline>
+24/02/2024 15:41:33>Apolline [268477685]>admin_buy>Apolline> 3001
+24/02/2024 16:22:57>Apolline [268477685]>admin_admin>no-target>
+24/02/2024 16:22:58>Apolline [268477685]>admin_gmshop>no-target>
+24/02/2024 16:23:00>Apolline [268477685]>admin_buy>no-target> 3002
+24/02/2024 16:25:16>Apolline [268477685]>admin_admin>no-target>
+24/02/2024 16:25:18>Apolline [268477685]>admin_gmshop>no-target>
+24/02/2024 16:25:20>Apolline [268477685]>admin_buy>no-target> 3001
+24/02/2024 16:25:32>Apolline [268477685]>admin_admin>no-target>
+24/02/2024 16:25:32>Apolline [268477685]>admin_gmshop>no-target>
+24/02/2024 16:25:34>Apolline [268477685]>admin_buy>no-target> 3001
+24/02/2024 17:35:13>Apolline [268477685]>admin_admin>Katerina>
+24/02/2024 17:35:14>Apolline [268477685]>admin_gmshop>Katerina>
+24/02/2024 17:35:16>Apolline [268477685]>admin_buy>Katerina> 3001
+24/02/2024 17:54:39>Apolline [268477685]>admin_admin>no-target>
+24/02/2024 17:54:40>Apolline [268477685]>admin_gmshop>no-target>
+24/02/2024 17:54:42>Apolline [268477685]>admin_help>no-target> gmshop/Weapons.htm
+24/02/2024 17:54:43>Apolline [268477685]>admin_help>no-target> gmshop/sgradew.htm
+24/02/2024 17:54:44>Apolline [268477685]>admin_buy>no-target> 9501
+24/02/2024 17:54:55>Apolline [268477685]>admin_admin>no-target>
+24/02/2024 17:54:58>Apolline [268477685]>admin_create_item>no-target>
+24/02/2024 17:55:06>Apolline [268477685]>admin_create_item>no-target> 9350 10
+24/02/2024 17:56:10>Apolline [268477685]>admin_admin>Apolline>
+24/02/2024 17:56:12>Apolline [268477685]>admin_create_item>Apolline>
+24/02/2024 17:56:20>Apolline [268477685]>admin_create_item>Apolline> 9351 10
+24/02/2024 18:10:41>Apolline [268477685]>admin_admin>no-target>
+24/02/2024 18:10:43>Apolline [268477685]>admin_create_item>no-target>
+24/02/2024 18:10:46>Apolline [268477685]>admin_create_item>no-target> 9352 10
+24/02/2024 18:22:08>Apolline [268477685]>admin_showShop>Katerina> 30004
+24/02/2024 18:22:09>Apolline [268477685]>admin_showShopList>Katerina> 14 1
+24/02/2024 18:22:13>Apolline [268477685]>admin_addShopItem>Katerina> 14
+24/02/2024 18:22:18>Apolline [268477685]>admin_showShopList>Katerina> 14 1
+24/02/2024 18:22:22>Apolline [268477685]>admin_showShopList>Katerina> 14 2
+24/02/2024 18:22:28>Apolline [268477685]>admin_addShopItem>Katerina> 14
+24/02/2024 18:22:45>Apolline [268477685]>admin_addShopItem>Katerina> 14 9351 87
+24/02/2024 18:22:46>Apolline [268477685]>admin_close_window>Katerina>
+24/02/2024 18:23:05>Apolline [268477685]>admin_showShop>Katerina> 30004
+24/02/2024 18:23:06>Apolline [268477685]>admin_showShopList>Katerina> 14 1
+24/02/2024 18:23:14>Apolline [268477685]>admin_showShop>Katerina> 30004
+24/02/2024 18:25:10>Apolline [268477685]>admin_showShop>Silvia> 30003
+24/02/2024 18:25:11>Apolline [268477685]>admin_showShopList>Silvia> 13 1
+24/02/2024 18:25:13>Apolline [268477685]>admin_showShopList>Silvia> 13 2
+24/02/2024 18:25:14>Apolline [268477685]>admin_close_window>Silvia>

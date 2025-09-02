@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Custom GM-Shop -->
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item id="1">
+		<ingredient id="9503" count="10" />
+		<production id="9510" count="1" />
+	</item>
+	<item id="2">
+		<ingredient id="9503" count="10" />
+		<production id="9504" count="1" />
+	</item>
+	<item id="3">
+		<ingredient id="9503" count="10" />
+		<production id="9505" count="1" />
+	</item>
+	<item id="4">
+		<ingredient id="9503" count="10" />
+		<production id="9506" count="1" />
+	</item>
+	<item id="5">
+		<ingredient id="9503" count="30" />
+		<production id="9507" count="1" />
+	</item>
+	<item id="6">
+		<ingredient id="9503" count="15" />
+		<production id="9511" count="1" />
+	</item>
+	<item id="7">
+		<ingredient id="9503" count="10" />
+		<production id="9515" count="1" />
+	</item>
+	<item id="8">
+		<ingredient id="9503" count="5" />
+		<production id="9516" count="1" />
+	</item>
+	<item id="9">
+		<ingredient id="9503" count="5" />
+		<production id="9514" count="1" />
+	</item>
+</list>

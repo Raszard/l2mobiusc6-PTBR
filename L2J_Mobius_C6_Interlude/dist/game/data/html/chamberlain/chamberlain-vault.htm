@@ -1,0 +1,18 @@
+<html><body>
+<center><font color="LEVEL"> [Gerenciamento do Cofre do Castelo] </font></center><br>
+Existe atualmente<font color="00ffff">%tax_income% Adena </font>na abóbada do castelo.<br>
+<br>
+Por favor, insira o valor que deseja sacar ou depositar.<br>
+<center>
+<table height=27 width=280 bgColor="cccccc"><tbody><tr>
+<td align=middle width=50>Quantia</td>
+<td align=left width=180><edit width="160" var="amount" type="number"></td>
+<td align=left width=40>Adena</td></tr></tbody></table>
+<br><br>
+<button value="Retirar" action="bypass -h npc_%objectId%_manage_vault withdraw $amount" width=74 height=21 back="L2UI_CH3.Btn1_normalOn" fore="L2UI_CH3.Btn1_normal">
+<button value="Depositar" action="bypass -h npc_%objectId%_manage_vault deposit $amount" width=74 height=21 back="L2UI_CH3.Btn1_normalOn" fore="L2UI_CH3.Btn1_normal">
+<button value="Cancelar" action="bypass -h npc_%objectId%_Link chamberlain/chamberlain.htm" width=74 height=21 back="L2UI_CH3.Btn1_normalOn" fore="L2UI_CH3.Btn1_normal">
+</center>
+</body></html>
+
+

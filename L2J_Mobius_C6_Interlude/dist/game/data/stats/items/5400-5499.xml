@@ -1,0 +1,848 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5400" type="EtcItem" name="Receita: Luvas de Minério Negro Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas de Minério Negro Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5401" type="EtcItem" name="Receita: Luvas de Minério Negro Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas de Minério Negro Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5402" type="EtcItem" name="Receita: Luvas da Fênix Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas da Fênix Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5403" type="EtcItem" name="Receita: Luvas da Fênix Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas da Fênix Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5404" type="EtcItem" name="Receita: Manoplas do Pesadelo Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Manoplas do Pesadelo Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="35200" />
+	</item>
+	<item id="5405" type="EtcItem" name="Receita: Manoplas do Pesadelo Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Manoplas do Pesadelo Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5406" type="EtcItem" name="Receita: Manoplas Majestosas Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Manoplas Majestosas Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="35200" />
+	</item>
+	<item id="5407" type="EtcItem" name="Receita: Manoplas Majestosas Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Manoplas Majestosas Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5408" type="EtcItem" name="Receita: Luvas Legião das Trevas Seladas  (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Legião das Trevas Seladas . Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5409" type="EtcItem" name="Receita: Luvas Legião das Trevas Seladas  (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Legião das Trevas Seladas . Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5410" type="EtcItem" name="Receita: Luvas Fantasma Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Fantasma Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5411" type="EtcItem" name="Receita: Luvas Fantasma Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Fantasma Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5412" type="EtcItem" name="Receita: Luvas Cerberus Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Cerberus Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5413" type="EtcItem" name="Receita: Luvas Cerberus Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Cerberus Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5414" type="EtcItem" name="Receita: Luvas de Dasparion Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita das Luvas Seladas de Dasparion. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5415" type="EtcItem" name="Receita: Luvas de Dasparion Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita das Luvas Seladas de Dasparion. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5416" type="EtcItem" name="Receita: Peitoral de Cristal Escuro Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Peitoral de Cristal Escuro Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="92600" />
+	</item>
+	<item id="5417" type="EtcItem" name="Receita: Peitoral de Cristal Escuro Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Peitoral de Cristal Escuro Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5418" type="EtcItem" name="Receita: Armadura Tallum de Placas Selada (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura Tallum de Placas Selada. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="135400" />
+	</item>
+	<item id="5419" type="EtcItem" name="Receita: Armadura Tallum de Placas Selada (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura Tallum de Placas Selada. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5420" type="EtcItem" name="Receita: Armadura do Pesadelo Selada (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura do Pesadelo Selada. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="206000" />
+	</item>
+	<item id="5421" type="EtcItem" name="Receita: Armadura do Pesadelo Selada (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura do Pesadelo Selada. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5422" type="EtcItem" name="Receita: Armadura Majestosa de Placass Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Sealed Majestic Plate Armor. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="206000" />
+	</item>
+	<item id="5423" type="EtcItem" name="Receita: Armadura Majestosa de Placass Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Sealed Majestic Plate Armor. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5424" type="EtcItem" name="Receita: Botas de Cristal Escuro Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas de Cristal Escuro Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57800" />
+	</item>
+	<item id="5425" type="EtcItem" name="Receita: Botas de Cristal Escuro Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas de Cristal Escuro Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5426" type="EtcItem" name="Receita: Capacete de Cristal Negro Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o capacete de cristal escuro selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="34800" />
+	</item>
+	<item id="5427" type="EtcItem" name="Receita: Capacete de Cristal Negro Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o capacete de cristal escuro selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5428" type="EtcItem" name="Receita: Capacete de Tallum Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Capacete de Tallum Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="34800" />
+	</item>
+	<item id="5429" type="EtcItem" name="Receita: Capacete de Tallum Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Capacete de Tallum Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5430" type="EtcItem" name="Receita: Elmo do Pesadelo Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Elmo do Pesadelo Selado. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="52800" />
+	</item>
+	<item id="5431" type="EtcItem" name="Receita: Elmo do Pesadelo Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Elmo do Pesadelo Selado. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5432" type="EtcItem" name="Receita: Diadema Majestoso Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Sealed Diadema Magestoso. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="52800" />
+	</item>
+	<item id="5433" type="EtcItem" name="Receita: Diadema Majestoso Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Sealed Diadema Magestoso. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5434" type="EtcItem" name="Receita: Destruidor de Dragões (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Destruidor de Dragões. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="5435" type="EtcItem" name="Receita: Destruidor de Dragões (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Destruidor de Dragões. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5436" type="EtcItem" name="Receita: Lâmina Berserker (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Lâmina Berserker. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="5437" type="EtcItem" name="Receita: Espada Pesada (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada Pesada. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8180" />
+	</item>
+	<item id="5438" type="EtcItem" name="Receita: Chuva de Meteoros (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma chuva de meteoros. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="5439" type="EtcItem" name="Receita: Chuva de Meteoros (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma chuva de meteoros. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5440" type="EtcItem" name="Receita: Elysian (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Elísio. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="5441" type="EtcItem" name="Receita: Elysian (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Elísio. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5442" type="EtcItem" name="Receita: Arco da Alma (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um arco da alma. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="5443" type="EtcItem" name="Receita: Arco da Alma (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um arco da alma. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5444" type="EtcItem" name="Receita: Arco da Carnificina (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um arco da carnificina. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="5445" type="EtcItem" name="Receita: Arco da Carnificina (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um arco da carnificina. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5446" type="EtcItem" name="Receita: Orquídea Sangrenta (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Orquídea Sangrenta. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="5447" type="EtcItem" name="Receita: Orquídea Sangrenta (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Orquídea Sangrenta. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5448" type="EtcItem" name="Receita: Separador de Almas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Separador de Almas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="5449" type="EtcItem" name="Receita: Separador de Almas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Separador de Almas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5450" type="EtcItem" name="Receita: Moedor de Dragões (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um moedor de dragões. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="5451" type="EtcItem" name="Receita: Moedor de Dragões (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um moedor de dragões. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5452" type="EtcItem" name="Receita: Tornado de Sangue (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Tornado de Sangue. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="5453" type="EtcItem" name="Receita: Tornado de Sangue (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Tornado de Sangue. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5454" type="EtcItem" name="Receita: Alabarda Orc (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Alabarda Orc. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5455" type="EtcItem" name="Receita: Alabarda Orc (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Alabarda Orc. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5456" type="EtcItem" name="Receita: Gládio de Tallum (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Gládio de Tallum. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="5457" type="EtcItem" name="Receita: Gládio de Tallum (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Gládio de Tallum. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5458" type="EtcItem" name="Receita: Alabarda (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma alabarda. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="5459" type="EtcItem" name="Receita: Alabarda (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma alabarda. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5460" type="EtcItem" name="Receita: Cajado de Dasparion (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita do Cajado de Dasparion. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="5461" type="EtcItem" name="Receita: Cajado de Dasparion (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita do Cajado de Dasparion. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5462" type="EtcItem" name="Receita: Ramo da Árvore Mãe (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Ramo da Árvore Mãe. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="5463" type="EtcItem" name="Receita: Ramo da Árvore Mãe (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Ramo da Árvore Mãe. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5464" type="EtcItem" name="Receita: Gume Legião das Trevas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Dark Legion's Edge. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="5465" type="EtcItem" name="Receita: Gume Legião das Trevas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Dark Legion's Edge. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5466" type="EtcItem" name="Receita: Espada dos Milagres (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada dos Milagres. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="5467" type="EtcItem" name="Receita: Espada dos Milagres (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada dos Milagres. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5468" type="EtcItem" name="Receita: Espada Elemental (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada Elemental. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="5469" type="EtcItem" name="Receita: Espada Elemental (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada Elemental. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5470" type="EtcItem" name="Receita: Tallum Blade (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Lâmina Tallum. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="5471" type="EtcItem" name="Receita: Lâmina de Tallum (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Lâmina Tallum. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5472" type="EtcItem" name="Receita: Fio Metálico(100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita do Fio Metálico. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2800" />
+	</item>
+	<item id="5473" type="EtcItem" name="Receita: Placas de Metal Durável (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma placa de metal durável. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2800" />
+	</item>
+	<item id="5474" type="EtcItem" name="Receita: Molde de Reorin (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um molde de Reorin. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5475" type="EtcItem" name="Receita: Molde de Ferreiro de Guerra (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Ferreiro de Guerra's Mold. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5476" type="EtcItem" name="Receita: Bigorna de Arcsmith (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Bigorna de um Arcsmith. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5477" type="EtcItem" name="Receita: Suporte do Ferreiro de Guerra (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Ferreiro de Guerra's Holder. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5478" type="EtcItem" name="Padrão de Armadura de Cristal Escuro de Couro Selado">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Armadura de Cristal Escuro de Couro Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="23784" />
+	</item>
+	<item id="5479" type="EtcItem" name="Padrão de Armadura de Couro de Tallum Selado">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Armadura de Couro de Tallum Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="33800" />
+	</item>
+	<item id="5480" type="EtcItem" name="Tecido de Armadura de Couro Selado do Pesadelo">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Armadura de Pesadelo de Couro Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="44571" />
+	</item>
+	<item id="5481" type="EtcItem" name="Tecido de Armadura de Couro Majestoso Selado">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Armadura Majestosa de Couro Selada. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="44571" />
+	</item>
+	<item id="5482" type="EtcItem" name="Projeto de Leggings de Cristal Escuro Selado">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Calça de Cristal Escuro Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15153" />
+	</item>
+	<item id="5483" type="EtcItem" name="Brinco da Fênix Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Brinco da Fênix. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5484" type="EtcItem" name="Brinco Infernal Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Brinco Infernal. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5485" type="EtcItem" name="Textura do Manto Tallum Selado">
+		
+		<set name="icon" val="icon.etc_leather_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer uma Manto de Tallum Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="23784" />
+	</item>
+	<item id="5486" type="EtcItem" name="Tecido de Manto de Cristal Escuro Selado">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Manto de Cristal Escuro Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="33800" />
+	</item>
+	<item id="5487" type="EtcItem" name="Tecido de Manto Pesadelo Selado">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Sealed Nightmare Manto. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="44414" />
+	</item>
+	<item id="5488" type="EtcItem" name="Tecido de Manto Majestoso Selado">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Manto Majestoso Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="44414" />
+	</item>
+	<item id="5489" type="EtcItem" name="Tecido de Calça de Tallum Selado">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Calça de Tallum Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15153" />
+	</item>
+	<item id="5490" type="EtcItem" name="Colar da Fênix">
+		
+		<set name="icon" val="icon.etc_crystal_ball_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer a Armadura da Fênix. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5491" type="EtcItem" name="Correntes do Colar Infernal">
+		
+		<set name="icon" val="icon.etc_crystal_ball_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Colar Infernal. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5492" type="EtcItem" name="Anel da Fênix Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Anel da Fênix. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5493" type="EtcItem" name="Anel Infernal Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Anel Infernal. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5494" type="EtcItem" name="Fragmento de Escudo de Cristal Negro Selado">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Escudo de Cristal Negro Selado. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="9523" />
+	</item>
+	<item id="5495" type="EtcItem" name="Fragmento de Escudo Selado do Pesadelo">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Escudo Selado do Pesadelo. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="13171" />
+	</item>
+	<item id="5496" type="EtcItem" name="Forro de Botas de Cristal Escuro Selado">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas Seladas de Cristal Negro. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8530" />
+	</item>
+	<item id="5497" type="EtcItem" name="Forro de Botas de Tallum Selado">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas de Tallum Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8530" />
+	</item>
+	<item id="5498" type="EtcItem" name="Forro de Botas do Submundo Seladas">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas do Submundo Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5499" type="EtcItem" name="Forro de Botas do Vento Selado">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer Botas do Vento Seladas. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+</list>

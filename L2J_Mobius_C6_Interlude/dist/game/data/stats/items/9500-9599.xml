@@ -1,0 +1,189 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="9500" type="EtcItem" name="Cupom do Leilão Nível 1">
+		<set name="icon" val="IconsCustom.royal_red_save_r" />
+		<set name="desc" val="Com esse cupom você pode vender 5 itens na casa de leilões." />
+		<set name="consume_type" val="normal" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9501" type="EtcItem" name="Cupom do Leilão Nível 2">
+		<set name="icon" val="IconsCustom.royal_red_save_r95" />
+		<set name="desc" val="Com esse cupom você pode vender 10 itens na casa de leilões." />
+		<set name="consume_type" val="normal" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9502" type="EtcItem" name="Cupom do Leilão Nível 3">
+		<set name="icon" val="IconsCustom.royal_red_save_r99" />
+		<set name="desc" val="Com esse cupom você pode vender 15 itens na casa de leilões." />
+		<set name="consume_type" val="normal" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9503" type="EtcItem" name="Moeda Prestìgio">
+		<set name="icon" val="IconsCustom.prime_coin" />
+		<set name="desc" val="Moeda Prestígio você pode comprar muitas coisas exclusivas com ela." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9504" type="EtcItem" name="Cupom de Troca: Nome">
+		<set name="icon" val="IconsCustom.ticket_name" />
+		<set name="desc" val="Um cupom para trocar de nome no NPC Serviços." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9505" type="EtcItem" name="Cupom de Troca: Sexo">
+		<set name="icon" val="IconsCustom.ticket_sex" />
+		<set name="desc" val="Um cupom para trocar de sexo no NPC Serviços." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9506" type="EtcItem" name="Cupom de Troca: Aparência">
+		<set name="icon" val="IconsCustom.ticket_cname" />
+		<set name="desc" val="Um cupom para trocar o nome do clã no NPC Serviços." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9507" type="EtcItem" name="Cupom Prêmio: 30 Dias">
+		<set name="icon" val="IconsCustom.royal_purple_save" />
+		<set name="desc" val="Um cupom que te torna Doador por 30 dias." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9508" type="EtcItem" name="Wikipédia">
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="desc" val="Mostra informações de monstros, itens e suas localizações. Abrir o livro com um monstro alvo ira mostrar seus drops." />
+		<set name="consume_type" val="normal" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="9509" type="EtcItem" name="Kali">
+		<set name="icon" val="IconsCustom.etc_ev_kalie_token" />
+		<set name="desc" val="Moeda Kali equivalente á 1,000,000,000 Adenas." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9510" type="EtcItem" name="Espelho da Verdade">
+		<set name="icon" val="icon.etc_mirror_i00" />
+		<set name="desc" val="Mostra informações de jogadores, status e seus equipamentos. Precisa de um alvo para funcionar." />
+		<set name="consume_type" val="normal" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="true" />
+		<set name="dropable" val="true" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9511" type="EtcItem" name="Cupom Prêmio: 15 Dias">
+		<set name="icon" val="IconsCustom.royal_purple_save" />
+		<set name="desc" val="Um cupom que te torna Doador por 15 dias." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9512" type="EtcItem" name="Carta de Maria">
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta de despedida que Maria deixou para seus filhos. Entregue a carta para Michaelle." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="9513" type="EtcItem" name="Energia Condensada">
+		<set name="icon" val="IconsCustom.energy_condenser" />
+		<set name="desc" val="Energia muito poderosa comprimida, pode ser troca usada para criar armas no NPC Airton em Goddard." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9514" type="EtcItem" name="Saco de Presentes">
+		<set name="icon" val="IconsCustom.lucky_bag_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para ganhar aleatoriamente um item." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9515" type="EtcItem" name="Cupom de Encantamento Cristal Armas">
+		<set name="icon" val="IconsCustom.bm_weapon_ticket" />
+		<set name="desc" val="Um cupom para trocar por encantamentos na Loja Prestígio." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9516" type="EtcItem" name="Cupom de Encantamento Cristal Armaduras">
+		<set name="icon" val="IconsCustom.bm_armor_ticket" />
+		<set name="desc" val="Um cupom para trocar por encantamentos na Loja Prestígio." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9517" type="EtcItem" name="Cupom de Encantamento Armas">
+		<set name="icon" val="IconsCustom.weapon_ticket" />
+		<set name="desc" val="Um cupom para trocar por encantamentos na Loja Prestígio." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9518" type="EtcItem" name="Cupom de Encantamento Armaduras">
+		<set name="icon" val="IconsCustom.armor_ticket" />
+		<set name="desc" val="Um cupom para trocar por encantamentos na Loja Prestígio." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9519" type="EtcItem" name="Pergaminho da Sabedoria - 50% XP/SP">
+		<set name="icon" val="IconsCustom.etc_recall_exp_scroll" />
+		<set name="desc" val="Aumenta o XP/SP em 50% por 1 horas." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="true" />
+	</item>
+	<item id="9520" type="EtcItem" name="Licença de Teleporte">
+		<set name="icon" val="icon.etc_permit_card_i00" />
+		<set name="desc" val="Usado para teleportar de graça na Teleportadora." />
+		<set name="consume_type" val="stackable" />
+		<set name="item_type" val="none" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

@@ -1,0 +1,84 @@
+<html>
+<title>Chat</title>
+<body>
+<br>
+<center>
+<table>
+	<tr>
+		<td width=32><img src=Icon.etc_alphabet_l_i00 height=32 width=32></td>
+		<td width=32><img src=Icon.etc_alphabet_ii_i00 height=32 width=32></td>
+		<td width=10><img src=L2UI.SquareBlank height=10 width=10></td>
+		<td width=32><img src=Icon.etc_alphabet_p_i00 height=32 width=32></td>
+		<td width=32><img src=Icon.etc_alphabet_t_i00 height=32 width=32></td>
+		<td width=32><img src=Icon.etc_alphabet_b_i00 height=32 width=32></td>
+		<td width=32><img src=Icon.etc_alphabet_r_i00 height=32 width=32></td>
+	</tr>
+</table>
+<img src="L2UI.SquareBlank" width=1 height=20>
+<img src="L2UI.SquareWhite" width=300 height=1>
+<br>
+Bem vindo a <font color="LEVEL">Doações</font>!<br1>
+Aqui são feitas a doações para manter nosso servidor.<br1>
+<br>
+<img src="L2UI.SquareWhite" width=300 height=1>
+<img src="L2UI.SquareBlank" width=1 height=20>
+<table bgcolor=000000>
+<tr>
+<td>
+<table cellpadding=5 width=258>
+	<tr>
+		<td align=center>
+			<img src="%icon%" width=32 height=32>
+		</td>
+	</tr>
+	<tr>
+		<td align=center>
+			<font color=LEVEL>Moeda Prestígio - %price% (unidade)</font>
+		</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>
+			<table cellpadding=5 width=258>
+
+				<tr>
+					<td align=center>
+						<edit var="Quantity" type=number width=50 height=13 length=3>
+					</td>
+					<td align=center valign=bottom>
+						<combobox var=Method list="%payment%" width=50>
+					</td>
+					<td align=center>
+						<button value="Comprar" action="bypass donation buy %item_id% $Method $Quantity" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal">
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br>
+</td>
+</tr>
+</table>
+</center>
+<br><br>
+<table cellpadding=5 width=310>
+	<tr>
+		<td align=center>
+			<a action="bypass donation history 1">Histórico de compras</a>
+		</td>
+	</tr>
+	<tr>
+		<td align=center>
+			<a action="bypass donation email view">E-mail</a>
+		</td>
+	</tr>
+	<tr>
+		<td align=center>
+			<a action="bypass donation htm info.htm">Informações</a>
+		</td>
+	</tr>
+</table>
+</body>
+</html>

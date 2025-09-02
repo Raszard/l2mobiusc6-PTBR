@@ -1,0 +1,1324 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="4600" type="EtcItem" name="Tintura Superior de Sag Sag+2 Men-2;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Sag Sag+2 Men-2;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class e the Healer class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72000" />
+	</item>
+	<item id="4601" type="EtcItem" name="Tintura Superior de For For+3 Vit-3;">
+		
+		<set name="icon" val="icon.etc_str_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de For For+3 Vit-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4602" type="EtcItem" name="Tintura Superior de For For+3 Des-3;">
+		
+		<set name="icon" val="icon.etc_str_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de For For+3 Des-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4603" type="EtcItem" name="Tintura Superior de Vit Vit+3 For-3;">
+		
+		<set name="icon" val="icon.etc_con_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Vit Vit+3 For-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4604" type="EtcItem" name="Tintura Superior de Vit Vit+3 Des-3;">
+		
+		<set name="icon" val="icon.etc_con_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Vit Vit+3 Des-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4605" type="EtcItem" name="Tintura Superior de Des Des+3 For-3;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Des Des+3 For-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4606" type="EtcItem" name="Tintura Superior de Des Des+3 Vit-3;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Des Des+3 Vit-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4607" type="EtcItem" name="Tintura Superior de Int Int+3 Men-3;">
+		
+		<set name="icon" val="icon.etc_int_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Int Int+3 Men-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4608" type="EtcItem" name="Tintura Superior de Int Int+3 Sag-3;">
+		
+		<set name="icon" val="icon.etc_int_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Int Int+3 Sag-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Warrior class e the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4609" type="EtcItem" name="Tintura Superior de Men Men+3 Int-3;">
+		
+		<set name="icon" val="icon.etc_men_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Men Men+3 Int-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4610" type="EtcItem" name="Tintura Superior de Men Men+3 Sag-3;">
+		
+		<set name="icon" val="icon.etc_men_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Men Men+3 Sag-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class e the Healer class. after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4611" type="EtcItem" name="Tintura Superior de Sag Sag+3 Int-3;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Sag Sag+3 Int-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Warrior class e the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4612" type="EtcItem" name="Tintura Superior de Sag Sag+3 Men-3;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Sag Sag+3 Men-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class e the Healer class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="108000" />
+	</item>
+	<item id="4613" type="EtcItem" name="Tintura Superior de For For+4 Vit-4;">
+		
+		<set name="icon" val="icon.etc_str_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de For For+4 Vit-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4614" type="EtcItem" name="Tintura Superior de For For+4 Des-4;">
+		
+		<set name="icon" val="icon.etc_str_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de For For+4 Des-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4615" type="EtcItem" name="Tintura Superior de Vit Vit+4 For-4;">
+		
+		<set name="icon" val="icon.etc_con_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Vit Vit+4 For-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4616" type="EtcItem" name="Tintura Superior de Vit Vit+4 Des-4;">
+		
+		<set name="icon" val="icon.etc_con_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Vit Vit+4 Des-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4617" type="EtcItem" name="Tintura Superior de Des Des+4 For-4;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Des Des+4 For-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4618" type="EtcItem" name="Tintura Superior de Des Des+4 Vit-4;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Des Des+4 Vit-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4619" type="EtcItem" name="Tintura Superior de Int Int+4 Men-4;">
+		
+		<set name="icon" val="icon.etc_int_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Int Int+4 Men-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4620" type="EtcItem" name="Tintura Superior de Int Int+4 Sag-4;">
+		
+		<set name="icon" val="icon.etc_int_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Int Int+4 Sag-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Warrior class e the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4621" type="EtcItem" name="Tintura Superior de Men Men+4 Int-4;">
+		
+		<set name="icon" val="icon.etc_men_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Men Men+4 Int-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4622" type="EtcItem" name="Tintura Superior de Men Men+4 Sag-4;">
+		
+		<set name="icon" val="icon.etc_men_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Men Men+4 Sag-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class e the Healer class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4623" type="EtcItem" name="Tintura Superior de Sag Sag+4 Int-4;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Sag Sag+4 Int-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Warrior class e the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4624" type="EtcItem" name="Tintura Superior de Sag Sag+4 Men-4;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i02" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Sag Sag+4 Men-4;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class e the Healer class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="174000" />
+	</item>
+	<item id="4625" type="EtcItem" name="Dados (Copas)">
+		
+		<set name="icon" val="icon.etc_dice_a_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um simples jogo de azar! Role-os!!" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="4626" type="EtcItem" name="Dados (Espadas)">
+		
+		<set name="icon" val="icon.etc_dice_b_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um simples jogo de azar! Role-os!!" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="4627" type="EtcItem" name="Dados (Paus)">
+		
+		<set name="icon" val="icon.etc_dice_c_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um simples jogo de azar! Role-os!!" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="4628" type="EtcItem" name="Dados (Ouro)">
+		
+		<set name="icon" val="icon.etc_dice_d_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um simples jogo de azar! Role-os!!" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="4629" type="EtcItem" name="Cristal Vermelho da Alma">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4630" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 1">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 1. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4631" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 2">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 2. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4632" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 3">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 3. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4633" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 4">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 4. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4634" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 5">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 5. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4635" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 6">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 6. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4636" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 7">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 7. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4637" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 8">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 8. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4638" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 9">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 9. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4639" type="EtcItem" name="Cristal Vermelho da Alma - Estágio 10">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas, estágio 10. Uma vez saturado, confere habilidades especiais a uma arma. Consome 26 MP. Quando uma pedra da alma atinge esse estágio, ela pode absorver almas de forma independente. Nenhuma segmentação é necessária." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4640" type="EtcItem" name="Cristal Verde da Alma">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4641" type="EtcItem" name="Cristal Verde da Alma - Estágio 1">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 1. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4642" type="EtcItem" name="Cristal Verde da Alma - Estágio 2">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 2. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4643" type="EtcItem" name="Cristal Verde da Alma - Estágio 3">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 3. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4644" type="EtcItem" name="Cristal Verde da Alma - Estágio 4">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 4. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4645" type="EtcItem" name="Cristal Verde da Alma - Estágio 5">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 5. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4646" type="EtcItem" name="Cristal Verde da Alma - Estágio 6">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 6. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4647" type="EtcItem" name="Cristal Verde da Alma - Estágio 7">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 7. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4648" type="EtcItem" name="Cristal Verde da Alma - Estágio 8">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 8. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4649" type="EtcItem" name="Cristal Verde da Alma - Estágio 9">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 9. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4650" type="EtcItem" name="Cristal Verde da Alma - Estágio 10">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas, estágio 10. Uma vez saturado, confere habilidades especiais a uma arma. Consome 26 MP. Quando uma pedra da alma atinge esse estágio, ela pode absorver almas de forma independente. Nenhuma segmentação é necessária." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4651" type="EtcItem" name="Cristal Azul da Alma">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4652" type="EtcItem" name="Cristal Azul da Alma - Estágio 1">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 1. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4653" type="EtcItem" name="Cristal Azul da Alma - Estágio 2">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 2. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4654" type="EtcItem" name="Cristal Azul da Alma - Estágio 3">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 3. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4655" type="EtcItem" name="Cristal Azul da Alma - Estágio 4">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 4. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4656" type="EtcItem" name="Cristal Azul da Alma - Estágio 5">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 5. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4657" type="EtcItem" name="Cristal Azul da Alma - Estágio 6">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 6. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4658" type="EtcItem" name="Cristal Azul da Alma - Estágio 7">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 7. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4659" type="EtcItem" name="Cristal Azul da Alma - Estágio 8">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 8. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4660" type="EtcItem" name="Cristal Azul da Alma - Estágio 9">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 9. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4661" type="EtcItem" name="Cristal Azul da Alma - Estágio 10">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas, estágio 10. Uma vez saturado, confere habilidades especiais a uma arma. Cada uso consome 26 MP. Quando uma pedra da alma atinge esse estágio, ela automaticamente absorve as almas. Portanto, nenhuma segmentação é necessária." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4662" type="EtcItem" name="Cristal Vermelho da Alma Quebrada">
+		
+		<set name="icon" val="icon.etc_broken_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal de cor vermelha que absorve almas. Um desequilíbrio interno entre as almas absorvidas o tornou inútil." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4663" type="EtcItem" name="Cristal Verde da Alma Quebrado">
+		
+		<set name="icon" val="icon.etc_broken_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal de cor verde que absorve almas. Um desequilíbrio interno entre as almas absorvidas o tornou inútil." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4664" type="EtcItem" name="Cristal Azul da Alma Quebrado">
+		
+		<set name="icon" val="icon.etc_broken_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal de cor azul que absorve almas. Um desequilíbrio interno entre as almas absorvidas o tornou inútil." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4665" type="Weapon" name="Faca de Pipette">
+		
+		<set name="icon" val="icon.weapon_knife_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Um instrumento usado para coletar o sangue de criaturas vivas. Use-o para cortar Baium e obter uma amostra de sangue." />
+		<set name="weight" val="1140" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="10" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="9" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="10" order="0x08" stat="pAtk" />
+			<set val="9" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="4666" type="EtcItem" name="Orbe da Alma de Reiria">
+		
+		<set name="icon" val="icon.etc_bead_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma esfera contendo a Alma de Reiria. Leve-o ao Maestro Reorin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4667" type="EtcItem" name="Cetro Infernium de Kernon">
+		
+		<set name="icon" val="icon.etc_imperial_scepter_i02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cetro feito de infernium que foi recuperado do demônio Kernon. Leve-o ao Maestro Reorin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4668" type="EtcItem" name="Cetro Infernium de Golkonda">
+		
+		<set name="icon" val="icon.etc_imperial_scepter_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cetro feito de infernium que foi recuperado de Golkonda, o Longhorn General. Leve-o ao Maestro Reorin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4669" type="EtcItem" name="Cetro Infernium de Hallate">
+		
+		<set name="icon" val="icon.etc_imperial_scepter_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cetro feito de infernium que foi recuperado do Death Lord Hallate. Leve-o ao Maestro Reorin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4670" type="EtcItem" name="Martelo do Maestro Reorin">
+		
+		<set name="icon" val="icon.weapon_iron_hammer_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um martelo usado por um ferreiro. É feito processando uma pepita de adamantita de alta pureza. Leve-o ao Maestro Reorin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4671" type="EtcItem" name="Molde do Maestro Reorin">
+		
+		<set name="icon" val="icon.etc_artisans_frame_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um molde usado por Anãos Artesãos para fabricar equipamentos de alta qualidade. Leve-o ao Maestro Reorin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4672" type="EtcItem" name="Verniz Infernium">
+		
+		<set name="icon" val="icon.etc_powder_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Verniz usado ao fabricar uma arma infernium. Leve-o ao Maestro Reorin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4673" type="EtcItem" name="Faca de Pipette Vermelha">
+		
+		<set name="icon" val="icon.weapon_knife_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A faca de pipeta que contém o sangue de Baium. Leve-o ao Mestre Kaspar na Academia de Hardin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4674" type="EtcItem" name="Medalha de Honra">
+		<set name="icon" val="icon.etc_magic_coin_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4675" type="EtcItem" name="Medalha da Amizade">
+		<set name="icon" val="icon.etc_magic_coin_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4676" type="EtcItem" name="Medalha da Vitória">
+		<set name="icon" val="icon.etc_magic_coin_blood_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4677" type="EtcItem" name="Poção de Fuga Crítica">
+		
+		<set name="icon" val="icon.etc_potion_red_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Desvia o ataque inimigo, inibe a velocidade do usuário." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4678" type="EtcItem" name="Diminuir Poção de Aceleração">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Diminui o nível de Agressão." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4679" type="EtcItem" name="Bênção de Eva">
+		
+		<set name="icon" val="icon.etc_bless_of_eva_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Permite respirar debaixo d'água por longos períodos." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="4680" type="EtcItem" name="Poção da Vingança">
+		
+		<set name="icon" val="icon.etc_potion_blue_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Reduz Def.F e reflete o dano de volta ao inimigo." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4681" type="Weapon" name="Portador da Tempestade - Raiva Crítica">
+		
+		<set name="icon" val="icon.weapon_stormbringer_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Diminui o HP do jogador em 12 enquanto aumenta o Atq.F por 248 durante um ataque crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1430" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="107" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="61" />
+		<set name="price" val="2290000" />
+		<set name="crystal_count" val="916" />
+		<set name="item_skill_id" val="3026" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="107" order="0x08" stat="pAtk" />
+			<set val="61" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="4682" type="Weapon" name="Portador da Tempestade - Foco">
+		
+		<set name="icon" val="icon.weapon_stormbringer_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 86." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1430" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="107" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="61" />
+		<set name="price" val="2290000" />
+		<set name="crystal_count" val="916" />
+		<set name="item_skill_id" val="3010" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="107" order="0x08" stat="pAtk" />
+			<set val="61" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="86" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+	<item id="4683" type="Weapon" name="Portador da Tempestade - Leve">
+		
+		<set name="icon" val="icon.weapon_stormbringer_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Reduz o peso de uma arma pela metade." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="430" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="107" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="61" />
+		<set name="price" val="2290000" />
+		<set name="crystal_count" val="916" />
+		<for>
+			<set val="107" order="0x08" stat="pAtk" />
+			<set val="61" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="4684" type="Weapon" name="Shamshir - Orientação">
+		
+		<set name="icon" val="icon.weapon_shamshir_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Precisão em 6." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="item_skill_id" val="3007" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="6" order="0x40" stat="accCombat" />
+		</for>
+	</item>
+	<item id="4685" type="Weapon" name="Shamshir - Golpe nas Costas">
+		
+		<set name="icon" val="icon.weapon_shamshir_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 67 ao atacar o inimigo por trás." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="item_skill_id" val="3018" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add order="0x40" stat="rCrit" val="67">
+				<and>
+					<player behind="True" />
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="4686" type="Weapon" name="Shamshir - Rsk. Evasão">
+		
+		<set name="icon" val="icon.weapon_shamshir_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Evasão em 7 quando o HP fica em 60% ou menos." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="item_skill_id" val="3028" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add order="0x40" stat="rEvas" val="7">
+				<and>
+					<player hp="60" />
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="4687" type="Weapon" name="Katana - Foco">
+		
+		<set name="icon" val="icon.weapon_katana_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 82." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="item_skill_id" val="3010" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="82" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+	<item id="4688" type="Weapon" name="Katana - Dano Crítico">
+		
+		<set name="icon" val="icon.weapon_katana_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta Atq.F por 194 durante um ataque crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="item_skill_id" val="3023" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="194" order="0x40" stat="cAtk" />
+		</for>
+	</item>
+	<item id="4689" type="Weapon" name="Katana - Pressa">
+		
+		<set name="icon" val="icon.weapon_katana_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Vel. Atq. em cerca de 7%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="item_skill_id" val="3036" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.07" order="0x30" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="4690" type="Weapon" name="Espada Espiritual - Dano Crítico">
+		
+		<set name="icon" val="icon.weapon_spirits_sword_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta Atq.F por 194 durante um ataque crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="item_skill_id" val="3023" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="194" order="0x40" stat="cAtk" />
+		</for>
+	</item>
+	<item id="4691" type="Weapon" name="Espada Espiritual - Veneno Crítico">
+		
+		<set name="icon" val="icon.weapon_spirits_sword_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: 15% de chance do alvo ser envenenado durante um ataque crítico. Efeito 5" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<skill onCrit="1" id="1168" lvl="4" chance="15" />
+		</for>
+	</item>
+	<item id="4692" type="Weapon" name="Espada Espiritual - Pressa">
+		
+		<set name="icon" val="icon.weapon_spirits_sword_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Vel. Atq. em cerca de 7%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="item_skill_id" val="3036" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.07" order="0x30" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="4693" type="Weapon" name="Espada Raid - Foco">
+		
+		<set name="icon" val="icon.weapon_raid_sword_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 82." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="item_skill_id" val="3010" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="82" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+	<item id="4694" type="Weapon" name="Espada Raid - Drenagem Crítica">
+		
+		<set name="icon" val="icon.weapon_raid_sword_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: O usuário absorve 9 HP do alvo durante um ataque crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<skill onCrit="1" id="3022" lvl="2" />
+		</for>
+	</item>
+	<item id="4695" type="Weapon" name="Espada Raid - Veneno Crítico">
+		
+		<set name="icon" val="icon.weapon_raid_sword_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: 15% de chance do alvo ser envenenado durante um ataque crítico. Efeito 5" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1420" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="68" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="68" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<skill onCrit="1" id="1168" lvl="4" chance="15" />
+		</for>
+	</item>
+	<item id="4696" type="Weapon" name="Caliburs - Orientação">
+		
+		<set name="icon" val="icon.weapon_caliburs_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Precisão em 5." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1400" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="76" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="item_skill_id" val="3007" /> 
+		<set name="item_skill_lvl" val="3" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="5" order="0x40" stat="accCombat" />
+		</for>
+	</item>
+	<item id="4697" type="Weapon" name="Caliburs - Foco">
+		
+		<set name="icon" val="icon.weapon_caliburs_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 77." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1400" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="76" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="item_skill_id" val="3010" /> 
+		<set name="item_skill_lvl" val="3" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="77" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+	<item id="4698" type="Weapon" name="Caliburs - Dano Crítico">
+		
+		<set name="icon" val="icon.weapon_caliburs_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta Atq.F por 213 durante um ataque crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1400" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="76" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="item_skill_id" val="3023" /> 
+		<set name="item_skill_lvl" val="3" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="213" order="0x40" stat="cAtk" />
+		</for>
+	</item>
+	<item id="4699" type="Weapon" name="Espada da Ilusão - Foco">
+		
+		<set name="icon" val="icon.weapon_sword_of_delusion_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 77." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1400" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="76" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="item_skill_id" val="3010" /> 
+		<set name="item_skill_lvl" val="3" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="77" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+</list>

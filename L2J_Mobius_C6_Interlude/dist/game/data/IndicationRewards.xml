@@ -1,0 +1,16 @@
+<indicationRewards>
+    <reward level="20">
+        <item id="9519" count="5" name="Pergaminho da Sabedoria"/>
+        <item id="57" count="300000" name="Adena"/>
+    </reward>
+    <reward level="40">
+        <item id="9519" count="10" name="Pergaminho da Sabedoria"/>
+		<item id="9514" count="5" name="Saco de Presentes"/>
+        <item id="57" count="500000" name="Adena"/>
+    </reward>
+	<reward level="76">
+        <item id="9511" count="1" name="Cupom Prêmio: 15 Dias"/>
+		<item id="9514" count="5" name="Saco de Presentes"/>
+        <item id="57" count="800000" name="Adena"/>
+    </reward>
+</indicationRewards>

@@ -1,0 +1,250 @@
+/*
+ * This file is part of the L2J Mobius project.
+ * 
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ * General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+package org.l2jmobius.gameserver.network.clientpackets;
+
+import org.l2jmobius.Config;
+import org.l2jmobius.commons.network.ReadablePacket;
+import org.l2jmobius.gameserver.model.World;
+import org.l2jmobius.gameserver.model.WorldObject;
+import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.network.GameClient;
+import org.l2jmobius.gameserver.network.SystemMessageId;
+import org.l2jmobius.gameserver.network.serverpackets.ActionFailed;
+import org.l2jmobius.gameserver.network.serverpackets.SendTradeRequest;
+import org.l2jmobius.gameserver.network.serverpackets.SystemMessage;
+import org.l2jmobius.gameserver.util.Util;
+
+public class TradeRequest implements ClientPacket
+{
+	private int _objectId;
+	
+	@Override
+	public void read(ReadablePacket packet)
+	{
+		_objectId = packet.readInt();
+	}
+	
+	@Override
+	public void run(GameClient client)
+	{
+		final Player player = client.getPlayer();
+		if (player == null)
+		{
+			return;
+		}
+		
+		if (!player.getAccessLevel().allowTransaction())
+		{
+			player.sendMessage("As transações são desabilitadas para seu nível de acesso.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		final WorldObject target = World.getInstance().findObject(_objectId);
+		if ((target == null) || !player.getKnownList().knowsObject(target) || !(target instanceof Player) || (target.getObjectId() == player.getObjectId()))
+		{
+			player.sendPacket(SystemMessageId.THAT_IS_THE_INCORRECT_TARGET);
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		final Player partner = (Player) target;
+		if (partner.isInOlympiadMode() || player.isInOlympiadMode())
+		{
+			player.sendMessage("Você ou seu alvo não podem solicitar troca no modo Olimpíada.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (partner.isStunned())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando o parceiro estiver atordoado.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (partner.isConfused())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando o parceiro estiver confuso.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (partner.isCastingNow() || partner.isCastingPotionNow())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando o parceiro estiver usando magia.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (partner.isInDuel())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando o parceiro estiver em duelo.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (partner.isImmobilized())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando o parceiro estiver imobilizado.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (partner.getActiveEnchantItem() != null)
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando o parceiro estiver encantando.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (partner.isParalyzed())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando o parceiro estiver paralisado.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (partner.inObserverMode())
+		{
+			player.sendMessage("Você não pode solicitar uma negociação quando o parceiro estiver no modo de observação.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (partner.isAttackingNow())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando o parceiro estiver atacando.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (player.isStunned())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando estiver atordoado.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (player.isConfused())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando estiver confuso.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (player.isCastingNow() || player.isCastingPotionNow())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando estiver usando magia.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (player.isInDuel())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando estiver em duelo.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (player.isImmobilized())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando estiver imobilizado.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (player.getActiveEnchantItem() != null)
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando estiver encantando.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (player.isParalyzed())
+		{
+			player.sendMessage("Você não pode solicitar uma troca quando estiver paralisado.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (player.inObserverMode())
+		{
+			player.sendMessage("Você não pode solicitar uma negociação quando estiver no modo de observação.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (player.calculateDistanceSq3D(partner) > 22500) // 150
+		{
+			player.sendPacket(SystemMessageId.YOUR_TARGET_IS_OUT_OF_RANGE);
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		// Alt game - Karma punishment
+		if (!Config.ALT_GAME_KARMA_PLAYER_CAN_TRADE && ((player.getKarma() > 0) || (partner.getKarma() > 0)))
+		{
+			player.sendMessage("Jogadores caóticos não podem usar troca.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if ((player.getPrivateStoreType() != 0) || (partner.getPrivateStoreType() != 0))
+		{
+			player.sendPacket(SystemMessageId.WHILE_OPERATING_A_PRIVATE_STORE_OR_WORKSHOP_YOU_CANNOT_DISCARD_DESTROY_OR_TRADE_AN_ITEM);
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (!Config.ALLOW_LOW_LEVEL_TRADE && (((player.getLevel() < 76) && (partner.getLevel() >= 76)) || (partner.getLevel() < 76) || (player.getLevel() >= 76)))
+		{
+			player.sendMessage("Você não pode trocar com um personagem de nível inferior.");
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (player.isProcessingTransaction())
+		{
+			player.sendPacket(SystemMessageId.YOU_ARE_ALREADY_TRADING_WITH_SOMEONE);
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (partner.isProcessingRequest() || partner.isProcessingTransaction())
+		{
+			final SystemMessage sm = new SystemMessage(SystemMessageId.S1_IS_BUSY_PLEASE_TRY_AGAIN_LATER);
+			sm.addString(partner.getName());
+			player.sendPacket(sm);
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		if (Util.calculateDistance(player, partner, true) > 150)
+		{
+			player.sendPacket(SystemMessageId.YOUR_TARGET_IS_OUT_OF_RANGE);
+			player.sendPacket(ActionFailed.STATIC_PACKET);
+			return;
+		}
+		
+		player.onTransactionRequest(partner);
+		partner.sendPacket(new SendTradeRequest(player.getObjectId()));
+		final SystemMessage sm = new SystemMessage(SystemMessageId.YOU_HAVE_REQUESTED_A_TRADE_WITH_S1);
+		sm.addString(partner.getName());
+		player.sendPacket(sm);
+	}
+}

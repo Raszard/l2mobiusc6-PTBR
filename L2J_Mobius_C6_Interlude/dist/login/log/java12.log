@@ -1,0 +1,30 @@
+2025.08.23 22:27:40,033	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2025.08.23 22:27:40,126	INFO	1	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2025.08.23 22:27:40,128	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 2 total threads.
+2025.08.23 22:27:40,128	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...instant pool executor with 2 total threads.
+2025.08.23 22:27:40,136	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2025.08.23 22:27:40,424	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2025.08.23 22:27:40,519	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
+2025.08.23 22:27:40,529	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
+2025.08.23 22:27:40,575	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2025.08.23 22:27:40,582	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
+2025.08.23 22:27:40,584	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
+2025.08.23 22:27:40,609	INFO	36	org.l2jmobius.commons.network.NetServer	LoginServer: Listening on port 2106 for incoming connections.
+2025.08.23 22:27:58,607	INFO	39	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2025.08.23 22:27:58,609	INFO	39	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2025.08.23 22:27:58,609	INFO	39	org.l2jmobius.loginserver.GameServerThread	10.0.0.0/10.0.0.0/8
+2025.08.23 22:27:58,609	INFO	39	org.l2jmobius.loginserver.GameServerThread	172.16.0.0/172.16.0.0/19
+2025.08.23 22:27:58,609	INFO	39	org.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/16
+2025.08.23 22:27:58,609	INFO	39	org.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/24
+2025.08.23 22:27:58,609	INFO	39	org.l2jmobius.loginserver.GameServerThread	192.168.1.0/192.168.1.0/24
+2025.08.23 22:27:58,609	INFO	39	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/0.0.0.0/0
+2025.08.23 23:03:27,136	INFO	39	org.l2jmobius.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2025.08.23 23:03:27,136	INFO	39	org.l2jmobius.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected.
+2025.08.23 23:13:17,985	INFO	50	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2025.08.23 23:13:17,985	INFO	50	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2025.08.23 23:13:17,985	INFO	50	org.l2jmobius.loginserver.GameServerThread	10.0.0.0/10.0.0.0/8
+2025.08.23 23:13:17,985	INFO	50	org.l2jmobius.loginserver.GameServerThread	172.16.0.0/172.16.0.0/19
+2025.08.23 23:13:17,985	INFO	50	org.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/16
+2025.08.23 23:13:17,986	INFO	50	org.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/24
+2025.08.23 23:13:17,986	INFO	50	org.l2jmobius.loginserver.GameServerThread	192.168.1.0/192.168.1.0/24
+2025.08.23 23:13:17,986	INFO	50	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/0.0.0.0/0

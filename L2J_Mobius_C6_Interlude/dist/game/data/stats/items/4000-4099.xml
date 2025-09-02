@@ -1,0 +1,890 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="4000" type="EtcItem" name="Bilhete do Mercenário (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Lança/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40000" />
+	</item>
+	<item id="4001" type="EtcItem" name="Bilhete do Mercenário (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Arco/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50000" />
+	</item>
+	<item id="4002" type="EtcItem" name="Bilhete do Mercenário (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Clérigo/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="4003" type="EtcItem" name="Bilhete do Mercenário (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Wizard/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="4004" type="EtcItem" name="Bilhete do Mercenário (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Espada/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30000" />
+	</item>
+	<item id="4005" type="EtcItem" name="Bilhete do Mercenário (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Lança/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40000" />
+	</item>
+	<item id="4006" type="EtcItem" name="Bilhete do Mercenário (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Arco/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50000" />
+	</item>
+	<item id="4007" type="EtcItem" name="Bilhete do Mercenário (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Clérigo/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="4008" type="EtcItem" name="Bilhete do Mercenário (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Wizard/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="4009" type="EtcItem" name="Bilhete do Mercenário (Teleporter1)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Oren, no Teleporter ou dentro do castelo, este bilhete permite o teletransporte para o interior do castelo ou para a localização do guardião." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4010" type="EtcItem" name="Bilhete do Mercenário (Teleporter2)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Oren, no Teleporter ou dentro do castelo, este bilhete permite o teletransporte para o castelo externo ou para a localização do guardião." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4011" type="EtcItem" name="Bilhete do Mercenário (Teleporter3)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Oren, no Teleporter ou dentro do castelo, este bilhete permite o teletransporte para o interior ou exterior do castelo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4012" type="EtcItem" name="Bilhete do Mercenário (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Espada/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30000" />
+	</item>
+	<item id="4013" type="EtcItem" name="Bilhete do Mercenário (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Lança/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40000" />
+	</item>
+	<item id="4014" type="EtcItem" name="Bilhete do Mercenário (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Arco/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50000" />
+	</item>
+	<item id="4015" type="EtcItem" name="Bilhete do Mercenário (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Clérigo/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="4016" type="EtcItem" name="Bilhete do Mercenário (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Wizard/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="4017" type="EtcItem" name="Bilhete do Mercenário (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Espada/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30000" />
+	</item>
+	<item id="4018" type="EtcItem" name="Bilhete do Mercenário (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Lança/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40000" />
+	</item>
+	<item id="4019" type="EtcItem" name="Bilhete do Mercenário (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Arco/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50000" />
+	</item>
+	<item id="4020" type="EtcItem" name="Bilhete do Mercenário (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Clérigo/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="4021" type="EtcItem" name="Bilhete do Mercenário (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Wizard/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="4022" type="EtcItem" name="Bilhete do Mercenário (Teleporter1)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Aden, no Teletransportador ou dentro do castelo, este bilhete permite o teletransporte para o Portão Leste ou Oeste do interior do castelo, os salões ou a localização do guardião." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4023" type="EtcItem" name="Bilhete do Mercenário (Teleporter2)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Aden, no Teleporter ou dentro do castelo, este bilhete permite o teletransporte para o castelo externo, o Portão Leste do castelo interno, os salões ou a localização do guardião." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4024" type="EtcItem" name="Bilhete do Mercenário (Teleporter3)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Aden, no Teleporter ou dentro do castelo, este bilhete permite o teletransporte para o castelo externo, o Portão Oeste do castelo interno, os salões ou a localização do guardião." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4025" type="EtcItem" name="Bilhete do Mercenário (Teleporter4)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Aden, no Teleporter ou dentro do castelo, este bilhete permite o teletransporte para o castelo externo, o portão leste ou oeste do castelo interno ou a localização do guardião." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4026" type="EtcItem" name="Bilhete do Mercenário (Teleporter5)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Colocado em Aden, no Teleporter ou dentro do castelo, este bilhete permite o teletransporte para o castelo externo, o Portão Leste ou Oeste do castelo interno ou os salões." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4027" type="Weapon" name="Ramalhete">
+		<set name="icon" val="icon.etc_plan_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="p_dam" val="8" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="6" />
+		<for>
+			<set val="8" order="0x08" stat="pAtk" />
+			<set val="6" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="4028" type="Weapon" name="Canhão Gigante">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="5" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="5" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="5" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="4029" type="EtcItem" name="Papel Vermelho">
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="4030" type="EtcItem" name="Papel Laranja">
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="4031" type="EtcItem" name="Papel Amarelo">
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="4032" type="EtcItem" name="Papel Verde">
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="4033" type="EtcItem" name="Papel Azul">
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="4034" type="EtcItem" name="Papel Roxo">
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="4035" type="EtcItem" name="Papel Branco">
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="4036" type="EtcItem" name="Papel Preto">
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+	</item>
+	<item id="4037" type="EtcItem" name="Moeda da Sorte">
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4038" type="EtcItem" name="Alimentos Para Filhotes">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Quando o medidor de fome de um filhote atingir 55% ou menos, sua comida será consumida automaticamente." />
+		<set name="weight" val="40" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="4039" type="EtcItem" name="Cola de Molde">
+		
+		<set name="icon" val="icon.etc_reagent_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente para fazer ferramentas de vestuário superior. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6000" />
+	</item>
+	<item id="4040" type="EtcItem" name="Lubrificante de Molde">
+		
+		<set name="icon" val="icon.etc_reagent_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente para fazer ferramentas de vestuário superior. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="4041" type="EtcItem" name="Endurecedor de Molde">
+		
+		<set name="icon" val="icon.etc_reagent_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente para fazer ferramentas de vestuário superior. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="23000" />
+	</item>
+	<item id="4042" type="EtcItem" name="Enria">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Cristal representando vingança e destruição. Usado para fazer itens de Grau B e acima e também pode ser vendido em lojas comuns." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4043" type="EtcItem" name="Asofe">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Cristal representando vida e proteção. Usado para fazer itens de Grau B e acima e também pode ser vendido em lojas comuns." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6000" />
+	</item>
+	<item id="4044" type="EtcItem" name="Thons">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Cristal representando escolha e consciência. Usado para fazer itens de Grau B e acima e também pode ser vendido em lojas comuns." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6000" />
+	</item>
+	<item id="4045" type="EtcItem" name="Titular Maestro">
+		
+		<set name="icon" val="icon.etc_lump_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente usado na fabricação de itens de Anãos. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="411000" />
+	</item>
+	<item id="4046" type="EtcItem" name="Bloqueio Maestro Bigorna">
+		
+		<set name="icon" val="icon.etc_lump_dark_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente usado na fabricação de itens de Anãos. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="90400" />
+	</item>
+	<item id="4047" type="EtcItem" name="Molde de Artesão">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente usado na fabricação de itens de Anãos. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="710000" />
+	</item>
+	<item id="4048" type="EtcItem" name="Molde Maestro">
+		
+		<set name="icon" val="icon.etc_silver_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente usado na fabricação de itens de Anãos. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="154000" />
+	</item>
+	<item id="4049" type="EtcItem" name="Brinco de Adamantita Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_crystal_ball_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer brincos de Admantita. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3813" />
+	</item>
+	<item id="4050" type="EtcItem" name="Fio de Anel de Adamantita">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer um anel de adamantite. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3228" />
+	</item>
+	<item id="4051" type="EtcItem" name="Correntes de Colar de Adamantita">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer colar de adamantite. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5157" />
+	</item>
+	<item id="4052" type="EtcItem" name="Brinco de Pedaço de Minério Negro">
+		
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Brincos de Minério Negro. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5649" />
+	</item>
+	<item id="4053" type="EtcItem" name="Anel de Pedra Preciosa Minério Negro">
+		
+		<set name="icon" val="icon.etc_gem_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer o Anel de Minério Negro. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4666" />
+	</item>
+	<item id="4054" type="EtcItem" name="Colar de Correntes de Minério Negro">
+		
+		<set name="icon" val="icon.etc_bead_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Colar de Minério Negro. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10154" />
+	</item>
+	<item id="4055" type="EtcItem" name="Fragmento de Escudo Composto">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Escudo Composto. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3120" />
+	</item>
+	<item id="4056" type="EtcItem" name="Peitoral Zubei Parte">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer o Peitoral Zubei. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11050" />
+	</item>
+	<item id="4057" type="EtcItem" name="Material da Calça Zubei">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Botas Zubei. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7150" />
+	</item>
+	<item id="4058" type="EtcItem" name="Parte das Botas de Implosão">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um anão fazer botas de implosão. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4059" type="EtcItem" name="Tecido Botas do Silêncio">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Botas silenciosas. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3843" />
+	</item>
+	<item id="4060" type="EtcItem" name="Tecido de Botas do Guardião">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Botas de guardião. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3843" />
+	</item>
+	<item id="4061" type="EtcItem" name="Padrão de Botas Paradia">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Paradia Boots. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4062" type="EtcItem" name="Forro de Botas Elementais">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Botas Elementais. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4063" type="EtcItem" name="Forro Botas Elegante">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um anão fazer botas de graça. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4064" type="EtcItem" name="Parte Peitoral Avadon">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer um Peitoral Avadon. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11050" />
+	</item>
+	<item id="4065" type="EtcItem" name="Material de Botas Avadon">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um anão fazer Botas de chapa avadon. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7150" />
+	</item>
+	<item id="4066" type="EtcItem" name="Tecido de Camisa Zubei de Couro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer a Camisa Zubei de Couro. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8483" />
+	</item>
+	<item id="4067" type="EtcItem" name="Textura da Calça Zubei de Couro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Botas Zubei de Couro. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5587" />
+	</item>
+	<item id="4068" type="EtcItem" name="Forro de Armadura Avadon de Couro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Armadura Avadon de Couro. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11042" />
+	</item>
+	<item id="4069" type="EtcItem" name="Tecido de Manto Zubei">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer a Manto Zubei. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8483" />
+	</item>
+	<item id="4070" type="EtcItem" name="Tecido de Calça Zubei">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Calça Zubei. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5587" />
+	</item>
+	<item id="4071" type="EtcItem" name="Tecido Manto Avadon">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer o Manto Avadon. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11042" />
+	</item>
+	<item id="4072" type="EtcItem" name="Padrão Diadema Avadon">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um anão fazer Diadema Avadon. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4453" />
+	</item>
+	<item id="4073" type="EtcItem" name="Parte Luvas Avadon">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Luvas Avadon. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3843" />
+	</item>
+	<item id="4074" type="EtcItem" name="Projeto Luvas do Silêncio em Correntes">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Luvas do Silêncio. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3843" />
+	</item>
+	<item id="4075" type="EtcItem" name="Projeto de Luvas do Guardião">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão para as Luvas do Guardião. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3843" />
+	</item>
+	<item id="4076" type="EtcItem" name="Padrão de Luvas de Bênção">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Luvas da Bênção. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3843" />
+	</item>
+	<item id="4077" type="EtcItem" name="Fragmento de Escudo da Perdição">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer o Escudo da Perdição. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4446" />
+	</item>
+	<item id="4078" type="EtcItem" name="Peitoral Lobo Azul">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer o Peitoral Lobo Azul. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="13692" />
+	</item>
+	<item id="4079" type="EtcItem" name="Projeto Botas da Bênção">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Botas da Bênção. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3843" />
+	</item>
+	<item id="4080" type="EtcItem" name="Material das Botas Lobo Azul">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Botas Lobo Azul. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="9723" />
+	</item>
+	<item id="4081" type="EtcItem" name="Temperamento da Armadura da Placas da Perdição">
+		
+		<set name="icon" val="icon.etc_lump_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão para fazer da Perdição Plate Armor. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20292" />
+	</item>
+	<item id="4082" type="EtcItem" name="Textura de Armadura de Couro de Lobo Azul">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer a Armadura Lobo Azul de Couro. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="17700" />
+	</item>
+	<item id="4083" type="EtcItem" name="Projeto de Armadura da Perdição de Couro">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer a Armadura da Perdição de Couro. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="17700" />
+	</item>
+	<item id="4084" type="EtcItem" name="Tecido Manto Lobo Azul">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer a Manto Lobo Azul. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11508" />
+	</item>
+	<item id="4085" type="EtcItem" name="Padrão Manto da Perdição">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer a Manto da Perdição. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11508" />
+	</item>
+	<item id="4086" type="EtcItem" name="Padrão de Calça de Lobo Azul">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Calça de Lobo Azul. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8523" />
+	</item>
+	<item id="4087" type="EtcItem" name="Calça do Padrão da Perdição">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Calça da Perdição. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8523" />
+	</item>
+	<item id="4088" type="EtcItem" name="Projeto de Capacete de Lobo Azul">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer o Capacete Lobo Azul. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5292" />
+	</item>
+	<item id="4089" type="EtcItem" name="Padrão de Capacete da Perdição">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer o da Perdição Helmet. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5292" />
+	</item>
+	<item id="4090" type="EtcItem" name="Projeto de Botas de Lobo Azul">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Botas Lobo Azul. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4091" type="EtcItem" name="Parte das Luvas da Perdição">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Luvas da Perdição. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4092" type="EtcItem" name="Forro de Luvas Elementais">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Luvas Elementais. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4093" type="EtcItem" name="Forro Luvas Elegante">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Luvas Elegante. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4094" type="EtcItem" name="Tecido de Manopla de Implosão">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Manoplas de Implosão. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4095" type="EtcItem" name="Padrão de Luvas Paradia">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Luvas Paradia. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4096" type="EtcItem" name="Luvas Lobo Azul Tecido">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Luvas de Lobo Azul. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+	<item id="4097" type="EtcItem" name="Projeto de Botas Zubei">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer as Botas Zubei. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3843" />
+	</item>
+	<item id="4098" type="EtcItem" name="Projeto de Botas Avadon">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer Botas Avadon. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3843" />
+	</item>
+	<item id="4099" type="EtcItem" name="Parte das Botas da Perdição">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal definitivamente necessário para um Anão fazer da Perdição Boots. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4455" />
+	</item>
+</list>

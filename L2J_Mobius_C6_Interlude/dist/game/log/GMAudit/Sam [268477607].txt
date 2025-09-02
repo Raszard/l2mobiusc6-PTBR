@@ -1,0 +1,34 @@
+31/07/2024 21:42:11>Sam [268477607]>admin_admin>no-target>
+31/07/2024 21:42:13>Sam [268477607]>admin_gmshop>no-target>
+31/07/2024 21:42:15>Sam [268477607]>admin_admin>no-target>
+31/07/2024 21:42:16>Sam [268477607]>admin_create_item>no-target>
+31/07/2024 21:42:21>Sam [268477607]>admin_create_item>no-target> 9310 1
+31/07/2024 21:42:26>Sam [268477607]>admin_admin>Sam>
+31/07/2024 21:42:27>Sam [268477607]>admin_create_item>Sam>
+31/07/2024 21:42:33>Sam [268477607]>admin_create_item>Sam> 9311 1
+11/09/2024 12:13:30>Sam [268477607]>admin_admin>no-target>
+11/09/2024 12:13:31>Sam [268477607]>admin_superhaste>no-target> 4
+11/09/2024 12:23:21>Sam [268477607]>admin_admin>Keltir Barbudo>
+11/09/2024 12:23:24>Sam [268477607]>admin_superhaste>Keltir Barbudo> 0
+11/09/2024 12:28:27>Sam [268477607]>admin_admin>Keltir Barbudo>
+11/09/2024 12:28:35>Sam [268477607]>admin_admin2>no-target>
+11/09/2024 12:28:37>Sam [268477607]>admin_admin>Elpy>
+11/09/2024 12:28:40>Sam [268477607]>admin_admin4>Elpy>
+11/09/2024 12:28:41>Sam [268477607]>admin_admin3>Elpy>
+11/09/2024 12:28:43>Sam [268477607]>admin_admin2>no-target>
+11/09/2024 12:28:46>Sam [268477607]>admin_show_characters>no-target> 0
+11/09/2024 12:28:47>Sam [268477607]>admin_character_info>no-target> Sam
+11/09/2024 12:28:50>Sam [268477607]>admin_add_exp_sp_to_character>Keltir Ancião>
+11/09/2024 12:29:37>Sam [268477607]>admin_admin>Lobo>
+11/09/2024 12:29:45>Sam [268477607]>admin_admin2>Keltir Ancião>
+11/09/2024 12:29:51>Sam [268477607]>admin_admin3>no-target>
+11/09/2024 12:29:53>Sam [268477607]>admin_admin4>Keltir Barbudo>
+11/09/2024 12:29:54>Sam [268477607]>admin_admin2>Keltir Barbudo>
+11/09/2024 12:29:55>Sam [268477607]>admin_help>Keltir Barbudo> mods_menu.htm
+11/09/2024 12:32:55>Sam [268477607]>admin_admin>Dean>
+11/09/2024 12:32:56>Sam [268477607]>admin_admin3>Dean>
+11/09/2024 12:32:57>Sam [268477607]>admin_admin4>Dean>
+11/09/2024 12:32:58>Sam [268477607]>admin_admin2>Dean>
+11/09/2024 12:33:02>Sam [268477607]>admin_show_characters>Dean> 0
+11/09/2024 12:33:04>Sam [268477607]>admin_character_info>Dean> Dean
+11/09/2024 12:33:10>Sam [268477607]>admin_show_characters>Dean> 0

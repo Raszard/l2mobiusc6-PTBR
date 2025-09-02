@@ -1,0 +1,10 @@
+<html><body>O preço padrão do sistema para este Salão do Clã é<font color="aaccff">%AGIT_LAST_PRICE% </font>Adena e o último preço de negociação foi<font color="aaccff">%AGIT_LAST_PRICE% </font>Adena.<br>O valor recebido no final do leilão é o valor restante após a dedução do<font color="LEVEL"> imposto sobre transações (10%) </font>do preço da oferta bem-sucedida. Em quanto você gostaria de definir o preço padrão do leilão (preço mínimo de lance)?<table width=270 border=0><tr><td width=220 align=right><edit var=minbid width=230 align=right type=number></td><td width=40 align=right>Adena</td></tr></table>
+Por quantos dias você deseja que o leilão seja executado?<table width=270 border=0><tr><td width=270 align=right><combobox width=50 var=day list="7;3;1"></td></tr></table>
+Escrevaumaexplicação sobre o Salão do Clã.<multiedit var="comment" width=270><img src="L2UI.SquareBlank" width=270 height=10> <img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=270 height=5>
+<table width=270 border=0>
+<tr>
+<td width=130></td>
+<td width=70 align=center><button action="%AGIT_LINK_BACK%" value="Voltar" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_auction $day $minbid" value="Sell" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td></tr>
+</table>
+</body></html>

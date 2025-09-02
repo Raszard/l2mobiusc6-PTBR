@@ -1,0 +1,999 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3500" type="EtcItem" name="Flauta Dragão do Vento">
+		
+		<set name="icon" val="icon.etc_flute_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="Flauta usada para chamar filhote de vento." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="3501" type="EtcItem" name="Flauta Dragão da Estrela">
+		
+		<set name="icon" val="icon.etc_flute_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="Flauta usada para chamar o filhote de estrela." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="3502" type="EtcItem" name="Flauta Dragão do Crepúsculo">
+		
+		<set name="icon" val="icon.etc_flute_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="Flauta usada para chamar o filhote do crepúsculo." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="3503" type="EtcItem" name="Certificado de Entregadores">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificação oficial para fazer entregas. Emitido pela Guilda do Portão de Ferro. O selo de Lockrin do Portão de Ferro está afixado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3504" type="EtcItem" name="Chifre de Kiruna">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Item que o Chefe do Armazém Gesto confiou dizendo para levá-lo ao Alto Prefeito Penatus. Você deve entregá-lo rapidamente." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3505" type="EtcItem" name="Molde de Mithril">
+		
+		<set name="icon" val="icon.etc_silver_mold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Item que o Chefe do Armazém Gesto confiou dizendo para levá-lo ao Ferreiro Rupio. Você deve entregá-lo rapidamente." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3506" type="EtcItem" name="Carta Sangrenta">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Item que o Chefe do Armazém Gesto confiou dizendo para levar para Martin. Você deve entregá-lo rapidamente." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3507" type="EtcItem" name="Suprimentos Para Alex">
+		
+		<set name="icon" val="icon.etc_squares_wood_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Artigo de abastecimento. É muito pesado. Vamos levá-lo para Alex em Florin Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3508" type="EtcItem" name="Suprimentos Para Endrigo">
+		
+		<set name="icon" val="icon.etc_squares_wood_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Artigo de abastecimento. É muito pesado. Vamos levá-lo ao Warden Endrigo no Execution Grounds." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3509" type="EtcItem" name="Moedas de Alex">
+		
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Retribua o presente dado por Alex como expressão de agradecimento por ter trazido o suficiente do item de suprimento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3510" type="EtcItem" name="Apreciação dos Guardiões">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta de agradecimento dada pelo Warden Endrigo do Execution Grounds como expressão de agradecimento por ter trazido o suficiente dos itens fornecidos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3511" type="EtcItem" name="Caixa Preta Para Orim">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Item que o Chefe do Armazém Gesto confiou dizendo para levar para Orim a Sombra. O que poderia estar dentro...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3512" type="EtcItem" name="Presunto Windsus Deluxe">
+		
+		<set name="icon" val="icon.etc_meat_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Item que o Chefe do Armazém Gesto confiou dizendo para levar para Orim a Sombra. O que poderia estar dentro...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3513" type="EtcItem" name="Coração dos Silenos">
+		
+		<set name="icon" val="icon.etc_heart_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Coração obtido matando silenos. Item especialmente encomendado por Orim, a Sombra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3514" type="EtcItem" name="Pedir Giran">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pedido recebido do armazém de Giran Castle Town. Você pode receber a taxa de entrega levando este e o documento de confirmação de recebimento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3515" type="EtcItem" name="Solicitar Gludin">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Encomenda recebida do armazém da Gludio Village. Você pode receber a taxa de entrega levando este e o documento de confirmação de recebimento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3516" type="EtcItem" name="Solicitar Caçadores">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pedido recebido do depósito de Hunter Village. Você pode receber a taxa de entrega levando este e o documento de confirmação de recebimento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3517" type="EtcItem" name="Pontuação de Entrega Vermelho">
+		
+		<set name="icon" val="icon.etc_ticket_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado recebido sempre que uma entrega é concluída com sucesso. Se você coletar 50 certificados, poderá trocá-los por um extrato de entrega azul." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3518" type="EtcItem" name="Pontuação de Entrega Azul">
+		
+		<set name="icon" val="icon.etc_ticket_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado que você pode receber se completar 50 entregas com sucesso. A taxa de entrega aumenta em 4% para cada certificado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3519" type="EtcItem" name="Entregadores Certificado Avançado Super">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado de mestre entregador recebido por ter concluído com sucesso 1000 entregas. Taxa de entrega de 120% adicionada!" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3520" type="EtcItem" name="1a Documento de Confirmação">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Formulário de confirmação que a pessoa que recebe a entrega de um item assina. Recolha três folhas e leve-as ao Chefe do Armazém Gesto." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3521" type="EtcItem" name="2a Documento de Confirmação">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Formulário de confirmação que a pessoa que recebe a entrega de um item assina. Recolha duas folhas e leve-as ao Armazém Chefe Gesto." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3522" type="EtcItem" name="Mercadorias de Entrega 01">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Role para ser levado ao Mestre Baulro do Templo Einhasad na Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3523" type="EtcItem" name="Mercadorias de Entrega 02">
+		
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta a ser entregue ao Farol Keeper Rockswell da Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3524" type="EtcItem" name="Mercadorias de Entrega 03">
+		
+		<set name="icon" val="icon.etc_spellbook_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Reserve para ser levado para Marius na casa de praia particular no lado norte de Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3525" type="EtcItem" name="Mercadorias de Entrega 04">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento a ser levado para Matheo nas ruínas perto do porto em Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3526" type="EtcItem" name="Mercadorias de Entrega 05">
+		
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta a ser entregue a Senhor Collin Windawood em frente ao Obelisk of Viktory em Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3527" type="EtcItem" name="Mercadorias de Entrega 06">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Shaft a ser levado para Orc Guild High Prefect Osborn de Gludin Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3528" type="EtcItem" name="Mercadorias de Entrega 07">
+		
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta a ser entregue ao faroleiro Perrin, no cais da vila de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3529" type="EtcItem" name="Mercadorias de Entrega 08">
+		
+		<set name="icon" val="icon.etc_painting_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A foto deve ser tirada para o gerente do cais Clancy, da vila de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3530" type="EtcItem" name="Mercadorias de Entrega 09">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jar para ser levado para Senhor Karrel Vasper de Gludin Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3531" type="EtcItem" name="Mercadorias de Entrega 10">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa a ser levada ao Samed da Gludio Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3532" type="EtcItem" name="Mercadorias de Entrega 11">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jarra para ser levada à Sacerdotisa Vivyan no Templo Einhasad na Town of Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3533" type="EtcItem" name="Mercadorias de Entrega 12">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa para ser levada para Warrior Guild Master Leona na Town of Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3534" type="EtcItem" name="Mercadorias de Entrega 13">
+		
+		<set name="icon" val="icon.etc_instrument_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Dispositivo mecânico para ser levado ao ferreiro Pinter na oficina do ferreiro na Town of Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3535" type="EtcItem" name="Mercadorias de Entrega 14">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa de joias para ser levada ao Cavaleiro Sentinela Alberius na Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3536" type="EtcItem" name="Mercadorias de Entrega 15">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa de joias para ser levada para Pixy Murika em frente à Árvore Mãe da Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3537" type="EtcItem" name="Mercadorias de Entrega 16">
+		
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta a ser levada para Karna em Dark Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3538" type="EtcItem" name="Mercadorias de Entrega 17">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Livro a ser levado para Mestre Harne em Dark Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3539" type="EtcItem" name="Mercadorias de Entrega 18">
+		
+		<set name="icon" val="icon.etc_holy_statue_bronze_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Estátua a ser levada para Senhor Ortho Lancer em Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3540" type="EtcItem" name="Mercadorias de Entrega 19">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa a ser levada para Martin na Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3541" type="EtcItem" name="Mercadorias de Entrega 20">
+		
+		<set name="icon" val="icon.etc_statue_of_einhasad_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Estátua a ser levada ao Bispo Maximillian do Templo Einhasad na Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3542" type="EtcItem" name="Mercadorias de Entrega 21">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa de joias para ser levada ao Mestre Stapin da Dark Elf Guild na Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3543" type="EtcItem" name="Mercadorias de Entrega 22">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento a ser levado ao Mestre Genwitter na Warrior Guild na Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3544" type="EtcItem" name="Mercadorias de Entrega 23">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Frasco de remédio para ser levado ao High Prefect Clogg na Orc Guild na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3545" type="EtcItem" name="Mercadorias de Entrega 24">
+		
+		<set name="icon" val="icon.etc_holy_statue_bronze_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Estátua a ser levada para Senhor Kiel Nighthawk na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3546" type="EtcItem" name="Mercadorias de Entrega 25">
+		
+		<set name="icon" val="icon.etc_synthetic_cokes_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Minério para ser levado ao ferreiro Poitan na oficina do ferreiro na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3547" type="EtcItem" name="Mercadorias de Entrega 26">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Livro a ser levado ao Cardeal Seresin do Templo Einhasad na Town of Oren." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3548" type="EtcItem" name="Mercadorias de Entrega 27">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Role para ser levado ao Chefe Duda-Mara Takuna perto da Orc Guild na Town of Oren." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3549" type="EtcItem" name="Mercadorias de Entrega 28">
+		
+		<set name="icon" val="icon.etc_painting_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Foto a ser tirada para o membro da Guilda dos Caçadores, Colin, em Hunter Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3550" type="EtcItem" name="Mercadorias de Entrega 29">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Tecido para ser levado para Guard Makhis em Hunter Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3551" type="EtcItem" name="Mercadorias de Entrega 30">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma jarra que deve ser levada ao Elder Cronos em Hunter Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3552" type="EtcItem" name="Mercadorias de Entrega 31">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Diamante para ser levado ao Grande Mestre Scraide da Magic Guild em Hunter Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3553" type="EtcItem" name="Mercadorias de Entrega 32">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa de joias para ser levada ao Grocer Pano em Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3554" type="EtcItem" name="Mercadorias de Entrega 33">
+		
+		<set name="icon" val="icon.etc_lump_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pepitas de ouro para serem levadas para Alex em Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3555" type="EtcItem" name="Mercadorias de Entrega 34">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Shaft a ser levado para Militiaman Leirynn em Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3556" type="EtcItem" name="Mercadorias de Entrega 35">
+		
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta a ser entregue ao Pescador Evert em Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3557" type="EtcItem" name="Mercadorias de Entrega 36">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Tecido para ser levado ao Astrólogo Creta em Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3558" type="EtcItem" name="Mercadorias de Entrega 37">
+		
+		<set name="icon" val="icon.etc_spellbook_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Livro a ser levado para Mestre Kaiena da Dark Elf Guild no 4a andar da Ivory Tower." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3559" type="EtcItem" name="Mercadorias de Entrega 38">
+		
+		<set name="icon" val="icon.etc_synthetic_cokes_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Minério para ser levado para Rex na área comercial subterrânea da Ivory Tower." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3560" type="EtcItem" name="Mercadorias de Entrega 39">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Frasco de remédio para ser levado para Uruha perto da cachoeira no norte dos pântanos na região dos Elfos Sombrios." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3561" type="EtcItem" name="Mercadorias de Entrega 40">
+		
+		<set name="icon" val="icon.etc_adamantite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pequenas caixas para serem levadas para a Sentinela Irene em frente à ponte oeste da Zona Neutra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3562" type="EtcItem" name="Mercadorias de Entrega 41">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento a ser levado ao Sentinel Trionell em frente à ponte leste da Zona Neutra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3563" type="EtcItem" name="Mercadorias de Entrega 42">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Role para ser levado para Northwind em frente à Fortaleza Subterrânea na região dos Elfos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3564" type="EtcItem" name="Mercadorias de Entrega 43">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento a ser levado para Thalia no lado leste do Lago Iris na região dos Elfos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3565" type="EtcItem" name="Mercadorias de Entrega 44">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa para ser levada para o acampamento de Orcs de Peter of the Turek no sul da região autônoma Dark Elven." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3566" type="EtcItem" name="Mercadorias de Entrega 45">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um poço a ser levado ao guarda-costas Jax na estrada costeira em Southern Wastelands." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3567" type="EtcItem" name="Mercadorias de Entrega 46">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Chave para ser entregue ao Pesquisador Lorain perto da entrada da Torre Cruma." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3568" type="EtcItem" name="Mercadorias de Entrega 47">
+		
+		<set name="icon" val="icon.etc_instrument_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Dispositivo mecânico a ser levado ao Maestro Nikola no lado sudoeste da Torre Cruma." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3569" type="EtcItem" name="Mercadorias de Entrega 48">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento a ser levado ao Diretor Roderik dos Campos de Execução." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3570" type="EtcItem" name="Mercadorias de Entrega 49">
+		
+		<set name="icon" val="icon.etc_adamantite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pequenas caixas para serem levadas ao Summoner Belthus no lado sudeste da Cruma Tower." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3571" type="EtcItem" name="Mercadorias de Entrega 50">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Shaft a ser levado para Enku Chief Kepra na costa sul de Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3572" type="EtcItem" name="Mercadorias de Entrega 51">
+		
+		<set name="icon" val="icon.etc_squares_wood_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa para ser levada ao Invocador Celestiel nas ruínas do Coliseu Circular ao sul da Fortaleza Subterrânea da região autônoma dos Elfos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3573" type="EtcItem" name="Mercadorias de Entrega 52">
+		
+		<set name="icon" val="icon.etc_painting_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma foto a ser entregue ao Orfanato Master Gupu em Wastelands, a oeste da Town of Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3574" type="EtcItem" name="Mercadorias de Entrega 53">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pergaminho a ser entregue à Invocadora Basillia na estrada costeira, ao sul das Terras Ermas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3575" type="EtcItem" name="Mercadorias de Entrega 54">
+		
+		<set name="icon" val="icon.etc_squares_wood_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma caixa a ser entregue a Senhor Aaron Tanford na estrada costeira, ao sul de Wastelands." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3576" type="EtcItem" name="Mercadorias de Entrega 55">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma jarra para ser entregue ao Preacher Sla no lado leste do Ant Tunnel Dungeon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3577" type="EtcItem" name="Mercadorias de Entrega 56">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma caixa de joias para ser entregue a Windy Shaoring no lado oeste do Ant Tunnel Dungeon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3578" type="EtcItem" name="Mercadorias de Entrega 57">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro que deve ser levado ao Elder Casian no lado sul do Ant Tunnel Dungeon localizado em Wastelands." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3579" type="EtcItem" name="Mercadorias de Entrega 58">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Frasco de remédio para ser levado para Annika no lado sul do Laboratório de Magia das Trevas na região autônoma Dark Elven." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3580" type="EtcItem" name="Mercadorias de Entrega 59">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Role para ser levado para Slein Shining Blade no lado leste do Altar of Coming-of-Age Ceremony na região autônoma Dark Elven." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3581" type="EtcItem" name="Mercadorias de Entrega 60">
+		
+		<set name="icon" val="icon.etc_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pequenas caixas para serem levadas ao Xamã Varika na Cerimônia do Altar da Maioridade na região autônoma dos Elfos Sombrios." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3582" type="EtcItem" name="Mercadorias de Entrega 61">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Frasco de remédio para ser levado para Tyra do outro lado da estrada oeste no Altar of Rites na região autônoma Dark Elven." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3583" type="EtcItem" name="Mercadorias de Entrega 62">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Role para ser levado até Piper Longbow no altar no lado norte da cachoeira dos pântanos na região autônoma Dark Elven." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3584" type="EtcItem" name="Mercadorias de Entrega 63">
+		
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta a ser levada para Katari no altar no lado norte da cachoeira dos pântanos na região autônoma Dark Elven." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3585" type="EtcItem" name="Mercadorias de Entrega 64">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa de joias para ser levada ao Summoner Camoniell na costa sul de Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3586" type="EtcItem" name="Mercadorias de Entrega 65">
+		
+		<set name="icon" val="icon.etc_parasite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A amostra deve ser levada para Orim, a Sombra, no lado norte da Passagem da Morte, no Território de Giran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3587" type="EtcItem" name="Mercadorias de Entrega 66">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Poço a ser levado para Breka Chief Voltar no lado nordeste da Passagem da Morte no Território de Giran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3588" type="EtcItem" name="Mercadorias de Entrega 67">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Livro a ser levado para Summoner Brynthea no lado noroeste de Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3589" type="EtcItem" name="Documento de Confirmação 01">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pelo Mestre Baulro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3590" type="EtcItem" name="Documento de Confirmação 02">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Rockswell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3591" type="EtcItem" name="Documento de Confirmação 03">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Marius." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3592" type="EtcItem" name="Documento de Confirmação 04">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Matheo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3593" type="EtcItem" name="Documento de Confirmação 05">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Senhor Collin Windawood." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3594" type="EtcItem" name="Documento de Confirmação 06">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. Está assinado pelo Alto Prefeito Osborn." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3595" type="EtcItem" name="Documento de Confirmação 07">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Perrin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3596" type="EtcItem" name="Documento de Confirmação 08">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Clancy." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3597" type="EtcItem" name="Documento de Confirmação 09">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Senhor Karrel Vasper." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3598" type="EtcItem" name="Documento de Confirmação 10">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado por Samed." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3599" type="EtcItem" name="Documento de Confirmação 11">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Documento de confirmação recebido ao entregar o item. É assinado pela Sacerdotisa Vivyan." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

@@ -1,0 +1,1009 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1400" type="EtcItem" name="Livro de Feitiços: Renda-se ao Fogo">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Surrenders To Fire. Usado por magos humanos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1401" type="EtcItem" name="Livro de Feitiços: Perspicácia">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Perspicácia. Usado por clérigos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="750" />
+	</item>
+	<item id="1402" type="EtcItem" name="Livro de Feitiços: Agilidade">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Agilidade. Usado por Oráculos Élficos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1403" type="EtcItem" name="Livro de Feitiços: Convoque Kat, A Gata">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="O Livro de Feitiços precisava aprender a Summon Kat the Cat. Usado por magos humanos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="750" />
+	</item>
+	<item id="1404" type="EtcItem" name="Livro de Feitiços: Recarga de Servo">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Servitor Recharge. Usado por magos humanos, magos élficos e magos das trevas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1405" type="EtcItem" name="Livro de Feitiços: Cura do Servo">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Servitor Heal. Usado por magos humanos, magos élficos e magos das trevas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="750" />
+	</item>
+	<item id="1406" type="EtcItem" name="Livro de Feitiços: Passos no Vento do Servo">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Servitor Caminhada no Vento. Usado por magos humanos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="2450" />
+	</item>
+	<item id="1407" type="EtcItem" name="Livro de Feitiços: Aumento Mágico do Servo">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Bright Servitor. Usado por Elven Wizards." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="2450" />
+	</item>
+	<item id="1408" type="EtcItem" name="Livro de Feitiços: Poderoso Servo">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mighty Servitor. Usado por Dark Wizards." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="2450" />
+	</item>
+	<item id="1409" type="EtcItem" name="Livro de Feitiços: Lento">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Slow. Usado por Magos Humanos e Magos das Trevas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="2450" />
+	</item>
+	<item id="1410" type="EtcItem" name="Livro de Feitiços: Nuvem Venenosa">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Poisonous Cloud. Usado por Magos Humanos e Magos das Trevas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1411" type="EtcItem" name="Livro de Feitiços: Aura Burn">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Aura Burn. Usado por magos humanos, magos élficos e magos das trevas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="750" />
+	</item>
+	<item id="1412" type="EtcItem" name="Livro de Feitiços: Resist Aqua">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Resist Aqua. Usado por profetas e magos élficos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="2450" />
+	</item>
+	<item id="1413" type="EtcItem" name="Livro de Feitiços: Resistir ao Vento">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Resist Wind. Usado por Profetas e Oráculos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="2450" />
+	</item>
+	<item id="1414" type="EtcItem" name="Livro de Feitiços: Resistir ao Fogo">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Resist Fire. Usado por clérigos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1800" />
+	</item>
+	<item id="1415" type="EtcItem" name="Livro de Feitiços: Raiz de Dríade">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Raiz Dríade. Usado por Clérigos, Oráculos Élficos e Oráculos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1416" type="EtcItem" name="Livro de Feitiços: Maldição do Caos">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Curse of Chaos. Usado por Magos Humanos e Magos das Trevas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="2450" />
+	</item>
+	<item id="1417" type="EtcItem" name="Livro de Feitiços: Renda-se à Terra">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Rendição à Terra. Usado por Elven Wizards." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1418" type="EtcItem" name="Livro de Feitiços: Renda-se ao Veneno">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Surrender To Poison. Usado por Dark Wizards." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1419" type="EtcItem" name="Marca de Sangue">
+		
+		<set name="icon" val="icon.etc_broken_crystal_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um item necessário para atualizar um clã para o nível três." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="1420" type="EtcItem" name="Lista de Ingredientes">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma lista de ingredientes culinários de Jonas. Essência de Mandrágora. Mel. Batata Dioniana. Musgo do pântano. Carne de olho flutuante." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1421" type="EtcItem" name="Livro de Botânica da Sonia">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma imagem que mostra como é uma mandrágora. Você precisa disso para obter raízes de mandrágora." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1422" type="EtcItem" name="Raiz de Mandrágora Vermelha">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Raiz de mandrágora vermelha. Colete-os para levá-los ao Comerciante Sonia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1423" type="EtcItem" name="Raiz de Mandrágora Branca">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Rara raiz de mandrágora branca. Colete-os para levá-los ao Comerciante Sonia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1424" type="EtcItem" name="Seiva de Mandrágora Vermelha">
+		
+		<set name="icon" val="icon.etc_potion_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Seiva de mandrágora vermelha. Um dos cinco ingredientes necessários para a comida de Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1425" type="EtcItem" name="Seiva de Mandrágora Branca">
+		
+		<set name="icon" val="icon.etc_potion_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Seiva de mandrágora transparente. Um dos ingredientes necessários para a cozinha de Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1426" type="EtcItem" name="O Livro dos Insetos de Jacob">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um diagrama que descreve o desenho de uma abelha. Você deve possuir isso para obter néctar e geléia real da abelha sangrenta ou da vespa ferrão." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1427" type="EtcItem" name="Néctar">
+		
+		<set name="icon" val="icon.etc_reagent_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Água com mel retirada de uma abelha gigante. Colete 20 deles para levá-los ao Guard Jaycub." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1428" type="EtcItem" name="Geléia Real">
+		
+		<set name="icon" val="icon.etc_reagent_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ingrediente raro que só pode ser retirado de abelhas trabalhadoras recém-nascidas. Colete-os e leve-os para Guard Jaycub." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1429" type="EtcItem" name="Mel">
+		
+		<set name="icon" val="icon.etc_potion_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mel made from the nectar you collected from bees. One of the five ingredients needed for Jonas's cooking." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1430" type="EtcItem" name="Mel Dourado">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mel dourado feito do néctar e da geléia real que você coletou das abelhas. Um dos cinco ingredientes necessários para a comida de Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1431" type="EtcItem" name="Contrato de Pano">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um contrato que o Grocer Pano lhe deu. Diz que se você matar Hobgoblins e trouxer 30 peças de prova, ele lhe dará batatas como recompensa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1432" type="EtcItem" name="Amuleto Hobgoblin">
+		
+		<set name="icon" val="icon.etc_feather_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto feito de uma pena que os Hobgoblins carregam em seus corpos. Colete 30 deles e leve-os para a Mercearia Pano." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1433" type="EtcItem" name="Batata Dioniana">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As batatas da mais alta qualidade cultivadas no rico solo do sul de Dion. Um dos cinco ingredientes necessários para a comida de Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1434" type="EtcItem" name="Livro de Botânica de Glyvka">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma imagem que explica como coletar musgo. Você precisa disso para coletar musgo de pântano de formigas cinzas ou formigas vermelhas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1435" type="EtcItem" name="Musgo Verde do Pântano">
+		
+		<set name="icon" val="icon.etc_branch_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O musgo verde do pântano às vezes é usado na culinária. Colete isso e leve para a Sacerdotisa Glyvka." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1436" type="EtcItem" name="Musgo Marrom do Pântano">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Raro musgo de pântano marrom, seus sabores são superiores aos verdes. Colete isso e leve para a Sacerdotisa Glyvka." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1437" type="EtcItem" name="Pacote de Musgo Verde">
+		
+		<set name="icon" val="icon.etc_bark_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um feixe de musgo bem cuidado, recolhido de um lugar pantanoso para cozinhar. Um dos cinco ingredientes necessários para a comida de Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1438" type="EtcItem" name="Pacote de Musgo Marrom">
+		
+		<set name="icon" val="icon.etc_bark_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um feixe de musgo bem cuidado, recolhido de um lugar pantanoso para cozinhar. Um dos cinco ingredientes necessários para a comida de Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1439" type="EtcItem" name="Livro da Criatura de Rollant">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma imagem que mostra como é um Monstro Olho. Você precisa disso para coletar o pesquisador de Monstro Olho certo ou o observador de Monstro Olho." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1440" type="EtcItem" name="Corpo do Monstro Olho">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carne cortada do cadáver do Monstro Olho. Leve isso para o Mestre Rollant." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1441" type="EtcItem" name="Carne de Monstro Olho">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O cadáver de um Monstro Olho, pronto para cozinhar. Um dos cinco ingredientes necessários para a comida de Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1442" type="EtcItem" name="1a Bife do Jonas">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um prato que contém o bife de Monstro Olho de Jonas. Leve isso para a Magistrada Mirien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1443" type="EtcItem" name="2a Bife do Jonas">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um prato que contém o bife de Monstro Olho de Jonas. Leve isso para a Magistrada Mirien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1444" type="EtcItem" name="3a Bife do Jonas">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um prato que contém o bife de Monstro Olho de Jonas. Leve isso para a Magistrada Mirien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1445" type="EtcItem" name="4a Bife do Jonas">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um prato que contém o bife de Monstro Olho de Jonas. Leve isso para a Magistrada Mirien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1446" type="EtcItem" name="Quinto Bife do Jonas">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um prato que contém o bife de Monstro Olho de Jonas. Leve isso para a Magistrada Mirien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1447" type="EtcItem" name="Revisão de Mirien">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta da Magistrada Mirien sobre o sabor do prato de Jonas. Leve isso para Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1448" type="EtcItem" name="Revisão de Mirien">
+		
+		<set name="icon" val="icon.item_normal129" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta da Magistrada Mirien sobre o sabor do prato de Jonas. Leve isso para Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1449" type="EtcItem" name="Revisão de Mirien">
+		
+		<set name="icon" val="icon.item_normal129" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta da Magistrada Mirien sobre o sabor do prato de Jonas. Leve isso para Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1450" type="EtcItem" name="Revisão de Mirien">
+		
+		<set name="icon" val="icon.item_normal129" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta da Magistrada Mirien sobre o sabor do prato de Jonas. Leve isso para Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1451" type="EtcItem" name="Revisão de Mirien">
+		
+		<set name="icon" val="icon.item_normal129" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta da Magistrada Mirien sobre o sabor do prato de Jonas. Leve isso para Jonas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1452" type="EtcItem" name="Pena de Harpia">
+		
+		<set name="icon" val="icon.etc_feather_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pena tirada de uma harpia. Colete-os e leve-os ao Guarda Belton." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1453" type="EtcItem" name="Veneno de Medusa">
+		
+		<set name="icon" val="icon.etc_potion_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Veneno extraído do pelo de cobra de uma medusa. Colete-os e leve-os ao Guarda Belton." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1454" type="EtcItem" name="Dente de Wyrm">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa afiada de um ancião. Colete-os e leve-os ao Guarda Belton." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1455" type="EtcItem" name="Receita da Salada do Jonas">
+		
+		<set name="icon" val="icon.item_canuse39" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A receita de Jonas para fazer salada de musgo do pântano." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="9000" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1456" type="EtcItem" name="Receita do Molho do Jonas">
+		
+		<set name="icon" val="icon.item_canuse39" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A receita do Jonas para fazer o molho de mandrágora." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11250" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1457" type="EtcItem" name="Receita do Bife do Jonas">
+		
+		<set name="icon" val="icon.item_canuse39" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A receita do Jonas para fazer bife de Monstro Olho." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="13500" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1458" type="EtcItem" name="Cristal: Grau D">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de Grau D." />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="d" />
+		<set name="price" val="650" />
+	</item>
+	<item id="1459" type="EtcItem" name="Cristal: Grau C">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de Grau C." />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="c" />
+		<set name="price" val="3000" />
+	</item>
+	<item id="1460" type="EtcItem" name="Cristal: Grau B">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de Grau B." />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="b" />
+		<set name="price" val="9000" />
+	</item>
+	<item id="1461" type="EtcItem" name="Cristal: Grau A">
+		
+		<set name="icon" val="icon.etc_crystal_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de Grau A." />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="a" />
+		<set name="price" val="15000" />
+	</item>
+	<item id="1462" type="EtcItem" name="Cristal: Grau S">
+		
+		<set name="icon" val="icon.etc_crystal_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de Grau S." />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+		<set name="price" val="25000" />
+	</item>
+	<item id="1463" type="EtcItem" name="Soulshot: Grau D">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_blue_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="O poder de um espírito de nível superior é concedido a uma arma, aumentando temporariamente o poder de ataque. Usado com uma arma de grau D." />
+		<set name="weight" val="3" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="d" />
+		<set name="price" val="10" />
+	</item>
+	<item id="1464" type="EtcItem" name="Soulshot: Grau C">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_green_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="O poder de um espírito de nível superior é concedido a uma arma, aumentando temporariamente o poder de ataque. Usado com uma arma de grau C." />
+		<set name="weight" val="3" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="c" />
+		<set name="price" val="15" />
+	</item>
+	<item id="1465" type="EtcItem" name="Soulshot: Grau B">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_red_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="O poder de um espírito de nível superior é concedido a uma arma, aumentando temporariamente o poder de ataque. Usado com uma arma de grau B." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="b" />
+		<set name="price" val="50" />
+	</item>
+	<item id="1466" type="EtcItem" name="Soulshot: Grau A">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_silver_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="O poder de um espírito de nível superior é concedido a uma arma, aumentando temporariamente o poder de ataque. Usado com uma arma de classe A." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="a" />
+		<set name="price" val="80" />
+	</item>
+	<item id="1467" type="EtcItem" name="Soulshot: Grau S">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_gold_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="O poder de um espírito de nível superior é concedido a uma arma, aumentando temporariamente o poder de ataque. Usado com uma arma de grau S." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1468" type="EtcItem" name="Gludin Panacen">
+		
+		<set name="icon" val="icon.etc_reagent_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma erva medicinal de Gludio. Compre no Castelo Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+	</item>
+	<item id="1469" type="EtcItem" name="Vermute Gludin">
+		
+		<set name="icon" val="icon.etc_fruit_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Vinho medicado da Gludio. Compre no Castelo Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+	</item>
+	<item id="1470" type="EtcItem" name="Artemetro">
+		
+		<set name="icon" val="icon.etc_leaf_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma erva medicinal de Gludio. Compre no Castelo Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+	</item>
+	<item id="1471" type="Weapon" name="Zarabatana dos Silenos ">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="5" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="5" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="5" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1472" type="Weapon" name="Dreadbane">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="50" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="26" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="50" order="0x08" stat="pAtk" />
+			<set val="26" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1473" type="EtcItem" name="Presa de Lobo Kasha">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa que é obtida matando um lobo kasha. Colete cinquenta e leve-os para Pretorian Rukain." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1474" type="EtcItem" name="Cabeça de Ladrão de Túmulos">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O chefe dos ladrões goblins, que danificaram os túmulos dos ancestrais dos Orcs. Colete 50 para levar para a Vidente Livina." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1475" type="EtcItem" name="Pedra da Alma das Trevas">
+		
+		<set name="icon" val="icon.etc_bead_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pedra negra da alma foi retirada do coração de um diabinho rakeclaw. Colete-os para levar para Atuba Chief Varkees." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1476" type="EtcItem" name="Pedra da Alma Vermelha">
+		
+		<set name="icon" val="icon.etc_crystal_ball_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pedra da alma vermelha arrancada do coração de um imp rakeclaw. Colete-os para levar para Atuba Chief Varkees." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1477" type="EtcItem" name="Cabeça de Lobisomem Maraku">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A cabeça de um lobisomem Maraku que foi cortada depois que eles foram derrotados. Colete 40 deles e leve-os ao Prefeito Brukurse." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1478" type="EtcItem" name="Presa de Morcego de Asas Negras">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa de um Morcego de Asas Negras. Colete 70 deles e leve-os para Neruga Chief Tantus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1479" type="EtcItem" name="Parasita de Varangka">
+		
+		<set name="icon" val="icon.etc_totem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um parasita maligno que convoca os rastreadores de Varangka." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1480" type="EtcItem" name="Parasita de Kasha">
+		
+		<set name="icon" val="icon.etc_totem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um espírito maligno do tipo parasita que sai do urso cinza poluído pelo espírito maligno de kasha. Esta é a chave que evoca o espírito do totem kasha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1481" type="EtcItem" name="Cristal Kasha">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cristal obtido ao matar o totem do urso cinza poluído pelo espírito maligno de kasha. Leve isso para o Vidente Tanapi." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1482" type="EtcItem" name="Pele de Lobo Negro">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pele de um lobo negro. Colete 40 para levar para Maryse Redbonnet." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1483" type="EtcItem" name="Colar Goblin">
+		
+		<set name="icon" val="icon.etc_totem_necklace_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar obtido ao matar um goblin de baixo nível. Colete-os e leve-os para o Spiron da Roda Dourada." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1484" type="EtcItem" name="Pingente Goblin">
+		
+		<set name="icon" val="icon.etc_totem_necklace_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar obtido ao matar um goblin de alto nível. Colete-os e leve-os para o Spiron da Roda Dourada." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1485" type="EtcItem" name="Pingente Lorde Goblin">
+		
+		<set name="icon" val="icon.etc_totem_necklace_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar obtido ao matar o lorde goblin. Colete-os e leve-os para o Spiron da Roda Dourada." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1486" type="EtcItem" name="Memorando Suspeito">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um memorando suspeito obtido ao matar um líder goblin bandido. Leve isso para o Spiron da Roda Dourada." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1487" type="EtcItem" name="Contrato Suspeito">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um contrato suspeito concluído com a coleta de memorandos suspeitos. Este contrato revela que a Silver Scale Guild solicitou aos bandidos que atacassem os vagões de carga." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1488" type="EtcItem" name="Minério de Crisólito">
+		
+		<set name="icon" val="icon.etc_plate_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Minério de Crisólito received from defeating Utuku Orcs. Collect these e take them to Filaur of the Gray Pillar." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1489" type="EtcItem" name="Fragmento de Mapa Rasgado">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma parte do mapa que revela o veio oculto do Crisólito. Colete 4 dessas peças para completar o mapa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1490" type="EtcItem" name="Mapa de Minério Oculto">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um mapa que revela um veio oculto de crisolita. Leve isso para Filaur do Pilar Cinzento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1491" type="EtcItem" name="Presa de Morcego">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa tomada ao matar um Morcego-lâmina ou um Morcego farpado. Colete 100 e leve-os para o Bronze Key's Keef" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1492" type="EtcItem" name="Pedra Flutuante">
+		
+		<set name="icon" val="icon.etc_crystal_ball_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pedra que flutua na água. Obtenha-o de um tecelão mágico. Colete 50 e leve-os para Arin de Black Anvil." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1493" type="EtcItem" name="Teia de Aranha Tarântula">
+		
+		<set name="icon" val="icon.etc_skein_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A teia de aranha que faz ao fazer seus ninhos. Colete-os e leve-os para o Comerciante Mion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1494" type="EtcItem" name="Fieira de Tarântula">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um órgão em forma de bolso que faz seda de aranha. Leve isso para o Defensor Nathan." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1495" type="EtcItem" name="Pele de Aranha Gigante">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A casca de uma aranha gigante que você descasca. Colete-os e leve-os para Edmond." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1496" type="EtcItem" name="Bilhete das Chamas">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este Símbolo representa a qualificação dos lutadores Orc. Pegue isso e vá até o Flame Guardian Vulkus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1497" type="EtcItem" name="Colar de Chamas">
+		
+		<set name="icon" val="icon.item_normal142" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O colar de chamas dado por Vulkus. Entregue isto a Kakai, o Senhor da Chama, rei dos Orcs." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1498" type="EtcItem" name="Licença de Minerador">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma licença dada aos anões para permitir que eles Minerem. Pegue isso e vá até o capataz Laferon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1499" type="EtcItem" name="Recomendação de Laferon">
+		
+		<set name="icon" val="icon.item_canuse15" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A recomendação do capataz Laferon. Pegue isso e vá até o Primeiro Elder Lockirin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

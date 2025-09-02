@@ -1,0 +1,1684 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="8900" type="EtcItem" name="Livro de Feitiços Antigo: Ciclone">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Ancient Livro de Feitiços necessário para aprender Cyclone. Pode ser usado por um Storm Screamer." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8901" type="EtcItem" name="Livro de Feitiços Antigo: Ondas Furiosas">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Ancient Livro de Feitiços necessário para aprender Raging Waves. Usado por Musas Místicas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8902" type="EtcItem" name="Antigo Livro de Feitiços: Dia da Perdição">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Ancient Livro de Feitiços necessário para aprender Dia of da Perdição. Pode ser usado por um Soultaker." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8903" type="EtcItem" name="Antigo Livro de Feitiços: Gehenna">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Antigo livro de feitiços necessário para aprender Gehenna. Pode ser usado por um Soultaker." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8904" type="EtcItem" name="Livro de Feitiços Antigos: Campo Anti-Invocação">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Ancient Livro de Feitiços necessário para aprender Anti-Summoning Field. Pode ser usado por um Lorde Arcano, Mestre Elemental e Mestre Espectral." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8905" type="EtcItem" name="Livro de Feitiços Antigos: Campo de Purificação">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Antigo livro de feitiços necessário para aprender o campo de purificação. Usado por um Cardeal." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8906" type="EtcItem" name="Livro de Feitiços Antigo: Milagre">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Ancient Livro de Feitiços necessário para aprender Miracle. Usado por um Cardeal." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8907" type="EtcItem" name="Antigo Livro de Feitiços: Chamas da Invencibilidade">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Ancient Livro de Feitiços necessário para aprender Flames of Invencibility. Usado por um Dominador." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8908" type="EtcItem" name="Livro de Feitiços Antigos: Recarga em Massa">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Ancient Livro de Feitiços necessário para aprender Mass Recharge. Pode ser usado por um Eva's Saint e Shillien Saint." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="8909" type="EtcItem" name="Projeto: Invocar Canhão Swoop">
+		
+		<set name="icon" val="icon.etc_plan_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Blueprint precisava aprender a técnica Summon Swoop Cannon. Pode ser usado por um Ferreiro de Guerra." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="9600" />
+	</item>
+	<item id="8910" type="Armor" name="Máscara de Pena das Trevas (Evento)">
+		
+		<set name="icon" val="icon.accessary_black_feather_mask_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Acessório de cabelo contendo uma pena escura. Ele usa 2 slots de acessórios de cabelo. Este é um item de evento que não pode ser trocado ou descartado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8911" type="Armor" name="Meia-Máscara das Trevas (Evento)">
+		
+		<set name="icon" val="icon.Accessary_black_half_mask_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Uma meia máscara de cor preta. Item de evento." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8912" type="Armor" name="Flor de Pressa Única">
+		
+		<set name="icon" val="icon.accessory_hairpin_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Alfinete de cabelo feito em forma de flor." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8913" type="Armor" name="Grampo de Cabelo Borboleta">
+		
+		<set name="icon" val="icon.Accessary_butterfly_hearpin_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Gancho de cabelo em forma de borboleta. Este é um acessório de cabelo feminino." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8914" type="Armor" name="Luxuoso Diadema Dourado">
+		
+		<set name="icon" val="icon.Accessary_gold_circlet_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Luxuoso Diadema Dourado. It uses 2 hair accessory slots." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8915" type="Armor" name="Luxuoso Diadema de Prata">
+		
+		<set name="icon" val="icon.Accessary_gold_circlet_i01" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Luxuoso Diadema de Prata. It uses 2 hair accessory slots." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8916" type="Armor" name="Tapa-Olho">
+		
+		<set name="icon" val="icon.Accessary_one_eye_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Um acessório tapa-olho." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8917" type="Armor" name="Diadema da Deusa">
+		
+		<set name="icon" val="icon.Accessary_goddess_circlet_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="O diadema da deusa. Este é um acessório de cabelo de uso feminino. Ele usa 2 slots de acessórios de cabelo." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8918" type="Armor" name="Boné de Couro">
+		
+		<set name="icon" val="icon.Accessary_middle_ages_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu da era medieval feito de couro. Ele usa 2 slots de acessórios de cabelo." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8919" type="Armor" name="Chapéu de Primeiro Imediato">
+		
+		<set name="icon" val="icon.Accessary_middle_ages_i01" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu condizente com um membro favorito da equipe de Zaken. Usa 2 slots de acessórios de cabelo. Este item não pode ser trocado ou descartado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8920" type="Armor" name="Auréola de Anjo">
+		
+		<set name="icon" val="icon.Accessary_angel_circlet_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Acessório de cabelo imbuído de energia sagrada. Ele usa 2 slots de acessórios de cabelo." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8921" type="Armor" name="Diadema Demoníaco">
+		
+		<set name="icon" val="icon.Accessary_demon_circlet_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Acessório de cabelo possuidor de energia escura. Ele usa 2 slots de acessórios de cabelo." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8922" type="Armor" name="Chapéu de Pirata">
+		
+		<set name="icon" val="icon.Accessary_sea_robber_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Chapéu usado por piratas. Ele usa 2 slots de acessórios de cabelo." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8923" type="Armor" name="Cicatriz">
+		
+		<set name="icon" val="icon.Accessary_scar_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Uma cicatriz. Este é um acessório exclusivamente masculino." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8924" type="EtcItem" name="Bilhete de Barco: Primeval Isle Para Rune.">
+		
+		<set name="icon" val="icon.etc_ticket_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Bilhete de barco de Primeval Isle para Rune." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8925" type="EtcItem" name="Bilhete de Barco: Runa Para A Primeval Isle.">
+		
+		<set name="icon" val="icon.etc_ticket_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Bilhete de barco de Rune para Primeval Isle." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25000" />
+	</item>
+	<item id="8926" type="Weapon" name="Item Sombrio: Espada da Ilusão">
+		
+		<set name="icon" val="icon.time_weapon_sword_of_delusion_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de uma Espada da Ilusão. Não pode ser trocado, descartado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="470" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="76" />
+		<set name="duration" val="120" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8927" type="Weapon" name="Item Sombrio: Poleaxe">
+		
+		<set name="icon" val="icon.time_weapon_poleaxe_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Poleaxe. Não pode ser trocado, descartado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="670" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="duration" val="120" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+		</for>
+	</item>
+	<item id="8928" type="Weapon" name="Item Sombrio: Vara da Eternidade">
+		
+		<set name="icon" val="icon.time_weapon_stick_of_eternity_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Stick of Eternity. Não pode ser trocado, descartado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="380" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="duration" val="120" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8929" type="Weapon" name="Item Sombrio: Cajado Infernal">
+		
+		<set name="icon" val="icon.time_weapon_inferno_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Infernal Staff. Não pode ser trocado, descartado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="340" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="135" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="101" />
+		<set name="duration" val="120" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="135" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8930" type="Weapon" name="Item Sombrio: Martelo Pa'Agriano">
+		
+		<set name="icon" val="icon.time_weapon_paagrio_hammer_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Martelo Pa'Agriano. Não pode ser trocado, descartado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="340" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="135" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="101" />
+		<set name="duration" val="120" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="135" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8931" type="Weapon" name="Item Sombrio: Dark Screamer">
+		
+		<set name="icon" val="icon.time_weapon_dark_screamer_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Dark Screamer. Não pode ser trocado, descartado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="340" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="76" />
+		<set name="duration" val="120" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8932" type="Weapon" name="Item Sombrio: Arco Longo Akat">
+		
+		<set name="icon" val="icon.time_weapon_akat_long_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Arco Longo Akat. Não pode ser trocado, descartado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="580" />
+		<set name="soulshots" val="9" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="316" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="227" />
+		<set name="mp_consume" val="7" />
+		<set name="m_dam" val="84" />
+		<set name="duration" val="120" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="316" order="0x08" stat="pAtk" />
+			<set val="84" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="227" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8933" type="Weapon" name="Item Sombrio: Espada Pa'Agrian">
+		
+		<set name="icon" val="icon.time_weapon_sword_of_paagrio_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Espada Pa'agriana. Não pode ser trocado, descartado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="660" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="169" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="duration" val="120" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="169" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8934" type="Weapon" name="Item Sombrio: Lâmina Punhada">
+		
+		<set name="icon" val="icon.time_weapon_fist_blade_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Fisted Blade. Não pode ser trocado, descartado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="500" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="169" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="duration" val="120" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="169" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8935" type="Weapon" name="Teste Rapier">
+		
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Teste" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="156" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="83" />
+		<set name="duration" val="120" />
+		<for>
+			<set val="156" order="0x08" stat="pAtk" />
+			<set val="83" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8936" type="Armor" name="Chifres de Papai Noel">
+		
+		<set name="icon" val="icon.accessory_santas_antler_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Chapéu de Papai Noel festivo com chifres. Ideal para celebrar as férias. Este item só pode ser equipado durante o final do ano." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8937" type="Weapon" name="Item Sombrio: Portador da Tempestade">
+		
+		<set name="icon" val="icon.time_weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Portador da Tempestade. Não pode ser trocado, descartado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="780" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="175" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="78" />
+		<set name="duration" val="120" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="175" order="0x08" stat="pAtk" />
+			<set val="78" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8938" type="Weapon" name="Damasco * Tallum Blade">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F. de uma espada dupla aumentará mais significativamente do que de uma arma de uma mão ou de soqueira. Quando encantado por 4 ou mais, Vel. Atq. aumentará 8%. Inflige dano adicional ao alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1890" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="305" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="121" />
+		<set name="crystal_count" val="2824" />
+		<for>
+			<set val="305" order="0x08" stat="pAtk" />
+			<set val="121" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.08" order="0x30" stat="pAtkSpd">
+				<and>
+					<using slotitem="8938;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="8939" type="EtcItem" name="Marca de Dominical">
+		
+		<set name="icon" val="icon.etc_leash_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca de Dominical. Used in carrying out a secret mission." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8940" type="EtcItem" name="Marca do Futuro: Humano">
+		
+		<set name="icon" val="icon.etc_jewel_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca do Futuro. Recebido do Grandmaster Klaus Blackbird de Oren Castle Town." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8941" type="EtcItem" name="Marca do Futuro: Anão">
+		
+		<set name="icon" val="icon.etc_jewel_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca do Futuro. Recebido do Chefe do Armazém Alder da Cidade do Castelo de Schuttgart." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8942" type="EtcItem" name="Marca do Futuro: Elfo">
+		
+		<set name="icon" val="icon.etc_jewel_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca do Futuro. Recebido do Mestre Juris da Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8943" type="EtcItem" name="Marca do Futuro: Elfo Sombrio">
+		
+		<set name="icon" val="icon.etc_jewel_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca do Futuro. Recebido do Grão-Mestre Oltlin da Aden Castle Town." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8944" type="EtcItem" name="Marca do Futuro: Orc">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca do Futuro. Recebido do Alto Prefeito Aklan da Cidade do Castelo de Goddard." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8945" type="EtcItem" name="Livro de Feitiços: Escudo Celestial">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Celestial Shield. Pode ser usado por um Bispo." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="8100" />
+	</item>
+	<item id="8946" type="EtcItem" name="Livro de Feitiços: Invocação">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Invocação. Pode ser usado por um Ancião, Ancião Shillien e Bispo." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6250" />
+	</item>
+	<item id="8947" type="Armor" name="L2 Dia: Orelhas de Coelho">
+		
+		<set name="icon" val="icon.accessory_rabbit_ear_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Acessório de cabelo em forma de Orelhas de Coelho." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8948" type="Armor" name="L2 Dia: Pequenas Asas de Anjo">
+		
+		<set name="icon" val="icon.accessory_hair_ring_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Um acessório de cabelo em forma de asa." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8949" type="Armor" name="L2 Dia: Antenas de Fada">
+		
+		<set name="icon" val="icon.accessory_hair_feeler_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Lindo acessório de cabelo antenas com estrelas." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8950" type="Armor" name="L2 Dia: Chapéu Emplumado">
+		
+		<set name="icon" val="icon.accessory_archer_hat_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu chique contendo uma pena. Usa 2 espaços de slot de acessório." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8951" type="Armor" name="L2 Dia: Óculos de Artesão">
+		
+		<set name="icon" val="icon.accessory_dwarf_goggle_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Óculos grandes e redondos para proteger os olhos. Usa 2 espaços de slot de acessório." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="8952" type="EtcItem" name="Erva da Vida Superior">
+		<set name="item_type" val="none" />
+		<set name="consume_type" val="normal" />
+	<set name="desc" val="" /></item>
+	<item id="8953" type="EtcItem" name="Erva de Mana Superior">
+		<set name="item_type" val="none" />
+		<set name="consume_type" val="normal" />
+	<set name="desc" val="" /></item>
+	<item id="8954" type="EtcItem" name="Cristal Primitivo Azul">
+		
+		<set name="icon" val="icon.etc_sp_crystal_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta o SP em 50000 quando usado. Só pode ser usado por personagens de nível 76 ou superior." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+		<set name="price" val="50000" />
+	</item>
+	<item id="8955" type="EtcItem" name="Cristal Primitivo Verde">
+		
+		<set name="icon" val="icon.etc_sp_crystal_i02" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta o SP em 100.000 quando usado. Só pode ser usado por personagens de nível 76 ou superior." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="8956" type="EtcItem" name="Cristal Primitivo Vermelho">
+		
+		<set name="icon" val="icon.etc_sp_crystal_i01" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta o SP em 200.000 quando usado. Só pode ser usado por personagens de nível 76 ou superior." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="crystal_type" val="s" />
+		<set name="price" val="200000" />
+	</item>
+	<item id="8957" type="EtcItem" name="Ordens de Ataque">
+		
+		<set name="icon" val="icon.etc_lottery_card_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento Call to Arms. Pode ser trocado através do Estrategista Lucien por um Item Sombrio adequado ao seu nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8958" type="EtcItem" name="Ordens de Defesa">
+		
+		<set name="icon" val="icon.etc_lottery_card_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento Call to Arms. Pode ser trocado através do Estrategista Lucien por um conjunto de Shadow Armor adequado ao seu nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8959" type="EtcItem" name="Pedidos de Fornecimento">
+		
+		<set name="icon" val="icon.etc_lottery_card_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento Call to Arms. Pode ser trocado através do Estrategista Lucien por consumíveis adequados ao seu nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8960" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Sem Grau">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de armadura de sombra sem grau. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 20 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8961" type="EtcItem" name="Caixa do Conjunto de Armadura Sombria Grau D">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de armadura de sombra de grau D. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 20 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8962" type="EtcItem" name="Caixa do Conjunto de Armadura Sombria Grau C">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de armadura de sombra de grau C. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 20 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8963" type="EtcItem" name="Caixa do Conjunto de Armadura Sombria Grau B">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de armadura de sombra de grau B. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 20 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8964" type="EtcItem" name="Caixa de Conjunto de Armadura Sombria Grau A">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de armadura de sombra de grau A. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 20 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8965" type="EtcItem" name="Caixa do Conjunto de Armadura Sombria Grau S">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um conjunto de armadura de sombra de grau S. (Este item pode ser usado quando o medidor de peso estiver abaixo de 60% e 20 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8966" type="EtcItem" name="Caixa de Conjunto de Item Sem Grau (Uso de Guerreiro)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um Fighter-Use No Grade Item. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8967" type="EtcItem" name="Caixa de Conjunto de Itens Grau D (Uso de Guerreiro)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item Grau D de uso de lutador. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8968" type="EtcItem" name="Caixa de Conjunto de Itens Grau C (Uso de Guerreiro)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item Grau C de uso de lutador. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8969" type="EtcItem" name="Caixa de Conjunto de Itens Grau B (Uso de Guerreiro)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item de categoria B de uso de lutador. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8970" type="EtcItem" name="Caixa de Conjunto de Itens Grau A (Uso de Guerreiro)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item de classe A de uso de lutador. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8971" type="EtcItem" name="Caixa de Conjunto de Itens Grau A, S (Uso de Guerreiro)">
+		
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você clicar duas vezes nele, poderá obter um item Fighter-Use A ou Grau S. (Este item pode ser usado quando o medidor de peso estiver abaixo de 80% e 10 ou mais slots vazios estiverem disponíveis em seu inventário.)" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8972" type="Weapon" name="Item Sombrio: Lança Longa">
+		
+		<set name="icon" val="icon.weapon_long_spear_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de uma lança longa. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="707" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="31" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="21" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="31" order="0x08" stat="pAtk" />
+			<set val="21" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+		</for>
+	</item>
+	<item id="8973" type="Weapon" name="Item Sombrio: Falchion">
+		
+		<set name="icon" val="icon.weapon_falchion_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Falchion. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="510" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="31" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="21" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="31" order="0x08" stat="pAtk" />
+			<set val="21" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8974" type="Weapon" name="Item Sombrio: Martelo de Ferro">
+		
+		<set name="icon" val="icon.weapon_iron_hammer_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Martelo de Ferro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="617" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="31" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="21" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="31" order="0x08" stat="pAtk" />
+			<set val="21" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8975" type="Weapon" name="Item Sombrio: Boneca Voodoo">
+		
+		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Voodoo Doll. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="210" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="25" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="etc" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="28" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="25" order="0x08" stat="pAtk" />
+			<set val="28" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8976" type="Weapon" name="Item Sombrio: Buzdygan">
+		
+		<set name="icon" val="icon.weapon_buzdygan_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Buzdygan. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="600" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="31" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="21" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="31" order="0x08" stat="pAtk" />
+			<set val="21" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8977" type="Weapon" name="Item Sombrio: Cajado de Mago">
+		
+		<set name="icon" val="icon.weapon_apprentices_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Cajado de Mago. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="350" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="30" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="28" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="30" order="0x08" stat="pAtk" />
+			<set val="28" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8978" type="Weapon" name="Item Sombrio: Quebra-Espadas">
+		
+		<set name="icon" val="icon.weapon_sword_breaker_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Sword Breaker. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="370" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="27" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="21" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="27" order="0x08" stat="pAtk" />
+			<set val="21" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8979" type="Weapon" name="Item Sombrio: Presa da Víbora">
+		
+		<set name="icon" val="icon.weapon_vipers_canine_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Presa de Víbora. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="520" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="38" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="21" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="38" order="0x08" stat="pAtk" />
+			<set val="21" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8980" type="Weapon" name="Item Sombrio: Arco de Composição">
+		
+		<set name="icon" val="icon.weapon_composition_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Arco de Composição. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="627" />
+		<set name="soulshots" val="7" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="64" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="3" />
+		<set name="m_dam" val="21" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="64" order="0x08" stat="pAtk" />
+			<set val="21" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8981" type="Weapon" name="Item Sombrio: Crucifixo da Bênção">
+		
+		<set name="icon" val="icon.weapon_crucifix_of_blessing_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Crucifixo da Bênção. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="207" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="25" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="etc" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="28" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="25" order="0x08" stat="pAtk" />
+			<set val="28" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8982" type="Weapon" name="Item Sombrio: Espada de Duas Mãos">
+		
+		<set name="icon" val="icon.weapon_two_handed_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Espada de Duas Mãos. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="730" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="78" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="39" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="78" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8983" type="Weapon" name="Item Sombrio: Espada Carmesim">
+		
+		<set name="icon" val="icon.weapon_crimson_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Espada Carmesim. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="500" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="64" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="39" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="64" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8984" type="Weapon" name="Item Sombrio: Porrete Cravado">
+		
+		<set name="icon" val="icon.weapon_spike_club_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Spiked Club. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="590" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="64" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="39" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="64" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8985" type="Weapon" name="Item Sombrio: Cajado da Magia">
+		
+		<set name="icon" val="icon.weapon_staff_of_magicpower_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Cajado da Magia. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="340" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="62" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="52" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="62" order="0x08" stat="pAtk" />
+			<set val="52" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8986" type="Weapon" name="Item Sombrio: Kukuri">
+		
+		<set name="icon" val="icon.weapon_kukuri_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Kukuri. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="360" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="56" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="39" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="56" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8987" type="Weapon" name="Item Sombrio: Adaga de Mana">
+		
+		<set name="icon" val="icon.weapon_dagger_of_mana_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Adaga de Mana. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="250" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="45" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="52" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="45" order="0x08" stat="pAtk" />
+			<set val="52" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8988" type="Weapon" name="Item Sombrio: Jamadhr de Três Gumes">
+		
+		<set name="icon" val="icon.weapon_triple-edged_jamadhr_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Jamadhr de três gumes. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="520" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="78" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="39" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="78" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8989" type="Weapon" name="Item Sombrio: Gastraphetes">
+		
+		<set name="icon" val="icon.weapon_gastraphetes_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Gastraphetes. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="620" />
+		<set name="soulshots" val="8" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="132" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="4" />
+		<set name="m_dam" val="39" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="132" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8990" type="Weapon" name="Item Sombrio: Martelo de Guerra">
+		
+		<set name="icon" val="icon.weapon_war_hammer_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Martelo de Guerra. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="700" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="64" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="39" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="64" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+		</for>
+	</item>
+	<item id="8991" type="Weapon" name="Item Sombrio: Espada da Ilusão">
+		
+		<set name="icon" val="icon.weapon_sword_of_delusion_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de uma Espada da Ilusão. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="470" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="76" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8992" type="Weapon" name="Item Sombrio: Poleaxe">
+		
+		<set name="icon" val="icon.weapon_poleaxe_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Poleaxe. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="670" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+		</for>
+	</item>
+	<item id="8993" type="Weapon" name="Item Sombrio: Vara da Eternidade">
+		
+		<set name="icon" val="icon.weapon_stick_of_eternity_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Stick of Eternity. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="380" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8994" type="Weapon" name="Item Sombrio: Cajado Infernal">
+		
+		<set name="icon" val="icon.weapon_inferno_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Infernal Staff. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="340" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="135" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="101" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="135" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8995" type="Weapon" name="Item Sombrio: Martelo Pa'Agriano">
+		
+		<set name="icon" val="icon.weapon_paagrio_hammer_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Martelo Pa'Agriano. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="340" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="135" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="101" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="135" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8996" type="Weapon" name="Item Sombrio: Dark Screamer">
+		
+		<set name="icon" val="icon.weapon_dark_screamer_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Dark Screamer. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="340" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="76" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8997" type="Weapon" name="Item Sombrio: Arco Longo Akat">
+		
+		<set name="icon" val="icon.weapon_akat_long_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Arco Longo Akat. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="580" />
+		<set name="soulshots" val="9" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="316" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="227" />
+		<set name="mp_consume" val="7" />
+		<set name="m_dam" val="84" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="316" order="0x08" stat="pAtk" />
+			<set val="84" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="227" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8998" type="Weapon" name="Item Sombrio: Espada Pa'Agrian">
+		
+		<set name="icon" val="icon.weapon_sword_of_paagrio_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Espada Pa'agriana. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="660" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="169" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="169" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8999" type="Weapon" name="Item Sombrio: Lâmina Punhada">
+		
+		<set name="icon" val="icon.weapon_fist_blade_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Fisted Blade. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="500" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="169" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="169" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+</list>

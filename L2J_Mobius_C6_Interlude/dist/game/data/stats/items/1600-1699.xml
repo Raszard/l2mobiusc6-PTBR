@@ -1,0 +1,974 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1600" type="EtcItem" name="Garra de Urso Kasha">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma garra arrancada de um Urso Kasha depois de matá-lo. Colete 5 destes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1601" type="EtcItem" name="Garra da Aranha Kasha de Lâminas">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma garra saiu de uma Aranha Kasha de Lâminas depois de matá-la. Colete 5 destes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1602" type="EtcItem" name="Escamas da Salamandra Escarlate">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma escama de uma Salamandra Escarlate. Colete 5 destes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1603" type="EtcItem" name="Pergaminho do Espírito de Fogo">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O primeiro pergaminho contendo o segredo do kabart, as artes marciais tradicionais dos Orcs." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1604" type="EtcItem" name="Carta de Rosheek">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta escrita por Khavatari Rosheek. Leve isso para Gantaki Zu Urutu." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1605" type="EtcItem" name="Carta de Recomendação de Gantaki">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta de recomendação de Gantaki. Receba a ajuda do Teleportadora Tamil e leve esta recomendação ao Prefeito Kasman na vila de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1606" type="EtcItem" name="Figo">
+		
+		<set name="icon" val="icon.etc_fruit_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um figo dado pelo Prefeito Kasman. Leve isso para Khavatari Toruku." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1607" type="EtcItem" name="4a Bolsa de Couro">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma bolsa de couro dada por Khavatari Toruku. Pegue isso, mate lutadores de várias raças e colete 12 fichas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1608" type="EtcItem" name="4a Bolsa de Couro (Cheia)">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma bolsa cheia de 12 fichas depois de matar lutadores de várias raças. Leve isso para Khavatari Toruku." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1609" type="EtcItem" name="Presa de Orc Vuku">
+		
+		<set name="icon" val="icon.etc_molar_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa obtida após matar um Orc Vuku. Reúna 3 destes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1610" type="EtcItem" name="Presa de Homem Rato">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa de um Homems Rato Guerreiro morto. Reúna 3 destes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1611" type="EtcItem" name="Dente de Homem Lagarto Langk">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um dente obtido após matar um Homem Lagarto Langk. Reúna 3 destes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1612" type="EtcItem" name="Dente de Homem Lagarto Felim">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um dente obtido após matar o Homem Lagarto Felim. Reúna 3 destes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1613" type="EtcItem" name="Pergaminho Vontade de Ferro">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O segundo pergaminho que contém o segredo das artes marciais tradicionais dos Orcs, Kabart." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1614" type="EtcItem" name="Carta de Toruku">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de Khavatari Toruku. Leve isso para o Prefeito Kasman." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1615" type="EtcItem" name="Totem Khavatari">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um Símbolo dado a quem tem qualificações para mudar de classe para Orc Monk. Leve isso ao alto Prefeito para mudar sua classe para um Monge Orc." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1616" type="EtcItem" name="Feitiço de Fogo">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto com a inscrição do mantra de fogo. Pegue isso e encontre os 3 itens de que Tataru falou." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1617" type="EtcItem" name="Pele de Urso Kasha">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pele de urso kasha. Leve para Tataru junto com casca de aranha de lâmina kasha e ovo de fogo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1618" type="EtcItem" name="Casca de Aranha Kasha de Lâmina">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A casca de uma aranha de lâmina kasha. Leve-o para Tataru, junto com uma pele de urso kasha e um ovo de fogo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1619" type="EtcItem" name="1a Ovo Ardente">
+		
+		<set name="icon" val="icon.etc_crystal_ball_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ovo espiritual obtido de uma Salamandra Escarlate. Leve-o para Tataru junto com uma pele de urso kasha e uma casca de aranha de lâmina kasha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1620" type="EtcItem" name="Máscara Hestui">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma máscara em forma de urso. Pegue isso e vá para o espírito do totem de Hestui." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1621" type="EtcItem" name="2a Ovo Ardente">
+		
+		<set name="icon" val="icon.etc_crystal_ball_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ovo espiritual recebido de uma Salamandra Escarlate. Leve isso para o espírito do totem Hestui." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1622" type="EtcItem" name="Totem Garra Espiritual">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma garra recebida do espírito totem Hestui. Pegue isso e vá para Tataru." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1623" type="EtcItem" name="Carta de Recomendação de Tataru">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta escrita por Tataru. Leve isso para Seer Umos na cidade de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1624" type="EtcItem" name="Feitiço de Chama">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto com a inscrição do mantra da chama. Pegue isso, colete sangue de urso e leve para o Vidente Umos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1625" type="EtcItem" name="Sangue de Urso">
+		
+		<set name="icon" val="icon.etc_reagent_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma garrafa de vidro cheia de sangue de urso. Reúna 3 e leve para Seer Umos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1626" type="EtcItem" name="Caldeirão de Sangue">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um caldeirão cheio de sangue de urso. Leve isso para o espírito do totem Duda-Mara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1627" type="EtcItem" name="Rede Espiritual">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma rede feita com seda de aranha do espírito. Use isso para capturar o espírito durka escondido dentro de aranhas venenosas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1628" type="EtcItem" name="Espírito Durka Vinculado">
+		
+		<set name="icon" val="icon.etc_crystal_ball_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Espírito Durka preso dentro da rede espiritual. Leve isso para o espírito do totem Duda-Mara." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1629" type="EtcItem" name="Durka Parasita">
+		
+		<set name="icon" val="icon.etc_totem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um espírito maligno parasita que sai de aranhas contaminadas com o espírito maligno durka. É a chave para invocar o mau espírito durka." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1630" type="EtcItem" name="Totem Espírito de Sangue">
+		
+		<set name="icon" val="icon.etc_potion_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Sangue derramado pelo espírito do totem Duda-Mara. Pegue isso e vá até Seer Umos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1631" type="EtcItem" name="Máscara do Medium">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um Símbolo que mostra que alguém tem as qualificações para se tornar um Orc Xãma. Leve isso ao alto Prefeito, para mudar sua classe para um Orc Xãma." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1632" type="EtcItem" name="Anel de Silvera">
+		
+		<set name="icon" val="icon.accessary_ring_of_assistance_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um anel dado a aspirantes a artesãos pelo ferreiro Silvera. Derrube a gangue do boogle ratman e colete seus dentes da frente." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1633" type="EtcItem" name="Certificado de 1a Passagem">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O certificado de aprovação no 1a teste de artesanato. Para fazer o próximo teste, você deve ir ao Ferreiro Kluto da Gludin Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1634" type="EtcItem" name="Certificado de 2a Passagem">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O certificado de aprovação no 2a teste de artesanato. Pegue isso e vá até o Ferreiro Kluto em Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1635" type="EtcItem" name="Certificado de Passe Final">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O certificado de aprovação no teste final de Artesão. Leve isso ao ferreiro-chefe para mudar de classe para um artesão." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1636" type="EtcItem" name="Dente do Homem Rato Boogle">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O dente feio da frente de um Homem Rato Boogle. Só de olhar, você ficará enjoado. Colete 10 deles e leve-os ao ferreiro Silvera." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1637" type="EtcItem" name="Dente do Homem Rato Boogle Líder">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O dente grande do Homem Rato Boogle Líder. Antes que o fedor o faça desmaiar, colete 2 deles e leve-os ao ferreiro Silvera." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1638" type="EtcItem" name="Carta de Kluto">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta do ferreiro Kluto. Leve para Ferreiro Pinter na Town of Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1639" type="EtcItem" name="Pegada de Ladrão">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Traços deixados por ladrões. Mate lutadores Orc Vuku, recupere itens roubados e leve-os ao Ferreiro Pinter." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1640" type="EtcItem" name="Caixa Secreta Roubada">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma caixa secreta roubada por lutadores Orcs Vuku. O conteúdo da caixa é desconhecido, mas de qualquer forma, leve-a para o Ferreiro Pinter." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1641" type="EtcItem" name="Caixa Secreta">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma caixa secreta recebida de Pinter. O conteúdo é desconhecido, mas não se preocupe e leve-o ao Ferreiro Kluto na Vila de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1642" type="EtcItem" name="Anel do Corvo">
+		
+		<set name="icon" val="icon.accessary_ring_of_raccoon_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca certificando que alguém conquistou o direito de se tornar um Scavenger. Se você levá-lo a um Warehouse Chief, poderá transferir sua classe para Scavenger." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1643" type="EtcItem" name="Carta de Recomendação de Pippi">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de apresentação escrita pelo Colecionador Pipi. Leve isso para o Comerciante Mion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1644" type="EtcItem" name="Pergaminho de Teletransporte de Raut">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma folha de pedido fornecida pelo Armazém Cargueiro Raut. Entregue-o a Torai, no sul da Passagem da Morte." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1645" type="EtcItem" name="Calcinha da Succubus">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A calcinha da Succubus recebida de Torai. Leve isso para o Armazém Cargueiro Raut de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1646" type="EtcItem" name="Carta de Mion">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada de Comerciante Mion para seu irmão. Pegue esta carta e vá até o Mestre Toma." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1647" type="EtcItem" name="Lingote de Bronk">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um lingote para ser dado ao Chief Ferreiro Bronk." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1648" type="EtcItem" name="Machado de Shari">
+		
+		<set name="icon" val="icon.weapon_tomahawk_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um machado para ser dado ao Comerciante Shari." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1649" type="EtcItem" name="Poção de Zimenf">
+		
+		<set name="icon" val="icon.etc_potion_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma poção para dar ao Sacerdote da Terra Zimenf." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1650" type="EtcItem" name="Pagamento do Bronk">
+		
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Custo do produto dado pelo Chefe Ferreiro Bronk. Leve isso para o Comerciante Mion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1651" type="EtcItem" name="Pagamento de Shari">
+		
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Custo do produto fornecido por Shari. Leve isso para o Comerciante Mion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1652" type="EtcItem" name="Pagamento do Zimenf">
+		
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Custo do produto fornecido pela Zimenf. Leve isso para o Comerciante Mion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1653" type="EtcItem" name="Foto do Urso">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma foto de um urso recebida por Mestre Toma. Leve isso para caçar ursos caçadores, então o urso de mel aparecerá." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1654" type="EtcItem" name="Foto da Tarântula">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma foto de aranha recebida por Mestre Toma. Use isso para caçar tarântulas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1655" type="EtcItem" name="Pote de Mel">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pote de mel tirado de um urso de mel. Colete 5 e leve-os ao Mestre Toma." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1656" type="EtcItem" name="Pérola">
+		
+		<set name="icon" val="icon.etc_crystal_ball_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pérola obtida da tarântula. Reúna 20 deles e dê ao Mestre Toma." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1657" type="EtcItem" name="Pacote de Pérolas">
+		
+		<set name="icon" val="icon.accessary_mage_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pacote feito de Pérolas. Entregue isso ao Armazém Cargueiro Raut de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1658" type="EtcItem" name="Feitiço do Teleportador">
+		
+		<set name="icon" val="icon.etc_totem_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para se teletransportar da Orc Village para Gludin." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="1659" type="EtcItem" name="Símbolo do Teleportador">
+		
+		<set name="icon" val="icon.etc_coins_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para se teletransportar da Dwarven Village para Gludin." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="1660" type="Weapon" name="Maingauche Amaldiçoada">
+		
+		<set name="icon" val="icon.weapon_maingauche_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Maingauche Amaldiçoada. Embora seu poder de ataque seja fraco, dá efeito de sangramento com uma certa taxa durante ataques críticos." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1070" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="62" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="42" />
+		<set name="price" val="1400000" />
+		<set name="crystal_count" val="2545" />
+		<for>
+			<set val="62" order="0x08" stat="pAtk" />
+			<set val="42" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1661" type="EtcItem" name="Chave do Ladrão">
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1662" type="EtcItem" name="Madeira">
+		
+		<set name="icon" val="icon.etc_squares_wood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="1663" type="EtcItem" name="(Não Usado) Tronco">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="1664" type="EtcItem" name="Pó de Aço">
+		
+		<set name="icon" val="icon.etc_powder_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="80" />
+	</item>
+	<item id="1665" type="EtcItem" name="Mapa Mundial">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um mapa antigo e obsoleto. Pode ser adquirido em qualquer loja." />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1666" type="EtcItem" name="Receita: Flecha de Madeira">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Flecha de Madeira. Requer Criar Item Nível 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="600" />
+	</item>
+	<item id="1667" type="EtcItem" name="Livro de Feitiços: Invocar Sombra">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Shadow. Usado por Dark Wizards." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1668" type="EtcItem" name="Livro de Feitiços: Invocar Mew, O Gato">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços precisava aprender Summon Mew the Cat. Usado por magos humanos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1669" type="EtcItem" name="Livro de Feitiços: Invocar Boxer, O Unicórnio">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Boxer the Unicorn. Usado por Elven Wizards." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1670" type="EtcItem" name="Livro de Feitiços: Convocar Mirage, O Unicórnio">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Mirage the Unicorn. Usado por Elven Wizards." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="1671" type="EtcItem" name="Livro de Feitiços: Invocar Silhueta">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Silhouette. Usado por Dark Wizards." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1672" type="EtcItem" name="__">
+		<set name="icon" val="icon.item_normal06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="40" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1673" type="EtcItem" name="__">
+		<set name="icon" val="icon.item_normal06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="40" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1674" type="EtcItem" name="Galho de Treant">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="80" />
+	</item>
+	<item id="1675" type="EtcItem" name="Sangue de Besta">
+		
+		<set name="icon" val="icon.etc_reagent_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="1676" type="EtcItem" name="Osso da Besta">
+		
+		<set name="icon" val="icon.etc_piece_bone_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="1677" type="EtcItem" name="Óleo Quente">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="1678" type="EtcItem" name="(Não Usado) Tópico">
+		
+		<set name="icon" val="icon.etc_skein_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="1679" type="EtcItem" name="Bronze">
+		
+		<set name="icon" val="icon.etc_lump_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="1680" type="EtcItem" name="Pelagem">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="1681" type="EtcItem" name="Pedra Elfa">
+		
+		<set name="icon" val="icon.etc_crystal_ball_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1500" />
+	</item>
+	<item id="1682" type="EtcItem" name="Lágrima do Espírito Santo">
+		
+		<set name="icon" val="icon.etc_lesser_potion_clear_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1683" type="EtcItem" name="Mithril">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="1684" type="EtcItem" name="Pressa Durável">
+		
+		<set name="icon" val="icon.etc_herb_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="220" />
+	</item>
+	<item id="1685" type="EtcItem" name="Moldura de Madeira">
+		
+		<set name="icon" val="icon.etc_squares_wood_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="1686" type="EtcItem" name="Casca de Treant">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="480" />
+	</item>
+	<item id="1687" type="EtcItem" name="(Não Usado) Pó de Osso Grosso">
+		
+		<set name="icon" val="icon.etc_powder_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="80" />
+	</item>
+	<item id="1688" type="EtcItem" name="Aço Refinado">
+		
+		<set name="icon" val="icon.etc_plate_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="480" />
+	</item>
+	<item id="1689" type="EtcItem" name="(Não Usado) Couro">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="1690" type="EtcItem" name="Corda de Arco">
+		
+		<set name="icon" val="icon.etc_skein_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="1691" type="EtcItem" name="Estrutura de Aço">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4400" />
+	</item>
+	<item id="1692" type="EtcItem" name="(Não Usado) Cabo">
+		
+		<set name="icon" val="icon.etc_skein_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45" />
+	</item>
+	<item id="1693" type="EtcItem" name="Bronze Refinado">
+		
+		<set name="icon" val="icon.etc_plate_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="890" />
+	</item>
+	<item id="1694" type="EtcItem" name="Poção Treant">
+		
+		<set name="icon" val="icon.etc_potion_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="800" />
+	</item>
+	<item id="1695" type="EtcItem" name="Papel de Feitiço">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="580" />
+	</item>
+	<item id="1696" type="EtcItem" name="Óleo Flamejante">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1697" type="EtcItem" name="Pó Mágico">
+		
+		<set name="icon" val="icon.etc_powder_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3080" />
+	</item>
+	<item id="1698" type="EtcItem" name="Mithril Refinado">
+		
+		<set name="icon" val="icon.etc_plate_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2100" />
+	</item>
+	<item id="1699" type="EtcItem" name="Aço Fortificado">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1860" />
+	</item>
+</list>

@@ -1,0 +1,919 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1800" type="EtcItem" name="Receita: Peça Peitoral de Osso">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Peitoral Peitoral de Osso. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="636" />
+	</item>
+	<item id="1801" type="EtcItem" name="Receita: Peça Botas de Osso">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas de osso de peça. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="397" />
+	</item>
+	<item id="1802" type="EtcItem" name="Receita: Colar da Angústia">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Colar de Angústia. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="93" />
+	</item>
+	<item id="1803" type="EtcItem" name="Receita: Colar da Sabedoria">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Colar da Sabedoria. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="238" />
+	</item>
+	<item id="1804" type="EtcItem" name="Receita: Soulshot: Grau D">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um soulshot - Grau D. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="1805" type="EtcItem" name="Receita: Soulshot: Grau C">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um soulshot - Grau C. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="60000" />
+	</item>
+	<item id="1806" type="EtcItem" name="Receita: Soulshot: Grau B">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um soulshot - Grau B. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="1807" type="EtcItem" name="Receita: Soulshot: Grau A">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um soulshot - Grau A. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="1808" type="EtcItem" name="Receita: Soulshot: Grau S">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um soulshot - Grau S. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="450000" />
+	</item>
+	<item id="1809" type="EtcItem" name="Receita: Pressa Durável">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um caule durável. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1810" type="EtcItem" name="Receita: Moldura de Madeira">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma moldura de madeira. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1811" type="EtcItem" name="Receita: Casca de Treant">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma casca de formiga. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1812" type="EtcItem" name="Receita: Pó de Osso Grosso">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para pó de osso grosso. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1813" type="EtcItem" name="Receita: Aço Refinado">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para aço refinado. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1814" type="EtcItem" name="Receita: Couro">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita do Couro. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="380" />
+	</item>
+	<item id="1815" type="EtcItem" name="Receita: Corda de Arco">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma corda de arco. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1816" type="EtcItem" name="Receita: Estrutura de Aço">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Steel Frame. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1817" type="EtcItem" name="Receita: Cordão">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Cordão. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1818" type="EtcItem" name="Receita: Bronze Refinado">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita do Bronze Refinado. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1819" type="EtcItem" name="Receita: Poção Treant">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma poção de formiga. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1820" type="EtcItem" name="Receita: Papel de Feitiço">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Spell Paper. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1821" type="EtcItem" name="Receita: Óleo Flamejante">
+		
+		<set name="icon" val="icon.etc_recipe_white_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita do óleo flamejante. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1822" type="EtcItem" name="Receita: Pó Mágico">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita do Pó Mágico. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1823" type="EtcItem" name="Receita: Mythril Refinado">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o mithril refinado. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1824" type="EtcItem" name="Receita: Aço Fortificado">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Aço Fortificado. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1825" type="EtcItem" name="Receita: Oriharukon">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Oriharukon. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2800" />
+	</item>
+	<item id="1826" type="EtcItem" name="Receita: Solução de Feitiço">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma solução de feitiço. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1827" type="EtcItem" name="Receita: Armação de Metal">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma armação de metal. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1828" type="EtcItem" name="Receita: Aço da Mais Alta Qualidade">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para aço da mais alta qualidade. Requer Criar Item - Nível de Habilidade 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1829" type="EtcItem" name="Pergaminho de Fuga: Salão do Clã">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_agit_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho que o teleporta para o salão do clã. Se você não tiver um salão de clã, ele irá Teleporta-lo para a aldeia mais próxima." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1830" type="EtcItem" name="Pergaminho de Fuga: Castelo">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_castle_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho que o teleporta para o seu castelo. Se você não tiver um castelo, ele irá Teleporta-lo para a aldeia mais próxima." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1831" type="EtcItem" name="Antídoto">
+		
+		<set name="icon" val="icon.etc_herb_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um reagente que neutraliza o veneno." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75" />
+	</item>
+	<item id="1832" type="EtcItem" name="Antídoto Superior">
+		
+		<set name="icon" val="icon.etc_reagent_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um reagente de alta qualidade que neutraliza venenos poderosos." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="180" />
+	</item>
+	<item id="1833" type="EtcItem" name="Bandagem">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um curativo médico que para de sangrar quando ferido." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75" />
+	</item>
+	<item id="1834" type="EtcItem" name="Bandagem de Emergência">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um curativo médico que para de sangrar rapidamente quando gravemente ferido." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="180" />
+	</item>
+	<item id="1835" type="EtcItem" name="Soulshot: Sem Grau">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_white_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="O poder de um espírito de nível superior é concedido a uma arma, aumentando temporariamente o poder de ataque. Usado com uma arma sem grau." />
+		<set name="weight" val="4" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7" />
+	</item>
+	<item id="1836" type="EtcItem" name="1a Ordem de Kendell">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Punir Kaboo Chefe Uoph. Ele deve estar em algum lugar perto das ruínas sobre a colina, a oeste da Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1837" type="EtcItem" name="2a Ordem de Kendell">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Punir Kaboo Chefe Kracha. Ele deve estar em algum lugar ao redor do obelisco Nove, a sudoeste da Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1838" type="EtcItem" name="3a Ordem de Kendell">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Punir Kaboo Chefe Batoh. Ele deve estar em algum lugar perto da entrada da fortaleza subterrânea dos Elfos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1839" type="EtcItem" name="4a Ordem de Kendell">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Punir Kaboo Chefe Tanukia. Ele deve estar em algum lugar perto das ruínas do teatro ao ar livre, a sudoeste da Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1840" type="EtcItem" name="5a Ordem de Kendell">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Punir Kaboo Chefe Turel. Ele deve estar em algum lugar perto das ruínas à beira-mar, a noroeste do Lago Iris." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1841" type="EtcItem" name="6a Ordem de Kendell">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Punir Kaboo Chefe Roko. Ele deve estar em algum lugar perto das ruínas à beira-mar, a oeste do Lago Iris." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1842" type="EtcItem" name="7a Ordem de Kendell">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Punir Kaboo Chefe Kamut. Ele deve estar em algum lugar perto das ruínas à beira-mar, ao sul do Lago Iris." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1843" type="EtcItem" name="8a Ordem de Kendell">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Punir Kaboo Chefe Murtika. Ele deve estar em algum lugar perto das ruínas à beira-mar, a leste do Lago Iris." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1844" type="EtcItem" name="1a Torque do Chefe Kaboo">
+		
+		<set name="icon" val="icon.accessary_necklace_of_black_ore_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar obtido ao matar o chefe dos Orcs Kaboo. Leve isso para o Sentinela Kendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1845" type="EtcItem" name="2a Torque do Chefe Kaboo">
+		
+		<set name="icon" val="icon.accessary_necklace_of_black_ore_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar obtido ao matar o chefe dos Orcs Kaboo. Leve isso para o Sentinela Kendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1846" type="EtcItem" name="Tag de Cachorro Turek">
+		
+		<set name="icon" val="icon.etc_totem_necklace_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar de identificação militar de guerreiros Orcs Turek. Colete-os e leve-os a Piotur para receber uma recompensa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1847" type="EtcItem" name="Medalhão Turek">
+		
+		<set name="icon" val="icon.etc_totem_necklace_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar de identificação militar de oficiais Orcs Turek. Colete-os e leve-os a Piotur para receber uma recompensa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1848" type="EtcItem" name="Fragmento de Urna de Barro">
+		
+		<set name="icon" val="icon.etc_broken_crystal_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma relíquia do império Elmoreden. Um pedaço de uma urna de barro quebrada." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="1849" type="EtcItem" name="Peça de Latão">
+		
+		<set name="icon" val="icon.etc_broken_crystal_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma relíquia do império Elmoreden. Uma parte de uma bugiganga de latão." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="240" />
+	</item>
+	<item id="1850" type="EtcItem" name="Pedaço de Espelho de Bronze">
+		
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma relíquia do império Elmoreden. Uma parte de um espelho de bronze." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="240" />
+	</item>
+	<item id="1851" type="EtcItem" name="Pérola do Colar de Jade">
+		
+		<set name="icon" val="icon.etc_debris_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma relíquia do império Elmoreden. Uma parte de um colar de jade." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="280" />
+	</item>
+	<item id="1852" type="EtcItem" name="Antiga Urna de Barro">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma urna de barro do império Elmoreden." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="1853" type="EtcItem" name="Antiga Tiara de Latão">
+		
+		<set name="icon" val="icon.etc_ancient_crown_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma relíquia do império Elmoreden. Uma tiara de latão formal." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1400" />
+	</item>
+	<item id="1854" type="EtcItem" name="Antigo Espelho de Bronze">
+		
+		<set name="icon" val="icon.etc_mirror_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma relíquia do império Elmoreden. Um espelho de bronze." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1400" />
+	</item>
+	<item id="1855" type="EtcItem" name="Antigo Colar de Jade">
+		
+		<set name="icon" val="icon.etc_leash_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma relíquia do império Elmoreden. Um colar de jade." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1700" />
+	</item>
+	<item id="1856" type="EtcItem" name="Amuleto: Canto da Vida">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Chant of Life. Usado por Orc Xamãs." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1600" />
+	</item>
+	<item id="1857" type="EtcItem" name="Presas de Keltir">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa tomada por matar keltirs. Colete 4 e leve-os para qualquer um dos Mestres." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1858" type="EtcItem" name="Presas de Keltir">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa tomada por matar keltirs. Colete 4 e leve-os para qualquer um dos Mestres." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1859" type="EtcItem" name="Presas de Keltir">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa tomada por matar keltirs. Colete 4 e leve-os para qualquer Guardiã da Árvore Mãe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1860" type="EtcItem" name="Presas de Keltir">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa tomada por matar keltirs. Colete 4 e leve-os para qualquer Celebrante Abissal." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1861" type="EtcItem" name="Presas de Keltir">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa tomada por matar keltirs. Colete 4 e leve-os ao Sacerdote do Fogo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1862" type="EtcItem" name="Presas de Keltir">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma presa tomada por matar keltirs. Colete 4 e leve-os ao Mineiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1863" type="EtcItem" name="Mapa: Elmore">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um mapa antigo e obsoleto. Pode ser adquirido em qualquer loja." />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1864" type="EtcItem" name="Tronco">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1865" type="EtcItem" name="Verniz">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="1866" type="EtcItem" name="Camurça">
+		
+		<set name="icon" val="icon.etc_suede_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="1867" type="EtcItem" name="Pele de Animal">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="1868" type="EtcItem" name="Fio">
+		
+		<set name="icon" val="icon.etc_skein_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1869" type="EtcItem" name="Minério de Ferro">
+		
+		<set name="icon" val="icon.etc_lump_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="1870" type="EtcItem" name="Carvão">
+		
+		<set name="icon" val="icon.etc_coal_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="1871" type="EtcItem" name="Carvão Vegetal">
+		
+		<set name="icon" val="icon.etc_charcoal_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="1872" type="EtcItem" name="Osso de Animal">
+		
+		<set name="icon" val="icon.etc_piece_bone_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="1873" type="EtcItem" name="Pepita de Prata">
+		
+		<set name="icon" val="icon.etc_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1874" type="EtcItem" name="Minério de Oriharukon">
+		
+		<set name="icon" val="icon.etc_oriharukon_ore_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3000" />
+	</item>
+	<item id="1875" type="EtcItem" name="Pedra da Pureza">
+		
+		<set name="icon" val="icon.etc_crystal_ball_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3000" />
+	</item>
+	<item id="1876" type="EtcItem" name="Minério de Mithril">
+		
+		<set name="icon" val="icon.etc_mithril_ore_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="1877" type="EtcItem" name="Pepita de Adamantita">
+		
+		<set name="icon" val="icon.etc_adamantite_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="1878" type="EtcItem" name="Cânhamo Trançado">
+		
+		<set name="icon" val="icon.etc_braided_hemp_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="1879" type="EtcItem" name="Coque">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="1880" type="EtcItem" name="Aço">
+		
+		<set name="icon" val="icon.etc_lump_black_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="1881" type="EtcItem" name="Pó de Osso Grosso">
+		
+		<set name="icon" val="icon.etc_powder_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1500" />
+	</item>
+	<item id="1882" type="EtcItem" name="Couro">
+		
+		<set name="icon" val="icon.etc_leather_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="1883" type="EtcItem" name="Molde de Aço">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4500" />
+	</item>
+	<item id="1884" type="EtcItem" name="Cordão">
+		
+		<set name="icon" val="icon.etc_skein_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="325" />
+	</item>
+	<item id="1885" type="EtcItem" name="Camurça de Alta Qualidade">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2400" />
+	</item>
+	<item id="1886" type="EtcItem" name="Molde de Prata">
+		
+		<set name="icon" val="icon.etc_silver_mold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="13500" />
+	</item>
+	<item id="1887" type="EtcItem" name="Verniz de Pureza">
+		
+		<set name="icon" val="icon.etc_potion_clear_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8100" />
+	</item>
+	<item id="1888" type="EtcItem" name="Carvão Coque Sintética">
+		
+		<set name="icon" val="icon.etc_synthetic_cokes_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6600" />
+	</item>
+	<item id="1889" type="EtcItem" name="Trança Composta">
+		
+		<set name="icon" val="icon.etc_compound_braid_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3000" />
+	</item>
+	<item id="1890" type="EtcItem" name="Liga de Mithril">
+		
+		<set name="icon" val="icon.etc_lump_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="13100" />
+	</item>
+	<item id="1891" type="EtcItem" name="Moldura do Artesão">
+		
+		<set name="icon" val="icon.etc_artisans_frame_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="95000" />
+	</item>
+	<item id="1892" type="EtcItem" name="Moldura de Ferreiro">
+		
+		<set name="icon" val="icon.etc_blacksmiths_frame_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="64000" />
+	</item>
+	<item id="1893" type="EtcItem" name="Oriharukon">
+		
+		<set name="icon" val="icon.etc_oriharukon_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24600" />
+	</item>
+	<item id="1894" type="EtcItem" name="Couro Trabalhado">
+		
+		<set name="icon" val="icon.etc_crafted_leather_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5700" />
+	</item>
+	<item id="1895" type="EtcItem" name="Fibra Metálica">
+		
+		<set name="icon" val="icon.etc_metallic_fiber_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado para fazer itens de Anãos. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="700" />
+	</item>
+	<item id="1896" type="EtcItem" name="Colar da Correntes da Angústia">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Colar da Angústia. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="472" />
+	</item>
+	<item id="1897" type="EtcItem" name="Colar da Correntes da Sabedoria">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Colar da Sabedoria. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="840" />
+	</item>
+	<item id="1898" type="EtcItem" name="Joia Colar Diamante Azul">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Colar de Diamante Azul. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1947" />
+	</item>
+	<item id="1899" type="EtcItem" name="Colar de Cadeia de Devoção">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave que os Anões usam para fazer o Colar da Devoção. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1280" />
+	</item>
+</list>

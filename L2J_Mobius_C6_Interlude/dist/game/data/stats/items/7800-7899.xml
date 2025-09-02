@@ -1,0 +1,1997 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7800" type="EtcItem" name="Pequeno Peixe Gordo Preto - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7801" type="EtcItem" name="Black Nimble Fish - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7802" type="EtcItem" name="Peixe Feio Preto - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7803" type="EtcItem" name="Peixe Gordo Preto - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7804" type="EtcItem" name="Peixe Preto Grande E Ágil - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7805" type="EtcItem" name="Grande Peixe Feio Preto - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7806" type="EtcItem" name="Peixe Gordo Preto Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7807" type="EtcItem" name="Isca Verde - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bait_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Uma isca usada por iniciantes. Como apenas os peixes destinados a iniciantes mordem a isca, o jogador pode facilmente aprender a pescar. Esta isca é preferida por peixes que se movem rapidamente." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="7808" type="EtcItem" name="Isca Roxa - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bait_i01" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Uma isca usada por iniciantes. Como apenas os peixes destinados a iniciantes mordem a isca, o jogador pode facilmente aprender a pescar. Esta isca é preferida pelos peixes gordos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="70" />
+	</item>
+	<item id="7809" type="EtcItem" name="Isca Amarela - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bait_i02" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Uma isca usada por iniciantes. Como apenas os peixes destinados a iniciantes mordem a isca, o jogador pode facilmente aprender a pescar. Esta isca é preferida pelos peixes feios." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="60" />
+	</item>
+	<item id="7810" type="Weapon" name="Adaga de Fogo da Alma - Aumento de Mana">
+		
+		<set name="icon" val="icon.weapon_dagger_of_magicflame_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 30%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="750" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="86" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="item_skill_id" val="3014" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="86" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7811" type="Weapon" name="Adaga de Fogo da Alma - Enraizamento Mágico">
+		
+		<set name="icon" val="icon.weapon_dagger_of_magicflame_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança a magia Raiz Dríade contra o alvo com 10% de chance de sucesso ao usar magia ruim. Efeito 1." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="750" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="86" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<set name="onCast_skill_id" val="1201" /> 
+		<set name="onCast_skill_lvl" val="23" />
+		<set name="onCast_skill_chance" val="10" />
+		<for>
+			<set val="86" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7812" type="Weapon" name="Adaga de Fogo da Alma - Silencio Mágico">
+		
+		<set name="icon" val="icon.weapon_dagger_of_magicflame_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: ao usar magia ruim contra um alvo, lança Silêncio sobre o alvo com 10% de chance de sucesso. Efeito 1." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="750" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="86" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="2870000" />
+		<set name="crystal_count" val="1148" />
+		<for>
+			<set val="86" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<skill onCast="1" id="1064" lvl="1" chance="10" />
+		</for>
+	</item>
+	<item id="7813" type="Weapon" name="Faca Infernal - Regeneração Mágica">
+		
+		<set name="icon" val="icon.weapon_hell_knife_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança magia de Regeneração de HP no alvo com 30% de chance de sucesso ao usar magia boa. Efeito 3." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="740" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="122" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<set name="onCast_skill_id" val="1044" /> 
+		<set name="onCast_skill_lvl" val="3" />
+		<set name="onCast_skill_chance" val="30" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="122" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<skill onCast="1" id="1044" lvl="3" chance="30" />
+		</for>
+	</item>
+	<item id="7814" type="Weapon" name="Faca Infernal - Escudo Mental">
+		
+		<set name="icon" val="icon.weapon_hell_knife_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança magia Escudo Mental sobre o alvo com 50% de chance de sucesso ao usar magia boa. Efeito 4." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="740" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="122" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<set name="onCast_skill_id" val="1035" /> 
+		<set name="onCast_skill_lvl" val="4" />
+		<set name="onCast_skill_chance" val="50" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="122" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7815" type="Weapon" name="Faca Infernal - Fraqueza Mágica">
+		
+		<set name="icon" val="icon.weapon_hell_knife_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança Fraqueza da Maldição contra o alvo com 7% de chance de sucesso ao usar magia ruim. Efeito 3." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="740" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="122" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="122" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<set name="onCast_skill_id" val="1164" /> 
+		<set name="onCast_skill_lvl" val="3" />
+		<set name="onCast_skill_chance" val="7" />
+		<for>
+			<set val="122" order="0x08" stat="pAtk" />
+			<set val="122" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7816" type="Weapon" name="Cajado do Aprendiz">
+		
+		<set name="icon" val="icon.weapon_apprentices_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cajado do Aprendiz. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1070" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="23" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="22" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="23" order="0x08" stat="pAtk" />
+			<set val="22" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7817" type="Weapon" name="Porrete de Ossos do Aprendiz">
+		
+		<set name="icon" val="icon.weapon_club_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Porrete dos Ossos do Aprendiz. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1850" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="24" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="24" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7818" type="Weapon" name="Faca do Aprendiz">
+		
+		<set name="icon" val="icon.weapon_shining_knife_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Faca do Aprendiz. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1120" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="21" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="21" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7819" type="Weapon" name="Cestus Aprendiz">
+		
+		<set name="icon" val="icon.weapon_vipers_canine_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cestus Aprendiz. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1570" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="29" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="29" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7820" type="Weapon" name="Arco do Aprendiz">
+		
+		<set name="icon" val="icon.weapon_short_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Arco do Aprendiz. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1900" />
+		<set name="soulshots" val="7" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="49" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="3" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="49" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7821" type="Weapon" name="Espada Longa do Aprendiz">
+		
+		<set name="icon" val="icon.weapon_long_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Espada Longa do Aprendiz. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="24" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="24" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7822" type="Weapon" name="Maça do Aventureiro">
+		
+		<set name="icon" val="icon.weapon_mace_of_prayer_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Maça do Aventureiro. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="41" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="43" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="41" order="0x08" stat="pAtk" />
+			<set val="43" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7823" type="Weapon" name="Arco Élfico Negro do Aventureiro">
+		
+		<set name="icon" val="icon.weapon_dark_elven_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Arco Élfico Negro do Aventureiro. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1830" />
+		<set name="soulshots" val="6" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="105" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="4" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="105" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7824" type="Weapon" name="Arco Longo do Aventureiro">
+		
+		<set name="icon" val="icon.weapon_strengthening_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Arco Longo do Aventureiro. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1830" />
+		<set name="soulshots" val="6" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="105" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="4" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="114" order="0x08" stat="pAtk" />
+			<set val="35" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="227" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7825" type="Weapon" name="Equipe do Aventureiro">
+		
+		<set name="icon" val="icon.weapon_staff_of_mana_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Equipe do Aventureiro. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1040" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="50" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="43" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="50" order="0x08" stat="pAtk" />
+			<set val="43" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7826" type="Weapon" name="Espada Bastarda do Aventureiro">
+		
+		<set name="icon" val="icon.weapon_bastard_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Espada Bastarda do Aventureiro. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1510" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="51" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="51" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7827" type="Weapon" name="Varinha do Aventureiro">
+		
+		<set name="icon" val="icon.weapon_divine_tome_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Varinha do Aventureiro. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="570" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="41" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="etc" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="43" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="41" order="0x08" stat="pAtk" />
+			<set val="43" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7828" type="Weapon" name="Jamadhr do Aventureiro">
+		
+		<set name="icon" val="icon.weapon_baghnakh_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Jamadhr do Aventureiro. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1550" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="62" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="62" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7829" type="Weapon" name="Tomahawk do Aventureiro">
+		
+		<set name="icon" val="icon.weapon_tomahawk_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Tomahawk do Aventureiro. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1780" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="51" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="51" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7830" type="Weapon" name="Adaga do Aventureiro">
+		
+		<set name="icon" val="icon.weapon_dirk_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Adaga do Aventureiro. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="1090" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="45" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="45" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7831" type="Weapon" name="Pique do Aventureiro">
+		
+		<set name="icon" val="icon.weapon_pike_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Pique do Aventureiro. Este item não pode ser trocado, dropado, cristalizado ou encantado. Se a contagem de PK de alguém for 1 ou mais, ela não poderá ser usada." />
+		<set name="weight" val="2090" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="51" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="32" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="51" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7832" type="EtcItem" name="Cupom de Troca de Armas (Aprendiz)">
+		
+		<set name="icon" val="icon.etc_lottery_card_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cupom de troca necessário para emprestar armas para aprendizes de aventureiros da Guilda dos Aventureiros." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7833" type="EtcItem" name="Cupom de Troca de Armas (Aventureiro)">
+		
+		<set name="icon" val="icon.etc_lottery_card_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cupom de troca necessário para emprestar armas para aprendizes de aventureiros da Guilda dos Aventureiros." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7834" type="Weapon" name="Machado da Arte de Batalhar">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1570" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="194" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="99" />
+		<set name="price" val="13100000" />
+		<set name="crystal_count" val="1746" />
+		<for>
+			<set val="194" order="0x08" stat="pAtk" />
+			<set val="99" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7835" type="EtcItem" name="Amuleto: Selo da Doença">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para o feitiço Seal of Disease. Usado por Dominadores." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7836" type="Armor" name="Chapéu de Papai Noel">
+		
+		<set name="icon" val="icon.accessory_santas_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu de Papai Noel que foi criado para comemorar o feriado. Este chapéu pode ser usado apenas durante as festas de final de ano. Ele usa 2 slots de acessórios de cabelo." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="dropable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7837" type="Armor" name="Máscara Branca de Sayha">
+		
+		<set name="icon" val="icon.accessory_full_mask_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="2006 Lineage II Epic Collection Souvenir." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7838" type="EtcItem" name="Chapéu de Papai Noel">
+		
+		<set name="icon" val="icon.accessory_santas_cap_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um chapéu de Papai Noel que foi criado para comemorar o feriado. Este chapéu pode ser usado apenas durante as festas de final de ano." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="7839" type="Armor" name="Máscara das Trevas de Gran Kain">
+		
+		<set name="icon" val="icon.accessory_full_mask_i01" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="2007 Lineage II Edição Limitada Souvenir." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7840" type="Armor" name="Orelhas de Coelho (Evento)">
+		
+		<set name="icon" val="icon.accessory_rabbit_ear_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="para o Japão" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7841" type="Armor" name="Orelhas de Guaxinim (Evento)">
+		
+		<set name="icon" val="icon.accessory_racoon_ear_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="para o Japão" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7842" type="Armor" name="Orelhas de Gato (Evento)">
+		
+		<set name="icon" val="icon.accessory_cat_ear_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="para o Japão" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7843" type="Armor" name="Tapa-Olho do Pirata (Evento)">
+		
+		<set name="icon" val="icon.accessory_eye_bandage_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="para o Japão" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7844" type="Armor" name="Monóculo (Evento)">
+		
+		<set name="icon" val="icon.accessory_glasses_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="para o Japão" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7845" type="Armor" name="Tapa-Olho do Fora da Lei (Evento)">
+		
+		<set name="icon" val="icon.accessory_outlaw_eyepatch_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Acessório de tapa-olho roxo. Não pode ser trocado por um item de evento e não pode ser descartado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7846" type="Armor" name="Lady'S Hairpin (Evento)">
+		
+		<set name="icon" val="icon.accessory_maidens_hairpin_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="para o Japão" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7847" type="Armor" name="Gancho de Cabelo da Noblewoman (Evento)">
+		
+		<set name="icon" val="icon.accessory_hairpin_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="para o Japão" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7848" type="Armor" name="Forget-Me-Not Hairpin (Evento)">
+		
+		<set name="icon" val="icon.accessory_forget_me_not_hairpin_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="para o Japão" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7849" type="Armor" name="Daisy Hairpin (Evento)">
+		
+		<set name="icon" val="icon.accessory_daisy_hairpin_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="para o Japão" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7850" type="Armor" name="Elmo de Juramento do Clã">
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="640" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="37" />
+		<for>
+			<add val="37" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7851" type="Armor" name="Armadura de Juramento do Clã">
+		
+		<set name="icon" val="icon.armor_t1001_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="9870" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="158" />
+		<for>
+			<add val="158" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7852" type="Armor" name="Manoplas do Juramento do Clã">
+		<set name="icon" val="icon.armor_t1001_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="640" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="24" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7853" type="Armor" name="Sabaton do Juramento do Clã">
+		<set name="icon" val="icon.armor_t1001_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1280" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="24" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7854" type="Armor" name="Brigandina de Juramento do Clã">
+		
+		<set name="icon" val="icon.armor_t1002_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5400" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="119" />
+		<for>
+			<add val="119" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7855" type="Armor" name="Luvas de Couro de Juramento de Clã">
+		<set name="icon" val="icon.armor_t1002_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="640" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="24" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7856" type="Armor" name="Botas de Juramento do Clã">
+		<set name="icon" val="icon.armor_t1002_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1280" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="24" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7857" type="Armor" name="Juramento do Clã Aketon">
+		
+		<set name="icon" val="icon.armor_t1003_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de corpo inteiro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="2450" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="79" />
+		<set name="mp_bonus" val="239" />
+		<for>
+			<add val="79" order="0x10" stat="pDef" />
+			<add val="239" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7858" type="Armor" name="Luvas Acolchoadas de Juramento de Clã">
+		<set name="icon" val="icon.armor_t1003_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="640" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="24" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7859" type="Armor" name="Sandálias de Juramento do Clã">
+		<set name="icon" val="icon.armor_t1003_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1280" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="24" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7860" type="Armor" name="Elmo Apella">
+		
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="570" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="69" />
+		<for>
+			<add val="69" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7861" type="Armor" name="Armadura Apella de Placas">
+		
+		<set name="icon" val="icon.armor_t1004_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Armadura de corpo inteiro usada pelos membros do clã." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="9780" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="278" />
+		<for>
+			<add val="278" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7862" type="Armor" name="Manopla Apella">
+		
+		<set name="icon" val="icon.armor_t1004_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7863" type="Armor" name="Solleret Apella">
+		
+		<set name="icon" val="icon.armor_t1004_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7864" type="Armor" name="Brigandine Apella">
+		
+		<set name="icon" val="icon.armor_t1005_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Armadura de corpo inteiro usada pelos membros do clã." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5400" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="209" />
+		<for>
+			<add val="209" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7865" type="Armor" name="Luvas Apella de Couro">
+		
+		<set name="icon" val="icon.armor_t1005_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7866" type="Armor" name="Botas Apella">
+		
+		<set name="icon" val="icon.armor_t1005_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7867" type="Armor" name="Gibão Apella">
+		
+		<set name="icon" val="icon.armor_t1006_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Armadura de corpo inteiro usada pelos membros do clã." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="2450" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="139" />
+		<set name="mp_bonus" val="665" />
+		<for>
+			<add val="139" order="0x10" stat="pDef" />
+			<add val="665" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7868" type="Armor" name="Luvas Apella de Seda">
+		
+		<set name="icon" val="icon.armor_t1006_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7869" type="Armor" name="Sandálias Apella">
+		
+		<set name="icon" val="icon.armor_t1006_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7870" type="Armor" name="Elmo Apella Selado">
+		
+		<set name="icon" val="icon.armor_helmet_i02" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Pode ser aberto com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="570" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="69" />
+		<for>
+			<add val="69" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7871" type="Armor" name="Armadura Apella de Placas Selada">
+		
+		<set name="icon" val="icon.armor_t1004_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Armadura de Placas Apella Selada. It can be opened with the help of the Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="9780" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="278" />
+		<for>
+			<add val="278" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7872" type="Armor" name="Manopla Apella Selada">
+		
+		<set name="icon" val="icon.armor_t1004_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Manopla Apella Selada. It can be opened with the help of the Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7873" type="Armor" name="Solleret Apella Selado">
+		
+		<set name="icon" val="icon.armor_t1004_b_i02" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Eles podem ser abertos com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7874" type="Armor" name="Brigandine Apella Selada">
+		
+		<set name="icon" val="icon.armor_t1005_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Pode ser aberto com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5400" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="209" />
+		<for>
+			<add val="209" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7875" type="Armor" name="Luvas Apella de Couro Seladas">
+		
+		<set name="icon" val="icon.armor_t1005_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Eles podem ser abertos com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7876" type="Armor" name="Botas Apella Seladas">
+		
+		<set name="icon" val="icon.armor_t1005_b_i02" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Eles podem ser abertos com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7877" type="Armor" name="Gibão Apella Selado">
+		
+		<set name="icon" val="icon.armor_t1006_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Pode ser aberto com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="2450" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="139" />
+		<set name="mp_bonus" val="665" />
+		<for>
+			<add val="139" order="0x10" stat="pDef" />
+			<add val="665" order="0x10" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7878" type="Armor" name="Luvas Apella de Seda Seladas">
+		
+		<set name="icon" val="icon.armor_t1006_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Luvas de Seda Apella Seladas. They can be opened with the help of the Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7879" type="Armor" name="Sandálias Apella Seladas">
+		
+		<set name="icon" val="icon.armor_t1006_b_i02" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Pode ser usado por um Barão ou um Aristocrata de nível superior. Sandálias Apella Seladas. They can be opened with the help of the Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="7880" type="Weapon" name="Espada de Aço">
+		<set name="icon" val="icon.weapon_iron_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2100" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="49" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="26" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="49" order="0x08" stat="pAtk" />
+			<set val="26" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7881" type="Weapon" name="Espada Titã">
+		<set name="icon" val="icon.weapon_giants_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2020" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="96" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="47" />
+		<set name="price" val="1400000" />
+		<set name="crystal_count" val="2545" />
+		<for>
+			<set val="96" order="0x08" stat="pAtk" />
+			<set val="47" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7882" type="Weapon" name="Espada Pa'Agriana">
+		
+		<set name="icon" val="icon.weapon_sword_of_paagrio_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede uma das seguintes funções: Foco, Vida ou Drenagem Crítica." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1980" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="169" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="169" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7883" type="Weapon" name="Espada Guardiã">
+		
+		<set name="icon" val="icon.weapon_guardians_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede uma das seguintes funções: Drenagem Crítica, Vida ou Sangramento Crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1930" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="236" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="99" />
+		<set name="price" val="13100000" />
+		<set name="crystal_count" val="1746" />
+		<for>
+			<set val="236" order="0x08" stat="pAtk" />
+			<set val="99" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7884" type="Weapon" name="Mestre Infernal">
+		
+		<set name="icon" val="icon.weapon_inferno_master_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede Pressa, Dano Crítico ou Foco." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="259" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<for>
+			<set val="259" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7885" type="Weapon" name="Espada Sacerdote">
+		<set name="icon" val="icon.weapon_sword_of_priest_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1520" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="32" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="35" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="32" order="0x08" stat="pAtk" />
+			<set val="35" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7886" type="Weapon" name="Espada da Névoa Mágica">
+		<set name="icon" val="icon.weapon_sword_of_magic_fog_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1450" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="63" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="63" />
+		<set name="price" val="1400000" />
+		<set name="crystal_count" val="2545" />
+		<for>
+			<set val="63" order="0x08" stat="pAtk" />
+			<set val="63" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7887" type="Weapon" name="Espada Misteriosa">
+		
+		<set name="icon" val="icon.weapon_mystery_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Perspicácia, Poder Mágico ou Fraqueza Mágica." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1430" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="85" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="81" />
+		<set name="price" val="2290000" />
+		<set name="crystal_count" val="916" />
+		<for>
+			<set val="85" order="0x08" stat="pAtk" />
+			<set val="81" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7888" type="Weapon" name="Espada Eclíptica">
+		
+		<set name="icon" val="icon.weapon_sword_of_eclipse_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Fortalecimento, Poder Mágico ou Silencio Mágico.&quot;" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="125" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="111" />
+		<set name="price" val="6130000" />
+		<set name="crystal_count" val="2452" />
+		<for>
+			<set val="125" order="0x08" stat="pAtk" />
+			<set val="111" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7889" type="Weapon" name="Lágrima do Mago">
+		
+		<set name="icon" val="icon.weapon_tears_of_wizard_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Perspicácia, Poder Mágico ou Conversão." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1350" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="155" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="13100000" />
+		<set name="crystal_count" val="1746" />
+		<for>
+			<set val="155" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7890" type="Weapon" name="Maça Sacerdote">
+		<set name="icon" val="icon.weapon_mace_of_priest_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1720" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="63" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="63" />
+		<set name="price" val="1400000" />
+		<set name="crystal_count" val="2545" />
+		<for>
+			<set val="63" order="0x08" stat="pAtk" />
+			<set val="63" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7891" type="Weapon" name="Machado Eclíptico">
+		
+		<set name="icon" val="icon.weapon_eclipse_axe_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede uma das seguintes funções: Conversão, Poder Mágico ou Retenção Mágica." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1640" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="125" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="111" />
+		<set name="price" val="6130000" />
+		<set name="crystal_count" val="2452" />
+		<for>
+			<set val="125" order="0x08" stat="pAtk" />
+			<set val="111" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7892" type="Weapon" name="Disjuntor de Feitiços">
+		
+		<set name="icon" val="icon.weapon_spell_breaker_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Perspicácia, Escudo Mental ou Enraizamento Mágico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1620" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="140" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="122" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="140" order="0x08" stat="pAtk" />
+			<set val="122" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7893" type="Weapon" name="Ossos de Kaim Vanul">
+		
+		<set name="icon" val="icon.weapon_bone_of_kaim_vanul_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Aumento de Mana, Silencio Mágico ou Conversão." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1570" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="155" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="13100000" />
+		<set name="crystal_count" val="1746" />
+		<for>
+			<set val="155" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7894" type="Weapon" name="Olho Espiritual">
+		
+		<set name="icon" val="icon.weapon_eye_of_soul_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede Aumento de Mana, Veneno Mágico ou Perspicácia." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1550" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="170" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="143" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<for>
+			<set val="170" order="0x08" stat="pAtk" />
+			<set val="143" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7895" type="Weapon" name="Crânio de Dragão Flamejante">
+		
+		<set name="icon" val="icon.weapon_dragon_flame_head_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Concede uma das seguintes funções: Perspicácia, Poder Mágico ou Silencio Mágico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1530" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="186" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="152" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<for>
+			<set val="186" order="0x08" stat="pAtk" />
+			<set val="152" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7896" type="Weapon" name="Martelo Titã">
+		<set name="icon" val="icon.weapon_giants_hammer_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2100" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="96" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="47" />
+		<set name="price" val="1400000" />
+		<set name="crystal_count" val="2545" />
+		<for>
+			<set val="96" order="0x08" stat="pAtk" />
+			<set val="47" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7897" type="Weapon" name="Martelo Anão">
+		
+		<set name="icon" val="icon.weapon_dwarven_hammer_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede Vida, Raiva ou Sangramento Crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2010" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="190" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="83" />
+		<set name="price" val="6130000" />
+		<set name="crystal_count" val="2452" />
+		<for>
+			<set val="190" order="0x08" stat="pAtk" />
+			<set val="83" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7898" type="Weapon" name="Chifre de Karik">
+		
+		<set name="icon" val="icon.weapon_horn_of_karik_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede Foco, Pressa ou Drenagem Crítica." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2020" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="169" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="169" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7899" type="Weapon" name="Martelo Destruidor">
+		
+		<set name="icon" val="icon.weapon_hammer_of_destroyer_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede Vida, Aceleração ou Drenagem Crítica." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1910" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="259" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<for>
+			<set val="259" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+</list>

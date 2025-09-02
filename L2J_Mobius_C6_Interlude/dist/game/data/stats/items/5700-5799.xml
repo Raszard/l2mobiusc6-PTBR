@@ -1,0 +1,1549 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5700" type="EtcItem" name="Semente: Alternativo Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Alternativo Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5701" type="EtcItem" name="Semente: Alternativo Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Alternativo Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5702" type="EtcItem" name="Semente: Alternativo Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Alternativo Codran do Mar. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5703" type="EtcItem" name="Amuleto da Sorte">
+		
+		<set name="icon" val="icon.etc_charm_of_luck_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Concede bênção ao seu dono de forma que, quando o dono morrer durante uma guerra de chefe/reide, suas habilidades não serão diminuídas. Este item só pode ser usado em si mesmo por um personagem cujo nível seja 19 ou inferior." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5704" type="Weapon" name="Keshanberk*Keshanberk">
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2080" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="259" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<for>
+			<set val="259" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.08" order="0x30" stat="pAtkSpd">
+				<and>
+					<using slotitem="5704;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5705" type="Weapon" name="Keshanberk*Damasco">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o HP máximo também Aumentarão em 25%. Aumenta o dano ao alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2080" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="275" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="112" />
+		<set name="price" val="24100000" />
+		<set name="crystal_count" val="1928" />
+		<for>
+			<set val="275" order="0x08" stat="pAtk" />
+			<set val="112" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.25" order="0x30" stat="maxHp">
+				<and>
+					<using slotitem="5705;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5706" type="Weapon" name="Damasco*Damasco">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, a precisão Aumentarão em 6. Aumenta o dano ao alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2080" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="282" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="price" val="27000000" />
+		<set name="crystal_count" val="2160" />
+		<for>
+			<set val="282" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="6" order="0x10" stat="accCombat">
+				<and>
+					<using slotitem="5706;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5707" type="EtcItem" name="Registro dos Sete Sinais">
+		
+		<set name="icon" val="icon.etc_ssq_scroll_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um item usado para estudar a situação atual do sistema dos Sete Signos." />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="600" />
+	</item>
+	<item id="5708" type="EtcItem" name="Certificado de Aprovação do Senhor da Mansão">
+		
+		<set name="icon" val="icon.etc_permit_card_i00" />
+		<set name="item_type" val="ticket_of_lo" />
+		<set name="desc" val="Quando alguém possui este item, embora não pertença a um clã dono de castelo, pode se juntar aos Lordes do Amanhecer." />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5709" type="Armor" name="Manoplas Zubei Seladas">
+		
+		<set name="icon" val="icon.armor_t64_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="O efeito definido aparecerá somente depois que o selo for quebrado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5710" type="Armor" name="Manoplas Zubei">
+		
+		<set name="icon" val="icon.armor_t64_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto pesado Zubei." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5711" type="Armor" name="Manoplas Zubei">
+		
+		<set name="icon" val="icon.armor_t65_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de luz do Zubei." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5712" type="Armor" name="Manoplas Zubei">
+		
+		<set name="icon" val="icon.armor_t56_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de Manto do Zubei." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5713" type="Armor" name="Luvas Avadon Seladas">
+		
+		<set name="icon" val="icon.armor_t66_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="O efeito definido aparecerá somente depois que o selo for quebrado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5714" type="Armor" name="Luvas Avadon">
+		
+		<set name="icon" val="icon.armor_t66_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de avadon pesado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5715" type="Armor" name="Luvas Avadon">
+		
+		<set name="icon" val="icon.armor_t67_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto light avadon." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5716" type="Armor" name="Luvas Avadon">
+		
+		<set name="icon" val="icon.armor_t59_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Part of the Avadon Manto set." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5717" type="Armor" name="Luvas Lobo Azul Seladas">
+		
+		<set name="icon" val="icon.armor_t68_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="O efeito definido aparecerá somente depois que o selo for quebrado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5718" type="Armor" name="Luvas Lobo Azul">
+		
+		<set name="icon" val="icon.armor_t68_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de lobo azul pesado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5719" type="Armor" name="Luvas Lobo Azul">
+		
+		<set name="icon" val="icon.armor_t69_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de lobo azul claro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5720" type="Armor" name="Luvas Lobo Azul">
+		
+		<set name="icon" val="icon.armor_t70_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de Manto de lobo azul." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="590" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5721" type="Armor" name="Luvas da Perdição Seladas">
+		
+		<set name="icon" val="icon.armor_t71_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="O efeito definido aparecerá somente depois que o selo for quebrado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5722" type="Armor" name="Luvas da Perdição">
+		
+		<set name="icon" val="icon.armor_t71_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de destruição pesada." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5723" type="Armor" name="Luvas da Perdição">
+		
+		<set name="icon" val="icon.armor_t72_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto Leve da Perdição." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5724" type="Armor" name="Luvas da Perdição">
+		
+		<set name="icon" val="icon.armor_t73_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto do Manto da perdição." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5725" type="Armor" name="Botas Zubei Seladas">
+		
+		<set name="icon" val="icon.armor_t64_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="O efeito definido aparecerá somente depois que o selo for quebrado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1180" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5726" type="Armor" name="Botas Zubei">
+		
+		<set name="icon" val="icon.armor_t64_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto pesado Zubei." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1180" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5727" type="Armor" name="Botas Zubei">
+		
+		<set name="icon" val="icon.armor_t65_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de luz do Zubei." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1180" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5728" type="Armor" name="Botas Zubei">
+		
+		<set name="icon" val="icon.armor_t56_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de Manto do Zubei." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1180" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5729" type="Armor" name="Botas Avadon Seladas">
+		
+		<set name="icon" val="icon.armor_t66_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="O efeito definido aparecerá somente depois que o selo for quebrado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1180" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5730" type="Armor" name="Botas Avadon">
+		
+		<set name="icon" val="icon.armor_t66_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de avadon pesado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1180" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5731" type="Armor" name="Botas Avadon">
+		
+		<set name="icon" val="icon.armor_t67_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto light avadon." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1180" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5732" type="Armor" name="Botas Avadon">
+		
+		<set name="icon" val="icon.armor_t59_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Part of the Avadon Manto set." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1180" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="41" />
+		<set name="price" val="519000" />
+		<set name="crystal_count" val="69" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5733" type="Armor" name="Botas Lobo Azul Lacradas">
+		
+		<set name="icon" val="icon.armor_t68_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="O efeito definido aparecerá somente depois que o selo for quebrado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5734" type="Armor" name="Botas Lobo Azul">
+		
+		<set name="icon" val="icon.armor_t68_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de lobo azul pesado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5735" type="Armor" name="Botas Lobo Azul">
+		
+		<set name="icon" val="icon.armor_t69_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de lobo azul claro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5736" type="Armor" name="Botas Lobo Azul">
+		
+		<set name="icon" val="icon.armor_t70_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de Manto de lobo azul." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5737" type="Armor" name="Botas da Perdição Seladas">
+		
+		<set name="icon" val="icon.armor_t71_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="O efeito definido aparecerá somente depois que o selo for quebrado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5738" type="Armor" name="Botas da Perdição">
+		
+		<set name="icon" val="icon.armor_t71_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de destruição pesada." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5739" type="Armor" name="Botas da Perdição">
+		
+		<set name="icon" val="icon.armor_t72_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto Leve da Perdição." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5740" type="Armor" name="Botas da Perdição">
+		
+		<set name="icon" val="icon.armor_t73_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto do Manto da perdição." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="b" />
+		<set name="p_def" val="44" />
+		<set name="price" val="804000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5741" type="EtcItem" name="Receita: Manoplas Zubei Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a manopla Zubei selada. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5742" type="EtcItem" name="Receita: Manoplas Zubei (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a manopla Zubei selada. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5743" type="EtcItem" name="Receita: Luvas Avadon Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Avadon Seladas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5744" type="EtcItem" name="Receita: Luvas Avadon Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Avadon Seladas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5745" type="EtcItem" name="Receita: Luvas Lobo Azul Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Lobo Azul Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5746" type="EtcItem" name="Receita: Luvas Lobo Azul Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Lobo Azul Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5747" type="EtcItem" name="Receita: Luvas da Perdição Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas da Perdição Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5748" type="EtcItem" name="Receita: Luvas da Perdição Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas da Perdição Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5749" type="EtcItem" name="Receita: Botas Zubei Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Zubei Seladas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5750" type="EtcItem" name="Receita: Botas Zubei Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Zubei Seladas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5751" type="EtcItem" name="Receita: Botas Avadon Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Avadon Seladas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5752" type="EtcItem" name="Receita: Botas Avadon Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Avadon Seladas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5753" type="EtcItem" name="Receita: Botas Lobo Azul Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Lobo Azul Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5754" type="EtcItem" name="Receita: Botas Lobo Azul Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Lobo Azul Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5755" type="EtcItem" name="Receita: Botas da Perdição Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas da Perdição Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5756" type="EtcItem" name="Receita: Botas da Perdição Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas da Perdição Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5757" type="EtcItem" name="Parte da Manopla Zubei Selada">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um par de Manoplas Zubei Seladas. Também pode ser vendido para uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5758" type="EtcItem" name="Parte da Luvas Avadon Seladas">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um par de Luvas Avadon Seladas. Também pode ser vendido para uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5759" type="EtcItem" name="Tecido da Luvas Lobo Azul Seladas">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um par de Luvas Lobo Azul Seladas . Também pode ser vendido para uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5760" type="EtcItem" name="Parte da Luvas da Perdição Selada">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um par de Luvas da Perdição Seladas. Também pode ser vendido para uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5761" type="EtcItem" name="Projeto de Botas Zubei Seladas ">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um par de Botas Zubei Seladas . Também pode ser vendido para uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5762" type="EtcItem" name="Projeto de Botas Avadon Seladas">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um par de Botas Avadon Seladas. Também pode ser vendido para uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5763" type="EtcItem" name="Projeto de Botas de Lobo Azul Selado">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um par de Botas Lobo Azul Seladas. Também pode ser vendido para uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5764" type="EtcItem" name="Parte Selada das Botas da Perdição">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um anão fazer um par de Sealed Boots of da Perdição. Também pode ser vendido para uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5765" type="Armor" name="Luvas de Cristal Escuro">
+		
+		<set name="icon" val="icon.armor_t74_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do pesado conjunto de cristais escuros." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5766" type="Armor" name="Luvas de Cristal Escuro">
+		
+		<set name="icon" val="icon.armor_t75_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de cristais escuros claros." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5767" type="Armor" name="Luvas de Cristal Escuro">
+		
+		<set name="icon" val="icon.armor_t76_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de Manto de cristal escuro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5768" type="Armor" name="Luvas de Tallum">
+		
+		<set name="icon" val="icon.armor_t77_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de talo pesado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5769" type="Armor" name="Luvas de Tallum">
+		
+		<set name="icon" val="icon.armor_t78_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de talo leve." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5770" type="Armor" name="Luvas de Tallum">
+		
+		<set name="icon" val="icon.armor_t79_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de Manto alto." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5771" type="Armor" name="Manoplas do Pesadelo">
+		
+		<set name="icon" val="icon.armor_t80_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de pesadelo pesado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5772" type="Armor" name="Manoplas do Pesadelo">
+		
+		<set name="icon" val="icon.armor_t81_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto Leve Nightmare." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5773" type="Armor" name="Manoplas do Pesadelo">
+		
+		<set name="icon" val="icon.armor_t82_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de robe de pesadelo." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5774" type="Armor" name="Manoplas Majestosas">
+		
+		<set name="icon" val="icon.armor_t83_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto majestoso pesado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5775" type="Armor" name="Manoplas Majestosas">
+		
+		<set name="icon" val="icon.armor_t84_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto majestoso de luz." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5776" type="Armor" name="Manoplas Majestosas">
+		
+		<set name="icon" val="icon.armor_t85_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Parte do conjunto de Manto majestoso." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5777" type="Armor" name="Botas de Cristal Escuro">
+		
+		<set name="icon" val="icon.armor_t74_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do pesado conjunto de cristais escuros." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5778" type="Armor" name="Botas de Cristal Escuro">
+		
+		<set name="icon" val="icon.armor_t75_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de cristais escuros claros." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5779" type="Armor" name="Botas de Cristal Escuro">
+		
+		<set name="icon" val="icon.armor_t76_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de Manto de cristal escuro." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5780" type="Armor" name="Botas Tallum">
+		
+		<set name="icon" val="icon.armor_t77_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de talo pesado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5781" type="Armor" name="Botas Tallum">
+		
+		<set name="icon" val="icon.armor_t78_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de talo leve." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5782" type="Armor" name="Botas Tallum">
+		
+		<set name="icon" val="icon.armor_t79_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de Manto alto." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5783" type="Armor" name="Botas do Pesadelo">
+		
+		<set name="icon" val="icon.armor_t80_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de pesadelo pesado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5784" type="Armor" name="Botas do Pesadelo">
+		
+		<set name="icon" val="icon.armor_t81_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto Leve Nightmare." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5785" type="Armor" name="Botas do Pesadelo">
+		
+		<set name="icon" val="icon.armor_t82_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de robe de pesadelo." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5786" type="Armor" name="Botas Majestosas">
+		
+		<set name="icon" val="icon.armor_t83_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto majestoso pesado." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5787" type="Armor" name="Botas Majestosas">
+		
+		<set name="icon" val="icon.armor_t84_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto majestoso de luz." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5788" type="Armor" name="Botas Majestosas">
+		
+		<set name="icon" val="icon.armor_t85_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Parte do conjunto de Manto majestoso." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5789" type="EtcItem" name="Soulshot: Sem Grau Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_soulshot_none_for_rookie_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A Soulshot: Sem Grau usado por novatos." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5790" type="EtcItem" name="Spiritshot: Sem Grau Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_spiritshot_none_for_rookie_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A Spiritshot: Sem Grau usado por novatos." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5791" type="Weapon" name="Guarda da Tumba A">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2180" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="78" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="39" />
+		<set name="price" val="967000" />
+		<for>
+			<set val="78" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5792" type="Weapon" name="Guarda da Tumba B">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2180" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="78" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="39" />
+		<set name="price" val="967000" />
+		<for>
+			<set val="78" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5793" type="Weapon" name="Sábio da Tumba A">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="156" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="83" />
+		<set name="price" val="6130000" />
+		<for>
+			<set val="156" order="0x08" stat="pAtk" />
+			<set val="83" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5794" type="Weapon" name="Sábio da Tumba B">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="156" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="83" />
+		<set name="price" val="6130000" />
+		<for>
+			<set val="156" order="0x08" stat="pAtk" />
+			<set val="83" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5795" type="Weapon" name="Guarda da Tumba A">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2180" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="78" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="39" />
+		<set name="price" val="967000" />
+		<for>
+			<set val="78" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5796" type="Weapon" name="Guarda da Tumba B">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2180" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="78" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="39" />
+		<set name="price" val="967000" />
+		<for>
+			<set val="78" order="0x08" stat="pAtk" />
+			<set val="39" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5797" type="Weapon" name="Sábio da Tumba A">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="156" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="83" />
+		<set name="price" val="6130000" />
+		<for>
+			<set val="156" order="0x08" stat="pAtk" />
+			<set val="83" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5798" type="Weapon" name="Sábio da Tumba B">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="156" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="83" />
+		<set name="price" val="6130000" />
+		<for>
+			<set val="156" order="0x08" stat="pAtk" />
+			<set val="83" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5799" type="Weapon" name="Senhor Nefilim">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1320" />
+		<set name="crystal_type" val="d" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="142" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="78400" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="142" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="sDef" />
+		</for>
+	</item>
+</list>

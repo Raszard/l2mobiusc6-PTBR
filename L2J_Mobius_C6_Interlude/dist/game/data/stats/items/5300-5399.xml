@@ -1,0 +1,1122 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5300" type="Armor" name="Botas do Submundo Seladas">
+		
+		<set name="icon" val="icon.armor_t10_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas do Submundo Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="45" />
+		<set name="price" val="1070000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="45" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5301" type="Armor" name="Armadura de Couro de Tallum Selado">
+		
+		<set name="icon" val="icon.armor_t78_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de Couro de Tallum Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5400" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="209" />
+		<set name="price" val="5080000" />
+		<set name="crystal_count" val="406" />
+		<for>
+			<add val="209" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5302" type="Armor" name="Braçadeira do Vento Selada">
+		
+		<set name="icon" val="icon.armor_t45_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Braçadeira do Vento Selada. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="45" />
+		<set name="price" val="1070000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="45" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5303" type="Armor" name="Botas do Vento Seladas">
+		
+		<set name="icon" val="icon.armor_t45_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas do Vento Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1120" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="45" />
+		<set name="price" val="1070000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="45" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5304" type="Armor" name="Manto Tallum Selada">
+		
+		<set name="icon" val="icon.armor_t79_u_i02" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Manto Tallum Selada. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1860" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="86" />
+		<set name="mp_bonus" val="409" />
+		<set name="price" val="3470000" />
+		<set name="crystal_count" val="277" />
+		<for>
+			<add val="86" order="0x10" stat="pDef" />
+			<add val="409" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5305" type="Armor" name="Calça de Tallum Seladas">
+		
+		<set name="icon" val="icon.armor_t79_l_i02" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Calça de Tallum Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="920" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="53" />
+		<set name="mp_bonus" val="256" />
+		<set name="price" val="2170000" />
+		<set name="crystal_count" val="173" />
+		<for>
+			<add val="53" order="0x10" stat="pDef" />
+			<add val="256" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5306" type="Armor" name="Luvas de Minério Negro Seladas">
+		
+		<set name="icon" val="icon.armor_t14_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luvas de Minério Negro Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="570" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="45" />
+		<set name="price" val="1070000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="45" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5307" type="Armor" name="Botas de Chamas Vermelhas Seladas">
+		
+		<set name="icon" val="icon.armor_t14_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas de Chamas Vermelhas Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1120" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="45" />
+		<set name="price" val="1070000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="45" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5308" type="Armor" name="Manto de Cristal Negro Selado">
+		
+		<set name="icon" val="icon.armor_t76_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Manto de Cristal Negro Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="2450" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="139" />
+		<set name="mp_bonus" val="665" />
+		<set name="price" val="5080000" />
+		<set name="crystal_count" val="406" />
+		<for>
+			<add val="139" order="0x10" stat="pDef" />
+			<add val="665" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5309" type="Armor" name="Luvas da Fênix Seladas">
+		
+		<set name="icon" val="icon.armor_t44_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luvas da Fênix Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="570" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="45" />
+		<set name="price" val="1070000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="45" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5310" type="Armor" name="Botas da Fênix Seladas">
+		
+		<set name="icon" val="icon.armor_t44_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas da Fênix Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1120" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="45" />
+		<set name="price" val="1070000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="45" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5311" type="Armor" name="Armadura do Pesadelo Selada">
+		
+		<set name="icon" val="icon.armor_t80_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura do Pesadelo Selada. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="9580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="293" />
+		<set name="price" val="10300000" />
+		<set name="crystal_count" val="824" />
+		<for>
+			<add val="293" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5312" type="Armor" name="Elmo do Pesadelo Selado">
+		
+		<set name="icon" val="icon.armor_leather_helmet_i02" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Elmo do Pesadelo Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="560" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="73" />
+		<set name="price" val="2640000" />
+		<set name="crystal_count" val="211" />
+		<for>
+			<add val="73" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5313" type="Armor" name="Manoplas do Pesadelo Seladas">
+		
+		<set name="icon" val="icon.armor_t80_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Manoplas do Pesadelo Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5314" type="Armor" name="Botas do Pesadelo Seladas">
+		
+		<set name="icon" val="icon.armor_t80_b_i02" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas do Pesadelo Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5315" type="Weapon" name="Escudo Selado do Pesadelo">
+		
+		<set name="icon" val="icon.shield_shield_of_nightmare_i02" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Escudo Selado do Pesadelo. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1180" />
+		<set name="crystal_type" val="a" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="256" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="1850000" />
+		<set name="crystal_count" val="148" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="256" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="sDef" />
+		</for>
+	</item>
+	<item id="5316" type="Armor" name="Armadura Majestosa de Placas Selada">
+		
+		<set name="icon" val="icon.armor_t83_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura Majestosa de Placas Selada. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="9200" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="293" />
+		<set name="price" val="10300000" />
+		<set name="crystal_count" val="824" />
+		<for>
+			<add val="293" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5317" type="Armor" name="Diadema Majestoso Selado">
+		
+		<set name="icon" val="icon.armor_leather_helmet_i02" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Diadema Majestoso Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="73" />
+		<set name="price" val="2640000" />
+		<set name="crystal_count" val="211" />
+		<for>
+			<add val="73" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5318" type="Armor" name="Manoplas Majestosas Seladas">
+		
+		<set name="icon" val="icon.armor_t83_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Manoplas Majestosas Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5319" type="Armor" name="Botas Majestosas Seladas">
+		
+		<set name="icon" val="icon.armor_t83_b_i02" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas Majestosas Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="49" />
+		<set name="price" val="1760000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5320" type="Armor" name="Armadura de Pesadelo de Couro Selado">
+		
+		<set name="icon" val="icon.armor_t81_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura de Pesadelo de Couro Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5300" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="220" />
+		<set name="price" val="7730000" />
+		<set name="crystal_count" val="618" />
+		<for>
+			<add val="220" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5321" type="Armor" name="Luvas Legião das Trevas Seladas">
+		
+		<set name="icon" val="icon.armor_t45_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luvas Legião das Trevas Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="560" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="48" />
+		<set name="price" val="1630000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="48" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5322" type="Armor" name="Botas Legião das Trevas Seladas ">
+		
+		<set name="icon" val="icon.armor_t45_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas Legião das Trevas Seladas . Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1120" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="48" />
+		<set name="price" val="1630000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="48" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5323" type="Armor" name="Armadura Majestosa de Couro Selada">
+		
+		<set name="icon" val="icon.armor_t84_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura Majestosa de Couro Selada. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="5350" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="220" />
+		<set name="price" val="7730000" />
+		<set name="crystal_count" val="618" />
+		<for>
+			<add val="220" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5324" type="Armor" name="Luvas Fantasma Seladas">
+		
+		<set name="icon" val="icon.armor_t45_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luvas Fantasma Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="560" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="48" />
+		<set name="price" val="1630000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="48" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5325" type="Armor" name="Botas Fantasma Seladas">
+		
+		<set name="icon" val="icon.armor_t45_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas Fantasma Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1120" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="48" />
+		<set name="price" val="1630000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="48" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5326" type="Armor" name="Manto Pesadelo Selado">
+		
+		<set name="icon" val="icon.armor_t82_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Manto Pesadelo Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="2300" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="147" />
+		<set name="mp_bonus" val="718" />
+		<set name="price" val="7730000" />
+		<set name="crystal_count" val="618" />
+		<for>
+			<add val="147" order="0x10" stat="pDef" />
+			<add val="718" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5327" type="Armor" name="Luvas Cerberus Seladas">
+		
+		<set name="icon" val="icon.armor_t44_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luvas Cerberus Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="540" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="48" />
+		<set name="price" val="1630000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="48" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5328" type="Armor" name="Botas Cerberus Seladas">
+		
+		<set name="icon" val="icon.armor_t44_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas Cerberus Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1120" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="48" />
+		<set name="price" val="1630000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="48" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5329" type="Armor" name="Manto Majestoso Selado">
+		
+		<set name="icon" val="icon.armor_t85_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Manto Majestoso Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="2330" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="147" />
+		<set name="mp_bonus" val="718" />
+		<set name="price" val="7730000" />
+		<set name="crystal_count" val="618" />
+		<for>
+			<add val="147" order="0x10" stat="pDef" />
+			<add val="718" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5330" type="Armor" name="Luvas Seladas de Dasparion">
+		
+		<set name="icon" val="icon.armor_t44_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luvas Seladas de Dasparion. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="550" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="48" />
+		<set name="price" val="1630000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="48" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5331" type="Armor" name="Botas Seladas de Dasparion">
+		
+		<set name="icon" val="icon.armor_t44_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas Seladas de Dasparion. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1100" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="48" />
+		<set name="price" val="1630000" />
+		<set name="crystal_count" val="140" />
+		<for>
+			<add val="48" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5332" type="EtcItem" name="Receita: Armadura de Cristal Escuro de Couro Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura de Couro de Cristal Negro Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="69400" />
+	</item>
+	<item id="5333" type="EtcItem" name="Receita: Armadura de Cristal Escuro de Couro Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura de Couro de Cristal Negro Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5334" type="EtcItem" name="Receita: Armadura de Couro de Tallum Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura Tallum de Couro Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="101600" />
+	</item>
+	<item id="5335" type="EtcItem" name="Receita: Armadura de Couro de Tallum Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura Tallum de Couro Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5336" type="EtcItem" name="Receita: Armadura de Pesadelo de Couro Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura de Pesadelo de Couro Selado. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="154600" />
+	</item>
+	<item id="5337" type="EtcItem" name="Receita: Armadura de Pesadelo de Couro Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura de Pesadelo de Couro Selado. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5338" type="EtcItem" name="Receita: Armadura Majestosa de Couro Selada (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura Majestosa de Couro Selada. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="154600" />
+	</item>
+	<item id="5339" type="EtcItem" name="Receita: Armadura Majestosa de Couro Selada (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Armadura Majestosa de Couro Selada. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5340" type="EtcItem" name="Receita: Calça de Cristal Escuro Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Calça de cristal escuro selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="43400" />
+	</item>
+	<item id="5341" type="EtcItem" name="Receita: Calça de Cristal Escuro Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Calça de cristal escuro selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5342" type="EtcItem" name="Receita: Brinco da Fênix (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um brinco da Fênix. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 70%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5343" type="EtcItem" name="Receita: Brinco da Fênix (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um brinco da Fênix. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5344" type="EtcItem" name="Receita: Brinco Infernal (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um Brinco Infernal. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 70%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5345" type="EtcItem" name="Receita: Brinco Infernal (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um Brinco Infernal. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5346" type="EtcItem" name="Receita: Manto de Tallum Selada (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Manto de Tallum Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="69400" />
+	</item>
+	<item id="5347" type="EtcItem" name="Receita: Manto Tallum Selada (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Manto de Tallum Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5348" type="EtcItem" name="Receita: Manto de Cristal Escuro Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Sealed Dark Crystal Manto. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="101600" />
+	</item>
+	<item id="5349" type="EtcItem" name="Receita: Manto de Cristal Escuro Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Sealed Dark Crystal Manto. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5350" type="EtcItem" name="Receita: Manto Pesadelo Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Sealed Nightmare Manto. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="154600" />
+	</item>
+	<item id="5351" type="EtcItem" name="Receita: Manto Pesadelo Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Sealed Nightmare Manto. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5352" type="EtcItem" name="Receita: Manto Majestoso Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Sealed Manto Magestoso. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="154600" />
+	</item>
+	<item id="5353" type="EtcItem" name="Receita: Manto Majestoso Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Sealed Manto Magestoso. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5354" type="EtcItem" name="Receita: Calça Tallum Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Calça de Tallum Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="43400" />
+	</item>
+	<item id="5355" type="EtcItem" name="Receita: Calça Tallum Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Calça de Tallum Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5356" type="EtcItem" name="Receita: Colar da Fênix (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um Colar da Fênix. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 70%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5357" type="EtcItem" name="Receita: Colar da Fênix (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um Colar da Fênix. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5358" type="EtcItem" name="Receita: Colar Infernal (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um Colar Infernal. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 70%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5359" type="EtcItem" name="Receita: Colar Infernal (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um Colar Infernal. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5360" type="EtcItem" name="Receita: Anel da Fênix (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um Anel da Fênix. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 70%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5361" type="EtcItem" name="Receita: Anel da Fênix (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um Anel da Fênix. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5362" type="EtcItem" name="Receita: Anel Infernal (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um Anel Infernal. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 70%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5363" type="EtcItem" name="Receita: Anel Infernal (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="A receita usada para fazer um Anel Infernal. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5364" type="EtcItem" name="Receita: Escudo de Cristal Negro Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Escudo de Cristal Negro Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24400" />
+	</item>
+	<item id="5365" type="EtcItem" name="Receita: Escudo de Cristal Negro Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Escudo de Cristal Negro Selado. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5366" type="EtcItem" name="Receita: Escudo Selado do Pesadelo (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Escudo Selado do Pesadelo. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="37000" />
+	</item>
+	<item id="5367" type="EtcItem" name="Receita: Escudo Selado do Pesadelo (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Escudo Selado do Pesadelo. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5368" type="EtcItem" name="Receita: Botas de Cristal Escuro Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas de Cristal Escuro Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="23200" />
+	</item>
+	<item id="5369" type="EtcItem" name="Receita: Botas de Cristal Escuro Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas de Cristal Escuro Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5370" type="EtcItem" name="Receita: Botas de Tallum Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Tallum Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="23200" />
+	</item>
+	<item id="5371" type="EtcItem" name="Receita: Botas de Tallum Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Tallum Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5372" type="EtcItem" name="Receita: Botas do Submundo Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas do Submundo Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5373" type="EtcItem" name="Receita: Botas do Submundo Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas do Submundo Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5374" type="EtcItem" name="Receita: Botas do Vento Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as botas do Vento seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5375" type="EtcItem" name="Receita: Botas do Vento Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as botas do Vento seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5376" type="EtcItem" name="Receita: Botas de Chamas Vermelhas Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas de Chamas Vermelhas Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5377" type="EtcItem" name="Receita: Botas de Chamas Vermelhas Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas de Chamas Vermelhas Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5378" type="EtcItem" name="Receita: Botas da Fênix Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas da Fênix Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5379" type="EtcItem" name="Receita: Botas da Fênix Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas da Fênix Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5380" type="EtcItem" name="Receita: Botas do Pesadelo Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas do Pesadelo Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="35200" />
+	</item>
+	<item id="5381" type="EtcItem" name="Receita: Botas do Pesadelo Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas do Pesadelo Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5382" type="EtcItem" name="Receita: Botas Majestosas Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Majestosas Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="35200" />
+	</item>
+	<item id="5383" type="EtcItem" name="Receita: Botas Majestosas Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Majestosas Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5384" type="EtcItem" name="Receita: Botas Legião das Trevas Seladas  (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Sealed Dark Legion. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5385" type="EtcItem" name="Receita: Botas Legião das Trevas Seladas  (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Sealed Dark Legion. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5386" type="EtcItem" name="Receita: Botas Fantasma Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Fantasma Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5387" type="EtcItem" name="Receita: Botas Fantasma Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Fantasma Seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5388" type="EtcItem" name="Receita: Botas Cerberus Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Cerberus Boots seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5389" type="EtcItem" name="Receita: Botas Cerberus Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Cerberus Boots seladas. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5390" type="EtcItem" name="Receita: Botas Seladas de Dasparion (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Seladas de Dasparion. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5391" type="EtcItem" name="Receita: Botas Seladas de Dasparion (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Seladas de Dasparion. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5392" type="EtcItem" name="Receita: Luvas de Cristal Escuro Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas de Cristal Negro Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="23200" />
+	</item>
+	<item id="5393" type="EtcItem" name="Receita: Luvas de Cristal Escuro Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas de Cristal Negro Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5394" type="EtcItem" name="Receita: Luvas de Tallum Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as luvas de talo seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="23200" />
+	</item>
+	<item id="5395" type="EtcItem" name="Receita: Luvas de Tallum Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as luvas de talo seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5396" type="EtcItem" name="Receita: Luvas do Submundo Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas do Submundo Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5397" type="EtcItem" name="Receita: Luvas do Submundo Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas do Submundo Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5398" type="EtcItem" name="Receita: Braçadeira do Vento Selada (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para os Braçadeiras do Vento Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5399" type="EtcItem" name="Receita: Braçadeira do Vento Selada (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para os Braçadeiras do Vento Seladas. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+</list>

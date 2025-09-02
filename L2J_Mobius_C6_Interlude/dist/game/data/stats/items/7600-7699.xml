@@ -1,0 +1,931 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7600" type="EtcItem" name="Carta de Tarô Usada - Riqueza">
+		
+		<set name="icon" val="icon.etc_piece_of_report_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de tarô velha e desgastada dada pela Dama do Lago. Esta carta simboliza riqueza." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7601" type="EtcItem" name="Carta de Tarô Usada - Poder">
+		
+		<set name="icon" val="icon.etc_piece_of_report_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de tarô velha e desgastada dada pela Dama do Lago. Esta carta simboliza o poder." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7602" type="EtcItem" name="Carta de Tarô Usada - Amor">
+		
+		<set name="icon" val="icon.etc_piece_of_report_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de tarô velha e desgastada dada pela Dama do Lago. Esta carta simboliza o amor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7603" type="EtcItem" name="Carta de Tarô Usada - Conhecimento">
+		
+		<set name="icon" val="icon.etc_piece_of_report_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de tarô velha e desgastada dada pela Dama do Lago. Esta carta simboliza conhecimento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7604" type="EtcItem" name="Carta do Invocador Keats">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta escrita desajeitadamente por Summoner Keats, que foi transformado em sapo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7605" type="EtcItem" name="Poção Milagrosa da Vida Transferida">
+		
+		<set name="icon" val="icon.etc_bless_of_eva_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma cura milagrosa élfica misturada pelo Sacerdote Cerenas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7606" type="EtcItem" name="Antídoto de Kamilen">
+		
+		<set name="icon" val="icon.etc_dragons_blood_i04" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um remédio feito pelo Mestre Kamilen para curar o Summoner Noctisse." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7607" type="EtcItem" name="Refrigerante do Wilma #3 Reparado">
+		
+		<set name="icon" val="icon.etc_mechanic_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O refrigerante do sistema de resfriamento da máquina do tempo reparada &quot;Wilma 3&quot;." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7608" type="EtcItem" name="Envelope Selado">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um envelope lacrado dado pelo corretor de informações Bavarin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7609" type="EtcItem" name="Certificado de Pesca">
+		
+		<set name="icon" val="icon.etc_ticket_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um certificado de pesca. Se você coletá-lo e levá-lo a um membro da Guilda dos Pescadores, poderá aprender uma habilidade relacionada à expansão de um slot." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="7610" type="EtcItem" name="Isca de Pesca do Vento">
+		
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Uma isca que foi dada por Lanosco. Ele contém o poder oculto do vento. Não é fácil usar esta isca. Somente aqueles que são altamente qualificados na pesca devem usá-lo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7611" type="EtcItem" name="Isca de Pesca Gelada">
+		
+		<set name="icon" val="icon.etc_broken_crystal_blue_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Uma isca que foi dada por O'Fulle. Ele contém o poder oculto do ar gelado. Não é fácil usar esta isca. Somente aqueles que são altamente qualificados na pesca devem usá-lo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7612" type="EtcItem" name="Isca de Pesca Terrestre">
+		
+		<set name="icon" val="icon.etc_broken_crystal_gold_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Uma isca que foi dada por Willie. Ele contém o poder oculto da terra. Não é fácil usar esta isca. Somente aqueles que são altamente qualificados na pesca devem usá-lo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7613" type="EtcItem" name="Isca de Pesca Flamejante">
+		
+		<set name="icon" val="icon.etc_broken_crystal_red_i00" />
+		<set name="item_type" val="lure" />
+		<set name="desc" val="Uma isca que foi dada por Linnaeus. Ele contém o poder oculto das chamas. Não é fácil usar esta isca. Somente aqueles que são altamente qualificados na pesca devem usá-lo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7614" type="EtcItem" name="Baú Pego Por Isca do Vento">
+		
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um baú que foi retirado da isca de vento usando a isca de pesca de vento." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7615" type="EtcItem" name="Baú Pego Por Isca Gelada">
+		
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um baú que foi retirado da isca de ar gelado usando a isca de pesca de vento." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7616" type="EtcItem" name="Baú Pego Por Isca Terrestre">
+		
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um baú que foi retirado da isca de terra usando a isca de pesca de vento." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7617" type="EtcItem" name="Baú Pego Por Isca Flamejante">
+		
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um baú que foi retirado da isca de água de fogo usando a isca de pesca de vento." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7618" type="EtcItem" name="Pergaminho da Fuga - Orc Ketra Village">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho mágico que transporta seu portador para Orc Ketra Village." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="7619" type="EtcItem" name="Pergaminho da Fuga - Vila Silenos Varka">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho mágico que transporta seu portador para Silenos Varka Village." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="7620" type="EtcItem" name="Lixo">
+		
+		<set name="icon" val="icon.etc_dragons_blood_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Sangue de santo que tem poder de santidade." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7621" type="EtcItem" name="Essência do Vento">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Essência de vento extraída de Singing Wind. É um item solicitado por Lanosco." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7622" type="EtcItem" name="Ingrediente de Isca Perdida">
+		
+		<set name="icon" val="icon.etc_codran_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A isca perdida que foi recuperada de um Fettered Soul. O'Fulle pediu para você trazer de volta para ele." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7623" type="EtcItem" name="Olho de Basilisco Tarlk">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um olho colhido de um Basilisco Tarlk. Willie pediu para você trazer de volta para ele." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7624" type="EtcItem" name="Coração de Drake Carmesim">
+		
+		<set name="icon" val="icon.etc_inf_ore_high_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Coração de um Drake Carmesim cercado por chamas. Linnaeus pediu para você trazer de volta para ele." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7625" type="EtcItem" name="Projeto de Golem Estranho">
+		
+		<set name="icon" val="icon.etc_ssq_scroll_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um projeto de golem com um design incomum que é diferente de qualquer outro projeto de golem. Parece ter sido projetado por Shaling." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7626" type="EtcItem" name="Carta da Kiki">
+		
+		<set name="icon" val="icon.etc_permit_card_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta completamente selada. No envelope, está escrito o nome de Kiki como destinatário." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7627" type="EtcItem" name="Caixa de Vidro Pequena">
+		
+		<set name="icon" val="icon.etc_silver_mold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma linda caixa feita de vidro. Está gravado com os nomes de Anabel e Liesel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7628" type="EtcItem" name="Partitura Musical de Rukal">
+		
+		<set name="icon" val="icon.etc_ssq_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma partitura de música bonita. Seu autor é registrado como Composer Rukal." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7629" type="EtcItem" name="Mercadorias Saqueadas - Caixa de Carga Branca">
+		
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Caixa de carga branca saqueada da carroça de um Comerciante. Parece ter bens valiosos. Clique duas vezes para ver o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7630" type="EtcItem" name="Mercadorias Saqueadas - Caixa de Carga Azul">
+		
+		<set name="icon" val="icon.etc_treasure_box_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Blue Cargo Box saqueada da carroça de um Comerciante. Parece ter bens valiosos. Clique duas vezes para ver o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7631" type="EtcItem" name="Mercadorias Saqueadas - Caixa de Carga Amarela">
+		
+		<set name="icon" val="icon.etc_treasure_box_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Caixa de Carga Amarela saqueada da carroça de um Comerciante. Parece ter bens valiosos. Clique duas vezes para ver o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7632" type="EtcItem" name="Mercadorias Saqueadas - Armário de Arquivo Vermelho">
+		
+		<set name="icon" val="icon.etc_royal_seal_of_lord_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Caixa vermelha de documentos saqueada da carroça de um Comerciante. Parece ter bens valiosos. Clique duas vezes para ver o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7633" type="EtcItem" name="Mercadorias Saqueadas - Armário de Arquivo Roxo">
+		
+		<set name="icon" val="icon.etc_royal_seal_of_lord_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Caixa de Documentos Violeta saqueada da carroça de um Comerciante. Parece ter bens valiosos. Clique duas vezes para ver o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7634" type="EtcItem" name="Bens Saqueados - Bolsa Marrom">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Bolsa saqueada da carroça de um Comerciante. Parece ter bens valiosos. Clique duas vezes para ver o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7635" type="EtcItem" name="Mercadorias Saqueadas - Bolsa Cinza">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Bolsa saqueada da carroça de um Comerciante. Parece ter bens valiosos. Clique duas vezes para ver o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7636" type="EtcItem" name="Saque - Bolsa Amarela">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item descoberto no pântano. Bolsa amarela suja rasgada aqui e ali. Clique duas vezes para ver o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7637" type="EtcItem" name="Saque - Bolsa Marrom">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item descoberto no pântano. Bolsa marrom suja rasgada aqui e ali. Clique duas vezes para ver o conteúdo." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7638" type="EtcItem" name="Livro de Feitiços - Mass Summon Storm Cubic">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mass Summon Storm Cubic. Usado por Warlocks." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="7639" type="EtcItem" name="Livro de Feitiços - Mass Summon Aqua Cubic">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mass Summon Storm Cubic. Usado Elemental Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="7640" type="EtcItem" name="Livro de Feitiços - Mass Summon Phantom Cubic">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mass Summon Phantom Cubic. Usado por Phantom Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="7641" type="EtcItem" name="Livro de Feitiços - Invocar A Rainha Felina">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="O livro de feitiços precisava aprender a invocar a rainha felina. Usado por Warlocks." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="7642" type="EtcItem" name="Livro de Feitiços - Invocar Unicórnio Serafim">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Unicorn Seraphim. Usado por invocadores elementais." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="7643" type="EtcItem" name="Livro de Feitiços - Invocar Nightshade">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Night Shade. Usado por Phantom Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="7644" type="EtcItem" name="Livro de Feitiços - Invocar Homem Amaldiçoado">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Cursed Man. Usado por Necromantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="7645" type="EtcItem" name="Livro de Feitiços - Equilibre A Vida">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Balance Life. Usado pelos cardeais." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7646" type="EtcItem" name="Livro de Feitiços - Maldição da Perdição">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Curse of da Perdição. Usado por Soultakers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7647" type="EtcItem" name="Livro de Feitiços - A Maldição do Abismo">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Curse of Abyss. Usado por Soultakers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7648" type="EtcItem" name="Livro de Feitiços - Caos Arcano">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Arcane Chaos. Usado por arquimagos/musas místicas/gritadores de tempestade." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7649" type="EtcItem" name="Livro de Feitiços - Vórtice de Fogo">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Fire Vortex. Usado por Arquimagos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7650" type="EtcItem" name="Livro de Feitiços - Vórtice de Gelo">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Ice Vortex. Usado por Musas Místicas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7651" type="EtcItem" name="Livro de Feitiços - Vórtice do Vento">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Wind Vortex. Usado por Storm Screamers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7652" type="EtcItem" name="Livro de Feitiços - Vórtice de Leve">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Leve Vortex. Usado por Musas Místicas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7653" type="EtcItem" name="Livro de Feitiços - Vórtice Negro">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Dark Vortex. Usado por Soultakers e Storm Screamers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7654" type="EtcItem" name="Livro de Feitiços - Mass Warrior Bane">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mass Warrior Bane. Usado por Soultakers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7655" type="EtcItem" name="Livro de Feitiços - Mass Mage Bane">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mass Mage Bane. Usado por Soultakers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7656" type="EtcItem" name="Livro de Feitiços - Guerreiro Servo">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Warrior Servitor. Usado pelos Lordes Arcanos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7657" type="EtcItem" name="Livro de Feitiços - Assistente do Mago">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Wizard Servitor. Usado por Mestres Elementais." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7658" type="EtcItem" name="Livro de Feitiços - Servo Assassino">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Assassin Servitor. Usado por Mestres Espectrais." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7659" type="EtcItem" name="Livro de Feitiços - Servo Final">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Final Servitor. Usado por Arcana Lords/Elemental Masters/Spectral Masters." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7660" type="EtcItem" name="Livro de Feitiços - Warrior Bane">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Warrior Bane. Usado por Arcana Lords/Elemental Masters." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7661" type="EtcItem" name="Livro de Feitiços - Mage Bane">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mage Bane. Usado por Arcana Lords/Spectral Masters." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7662" type="EtcItem" name="Livro de Feitiços - Proteção Elemental">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Proteção Elemental. Usado por Hierofantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7663" type="EtcItem" name="Livro de Feitiços - Proteção Divina">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Proteção Divina. Usado por Cardinals/Eva's Saints." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7664" type="EtcItem" name="Livro de Feitiços - Proteção Arcana">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Proteção Arcana. Usado por Eva's Saints ou Shillien Saints." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7665" type="EtcItem" name="Livro de Feitiços - Profecia da Água">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Profecia da Água. Usado pelos santos de Eva." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7666" type="EtcItem" name="Livro de Feitiços - Profecia do Fogo">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Profecia do Fogo. Usado por Hierofantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7667" type="EtcItem" name="Livro de Feitiços - Profecia do Vento">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Profecia do Vento. Usado por Shillien Santos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7668" type="EtcItem" name="Livro de Feitiços - Escudo de Bloqueio">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Block Shield. Usado por Hierofantes/Santos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7669" type="EtcItem" name="Livro de Feitiços - Block Caminhada no Vento">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Block Caminhada no Vento. Usado pelos Hierofantes/Santos de Eva." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7670" type="EtcItem" name="Livro de Feitiços - Mass Block Shield">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mass Block Shield. Usado pelos cardeais." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7671" type="EtcItem" name="Livro de Feitiços - Mass Block Caminhada no Vento">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mass Block Caminhada no Vento. Usado pelos cardeais." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7672" type="EtcItem" name="Amuleto - Canto do Espírito">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para memorizar o feitiço Chant of Spirit. Usado por da Perdiçãocryers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7673" type="EtcItem" name="Amuleto - Canto da Vitória">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para memorizar o feitiço Chant of Viktory. Usado por da Perdiçãocryers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7674" type="EtcItem" name="Amuleto - Olho de Pa'Agrio">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para memorizar o feitiço Olho de Pa'agrio. Usado por Dominadores." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7675" type="EtcItem" name="Amuleto - Alma de Pa'Agrio">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para memorizar o feitiço Pa'agrio's Soul. Usado por Dominadores." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7676" type="EtcItem" name="Amuleto - Selo do Desespero">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Amuleto necessário para memorizar o feitiço Selo do Desespero. Usado por Dominadores." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11600" />
+	</item>
+	<item id="7677" type="EtcItem" name="Carta de Virgílio">
+		
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Carta enviada por Virgil, um anão rico em Rune Township. Ele pede ajuda." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7678" type="EtcItem" name="Carta de Caradine">
+		
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Carta enviada pelo Mensageiro do Lago, Caradine. Diz para ir para a Town of Goddard quando você atingir o nível de subclasse 65." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7679" type="EtcItem" name="Carta de Caradine">
+		
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Carta enviada pelo Mensageiro do Lago, Caradine. Diz para ir para a Town of Goddard quando você atingir o nível de subclasse 75." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7680" type="Armor" name="Orelhas de Guaxinim">
+		
+		<set name="icon" val="icon.accessory_racoon_ear_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Acessório de cabelo em forma de orelhas de guaxinim" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7681" type="Armor" name="Tapa-Olho do Fora-Da-Lei">
+		
+		<set name="icon" val="icon.accessory_outlaw_eyepatch_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Acessório de tapa-olho roxo" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7682" type="Armor" name="Grampo de Cabelo de Donzela">
+		
+		<set name="icon" val="icon.accessory_maidens_hairpin_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Grampo de cabelo rosa. Acessório de cabelo só para mulheres" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7683" type="Armor" name="Orelhas de Coelho">
+		
+		<set name="icon" val="icon.accessory_rabbit_ear_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Hair accessory in the shape of Orelhas de Coelho." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7684" type="EtcItem" name="Tecido Orelhas de Guaxinim">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal essencialmente necessário para fazer Raccoon Ears. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="7685" type="EtcItem" name="Correia de Tapa-Olho do Fora da Lei">
+		
+		<set name="icon" val="icon.etc_braided_hemp_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal essencialmente necessário para fazer um tapa-olho de fora da lei. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="7686" type="EtcItem" name="Peça de Grampo de Cabelo da Donzela">
+		
+		<set name="icon" val="icon.etc_broken_crystal_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal essencialmente necessário para fazer um grampo de cabelo de donzela. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="7687" type="EtcItem" name="Tecido de Orelhas de Coelho">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal essencialmente necessário para fazer Orelhas de Coelho. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="7688" type="EtcItem" name="Tecido de Orelhas de Gato">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal essencialmente necessário para fazer Orelhas de Gato. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="7689" type="EtcItem" name="Receita - Orelhas de Guaxinim (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Raccoon Ears pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50000" />
+	</item>
+	<item id="7690" type="EtcItem" name="Receita - Tapa-Olho do Fora da Lei (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para criar um tapa-olho de fora da lei pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="7691" type="EtcItem" name="Receita - Gancho de Cabelo de Donzela (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para criar um grampo de cabelo de uma donzela pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="7692" type="EtcItem" name="Receita - Orelhas de Coelho (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de Orelhas de Coelho pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50000" />
+	</item>
+	<item id="7693" type="EtcItem" name="Receita - Orelhas de Gato (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de Orelhas de Gato pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50000" />
+	</item>
+	<item id="7694" type="Armor" name="Tiara da Nobreza">
+		
+		<set name="icon" val="icon.accessory_noblesse_tiara_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Acessório de cabelo de uso exclusivo da Nobreza." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7695" type="Armor" name="Gancho de Cabelo de Não-Me-Esqueças">
+		
+		<set name="icon" val="icon.accessory_forget_me_not_hairpin_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Um grampo de cabelo com um padrão de flor miosótis. Acessório de cabelo exclusivo para mulheres." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7696" type="Armor" name="Gancho de Margarida">
+		
+		<set name="icon" val="icon.accessory_daisy_hairpin_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Um grampo de cabelo com um padrão de margarida. Acessório de cabelo exclusivo para mulheres." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="7697" type="EtcItem" name="Pedaço de Forget-Me-Not Hairpin">
+		
+		<set name="icon" val="icon.etc_broken_crystal_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Indispensável matéria-prima necessária para fazer um Forget-me-not Hairpin. Pode ser vendido em uma loja geral." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="7698" type="EtcItem" name="Pedaço de Gancho de Margarida">
+		
+		<set name="icon" val="icon.etc_broken_crystal_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material indispensável que é necessário para fazer um grampo de cabelo Daisy. Pode ser vendido em uma loja geral." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="7699" type="EtcItem" name="Receita: Forget-Me-Not Hairpin (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para criar um Forget-me-not Hairpin pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+</list>

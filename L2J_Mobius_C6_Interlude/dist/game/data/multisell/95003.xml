@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Custom GM-Shop -->
+<list maintainEnchantment="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item id="1">
+		<production id="9310" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6378" count="1" />
+	</item>
+	<item id="2">
+		<production id="9311" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6373" count="1" />
+	</item>
+	<item id="3">
+		<production id="9312" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6374" count="1" />
+	</item>
+	<item id="4">
+		<production id="9313" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6375" count="1" />
+	</item>
+	<item id="5">
+		<production id="9314" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6376" count="1" />
+	</item>
+	<item id="6">
+		<production id="9315" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6382" count="1" />
+	</item>
+	<item id="7">
+		<production id="9316" count="1" />
+		<production id="9317" count="1" />
+		<ingredient id="9513" count="2" />
+		<ingredient id="6379" count="1" />
+	</item>
+	<item id="8">
+		<production id="9318" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6380" count="1" />
+	</item>
+	<item id="9">
+		<production id="9319" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6381" count="1" />
+	</item>
+	<item id="10">
+		<production id="9320" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6386" count="1" />
+	</item>
+	<item id="11">
+		<production id="9321" count="1" />
+		<production id="9322" count="1" />
+		<ingredient id="9513" count="2" />
+		<ingredient id="6383" count="1" />
+	</item>
+	<item id="12">
+		<production id="9323" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6384" count="1" />
+	</item>
+	<item id="13">
+		<production id="9324" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6385" count="1" />
+	</item>
+	<item id="14">
+		<production id="9808" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6364" count="1" />
+	</item>
+	<item id="15">
+		<production id="9816" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6364" count="1" />
+	</item>
+	<item id="16">
+		<production id="9832" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6365" count="1" />
+	</item>
+	<item id="17">
+		<production id="9850" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6366" count="1" />
+	</item>
+	<item id="18">
+		<production id="9824" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6367" count="1" />
+	</item>
+	<item id="19">
+		<production id="9846" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6369" count="1" />
+	</item>
+	<item id="20">
+		<production id="9828" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6370" count="1" />
+	</item>
+	<item id="21">
+		<production id="9840" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6371" count="1" />
+	</item>
+	<item id="22">
+		<production id="9812" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6372" count="1" />
+	</item>
+	<item id="23">
+		<production id="9804" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6372" count="1" />
+	</item>
+	<item id="24">
+		<production id="9836" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6579" count="1" />
+	</item>
+	<item id="25">
+		<production id="9820" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="7575" count="1" />
+	</item>
+	<item id="26">
+		<production id="9854" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6580" count="1" />
+	</item>
+	<item id="27">
+		<production id="9845" count="1" />
+		<ingredient id="9513" count="1" />
+		<ingredient id="6377" count="1" />
+	</item>
+</list>

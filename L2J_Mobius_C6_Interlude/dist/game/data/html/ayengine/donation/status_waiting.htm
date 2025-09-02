@@ -1,0 +1,72 @@
+<html>
+<title>Chat</title>
+<body>
+<br><br>
+<center><font color=LEVEL>Detalhes da compra</font></center>
+<br>
+<table cellpadding=4>
+	<tr>
+		<td>
+			<font color=LEVEL>ID local:</font> %id%
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color=LEVEL>ID MercadoPago:</font> %id_mp%
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color=LEVEL>Método:</font> %method%
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color=LEVEL>E-mail:</font> %email%
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color=LEVEL>Status:</font> %status%
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color=LEVEL>Data:</font> %date% (irá expirar em %expiration%)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color=LEVEL>Player:</font> %player%
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color=LEVEL>Produto:</font> %resume%
+		</td>
+	</tr>
+</table>
+%msg%
+<center>
+<br>
+<table cellpadding=4>
+	<tr>
+		%link%
+		%qrcode%
+		%check%
+	</tr>
+</table>
+<br>
+<table cellpadding=10>
+	<tr>
+		<td width=50>
+			<a action="bypass donation history 1">Voltar</a>
+		</td>
+		<td width=64>
+			<a action="bypass donation confirm %id% cancel">Cancelar</a>
+		</td>
+	</tr>
+</table>
+</center>
+</body>
+</html>

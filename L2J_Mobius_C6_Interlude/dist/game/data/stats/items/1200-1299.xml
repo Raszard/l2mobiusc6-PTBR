@@ -1,0 +1,1106 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1200" type="EtcItem" name="Pacto de Lionel">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A promessa de Lionel de não usar o livro proibido novamente. Entregue-o ao Sacerdote Zigaunt e receba a marca da fé." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1201" type="EtcItem" name="Marca da Fé">
+		
+		<set name="icon" val="icon.accessary_earing_of_wisdom_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve esta ficha ao sumo sacerdote do templo para mudar sua classe para Clérigo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1202" type="EtcItem" name="Carta de Sorius">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta recebida do Mestre Sorius para ser entregue ao Ferreiro Kluto na Vila de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1203" type="EtcItem" name="Caixa de Kluto">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma caixa que Kluto pediu para dar ao Mestre Sorius." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1204" type="EtcItem" name="Broche do Cavaleiro Élfico">
+		
+		<set name="icon" val="icon.accessary_elven_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve este broche ao Grão-Mestre da Warrior Guild e ele mudará sua classe para Cavaleiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1205" type="EtcItem" name="Pedaço de Topázio">
+		
+		<set name="icon" val="icon.etc_jewel_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de topázio obtido dos mortos-vivos nas ruínas. Colete 20 para levar ao Mestre Sorius." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1206" type="EtcItem" name="Pedaço de Esmeralda">
+		
+		<set name="icon" val="icon.etc_jewel_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de esmeralda obtido dos Noviços de Ol Mahum. Colete 20 deles para levar ao Ferreiro Kluto." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1207" type="EtcItem" name="Carta da Reisa">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta do mestre Reisa ao guarda Moretti. Encontre o Guarda Moretti e entregue a carta a ele." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1208" type="EtcItem" name="1a Carta Rasgada de Prias">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço rasgado de carta escrita por Prias e não é legível. Colete todos os quatro pedaços rasgados e leve-os ao Guarda Moretti." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1209" type="EtcItem" name="2a Carta Rasgada de Prias">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço rasgado de carta escrita por Prias e não é legível. Colete todos os quatro pedaços rasgados e leve-os ao Guarda Moretti." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1210" type="EtcItem" name="3a Carta Rasgada de Prias">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço rasgado de carta escrita por Prias e não é legível. Colete todos os quatro pedaços rasgados e leve-os ao Guarda Moretti." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1211" type="EtcItem" name="4a Carta Rasgada de Prias">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço rasgado de carta escrita por Prias e não é legível. Colete todos os quatro pedaços rasgados e leve-os ao Guarda Moretti." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1212" type="EtcItem" name="Erva de Moretti">
+		
+		<set name="icon" val="icon.etc_herb_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma erva que o guarda Moretti pediu para dar a Prias." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1213" type="Weapon" name="Arco do Guarda">
+		
+		<set name="icon" val="icon.weapon_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Uma reverência dada pelo Guarda Moretti. Pode ser usado com eficiência para algum propósito." />
+		<set name="weight" val="1800" />
+		<set name="soulshots" val="7" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="49" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="3" />
+		<set name="m_dam" val="17" />
+		<set name="price" val="136000" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="49" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1214" type="EtcItem" name="Carta de Moretti">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta urgente do guarda Moretti para Prias." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1215" type="EtcItem" name="Carta de Prias">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma resposta de Prias à carta do guarda Moretti. Entregue isto ao Moretti." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1216" type="EtcItem" name="Guarda Honorária">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta escrita pelo Guarda Moretti ao Mestre Reisa. Leve para a Mestra Reisa." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1217" type="EtcItem" name="Recomendação da Reisa">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve esta recomendação ao Grão-Mestre da Warrior Guild para mudar sua classe para um Elven Scout." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1218" type="EtcItem" name="Carta de Rosella">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de Rosella para Elven Mestre Greenis. Relacionado ao rubi, o símbolo do fogo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1219" type="EtcItem" name="Vermelho Para Baixo">
+		
+		<set name="icon" val="icon.etc_mane_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Material necessário para fazer rubi de poderes mágicos. Colete 5 e leve-os ao Mestre Greenis para obter o rubi de poder mágico." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1220" type="EtcItem" name="Rubi de Poderes Mágicos">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Rubi que simboliza o fogo. Reúna 4 joias que simbolizam a natureza e leve-as a Rosella para receber um Símbolo para mudar de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1221" type="EtcItem" name="Água-Marinha Pura">
+		
+		<set name="icon" val="icon.etc_jewel_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Água-marinha que simboliza a água. Reúna as 4 joias que simbolizam a natureza e leve-as a Rosella para receber um Símbolo para mudar de profissão." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1222" type="EtcItem" name="Maçã Apetitosa">
+		
+		<set name="icon" val="icon.etc_fruit_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma maçã bem madura. Dê a Thalia para obter informações sobre a água-marinha da água." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1223" type="EtcItem" name="Folhas de Ouro">
+		
+		<set name="icon" val="icon.etc_leaf_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Folhas usadas como fertilizante para a Árvore Mãe. Colete cinco folhas e dê-as a Thalia para uma água-marinha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1224" type="EtcItem" name="Amor Imortal">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro que Northwind queria pegar emprestado. Se você der este livro para Northwind, poderá obter informações sobre a ametista." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1225" type="EtcItem" name="Ametista">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma ametista obtida matando Sukar Wererat. Dê dois para Northwind para nobreza ametista." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1226" type="EtcItem" name="Nobreza Ametista">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ametista que simboliza o vento. Reúna 4 joias que simbolizam a natureza e leve-as a Rosella para receber um Símbolo para mudar de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1227" type="EtcItem" name="Recomendação de Rosella">
+		
+		<set name="icon" val="icon.item_normal131" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Recomendação de Rosella. Se você mostrar isso a Varsak, poderá obter informações sobre o peridoto de fertilidade." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1228" type="EtcItem" name="Peridoto">
+		
+		<set name="icon" val="icon.item_normal16" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um peridoto que você pode obter se matar um Esqueleto Atirador. Se você coletar 3 e mostrá-los a Varsak, poderá obter o peridoto de fertilidade." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1229" type="EtcItem" name="Fertilidade Peridoto">
+		
+		<set name="icon" val="icon.etc_jewel_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um peridoto que simboliza a terra. Reúna 4 joias que simbolizam a natureza e leve-as a Rosella para receber um Símbolo para mudar de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1230" type="EtcItem" name="Diamante da Eternidade">
+		
+		<set name="icon" val="icon.etc_jewel_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve esta ficha ao Grão-Mestre da Guilda dos Magos para mudar sua classe para Elfo Mago." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1231" type="EtcItem" name="Medalhão de Cristal">
+		
+		<set name="icon" val="icon.accessary_blue_diamond_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colar oferecido pelo Padre Manuel. Pegue isso e vá para o porto Gludin para encontrar a garota que faz milagres." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1232" type="EtcItem" name="Dinheiro do Vigarista">
+		
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Dinheiro da fraude de Perrin. Entregue para Allana." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1233" type="EtcItem" name="Diário de Allana">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um diário com registros do milagre da fraude. Mostre isso ao padre Manuel como prova." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1234" type="EtcItem" name="Ordem do Capitão Lagarto">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma ordem do capitão lagarto para sequestrar a chama sagrada da profecia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1235" type="EtcItem" name="Folha do Oráculo">
+		
+		<set name="icon" val="icon.etc_leaf_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve isso ao sumo sacerdote para mudar sua classe para um Oráculo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1236" type="EtcItem" name="Metade do Diário">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Metade do diário dado por Allana. Você deve conseguir dinheiro com Perrin e encontrar a outra metade do diário." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1237" type="EtcItem" name="Palus Talismã">
+		
+		<set name="icon" val="icon.accessary_earing_of_grace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um talismã inscrito com runas palus que simbolizam um lago profundo. Carregue isso e cace o licantropo na Zona Neutra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1238" type="EtcItem" name="Crânio de Licantropo">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um crânio obtido após matar o licantropo. Colete treze e leve-os ao Mestre Virgil." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1239" type="EtcItem" name="Carta de Virgílio">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta escrita pelo Mestre Virgílio. Leve isso para o Celebrante Abissal Kalinta da vila de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1240" type="EtcItem" name="Talismã da Morte">
+		
+		<set name="icon" val="icon.accessary_necklace_of_binding_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Talismã com inscrição da runa da Morte, símbolo da morte. Carregue isso e encontre os materiais necessários para o caixão." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1241" type="EtcItem" name="Carapaça do Predador">
+		
+		<set name="icon" val="icon.etc_bark_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A dura carapaça de uma Aranha Venenosa. Leve este e cinco fios de seda rastreadores de aracnídeos para Kalinta Celebrante Abissal." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1242" type="EtcItem" name="Seda do Aracnídeo Rastreador">
+		
+		<set name="icon" val="icon.etc_skein_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Teia do Aracnídeo Rastreador. Leve cinco destes e uma carapaça de aranha venenosa gigante para Celebrante Abissal Kalinta." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1243" type="EtcItem" name="Caixão do Descanso Eterno">
+		
+		<set name="icon" val="icon.shield_tower_shield_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um caixão usado no funeral de Dark Elven Knight. Leve isto ao Mestre Virgil." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1244" type="EtcItem" name="Olhar do Abismo">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve esta ficha ao Grão-Mestre da Warrior Guild para mudar sua classe para Cavaleiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1245" type="EtcItem" name="Chamada de Shilen">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta recebida de Triskel. Vá para a Bruxa Arkenia do Altar of Rites." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1246" type="EtcItem" name="Carta de Arkenia">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta recebida de Arkenia. Leve isso ao Guarda Leikan para obter informações sobre o ladrão." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1247" type="EtcItem" name="Nota de Leikan">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um contrato simples dado pelo Guarda Leikan. Deve caçar bestas de pedra da lua e coletar seus molares." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1248" type="EtcItem" name="Molar da Besta da Pedra da Lua">
+		
+		<set name="icon" val="icon.etc_molar_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um molar obtido após matar uma besta de pedra da lua. Colete 10 deles para levar ao Guarda Leikan." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1249" type="EtcItem" name="Faca de Leikan">
+		
+		<set name="icon" val="icon.weapon_ss09" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma faca recebida como presente de Leikan. Dizem que funciona bem contra os Calpicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1250" type="EtcItem" name="Lágrimas de Shilen">
+		
+		<set name="icon" val="icon.etc_lesser_potion_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Líquido mágico roubado do Altar of Rites. Dê isso para a Bruxa Arkenia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1251" type="EtcItem" name="Recomendação de Arkenia">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um sinal de agradecimento recebido de Arkenia. Leve isso para Triskel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1252" type="EtcItem" name="Coração de Ferro">
+		
+		<set name="icon" val="icon.accessary_earing_of_mana_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve isso ao Grão-Mestre da Guilda dos Elfos Sombrios para mudar sua classe para Assassino." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1253" type="EtcItem" name="Semente da Raiva">
+		
+		<set name="icon" val="icon.etc_bead_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma semente obtida de Charkeren, que está cheio de raiva. Leve isso para a Bruxa Varika." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1254" type="EtcItem" name="Semente do Desespero">
+		
+		<set name="icon" val="icon.etc_bead_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma semente obtida da Bruxa Varika. Você deve obter todas as quatro sementes para ganhar a Joia das Trevas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1255" type="EtcItem" name="Semente do Horror">
+		
+		<set name="icon" val="icon.etc_bead_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma semente obtida de Annika, que está cheia de horror. Leve isso para a Bruxa Varika." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1256" type="EtcItem" name="Semente da Loucura">
+		
+		<set name="icon" val="icon.etc_bead_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma semente obtida de um lunático. Leve isso para a Bruxa Varika." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1257" type="EtcItem" name="Restos Mortais da Família">
+		
+		<set name="icon" val="icon.etc_ashes_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Restos da família assassinada de Charkeren. Encontre 3 e volte para Charkeren." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1258" type="EtcItem" name="Licor de Varika">
+		
+		<set name="icon" val="icon.item_canuse47" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um remédio que Varika fez para o filho da Duquesa Dwell. Se você der a Duquesa, poderá obter a Semente do Desespero." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1259" type="EtcItem" name="Osso do Joelho">
+		
+		<set name="icon" val="icon.etc_piece_bone_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O osso do joelho do morto-vivo que Annika estava procurando. Dê isso a Annika para obter a Semente do Horror." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1260" type="EtcItem" name="Coração da Loucura">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os corações daqueles que foram transformados em esqueletos por um feiticeiro da loucura. Colete 3 Coração da Loucura e leve-os para Arkenia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1261" type="EtcItem" name="Joia das Trevas">
+		
+		<set name="icon" val="icon.accessary_necklace_of_phantom_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve este Símbolo para o Grão-Mestre da Guilda dos Elfos Sombrios para mudar sua classe para um Mago das Trevas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1262" type="EtcItem" name="Carta de Sidra">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta de apresentação escrita pelo Mestre Sidra. Leve isso para o Mestre Talbot." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1263" type="EtcItem" name="Folha em Branco">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pergaminho em branco. Pegue isso e cace Succubuss escuros para obter runas sangrentas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1264" type="EtcItem" name="Runa Sangrenta">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Runas escritas com o sangue de uma Succubus negra. Colete 5 e leve para Mestre Talbot." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1265" type="EtcItem" name="Livro do Garmiel">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O livro sagrado de Gran Kain, deus das trevas, escrito em língua élfica. Um dos dois livros que Sidra disse para você encontrar." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1266" type="EtcItem" name="Oração de Adonius">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O amplamente amado livro de orações. Leve isto ao Sacerdote Adonius na aldeia de Gludin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1267" type="EtcItem" name="Marca do Penitente">
+		
+		<set name="icon" val="icon.accessary_earing_of_holy_spirit_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A marca que mostra que alguém está se arrependendo de seus pecados. Carregue isso e cace esqueletos e zumbis nas Ruínas do Desespero." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1268" type="EtcItem" name="Ossos Cinzentos">
+		
+		<set name="icon" val="icon.etc_piece_bone_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ossos dos esqueletos e zumbis nas Ruínas do Desespero. Reúna 10 e leve-os ao Padre Adonius." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1269" type="EtcItem" name="Livro do Andariel">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O livro sagrado de Einhasad, deusa da luz, escrito na língua élfica. Um dos dois livros que Sidra disse para você encontrar." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1270" type="EtcItem" name="Orbe do Abismo">
+		
+		<set name="icon" val="icon.etc_bead_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve este Símbolo para um Grão-Mestre de uma Dark Elf Guild em qualquer grande cidade para mudar sua classe para um Shillien Oracle." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1271" type="EtcItem" name="Marca do Escudeiro">
+		
+		<set name="icon" val="icon.accessary_earing_of_wisdom_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca que indica um escudeiro. Passeie pelas aldeias de Gludio e encontre-se com capitães da guarda e sumos sacerdotes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1272" type="EtcItem" name="Encanto do Grão">
+		
+		<set name="icon" val="icon.accessary_aquastone_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O amuleto da sorte de Greenis. Mate aranhas pincer e dê 5 red down para Greenis." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1273" type="EtcItem" name="Seiva da Árvore Mãe">
+		
+		<set name="icon" val="icon.etc_potion_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Seiva da Árvore-Mãe que os anciãos dríades gostam. Encontre 5 folhas de ouro e dê-as a Thalia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1274" type="EtcItem" name="Lucky Potpourri">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O potpourri da sorte de Northwind. Dê a Northwind 2 ametistas obtidas ao matar sukar homens-rato." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1275" type="EtcItem" name="Colar de Tamil">
+		
+		<set name="icon" val="icon.etc_totem_necklace_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colar de Tamil. Mostre para Perrin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1276" type="EtcItem" name="Memorando de Kluto">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um memorando do Ferreiro Kluto pedindo para derrotar os Ol Mahum Novices." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1277" type="EtcItem" name="Chave da Sorte">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma chave de bronze. Cace zumbis na área do pântano, colete 3 restos mortais e leve-os para Charkeren." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1278" type="EtcItem" name="Vela">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma vela que ilumina o escuro. Colete 2 ossos do joelho dos mortos-vivos e dê-os a Annika para a Seed of Horror." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1279" type="EtcItem" name="Aroma Central">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pot-pourri de ervas aromáticas. Obtenha 3 Hearts of Lunacy de um batedor esqueleto e leve-os para Arkenia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1280" type="EtcItem" name="Mapa de Luster">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um mapa dado pela Flame Salamander. Mate Homem Rato Guerreiro e dê a chave da chama para a salamandra em troca do símbolo do fogo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1281" type="EtcItem" name="Chave das Chamas">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A chave que pode ser obtida matando um Homem Rato Guerreiro. Quando você o der a uma Salamandra, ela lhe dará o símbolo do fogo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1282" type="EtcItem" name="Brinco de Chamas">
+		
+		<set name="icon" val="icon.accessary_earing_of_mana_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O símbolo do fogo dado pelo espírito do fogo salamandra. Colete quatro Símbolos e entregue-os a Parina para receber o Símbolo que permite mudar de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1283" type="EtcItem" name="Espelho de Bronze Quebrado">
+		
+		<set name="icon" val="icon.etc_mirror_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O espelho dado pelo Sylph do Vento. Vá até os Homem Lagarto das Wastelands e obtenha a Pena de Vento e devolva-a ao Sylph do Vento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1284" type="EtcItem" name="Pena de Vento">
+		
+		<set name="icon" val="icon.etc_feather_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pena escondida pelo Sylph do Vento perto das Wastelands. Devolva isso ao Sylph do Vento para receber um Símbolo do Vento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1285" type="EtcItem" name="Pulseira de Vento">
+		
+		<set name="icon" val="icon.accessary_blue_coral_ring_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O Símbolo do Vento dado a você pelo Espírito do Vento Sylph. Colete todos os quatro Símbolos e entregue-os a Parina para receber um Símbolo especial que permitirá que você mude de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1286" type="EtcItem" name="Diário de Rama">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o vidente da água e leve duas pedras brilhantes para regar Undine pelo Símbolo da água." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1287" type="EtcItem" name="Pedra Brilhante">
+		
+		<set name="icon" val="icon.etc_crystal_ball_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate o vidente da água no Fellmere Lake para obter pedras. Se você der isso para Undine da Água, ela lhe dará o símbolo da água." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1288" type="EtcItem" name="Colar da Água">
+		
+		<set name="icon" val="icon.accessary_necklace_of_assistance_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O símbolo da água dado pelo espírito da água Undine. Colete quatro Símbolos e entregue-os a Parina para receber o Símbolo que permite mudar de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1289" type="EtcItem" name="Moeda de Ouro Ferrugem">
+		
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A moeda dada pela cobra da terra. Mate o urso vermelho e dê terra vermelha para a cobra terrestre para o Símbolo of Earth." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1290" type="EtcItem" name="Solo Vermelha">
+		
+		<set name="icon" val="icon.etc_powder_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O solo obtido ao matar o urso vermelho. Dê à cobra da terra pelo símbolo da terra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1291" type="EtcItem" name="Anel da Terra">
+		
+		<set name="icon" val="icon.accessary_ring_of_firefly_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Símbolo da Terra dado pela cobra terrestre. Colete 4 Símbolos e entregue-os a Parina para receber o Símbolo que permite mudar de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1292" type="EtcItem" name="Pérola da Temporada">
+		
+		<set name="icon" val="icon.etc_crystal_ball_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve esta Pérola ao sumo sacerdote do templo para mudar sua classe para Mago." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1293" type="EtcItem" name="Chave Enferrujada">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A chave que abre as algemas de Prias. Pegue isso e vá até Prias." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1294" type="EtcItem" name="Livro de Feitiços: Aura de Defesa">
+		
+		<set name="icon" val="icon.etc_spell_books_efighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Defense Aura. Usado por Elven Fighters e Dark Fighters." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="75" />
+	</item>
+	<item id="1295" type="Weapon" name="Espada Longa">
+		
+		<set name="icon" val="icon.weapon_long_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Um item temporário para Kamex" />
+		<set name="weight" val="200" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="22" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="6" />
+		<set name="price" val="66600" />
+		<set name="sellable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="22" order="0x08" stat="pAtk" />
+			<set val="6" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1296" type="Weapon" name="Gladius">
+		
+		<set name="icon" val="icon.weapon_gladius_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Um item temporário para Kamex" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="22" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="6" />
+		<set name="price" val="66600" />
+		<set name="sellable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="22" order="0x08" stat="pAtk" />
+			<set val="6" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1297" type="Weapon" name="Espada Bastarda">
+		
+		<set name="icon" val="icon.weapon_bastard_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Um item temporário para Kamex" />
+		<set name="weight" val="400" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="22" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="6" />
+		<set name="price" val="66600" />
+		<set name="sellable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="22" order="0x08" stat="pAtk" />
+			<set val="6" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1298" type="Weapon" name="Caliburs">
+		
+		<set name="icon" val="icon.weapon_caliburs_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Um item temporário para Kamex" />
+		<set name="weight" val="500" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="22" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="6" />
+		<set name="price" val="66600" />
+		<set name="sellable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="22" order="0x08" stat="pAtk" />
+			<set val="6" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1299" type="Weapon" name="Espada Grande">
+		
+		<set name="icon" val="icon.weapon_2hs03" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Um item temporário para Kamex" />
+		<set name="weight" val="500" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="p_dam" val="200" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="6" />
+		<set name="price" val="3340000" />
+		<set name="sellable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="200" order="0x08" stat="pAtk" />
+			<set val="6" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+</list>

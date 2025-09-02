@@ -1,0 +1,1185 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5100" type="EtcItem" name="Coda Deserto Maduro">
+		<set name="icon" val="icon.etc_coda_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5101" type="EtcItem" name="Coda Para Alaúde Maduro">
+		<set name="icon" val="icon.etc_coda_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5102" type="EtcItem" name="Coda Dupla Madura">
+		<set name="icon" val="icon.etc_coda_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5103" type="EtcItem" name="Coda Escura Madura">
+		<set name="icon" val="icon.etc_coda_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5104" type="EtcItem" name="Coda Brilhante Madura">
+		<set name="icon" val="icon.etc_coda_i09" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5105" type="EtcItem" name="Cobol Frio Maduro">
+		<set name="icon" val="icon.etc_cobol_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5106" type="EtcItem" name="Cobol Ardente Maduro">
+		<set name="icon" val="icon.etc_cobol_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5107" type="EtcItem" name="Cobol Azul Maduro">
+		<set name="icon" val="icon.etc_cobol_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5108" type="EtcItem" name="Cobol Vermelho Maduro">
+		<set name="icon" val="icon.etc_cobol_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5109" type="EtcItem" name="Cobol Dourado Maduro">
+		<set name="icon" val="icon.etc_cobol_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5110" type="EtcItem" name="Cobol Deserto Maduro">
+		<set name="icon" val="icon.etc_cobol_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5111" type="EtcItem" name="Cobol Mar Maduro">
+		<set name="icon" val="icon.etc_cobol_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5112" type="EtcItem" name="Cobol Espinhento Maduro">
+		<set name="icon" val="icon.etc_cobol_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5113" type="EtcItem" name="Cobol Manchado Maduro">
+		<set name="icon" val="icon.etc_cobol_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5114" type="EtcItem" name="Cobol Grande Maduro">
+		<set name="icon" val="icon.etc_cobol_i09" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5115" type="EtcItem" name="Codran Frio Maduro">
+		<set name="icon" val="icon.etc_codran_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5116" type="EtcItem" name="Codran Ardente Maduro">
+		<set name="icon" val="icon.etc_codran_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5117" type="EtcItem" name="Codran Azul Maduro">
+		<set name="icon" val="icon.etc_codran_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5118" type="EtcItem" name="Codran Vermelho Maduro">
+		<set name="icon" val="icon.etc_codran_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5119" type="EtcItem" name="Codran Manchado Maduro">
+		<set name="icon" val="icon.etc_codran_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5120" type="EtcItem" name="Deserto Maduro Codran">
+		<set name="icon" val="icon.etc_codran_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5121" type="EtcItem" name="Codran do Mar Maduro">
+		<set name="icon" val="icon.etc_codran_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5122" type="EtcItem" name="Codran Duplo Maduro">
+		<set name="icon" val="icon.etc_codran_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5123" type="EtcItem" name="Codran Espinho Maduro">
+		<set name="icon" val="icon.etc_codran_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5124" type="EtcItem" name="Codran Grande Maduro">
+		<set name="icon" val="icon.etc_codran_i09" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5125" type="EtcItem" name="Colheitadeira">
+		
+		<set name="icon" val="icon.etc_reaper_i00" />
+		<set name="item_type" val="harvest" />
+		<set name="desc" val="Usado para colher a colheita do cadáver do monstro em que uma semente foi semeada. Mais bem-sucedido quando o personagem e o alvo não estão separados por mais de 5 níveis." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="500" />
+	</item>
+	<item id="5126" type="EtcItem" name="Selo de Artesanato de Espada Dupla">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Certificado obtido em uma loja ou missão. Componente essencial para fazer espadas duplas de Grau B e superior." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="5127" type="Weapon" name="Faca Dailaon">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="5" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="5" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="5" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5128" type="Weapon" name="Lâmina Crokiana">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="5" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="5" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="5" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5129" type="Weapon" name="Faca de Boneca">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="200" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="6" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="200" order="0x08" stat="pAtk" />
+			<set val="6" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5130" type="Weapon" name="Espada Nos">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="5" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="5" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="5" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5131" type="Weapon" name="Parhit Funcionários">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="5" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="5" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="5" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5132" type="Weapon" name="Tridente Gigante">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="5" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="5" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="5" order="0x08" stat="pAtk" />
+			<set val="5" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5133" type="Weapon" name="Chrono Unitus">
+		
+		<set name="icon" val="icon.weapon_chrono_tambourine_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Lembrança da Crônica II!!!" />
+		<set name="p_dam" val="1" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="1" />
+		<set name="dropable" val="false" />
+		<for>
+			<set val="1" order="0x08" stat="pAtk" />
+			<set val="1" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5134" type="EtcItem" name="Pacote Compactado de Soulshots: Sem Grau">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 soulshots compactados. Sem Grau." />
+		<set name="weight" val="600" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="2300" />
+	</item>
+	<item id="5135" type="EtcItem" name="Pacote Compactado de Soulshots: Grau D">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 soulshots compactados. Grau D." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3300" />
+	</item>
+	<item id="5136" type="EtcItem" name="Pacote Compactado de Soulshots: Grau C">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 soulshots compactados. Grau C." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4950" />
+	</item>
+	<item id="5137" type="EtcItem" name="Pacote Compactado de Soulshots: Grau B">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 soulshots compactados. Grau B." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="16500" />
+	</item>
+	<item id="5138" type="EtcItem" name="Pacote Compactado de Soulshots: Grau A">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 soulshots compactados. Grau A." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="26400" />
+	</item>
+	<item id="5139" type="EtcItem" name="Pacote Compactado de Soulshots: Grau S">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 soulshots compactados. Grau S." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="33000" />
+	</item>
+	<item id="5140" type="EtcItem" name="Pacote Compactado de Spiritshots: Sem Grau">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots compactados. Sem Grau." />
+		<set name="weight" val="750" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4950" />
+	</item>
+	<item id="5141" type="EtcItem" name="Pacote Compactado de Spiritshots: Grau D">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots compactados. Grau D." />
+		<set name="weight" val="750" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="5940" />
+	</item>
+	<item id="5142" type="EtcItem" name="Pacote Compactado de Spiritshots: Grau C">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots compactados. Grau C." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11550" />
+	</item>
+	<item id="5143" type="EtcItem" name="Pacote Compactado de Spiritshots: Grau B">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots compactados. Grau B." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="33000" />
+	</item>
+	<item id="5144" type="EtcItem" name="Pacote Compactado de Spiritshots: Grau A">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots compactados. Grau A." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="39600" />
+	</item>
+	<item id="5145" type="EtcItem" name="Pacote Compactado de Spiritshots: Grau S">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots compactados. Grau S." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="49500" />
+	</item>
+	<item id="5146" type="EtcItem" name="Pacote Compactado de Spiritshots Abençoados: Sem Grau">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots abençoados compactados. Sem Grau." />
+		<set name="weight" val="750" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11550" />
+	</item>
+	<item id="5147" type="EtcItem" name="Pacote Compactado de Spiritshots Abençoados: Grau D">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots abençoados compactados. Grau D." />
+		<set name="weight" val="750" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="14850" />
+	</item>
+	<item id="5148" type="EtcItem" name="Pacote Compactado de Spiritshots Abençoados: Grau C">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots abençoados compactados. Grau C." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="29700" />
+	</item>
+	<item id="5149" type="EtcItem" name="Pacote Compactado de Spiritshots Abençoados: Grau B">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots abençoados compactados. Grau B." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="80850" />
+	</item>
+	<item id="5150" type="EtcItem" name="Pacote Compactado de Spiritshots Abençoados: Grau A">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots abençoados compactados. Grau A." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="95700" />
+	</item>
+	<item id="5151" type="EtcItem" name="Pacote Compactado de Spiritshots Abençoados: Grau S">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="300 spiritshots abençoados compactados. Grau S." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="115500" />
+	</item>
+	<item id="5152" type="EtcItem" name="Compressor Mágico">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma ferramenta mágica necessária para comprimir soulshots, spiritshots etc." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5153" type="EtcItem" name="Receita: Soulshot (D) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Soulshots: Grau D. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="5154" type="EtcItem" name="Receita: Soulshot (C) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Soulshots: Grau C. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25000" />
+	</item>
+	<item id="5155" type="EtcItem" name="Receita: Soulshot (B) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Soulshots: Grau B. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="5156" type="EtcItem" name="Receita: Soulshot (A) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Soulshots: Grau A. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="5157" type="EtcItem" name="Receita: Soulshot (S) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Soulshots: Grau S. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250000" />
+	</item>
+	<item id="5158" type="EtcItem" name="Receita: Spiritshot (D) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots: Grau D. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="5159" type="EtcItem" name="Receita: Spiritshot (C) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots: Grau C. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25000" />
+	</item>
+	<item id="5160" type="EtcItem" name="Receita: Spiritshot (B) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots: Grau B. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="5161" type="EtcItem" name="Receita: Spiritshot (A) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots: Grau A. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="5162" type="EtcItem" name="Receita: Spiritshot (S) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots: Grau S. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250000" />
+	</item>
+	<item id="5163" type="EtcItem" name="Receita: Pacote Compactado de Spiritshot Abençoado (D) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Espíritos Abençoados: Grau D. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30000" />
+	</item>
+	<item id="5164" type="EtcItem" name="Receita: Pacote Compactado de Spiritshot Abençoado (C) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Espíritos Abençoados: Grau C. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="60000" />
+	</item>
+	<item id="5165" type="EtcItem" name="Receita: Pacote Compactado de Spiritshot Abençoado (B) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Espíritos Abençoados: Grau B. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="5166" type="EtcItem" name="Receita: Blessed Spiritshot (A) Pacote Compactado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Espíritos Abençoados: Grau A. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="180000" />
+	</item>
+	<item id="5167" type="EtcItem" name="Receita: Pacote Compactado de Spiritshot Abençoado (S) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Espíritos Abençoados: Grau S. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="290000" />
+	</item>
+	<item id="5168" type="EtcItem" name="Comida Para Strider">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Quando o medidor de fome de um strider atingir 55% ou menos, sua comida será consumida automaticamente." />
+		<set name="weight" val="40" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="5169" type="EtcItem" name="Comida Deluxe Para Strider">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Quando o medidor de fome de um strider atingir 55% ou menos, sua comida será consumida automaticamente. A eficiência do consumo de alimentos melhora ao montar um strider." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="5170" type="Armor" name="Casaco Mithril Panzer">
+		
+		<set name="icon" val="icon.etc_pet_armor_i08" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="41" />
+		<set name="m_def" val="41" />
+		<set name="price" val="1600000" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+			<add val="41" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5171" type="Armor" name="Casaco Brigandine Panzer">
+		
+		<set name="icon" val="icon.etc_pet_armor_i09" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="44" />
+		<set name="m_def" val="44" />
+		<set name="price" val="2300000" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<add val="44" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5172" type="Armor" name="Casaco Panzer Dracônico">
+		
+		<set name="icon" val="icon.etc_pet_armor_i09" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="46" />
+		<set name="m_def" val="46" />
+		<set name="price" val="3400000" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<add val="46" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5173" type="Armor" name="Casaco Panzer de Sangue">
+		
+		<set name="icon" val="icon.etc_pet_armor_i10" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="49" />
+		<set name="m_def" val="49" />
+		<set name="price" val="4900000" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<add val="49" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5174" type="Armor" name="Casaco Panzer Ofidiano">
+		
+		<set name="icon" val="icon.etc_pet_armor_i10" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="52" />
+		<set name="m_def" val="52" />
+		<set name="price" val="7300000" />
+		<for>
+			<add val="52" order="0x10" stat="pDef" />
+			<add val="52" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5175" type="Armor" name="Casaco Panzer Infernal">
+		
+		<set name="icon" val="icon.etc_pet_armor_i11" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="54" />
+		<set name="m_def" val="54" />
+		<set name="price" val="10000000" />
+		<for>
+			<add val="54" order="0x10" stat="pDef" />
+			<add val="54" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5176" type="Weapon" name="Espiga Serpentina">
+		
+		<set name="icon" val="icon.etc_pet_arms_i08" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="17" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="21" />
+		<set name="price" val="1600000" />
+		<for>
+			<add val="17" order="0x10" stat="pAtk" />
+			<add val="21" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5177" type="Weapon" name="Chifre de Drake">
+		
+		<set name="icon" val="icon.etc_pet_arms_i09" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="19" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="24" />
+		<set name="price" val="2300000" />
+		<for>
+			<add val="19" order="0x10" stat="pAtk" />
+			<add val="24" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5178" type="Weapon" name="Unicórnio de Assalto">
+		
+		<set name="icon" val="icon.etc_pet_arms_i09" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="21" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="27" />
+		<set name="price" val="3400000" />
+		<for>
+			<add val="21" order="0x10" stat="pAtk" />
+			<add val="27" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5179" type="Weapon" name="Cortador Dracônico">
+		
+		<set name="icon" val="icon.etc_pet_arms_i10" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="23" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="30" />
+		<set name="price" val="4900000" />
+		<for>
+			<add val="23" order="0x10" stat="pAtk" />
+			<add val="30" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5180" type="Weapon" name="Lança Opdian">
+		
+		<set name="icon" val="icon.etc_pet_arms_i10" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="25" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="34" />
+		<set name="price" val="7300000" />
+		<for>
+			<add val="25" order="0x10" stat="pAtk" />
+			<add val="34" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5181" type="Weapon" name="Broca de Diamante">
+		
+		<set name="icon" val="icon.etc_pet_arms_i11" />
+		<set name="bodypart" val="strider" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um strider." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="27" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="37" />
+		<set name="price" val="10000000" />
+		<for>
+			<add val="27" order="0x10" stat="pAtk" />
+			<add val="37" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5182" type="Armor" name="Casaco Górgona do Filhote">
+		
+		<set name="icon" val="icon.etc_pet_armor_i05" />
+		<set name="bodypart" val="hatchling" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um filhote." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="44" />
+		<set name="m_def" val="44" />
+		<set name="price" val="2300000" />
+		<for>
+			<add val="44" order="0x10" stat="pDef" />
+			<add val="44" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5183" type="Armor" name="Placas Ofidiana do Filhote">
+		
+		<set name="icon" val="icon.etc_pet_armor_i05" />
+		<set name="bodypart" val="hatchling" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um filhote." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="46" />
+		<set name="m_def" val="46" />
+		<set name="price" val="3400000" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<add val="46" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5184" type="Armor" name="Placas Carmesim do Filhote">
+		
+		<set name="icon" val="icon.etc_pet_armor_i06" />
+		<set name="bodypart" val="hatchling" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um filhote." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="49" />
+		<set name="m_def" val="49" />
+		<set name="price" val="4900000" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<add val="49" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5185" type="Armor" name="Placas Dracônica do Filhote">
+		
+		<set name="icon" val="icon.etc_pet_armor_i06" />
+		<set name="bodypart" val="hatchling" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um filhote." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="52" />
+		<set name="m_def" val="52" />
+		<set name="price" val="7300000" />
+		<for>
+			<add val="52" order="0x10" stat="pDef" />
+			<add val="52" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5186" type="Armor" name="Placas Infernal do Filhote">
+		
+		<set name="icon" val="icon.etc_pet_armor_i07" />
+		<set name="bodypart" val="hatchling" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um filhote." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="54" />
+		<set name="m_def" val="54" />
+		<set name="price" val="10000000" />
+		<for>
+			<add val="54" order="0x10" stat="pDef" />
+			<add val="54" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5187" type="Weapon" name="Moedor de Serpentina">
+		
+		<set name="icon" val="icon.etc_pet_arms_i05" />
+		<set name="bodypart" val="hatchling" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um filhote." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="19" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="24" />
+		<set name="price" val="2300000" />
+		<for>
+			<add val="19" order="0x10" stat="pAtk" />
+			<add val="24" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5188" type="Weapon" name="Presa de Dahak">
+		
+		<set name="icon" val="icon.etc_pet_arms_i05" />
+		<set name="bodypart" val="hatchling" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um filhote." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="21" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="27" />
+		<set name="price" val="3400000" />
+		<for>
+			<add val="21" order="0x10" stat="pAtk" />
+			<add val="27" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5189" type="Weapon" name="Presa de Sangue Carmesim">
+		
+		<set name="icon" val="icon.etc_pet_arms_i06" />
+		<set name="bodypart" val="hatchling" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um filhote." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="23" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="30" />
+		<set name="price" val="4900000" />
+		<for>
+			<add val="23" order="0x10" stat="pAtk" />
+			<add val="30" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5190" type="Weapon" name="Helicóptero Dracônico">
+		
+		<set name="icon" val="icon.etc_pet_arms_i06" />
+		<set name="bodypart" val="hatchling" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um filhote." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="25" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="34" />
+		<set name="price" val="7300000" />
+		<for>
+			<add val="25" order="0x10" stat="pAtk" />
+			<add val="34" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5191" type="Weapon" name="Moedor Diabólico">
+		
+		<set name="icon" val="icon.etc_pet_arms_i07" />
+		<set name="bodypart" val="hatchling" />
+		<set name="desc" val="Pode ser usado clicando duas vezes. Usado exclusivamente por um filhote." />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="27" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="37" />
+		<set name="price" val="10000000" />
+		<for>
+			<add val="27" order="0x10" stat="pAtk" />
+			<add val="37" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5192" type="EtcItem" name="Corda da Magia: Grau D">
+		
+		<set name="icon" val="icon.etc_braided_hemp_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma corda que tem poder mágico. É feito tecendo tiras de couro de lagarto juntas. Usar esta corda para amarrar um item reduzirá seu peso e será mais fácil carregá-lo." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5193" type="EtcItem" name="Corda da Magia: Grau C">
+		
+		<set name="icon" val="icon.etc_braided_hemp_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma corda que tem poder mágico. É feito tecendo tiras de couro de lagarto juntas. Usar esta corda para amarrar um item reduzirá seu peso e será mais fácil carregá-lo." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150" />
+	</item>
+	<item id="5194" type="EtcItem" name="Corda da Magia: Grau B">
+		
+		<set name="icon" val="icon.etc_braided_hemp_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma corda que tem poder mágico. É feito tecendo tiras de couro de lagarto juntas. Usar esta corda para amarrar um item reduzirá seu peso e será mais fácil carregá-lo." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250" />
+	</item>
+	<item id="5195" type="EtcItem" name="Corda da Magia: Grau A">
+		
+		<set name="icon" val="icon.etc_braided_hemp_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma corda que tem poder mágico. É feito tecendo tiras de couro de lagarto juntas. Usar esta corda para amarrar um item reduzirá seu peso e será mais fácil carregá-lo." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5196" type="EtcItem" name="Corda da Magia: Grau S">
+		
+		<set name="icon" val="icon.etc_braided_hemp_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma corda que tem poder mágico. É feito tecendo tiras de couro de lagarto juntas. Usar esta corda para amarrar um item reduzirá seu peso e será mais fácil carregá-lo." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1500" />
+	</item>
+	<item id="5197" type="EtcItem" name="Chave do Baú - Grau 8">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 1 com uma taxa de sucesso de 60%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="5198" type="EtcItem" name="Chave do Baú - Grau 7">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 10 com uma taxa de sucesso de 60%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="5199" type="EtcItem" name="Chave do Baú - Grau 6">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 20 com uma taxa de sucesso de 60%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+</list>

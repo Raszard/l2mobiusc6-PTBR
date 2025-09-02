@@ -1,0 +1,2004 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<!-- CREATED BY -->
+<!-- MRFREEDOM -->
+<item id='9800' type="Weapon" name="Rapier Dynasty">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_rapier_i00" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Concede Foco, Vida ou Leve." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1280" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="278" />
+	<set name="rnd_dam" val="40" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="433" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='278' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='433' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+<item id='9801' type="Weapon" name="Rapier Dynasty - Foco">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_rapier_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o Crítico em 61. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1280" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="278" />
+	<set name="rnd_dam" val="40" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="433" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3050" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='278' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='433' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Foco -->			
+		<add order="0x40" stat="rCrit" val="111.5" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+<item id='9802' type="Weapon" name="Rapier Dynasty - Vida">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_rapier_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1280" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="278" />
+	<set name="rnd_dam" val="40" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="433" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3013" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='278' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='433' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Vida -->
+		<mul order="0x30" stat="maxHp" val="1.25" />
+		<add order="0x40" stat="atkCountMax" val="0" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+<item id='9803' type="Weapon" name="Rapier Dynasty - Leve">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_rapier_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Diminua o peso da arma em 30%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1280" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="278" />
+	<set name="rnd_dam" val="40" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="433" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="1257" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='278' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='433' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Light -->
+		<mul order="0x30" stat="maxLoad" val="1.2" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9804' type="Weapon" name="Espada Antiga Dynasty">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_ancient_sword_i00" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Concede Foco, Vida ou Leve." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1800" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="332" />
+	<set name="rnd_dam" val="15" />
+	<set name="weapon_type" val="bigsword" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='332' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+<item id='9805' type="Weapon" name="Espada Antiga Dynasty - Foco">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_ancient_sword_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o Crítico em 61. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1800" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="332" />
+	<set name="rnd_dam" val="15" />
+	<set name="weapon_type" val="bigsword" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3050" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='332' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Foco -->
+		<add order="0x40" stat="rCrit" val="111.5" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+<item id='9806' type="Weapon" name="Espada Antiga Dynasty - Vida">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_ancient_sword_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1800" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="332" />
+	<set name="rnd_dam" val="15" />
+	<set name="weapon_type" val="bigsword" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3013" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='332' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Vida -->
+		<mul order="0x30" stat="maxHp" val="1.25" />
+		<add order="0x40" stat="atkCountMax" val="0" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+<item id='9807' type="Weapon" name="Espada Antiga Dynasty - Leve">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_ancient_sword_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Diminua o peso da arma em 30%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1800" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="332" />
+	<set name="rnd_dam" val="15" />
+	<set name="weapon_type" val="bigsword" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="1257" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='332' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Light -->
+		<mul order="0x30" stat="maxLoad" val="1.2" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9808' type="Weapon" name="Lâmina Dynasty">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_blade_i00" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Concede Foco, Vida ou Leve." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+
+<item id='9809' type="Weapon" name="Lâmina Dynasty - Foco">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_blade_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o Crítico em 61. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3050" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Foco -->
+		<add order="0x40" stat="rCrit" val="111.5" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9810' type="Weapon" name="Lâmina Dynasty - Vida">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_blade_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3013" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Vida -->
+		<mul order="0x30" stat="maxHp" val="1.25" />
+		<add order="0x40" stat="atkCountMax" val="0" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9811' type="Weapon" name="Lâmina Dynasty - Leve">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_blade_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Diminua o peso da arma em 30%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="1257" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Light -->
+		<mul order="0x30" stat="maxLoad" val="1.2" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+<item id='9812' type="Weapon" name="Espada de Duas Mãos Dynasty">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_twohand_sword_i00" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Concede Foco, Vida ou Leve." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="374" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="bigsword" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='374' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+
+<item id='9813' type="Weapon" name="Espada de Duas Mãos Dynasty - Foco">
+  	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_twohand_sword_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o Crítico em 61. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="374" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="bigsword" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3050" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='374' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Foco -->
+		<add order="0x40" stat="rCrit" val="111.5" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9814' type="Weapon" name="Espada de Duas Mãos Dynasty - Vida">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_twohand_sword_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="374" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="bigsword" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3013" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='374' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Vida -->
+		<mul order="0x30" stat="maxHp" val="1.25" />
+		<add order="0x40" stat="atkCountMax" val="0" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9815' type="Weapon" name="Espada de Duas Mãos Dynasty - Leve">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_twohand_sword_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Diminua o peso da arma em 30%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="374" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="bigsword" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="1257" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='374' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Light -->
+		<mul order="0x30" stat="maxLoad" val="1.2" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9816' type="Weapon" name="Espada Mágica Dynasty">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_magic_sword_i00" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Concede Perspicácia, Aumento de Mana ou Conversão." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1650" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="246" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+  <for>
+    <set val='246' order='0x08' stat='pAtk'/>
+    <set val='186' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9817' type="Weapon" name="Espada Mágica Dynasty - Perspicácia">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_magic_sword_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta a velocidade de Conjuração em 15%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1650" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="246" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3047" /> 
+	<set name="item_skill_lvl" val="3" />
+	<for>
+		<set val='246' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Perspicácia -->
+		<mul order="0x30" stat="mAtkSpd" val="1.05" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9818' type="Weapon" name="Espada Mágica Dynasty - Aumento de Mana">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_magic_sword_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 30%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1650" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="246" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3014" /> 
+	<set name="item_skill_lvl" val="2" />
+	<for>
+		<set val='246' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Aumento de Mana -->
+		<mul order="0x30" stat="maxMp" val="1.3" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9819' type="Weapon" name="Espada Mágica Dynasty - Perspicácia">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_magic_sword_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 60% e diminui o HP máximo em 40%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1650" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="246" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="sword" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3048" /> 
+	<set name="item_skill_lvl" val="2" />
+	<for>
+		<set val='246' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Perspicácia -->
+		<mul order="0x30" stat="maxMp" val="1.6" />
+		<mul order="0x30" stat="maxHp" val="0.6" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9820' type="Weapon" name="Arco Dynasty">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_bow_i00" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Concede Tiro Barato, Orientação ou Foco." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="634" />
+	<set name="rnd_dam" val="5" />
+	<set name="weapon_type" val="bow" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="293" />
+	<set name="mp_consume" val="9" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='634' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='293' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+
+<item id='9821' type="Weapon" name="Arco Dynasty - Tiro Barato">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_bow_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Ao lançar um ataque geral, há 46% de probabilidade de que o consumo de MP seja reduzido para 2. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="634" />
+	<set name="rnd_dam" val="5" />
+	<set name="weapon_type" val="bow" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="293" />
+	<set name="mp_consume" val="9" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='634' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='293' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Tiro Barato -->
+		<set val="2" order="0x08" stat="MpConsume">
+			<and>
+				<game skill="false" chance="46" />
+			</and>
+		</set>
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9822' type="Weapon" name="Arco Dynasty - Orientação">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_bow_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta a precisão em 5. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="634" />
+	<set name="rnd_dam" val="5" />
+	<set name="weapon_type" val="bow" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="293" />
+	<set name="mp_consume" val="9" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3064" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='634' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='293' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Orientação -->
+		<add order="0x40" stat="accCombat" val="5.32" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9823' type="Weapon" name="Arco Dynasty - Foco">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_bow_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o crítico em PvP. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="634" />
+	<set name="rnd_dam" val="5" />
+	<set name="weapon_type" val="bow" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="293" />
+	<set name="mp_consume" val="9" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3050" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='634' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='293' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Foco -->
+		<add order="0x40" stat="rCrit" val="116" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9824' type="Weapon" name="Adaga Dynasty">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_dagger_i00" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Concede Foco, Evasão ou Dano Crítico." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="269" />
+	<set name="rnd_dam" val="5" />
+	<set name="weapon_type" val="dagger" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="433" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='269' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='433' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+
+<item id='9825' type="Weapon" name="Adaga Dynasty - Foco">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_dagger_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta a taxa de ataque crítico em 61. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="269" />
+	<set name="rnd_dam" val="5" />
+	<set name="weapon_type" val="dagger" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="433" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3050" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='269' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='433' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Foco -->
+		<add order="0x40" stat="rCrit" val="116" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9826' type="Weapon" name="Adaga Dynasty - Evasão">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_dagger_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta a Evasão em 4. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="269" />
+	<set name="rnd_dam" val="5" />
+	<set name="weapon_type" val="dagger" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="433" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3009" /> 
+	<set name="item_skill_lvl" val="3" />
+	<for>
+		<set val='269' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='433' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Evasão -->
+		<add order="0x40" stat="rEvas" val="5.31" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9827' type="Weapon" name="Adaga Dynasty - Dano Crítico">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_dagger_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Durante um ataque crítico, aumenta o Atq. F. em 200. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="269" />
+	<set name="rnd_dam" val="5" />
+	<set name="weapon_type" val="dagger" />
+	<set name="critical" val="12" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="433" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3023" /> 
+	<set name="item_skill_lvl" val="3" />
+	<for>
+		<set val='269' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='12' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='433' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Critical Damage -->
+		<add order="0x40" stat="cAtkAdd" val="200.79" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9828' type="Weapon" name="Lança Dynasty">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_spear_i00" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Concede Raiva, Atordoamento Crítico ou Leve." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="2010" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="pole" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<set val='66' order='0x08' stat='pAtkRange'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+
+<item id='9829' type="Weapon" name="Lança Dynasty - Raiva">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_spear_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Diminui o HP máximo em 15% e aumenta o P. Atk. em 38. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="2010" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="pole" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3012" /> 
+	<set name="item_skill_lvl" val="4" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<set val='66' order='0x08' stat='pAtkRange'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Raiva -->
+		<add order="0x40" stat="pAtk" val="78.33" />
+		<mul order="0x30" stat="maxHp" val="0.85" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9830' type="Weapon" name="Lança Dynasty - Atordoamento Crítico">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_spear_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: 15% de chance de efeito de atordoamento durante um ataque crítico. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="2010" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="pole" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3016" /> 
+	<set name="item_skill_lvl" val="3" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<set val='66' order='0x08' stat='pAtkRange'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Na SQL -->
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9831' type="Weapon" name="Lança Dynasty - Leve">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_spear_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Diminua o peso da arma em 30%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="2010" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="pole" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="-3.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="1257" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='8' order='0x08' stat='rCrit'/>
+		<add val='-3' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<set val='66' order='0x08' stat='pAtkRange'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Light -->
+		<mul order="0x30" stat="maxLoad" val="1.2" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9832' type="Weapon" name="Martelo Dynasty">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_hammer_i00" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Concede Raiva, Saúde ou Rsk. Foco." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="blunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+
+<item id='9833' type="Weapon" name="Martelo Dynasty - Raiva">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_hammer_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Diminui o HP máximo em 15% e aumenta o P. Atk. em 38. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="blunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3012" /> 
+	<set name="item_skill_lvl" val="4" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Raiva -->
+		<add order="0x40" stat="pAtk" val="78.33" />
+		<mul order="0x30" stat="maxHp" val="0.85" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9834' type="Weapon" name="Martelo Dynasty - Vida">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_hammer_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="blunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3013" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Vida -->
+		<mul order="0x30" stat="maxHp" val="1.25" />
+		<add order="0x40" stat="atkCountMax" val="0" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9835' type="Weapon" name="Martelo Dynasty - Rsk. Foco">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_hammer_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 138 quando o HP chega a 60% ou menos. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="blunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3013" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Rsk. Foco -->
+		<add order="0x40" stat="rCrit" val="164" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9836' type="Weapon" name="Cajado Dynasty">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_staff_i00" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Concede Aumento de Mana, Conversão ou Perspicácia." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1080" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='298' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+
+<item id='9837' type="Weapon" name="Cajado Dynasty - Aumento de Mana">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_staff_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 30%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1080" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3014" /> 
+	<set name="item_skill_lvl" val="2" />
+	<for>
+		<set val='298' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Aumento de Mana -->
+		<mul order="0x30" stat="maxMp" val="1.3" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9838' type="Weapon" name="Cajado Dynasty - Perspicácia">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_staff_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 60% e diminui o HP máximo em 40%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1080" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3048" /> 
+	<set name="item_skill_lvl" val="2" />
+	<for>
+		<set val='298' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Perspicácia -->
+		<mul order="0x30" stat="maxMp" val="1.6" />
+		<mul order="0x30" stat="maxHp" val="0.6" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9839' type="Weapon" name="Cajado Dynasty - Perspicácia">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_staff_i01" />
+	<set name="bodypart" val="rhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta a velocidade de Conjuração em 15%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1080" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3047" /> 
+	<set name="item_skill_lvl" val="3" />
+	<for>
+		<set val='298' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Perspicácia -->
+		<mul order="0x30" stat="mAtkSpd" val="1.05" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9840' type="Weapon" name="Punho Dynasty">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_jamadhr_i00" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Concede Rsk. Aceleração, Vida ou Aceleração." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1550" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="374" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="dualfist" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='374' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+
+<item id='9841' type="Weapon" name="Punho Dynasty - Rsk. Evasão">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_jamadhr_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o Vel. Atq quando o HP chega a 60% ou menos. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1550" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="374" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="dualfist" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3032" /> 
+	<set name="item_skill_lvl" val="2" />
+	<for>
+		<set val='374' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Rsk. Evasão -->
+		<add order="0x40" stat="rEvas" val="6.8" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9842' type="Weapon" name="Punho Dynasty - Foco">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_jamadhr_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o HP em 60%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1550" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="374" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="dualfist" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3028" /> 
+	<set name="item_skill_lvl" val="2" />
+	<for>
+		<set val='374' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Foco -->
+		<add order="0x40" stat="rCrit" val="107" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9843' type="Weapon" name="Punho Dynasty - Aceleração">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_jamadhr_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta Vel. Atq. em cerca de 10%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1550" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="374" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="dualfist" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3036" /> 
+	<set name="item_skill_lvl" val="3" />
+	<for>
+		<set val='374' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Aceleração -->
+		<mul order="0x30" stat="pAtkSpd" val="1.1" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9844' type="Weapon" name="Sigilo Dynasty">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.dynasty_sigil_i00" />
+	<set name="bodypart" val="lhand" />
+	<set name="desc" val="" />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1390" />
+	<set name="crystal_type" val="s" />
+	<set name="weapon_type" val="none" />
+	<set name="avoid_modify" val="-8" />
+	<set name="shield_def" val="310" />
+	<set name="shield_def_rate" val="20" />
+	<set name="price" val="78400" />
+	<for>
+		<sub val='8' order='0x10' stat='rEvas'/>
+		<set val='310' order='0x08' stat='sDef'/>
+		<set val='20' order='0x08' stat='rShld'/>
+		<enchant val='0' order='0x0C' stat='sDef'/>
+	</for>
+</item>
+
+<item id='9845' type="Weapon" name="Escudo Dynasty">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_shield_i01" />
+	<set name="bodypart" val="lhand" />
+	<set name="desc" val="" />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1390" />
+	<set name="crystal_type" val="s" />
+	<set name="weapon_type" val="none" />
+	<set name="avoid_modify" val="-8" />
+	<set name="shield_def" val="310" />
+	<set name="shield_def_rate" val="20" />
+	<set name="price" val="78400" />
+	<for>
+		<sub val='8' order='0x10' stat='rEvas'/>
+		<set val='310' order='0x08' stat='sDef'/>
+		<set val='20' order='0x08' stat='rShld'/>
+		<enchant val='0' order='0x0C' stat='sDef'/>
+	</for>
+</item>
+
+<item id='9846' type="Weapon" name="Triturador Dynasty">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_crusher_i00" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Concede Raiva, Vida ou Rsk. Foco." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+
+<item id='9847' type="Weapon" name="Triturador Dynasty - Raiva">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_crusher_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Diminui o HP máximo em 15% e aumenta o Atq. F. em 38. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3012" /> 
+	<set name="item_skill_lvl" val="4" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Raiva -->
+		<add order="0x40" stat="pAtk" val="78.33" />
+		<mul order="0x30" stat="maxHp" val="0.85" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9848' type="Weapon" name="Triturador Dynasty - Vida">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_crusher_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o HP máximo em 25%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3013" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Rsk. Foco -->
+		<mul order="0x30" stat="maxHp" val="1.25" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9849' type="Weapon" name="Triturador Dynasty - Rsk. Foco">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_crusher_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 138 quando o HP chega a 60% ou menos. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1740" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="307" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="379" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="140" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3027" /> 
+	<set name="item_skill_lvl" val="3" />
+	<for>
+		<set val='307' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='379' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Rsk. Foco -->
+		<add order="0x40" stat="rCrit" val="164"/>
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9850' type="Weapon" name="Cajado de Duas Mãos Dynasty">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_twohand_staff_i00" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Concede Aumento de Mana, Conversão ou Perspicácia." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1080" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="299" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<for>
+		<set val='298' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Enhances damage to target during PvP -->
+		<mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+		<mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+	</for>
+</item>
+
+<item id='9851' type="Weapon" name="Cajado de Duas Mãos Dynasty - Aumento de Mana">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_twohand_staff_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 30%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1080" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="299" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3014" /> 
+	<set name="item_skill_lvl" val="2" />
+	<for>
+		<set val='298' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Aumento de Mana -->
+		<mul order="0x30" stat="maxMp" val="1.3" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9852' type="Weapon" name="Cajado de Duas Mãos Dynasty - Perspicácia">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_twohand_staff_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 60% e diminui o HP máximo em 40%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1080" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="299" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3048" /> 
+	<set name="item_skill_lvl" val="2" />
+	<for>
+		<set val='298' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Perspicácia -->
+		<mul order="0x30" stat="maxMp" val="1.6" />
+		<mul order="0x30" stat="maxHp" val="0.6" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9853' type="Weapon" name="Cajado de Duas Mãos Dynasty - Perspicácia">
+    <set name="icon" val="Avengers_Dynasty_wpTEX.weapon_dynasty_twohand_staff_i01" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta a velocidade de Conjuração em 15%. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1080" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="299" />
+	<set name="rnd_dam" val="20" />
+	<set name="weapon_type" val="bigblunt" />
+	<set name="critical" val="4" />
+	<set name="hit_modify" val="4.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="186" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3047" /> 
+	<set name="item_skill_lvl" val="3" />
+	<for>
+		<set val='298' order='0x08' stat='pAtk'/>
+		<set val='186' order='0x08' stat='mAtk'/>
+		<set val='4' order='0x08' stat='rCrit'/>
+		<add val='4' order='0x10' stat='accCombat'/>
+		<set val='325' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Perspicácia -->
+		<mul order="0x30" stat="mAtkSpd" val="1.05" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9854' type="Weapon" name="Lâmina Dupla Dynasty">
+    <set name="icon" val="icon.weapon_dual_sword_i00" />
+	<set name="bodypart" val="lrhand" />
+	<set name="desc" val="Cristal da Alma: Aumenta o Atq. F. em 521. Aumenta o dano infligido durante o PvP." />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1520" />
+	<set name="soulshots" val="1" />
+	<set name="spiritshots" val="1" />
+	<set name="crystal_type" val="s" />
+	<set name="p_dam" val="442" />
+	<set name="rnd_dam" val="10" />
+	<set name="weapon_type" val="dual" />
+	<set name="critical" val="8" />
+	<set name="hit_modify" val="0.00000" />
+	<set name="atk_speed" val="325" />
+	<set name="mp_consume" val="0" />
+	<set name="m_dam" val="163" />
+	<set name="price" val="74946000" />
+	<set name="crystal_count" val="3597" />
+	<set name="item_skill_id" val="3411" /> 
+	<set name="item_skill_lvl" val="1" />
+	<for>
+		<set val='298' order='0x08' stat='pAtk'/>
+		<set val='140' order='0x08' stat='mAtk'/>
+		<set val='11' order='0x08' stat='rCrit'/>
+		<add val='0' order='0x10' stat='accCombat'/>
+		<set val='433' order='0x08' stat='pAtkSpd'/>
+		<enchant val='0' order='0x0C' stat='pAtk'/>
+		<enchant val='0' order='0x0C' stat='mAtk'/>
+		<!-- Special Ability: Dual Blades -->
+		<mul order="0x30" stat="pAtk" val="1.00" />
+		<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+	</for>
+</item>
+
+<item id='9855' type="Weapon" name="Sigilo Dynasty - Fighter">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.dynasty_sigil_i00" />
+	<set name="bodypart" val="lhand" />
+	<set name="desc" val="" />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1390" />
+	<set name="crystal_type" val="s" />
+	<set name="weapon_type" val="none" />
+	<set name="avoid_modify" val="0" />
+	<set name="shield_def" val="0" />
+	<set name="shield_def_rate" val="0" />
+	<set name="price" val="78400" />
+	<for>
+		<sub val='0' order='0x10' stat='rEvas'/>
+		<set val='0' order='0x08' stat='sDef'/>
+		<set val='0' order='0x08' stat='rShld'/>
+		<enchant val='0' order='0x0C' stat='sDef'/>
+		<mul order="0x30" stat="pAtkSpd" val="1.1" />
+	</for>
+</item>
+
+<item id='9856' type="Weapon" name="Sigilo Dynasty - Magic">
+	<set name="icon" val="Avengers_Dynasty_wpTEX.dynasty_sigil_i00" />
+	<set name="bodypart" val="lhand" />
+	<set name="desc" val="" />
+	<set name="crystallizable" val="true" />
+	<set name="weight" val="1390" />
+	<set name="crystal_type" val="s" />
+	<set name="weapon_type" val="none" />
+	<set name="avoid_modify" val="0" />
+	<set name="shield_def" val="0" />
+	<set name="shield_def_rate" val="0" />
+	<set name="price" val="78400" />
+	<for>
+		<sub val='0' order='0x10' stat='rEvas'/>
+		<set val='0' order='0x08' stat='sDef'/>
+		<set val='0' order='0x08' stat='rShld'/>
+		<enchant val='0' order='0x0C' stat='sDef'/>
+		<mul order="0x30" stat="mAtkSpd" val="1.1" />
+	</for>
+</item>
+</list>

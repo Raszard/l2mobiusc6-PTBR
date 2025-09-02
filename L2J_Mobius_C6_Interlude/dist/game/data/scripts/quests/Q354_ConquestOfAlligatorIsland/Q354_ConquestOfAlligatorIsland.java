@@ -1,0 +1,181 @@
+/*
+ * This file is part of the L2J Mobius project.
+ * 
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ * General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+package quests.Q354_ConquestOfAlligatorIsland;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.l2jmobius.gameserver.model.actor.Npc;
+import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.model.quest.Quest;
+import org.l2jmobius.gameserver.model.quest.QuestState;
+import org.l2jmobius.gameserver.model.quest.State;
+
+public class Q354_ConquestOfAlligatorIsland extends Quest
+{
+	// Items
+	private static final int ALLIGATOR_TOOTH = 5863;
+	private static final int TORN_MAP_FRAGMENT = 5864;
+	private static final int PIRATE_TREASURE_MAP = 5915;
+	// Drops
+	private static final Map<Integer, int[][]> DROPLIST = new HashMap<>();
+	static
+	{
+		// @formatter:off
+		DROPLIST.put(20804, new int[][]{{ALLIGATOR_TOOTH, 1, 0, 490000},{TORN_MAP_FRAGMENT, 1, 0, 100000}}); // Crokian Lad
+		DROPLIST.put(20805, new int[][]{{ALLIGATOR_TOOTH, 1, 0, 560000},{TORN_MAP_FRAGMENT, 1, 0, 100000}}); // Dailaon Lad
+		DROPLIST.put(20806, new int[][]{{ALLIGATOR_TOOTH, 1, 0, 500000},{TORN_MAP_FRAGMENT, 1, 0, 100000}}); // Crokian Lad Warrior
+		DROPLIST.put(20807, new int[][]{{ALLIGATOR_TOOTH, 1, 0, 600000},{TORN_MAP_FRAGMENT, 1, 0, 100000}}); // Farhite Lad
+		DROPLIST.put(20808, new int[][]{{ALLIGATOR_TOOTH, 1, 0, 690000},{TORN_MAP_FRAGMENT, 1, 0, 100000}}); // Nos Lad
+		DROPLIST.put(20991, new int[][]{{ALLIGATOR_TOOTH, 1, 0, 600000},{TORN_MAP_FRAGMENT, 1, 0, 100000}}); // Swamp Tribe
+		// @formatter:on
+	}
+	private static final int[][] ADDITIONAL_REWARDS =
+	{
+		// @formatter:off
+		{736, 15},	// SoE
+		{1061, 20},	// Healing Potion
+		{734, 15},	// Haste Potion
+		{735, 15},	// Alacrity Potion
+		{1878, 35},	// Braided Hemp
+		{1875, 15},	// Stone of Purity
+		{1879, 15},	// Cokes
+		{1880, 15},	// Steel
+		{956, 1},	// Enchant Armor D
+		{955, 1},	// Enchant Weapon D
+		// @formatter:on
+	};
+	
+	public Q354_ConquestOfAlligatorIsland()
+	{
+		super(354, "Conquista da Alligator Island");
+		registerQuestItems(ALLIGATOR_TOOTH, TORN_MAP_FRAGMENT);
+		addStartNpc(30895); // Kluck
+		addTalkId(30895);
+		addKillId(20804, 20805, 20806, 20807, 20808, 20991);
+	}
+	
+	@Override
+	public String onAdvEvent(String event, Npc npc, Player player)
+	{
+		String htmltext = event;
+		final QuestState st = player.getQuestState(getName());
+		if (st == null)
+		{
+			return htmltext;
+		}
+		
+		switch (event)
+		{
+			case "30895-02.htm":
+			{
+				st.startQuest();
+				break;
+			}
+			case "30895-03.htm":
+			{
+				if (st.hasQuestItems(TORN_MAP_FRAGMENT))
+				{
+					htmltext = "30895-03a.htm";
+				}
+				break;
+			}
+			case "30895-05.htm":
+			{
+				final int amount = st.getQuestItemsCount(ALLIGATOR_TOOTH);
+				if (amount > 0)
+				{
+					int reward = amount * 300;
+					if (amount >= 100)
+					{
+						final int[] add_reward = ADDITIONAL_REWARDS[Integer.parseInt(event)];
+						st.rewardItems(add_reward[0], add_reward[1]);
+						htmltext = "30895-05b.htm";
+					}
+					else
+					{
+						htmltext = "30895-05a.htm";
+					}
+					
+					st.takeItems(ALLIGATOR_TOOTH, -1);
+					st.rewardItems(57, reward);
+				}
+				break;
+			}
+			case "30895-07.htm":
+			{
+				if (st.getQuestItemsCount(TORN_MAP_FRAGMENT) >= 10)
+				{
+					htmltext = "30895-08.htm";
+					st.takeItems(TORN_MAP_FRAGMENT, 10);
+					st.giveItems(PIRATE_TREASURE_MAP, 1);
+					st.playSound(QuestState.SOUND_ITEMGET);
+				}
+				break;
+			}
+			case "30895-09.htm":
+			{
+				st.playSound(QuestState.SOUND_FINISH);
+				st.exitQuest(true);
+				break;
+			}
+		}
+		
+		return htmltext;
+	}
+	
+	@Override
+	public String onTalk(Npc npc, Player player)
+	{
+		String htmltext = getNoQuestMsg();
+		final QuestState st = player.getQuestState(getName());
+		if (st == null)
+		{
+			return htmltext;
+		}
+		
+		switch (st.getState())
+		{
+			case State.CREATED:
+			{
+				htmltext = (player.getLevel() < 38) ? "30895-00.htm" : "30895-01.htm";
+				break;
+			}
+			case State.STARTED:
+			{
+				htmltext = (st.hasQuestItems(TORN_MAP_FRAGMENT)) ? "30895-03a.htm" : "30895-03.htm";
+				break;
+			}
+		}
+		
+		return htmltext;
+	}
+	
+	@Override
+	public String onKill(Npc npc, Player player, boolean isPet)
+	{
+		final Player partyMember = getRandomPartyMemberState(player, npc, State.STARTED);
+		if (partyMember == null)
+		{
+			return null;
+		}
+		
+		partyMember.getQuestState(getName()).dropMultipleItems(DROPLIST.get(npc.getNpcId()));
+		
+		return null;
+	}
+}

@@ -1,0 +1,845 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5000" type="EtcItem" name="Receita: Espada de Damasco (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada de Damasco. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="5001" type="EtcItem" name="Receita: Lance (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Lance. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="5002" type="EtcItem" name="Receita: Glória do Homem Morto (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Glória do Homem Morto. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="5003" type="EtcItem" name="Receita: Art Of Battle Axe (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Machado da Arte de Batalhar. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="5004" type="EtcItem" name="Receita: Cajado de Espíritos Malignos (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="5005" type="EtcItem" name="Receita: Adaga Demoníaca (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Adaga Demoníaca. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="5006" type="EtcItem" name="Receita: Bellion Cestus (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Bellion Cestus. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="5007" type="EtcItem" name="Receita: Arco do Perigo (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Arco do Perigo. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="5008" type="EtcItem" name="Receita: Pata (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita de uma Pata. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5009" type="EtcItem" name="Troféu de Aliança">
+		
+		<set name="icon" val="icon.etc_trophy_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma marca necessária para participar de uma guerra de clãs." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5010" type="EtcItem" name="Cristal de Eco - Tema da Vitória">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a música tema da vitória. Funcionará uma vez e depois desaparecerá." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5011" type="EtcItem" name="Estrela do Destino">
+		
+		<set name="icon" val="icon.etc_badge_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Acessório que Maestro Reorin criou após receber um pedido de uma mulher de identidade desconhecida." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5012" type="EtcItem" name="Carta de Leikan">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta recebida do Guarda Leikan. Leve-o para Piotur na fazenda a leste do Orc Barracks." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5013" type="EtcItem" name="Livro de Feitiços: Ataque Elemental">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="O Livro de Feitiços precisava aprender o Elemental Assault. Usado por feiticeiros e feiticeiras." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="7200" />
+	</item>
+	<item id="5014" type="EtcItem" name="Livro de Feitiços: Sinfonia Elemental">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Elemental Symphony. Usado por Spellsingers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="7200" />
+	</item>
+	<item id="5015" type="EtcItem" name="Livro de Feitiços: Tempestade Elemental">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Elemental Storm. Usado por Spellhowlers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="7200" />
+	</item>
+	<item id="5016" type="EtcItem" name="Semente: Coda das Trevas">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto da coda negra. Para obter melhores resultados, um personagem de nível 5-15 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="5017" type="EtcItem" name="Semente: Coda Vermelha">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio - ela dará o fruto do Coda Vermelha. Para obter melhores resultados, um personagem de nível 8-18 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="5018" type="EtcItem" name="Semente: Coda Fria">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio - ela dará o fruto do Coda Fria. Para obter melhores resultados, um personagem de nível 11-21 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="5019" type="EtcItem" name="Semente: Coda Azul">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio - ela dará o fruto da Coda Azul. Para obter melhores resultados, um personagem de nível 14-24 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="5020" type="EtcItem" name="Semente: Coda Dourada">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio - ela dará o fruto da Coda Dourada. Para obter melhores resultados, um personagem de nível 17-27 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5021" type="EtcItem" name="Semente: Coda Alaúde ">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio - ela dará o fruto do Coda Alaúde. Para obter melhores resultados, um personagem de nível 20-30 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30" />
+	</item>
+	<item id="5022" type="EtcItem" name="Semente: Coda do Deserto">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio - ela dará o fruto do Coda do Deserto. Para obter melhores resultados, um personagem de nível 23-33 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5023" type="EtcItem" name="Semente: Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Gludio e ela dará o fruto do Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5024" type="EtcItem" name="Semente: Coda Azul">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion - ela dará o fruto da Coda Azul. Para obter melhores resultados, um personagem de nível 14-24 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="5025" type="EtcItem" name="Semente: Coda Dourada">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion - ela dará o fruto da Coda Dourada. Para obter melhores resultados, um personagem de nível 17-27 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5026" type="EtcItem" name="Semente: Coda Alaúde ">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion - ela dará o fruto do Coda Alaúde. Para obter melhores resultados, um personagem de nível 20-30 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30" />
+	</item>
+	<item id="5027" type="EtcItem" name="Semente: Coda do Deserto">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion - ela dará o fruto do Coda do Deserto. Para obter melhores resultados, um personagem de nível 23-33 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5028" type="EtcItem" name="Semente: Cobol Vermelho">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Cobol Vermelho. Para obter melhores resultados, um personagem de nível 26-36 deve plantá-lo em um monstro de nível 26-36." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5029" type="EtcItem" name="Semente: Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="5030" type="EtcItem" name="Semente: Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5031" type="EtcItem" name="Semente: Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5032" type="EtcItem" name="Semente: Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Dion e ela dará o fruto do Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5033" type="EtcItem" name="Semente: Cobol Vermelho">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Cobol Vermelho. Para obter melhores resultados, um personagem de nível 26-36 deve plantá-lo em um monstro de nível 26-36." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5034" type="EtcItem" name="Semente: Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="5035" type="EtcItem" name="Semente: Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5036" type="EtcItem" name="Semente: Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5037" type="EtcItem" name="Semente: Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5038" type="EtcItem" name="Semente: Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5039" type="EtcItem" name="Semente: Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5040" type="EtcItem" name="Semente: Codra Gêmea">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5041" type="EtcItem" name="Semente: Codran do Deserto">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Giran e ela dará o fruto do Codran do Deserto. Para obter melhores resultados, um personagem de nível 59-69 deve plantá-lo em um monstro de nível 59-69." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5042" type="EtcItem" name="Semente: Coda das Trevas">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren - ela dará o fruto da Coda das Trevas. Para obter melhores resultados, um personagem de nível 5-15 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="5043" type="EtcItem" name="Semente: Coda Vermelha">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren - ela dará o fruto da Coda Vermelha. Para obter melhores resultados, um personagem de nível 8-18 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="5044" type="EtcItem" name="Semente: Coda Azul">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren - ela dará o fruto da Coda Azul. Para obter melhores resultados, um personagem de nível 14-24 deve plantá-lo em um monstro dentro do mesmo intervalo de nível." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="5045" type="EtcItem" name="Semente: Cobol Vermelho">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Cobol Vermelho. Para obter melhores resultados, um personagem de nível 26-36 deve plantá-lo em um monstro de nível 26-36." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="5046" type="EtcItem" name="Semente: Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="5047" type="EtcItem" name="Semente: Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5048" type="EtcItem" name="Semente: Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5049" type="EtcItem" name="Semente: Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Codran do Mar. Para melhores resultados, um personagem de nível 45-55 deve plantá-lo em um monstro de nível 45-55." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5050" type="EtcItem" name="Semente: Codran Frio">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Codran Frio. Para obter melhores resultados, um personagem de nível 47-57 deve plantá-lo em um monstro de nível 47-57." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5051" type="EtcItem" name="Semente: Codran Azul">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Codran Azul. Para obter melhores resultados, um personagem de nível 50-60 deve plantá-lo em um monstro de nível 50-60." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5052" type="EtcItem" name="Semente: Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Oren e ela dará o fruto do Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5053" type="EtcItem" name="Semente: Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5054" type="EtcItem" name="Semente: Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5055" type="EtcItem" name="Semente: Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5056" type="EtcItem" name="Semente: Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5057" type="EtcItem" name="Semente: Codran Frio">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Codran Frio. Para obter melhores resultados, um personagem de nível 47-57 deve plantá-lo em um monstro de nível 47-57." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5058" type="EtcItem" name="Semente: Codran Azul">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Codran Azul. Para obter melhores resultados, um personagem de nível 50-60 deve plantá-lo em um monstro de nível 50-60." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5059" type="EtcItem" name="Semente: Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5060" type="EtcItem" name="Semente: Codran Grande">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela produzirá o fruto do Codran Grande. Para obter melhores resultados, um personagem de nível 56-66 deve plantá-lo em um monstro de nível 56-66." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75" />
+	</item>
+	<item id="5061" type="EtcItem" name="Semente: Codran do Deserto">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Aden e ela dará o fruto do Codran do Deserto. Para obter melhores resultados, um personagem de nível 59-69 deve plantá-lo em um monstro de nível 59-69." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5062" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5063" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5064" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5065" type="EtcItem" name="Coda Fria">
+		<set name="icon" val="icon.etc_coda_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5066" type="EtcItem" name="Coda Queimado">
+		<set name="icon" val="icon.etc_coda_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5067" type="EtcItem" name="Coda Azul">
+		<set name="icon" val="icon.etc_coda_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5068" type="EtcItem" name="Coda Vermelha">
+		<set name="icon" val="icon.etc_coda_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5069" type="EtcItem" name="Coda Dourada">
+		<set name="icon" val="icon.etc_coda_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="5070" type="EtcItem" name="Coda do Deserto">
+		<set name="icon" val="icon.etc_coda_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="5071" type="EtcItem" name="Coda Alaúde ">
+		<set name="icon" val="icon.etc_coda_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="5072" type="EtcItem" name="Coda Dupla">
+		<set name="icon" val="icon.etc_coda_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5073" type="EtcItem" name="Coda Escura">
+		<set name="icon" val="icon.etc_coda_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5074" type="EtcItem" name="Coda Brilhante">
+		<set name="icon" val="icon.etc_coda_i09" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5075" type="EtcItem" name="Cobol Frio">
+		<set name="icon" val="icon.etc_cobol_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250" />
+	</item>
+	<item id="5076" type="EtcItem" name="Cobol Queimado">
+		<set name="icon" val="icon.etc_cobol_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5077" type="EtcItem" name="Cobol Azul">
+		<set name="icon" val="icon.etc_cobol_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="5078" type="EtcItem" name="Cobol Vermelho">
+		<set name="icon" val="icon.etc_cobol_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="5079" type="EtcItem" name="Cobol Dourado">
+		<set name="icon" val="icon.etc_cobol_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="5080" type="EtcItem" name="Cobol do Deserto">
+		<set name="icon" val="icon.etc_cobol_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5081" type="EtcItem" name="Cobol do Mar">
+		<set name="icon" val="icon.etc_cobol_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5082" type="EtcItem" name="Cobol Espinhento">
+		<set name="icon" val="icon.etc_cobol_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="5083" type="EtcItem" name="Cobol Manchado">
+		<set name="icon" val="icon.etc_cobol_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5084" type="EtcItem" name="Cobol Grande">
+		<set name="icon" val="icon.etc_cobol_i09" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="5085" type="EtcItem" name="Codran Frio">
+		<set name="icon" val="icon.etc_codran_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5086" type="EtcItem" name="Codran Ardente">
+		<set name="icon" val="icon.etc_codran_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5087" type="EtcItem" name="Codran Azul">
+		<set name="icon" val="icon.etc_codran_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="5088" type="EtcItem" name="Codran Vermelho">
+		<set name="icon" val="icon.etc_codran_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5089" type="EtcItem" name="Codran manchado">
+		<set name="icon" val="icon.etc_codran_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5090" type="EtcItem" name="Codran do Deserto">
+		<set name="icon" val="icon.etc_codran_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="5091" type="EtcItem" name="Codran do Mar">
+		<set name="icon" val="icon.etc_codran_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="5092" type="EtcItem" name="Codran Duplo">
+		<set name="icon" val="icon.etc_codran_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="5093" type="EtcItem" name="Codran Espinhento">
+		<set name="icon" val="icon.etc_codran_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5094" type="EtcItem" name="Codran Grande">
+		<set name="icon" val="icon.etc_codran_i09" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="5095" type="EtcItem" name="Coda Fria Madura">
+		<set name="icon" val="icon.etc_coda_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5096" type="EtcItem" name="Coda Queimada Madura">
+		<set name="icon" val="icon.etc_coda_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5097" type="EtcItem" name="Coda Azul Madura">
+		<set name="icon" val="icon.etc_coda_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5098" type="EtcItem" name="Coda Vermelho Maduro">
+		<set name="icon" val="icon.etc_coda_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5099" type="EtcItem" name="Coda Dourada Madura">
+		<set name="icon" val="icon.etc_coda_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+</list>

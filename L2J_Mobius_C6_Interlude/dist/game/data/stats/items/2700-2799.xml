@@ -1,0 +1,1002 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2700" type="EtcItem" name="Chave de Dieter">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma chave para o baú onde Dieter escondeu as Escrituras do Conhecimento. Leve isso para o Astrólogo Creta em Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2701" type="EtcItem" name="2a Carta de Creta">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta de Creta descrevendo o roubo das Escrituras do Conhecimento. Leve isso para Mestre Dieter na cidade de Giran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2702" type="EtcItem" name="Carta de Dieter">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de Mestre Dieter para o Comerciante Edroc da loja de armas de Hunters Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2703" type="EtcItem" name="Diário de Dieter">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mestre Diário de Dieter, dado a ele na esperança de que possa ser útil na recuperação das Escrituras do Conhecimento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2704" type="EtcItem" name="Envelope da Carta de Raut">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um envelope de carta simples sem conteúdo. O envelope está endereçado &quot;Para o Armazém Raut&quot;." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2705" type="EtcItem" name="Anel de Triff">
+		
+		<set name="icon" val="icon.accessary_aquastone_ring_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um anel dado por Bêbado Triff. Mostre este anel àqueles a quem Triff confiou as Escrituras do Conhecimento." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2706" type="EtcItem" name="Escritura Capítulo 1">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O 1a livro das Escrituras do Conhecimento. Reúna todos os 4 livros." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2707" type="EtcItem" name="Escritura Capítulo 2">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O 2a livro das Escrituras do Conhecimento. Reúna todos os 4 livros." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2708" type="EtcItem" name="Escritura Capítulo 3">
+		
+		<set name="icon" val="icon.weapon_apprentices_spellbook_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O 3a livro das Escrituras do Conhecimento. Reúna todos os 4 livros." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2709" type="EtcItem" name="Escritura Capítulo 4">
+		
+		<set name="icon" val="icon.weapon_apprentices_spellbook_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O 4a livro das Escrituras do Conhecimento. Reúna todos os 4 livros." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2710" type="EtcItem" name="Pedido de Valkon">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pedido do Guardião do Armazém Valkon. As instruções são para trazer de volta o cristal da pureza." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2711" type="EtcItem" name="Notas de Poitan">
+		
+		<set name="icon" val="icon.weapon_apprentices_spellbook_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Livros de contabilidade do ferreiro Poitan. Leve isso para o Ancião Casian das Terras Ermas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2712" type="EtcItem" name="Escrituras do Conhecimento">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma escritura editada pelo ancião Cronos. Diz-se que contém um vasto conhecimento do passado. Faz parte de um conjunto de 4 escrituras." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2713" type="EtcItem" name="Licor Forte">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Como o próprio nome indica, um licor forte. Leve isso para Drunkard Triff no porto." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2714" type="EtcItem" name="Cristal da Pureza">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um item que Valkon, Guardião do Armazém, na Giran Castle Town, concordou em trocar com você pelo capítulo 2 das escrituras." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2715" type="EtcItem" name="Lista de Casian">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="10 Peles de Canibal, 12 unidades de Sangue de Medusa, 5 unidades de Sangue da Alma Algemada e 5 Unhas de Gárgula Encantadas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2716" type="EtcItem" name="Pele de Canibal">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pele de um Canibal. Reúna 10 deles e leve-os ao Ancião Casian." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2717" type="EtcItem" name="Sangue de Medusa">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Sangue de Medusa. Reúna 12 garrafas e leve-as ao Ancião Casian." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2718" type="EtcItem" name="Sangue da Alma Algemada">
+		
+		<set name="icon" val="icon.etc_reagent_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O Sangue de uma Alma Algemada. Reúna 5 unidades e leve-as ao Ancião Casian." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2719" type="EtcItem" name="Unha da Gárgula Encantada">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As Unhas encantadas de uma Gárgula. Reúna 5 deles e leve-os ao Ancião Casian." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2720" type="EtcItem" name="Símbolo de Cronos">
+		
+		<set name="icon" val="icon.etc_coins_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A marca de Cronos, o sábio superior do continente. Leve isso para Magistrada Mirien na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2721" type="EtcItem" name="Marca do Peregrino">
+		
+		<set name="icon" val="icon.etc_jewel_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram pela Prova do Peregrino. Um item relacionado à mudança de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2722" type="EtcItem" name="Livro do Sábio">
+		
+		<set name="icon" val="icon.etc_spellbook_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro recebido do ancião Casian. Leve este livro ao Eremita Santiago." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2723" type="EtcItem" name="Voucher de Teste">
+		
+		<set name="icon" val="icon.etc_totem_necklace_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada pelo Eremita Santiago. Mostre isso ao Vidente Tanapi da Orc Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2724" type="EtcItem" name="Espírito das Chamas">
+		
+		<set name="icon" val="icon.etc_bead_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Prova de que você entende o Espírito das Chamas. Para realizar a próxima etapa deste julgamento, vá ver Gauri Twinklerock de de Anãos Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2725" type="EtcItem" name="Essência das Chamas">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma joia obtida da Salamandra de Lava. Leve isso para o Ancestral Martankus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2726" type="EtcItem" name="Livro de Gerald">
+		
+		<set name="icon" val="icon.weapon_apprentices_spellbook_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro dado pelo Padre Gerald. O livro parece muito barato." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2727" type="EtcItem" name="Emblema Cinza">
+		
+		<set name="icon" val="icon.etc_badge_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um distintivo dado por Andarilho Dorf. Leve isso para Sacerdote Primos em Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2728" type="EtcItem" name="Foto de Nahir">
+		
+		<set name="icon" val="icon.etc_plate_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma foto do monstro, Nahir. Derrote Nahir, que se esconde nas profundezas das Ruínas Élficas na Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2729" type="EtcItem" name="Cabelo de Nahir">
+		
+		<set name="icon" val="icon.etc_mane_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O cabelo do monstro, Nahir. Leve isso ao padre Petron." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2730" type="EtcItem" name="Estátua de Einhasad">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma estátua de Einhasad dada pelo Padre Petron. Leve isso para Andellia, que mora perto da Clareira da Árvore Mãe na Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2731" type="EtcItem" name="Livro das Trevas">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro dado por Uruha. O livro contém letras irreconhecíveis escritas com sangue." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2732" type="EtcItem" name="Restos de Salgueiro">
+		
+		<set name="icon" val="icon.etc_bark_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Detritos obtidos do salgueiro-negro. Vá e procure Uruha enquanto estiver de posse disso." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2733" type="EtcItem" name="Marca do Rumor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Isso contém rumores sobre Andarilho Dorf e Sacerdote Gerald." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2734" type="EtcItem" name="Marca da Confiança">
+		
+		<set name="icon" val="icon.etc_jewel_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada aos que passaram no Testemunho de Confiança. Um item relacionado à mudança de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2735" type="EtcItem" name="Carta Para Elfo">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta pedindo a confiança dos Elfos. Entregue isto ao Hierarca Asterios da Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2736" type="EtcItem" name="Carta Para Elfo Sombrio">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta solicitando a confiança dos Elfos Sombrios. Entregue isto ao Tetrarca Thifiell da Aldeia dos Elfos Sombrios." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2737" type="EtcItem" name="Carta Para Anão">
+		
+		<set name="icon" val="icon.etc_scroll_of_resurrection_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta pedindo a confiança dos Anões. Entregue isso para Lockirin da Dwarven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2738" type="EtcItem" name="Carta Para Orc">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta solicitando a confiança dos Orcs. Entregue isso ao Pa'agrio Lord Kakai na Orc Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2739" type="EtcItem" name="Carta Para Seresin">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta dada pelo Sumo Sacerdote Hollint. Entregue isto ao Cardeal Seresin na Town of Oren." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2740" type="EtcItem" name="Pergaminho da Confiança dos Elfos Sombrios">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pergaminho dado pelo tetrarca Thifiell. Entregue isso, junto com o pergaminho da confiança dos Elfos, ao Sumo Sacerdote Hollint." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2741" type="EtcItem" name="Pergaminho da Confiança dos Elfos">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este item pode ser obtido com Hierarch Asterios. Dê este item junto com o pergaminho de confiança dos Elfos Sombrios para o Sumo Sacerdote Hollint." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2742" type="EtcItem" name="Pergaminho da Confiança dos Anões">
+		
+		<set name="icon" val="icon.etc_scroll_of_resurrection_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pergaminho dado por Lockrin do Portão de Ferro. Entregue isso, junto com o pergaminho da confiança Orc, ao Cardeal Seresin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2743" type="EtcItem" name="Pergaminho da Confiança Orc">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pergaminho dado por Kakai, Senhor das Chamas. Entregue isso, junto com o pergaminho de confiança dos Anões, ao Cardeal Seresin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2744" type="EtcItem" name="Recomendação de Hollint">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Entregue isso ao Sumo Sacerdote Biotina no Templo de Einhasad na Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2745" type="EtcItem" name="Ordem de Asterios">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate Zephyr Luell dos Ventos e Actea Selvagens Verdejantes e traga de volta a prova de suas mortes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2746" type="EtcItem" name="Respiração dos Ventos">
+		
+		<set name="icon" val="icon.etc_potion_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Obtido de Zephyr Luell dos Ventos. Entregue isso, junto com a semente de verdura, ao Hierarca Asterios." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2747" type="EtcItem" name="Semente de Verdura">
+		
+		<set name="icon" val="icon.etc_broken_crystal_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma prova obtida de Actea Selvagens Verdejantes. Entregue isso, junto com o sopro dos ventos, ao Hierarca Asterios." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2748" type="EtcItem" name="Carta de Thifield">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Entregue isso ao Mestre Clayton, membro da Dark Elf Guild, na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2749" type="EtcItem" name="Sangue do Basilisco Guardião">
+		
+		<set name="icon" val="icon.etc_reagent_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este item pode ser obtido de um Basilisco Guardião. Colete 10 deles e crie Basilisk Plasma." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2750" type="EtcItem" name="Pulgão Gigante">
+		
+		<set name="icon" val="icon.etc_reagent_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Isso pode ser obtido de várias Formigas Soldados. Reúna 10 para criar o orvalho de mel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2751" type="EtcItem" name="Fluidos Stakatos">
+		
+		<set name="icon" val="icon.etc_reagent_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Isso pode ser obtido de vários Stakatos do Pântano. Reúna 10 para criar stakato ichor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2752" type="EtcItem" name="Plasma de Basilisco">
+		
+		<set name="icon" val="icon.etc_potion_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve isso, junto com o Melada e Ichor de Stakato, para Mestre Clayton." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2753" type="EtcItem" name="Melada">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve isso, junto com o Plasma de Basilisco e Ichor de Stakato, para o Mestre Clayton." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2754" type="EtcItem" name="Ichor de Stakato">
+		
+		<set name="icon" val="icon.etc_potion_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve isso, junto com o Melada e o Plasma de Basilisco, para o Mestre Clayton." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2755" type="EtcItem" name="Ordem de Clayton">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Obtenha Plasma de Basilisco de um Basilisco Guardião, Ichor de Stakato de um Stakatos do Pântano e Melada de umA Formiga Soldado e leve-os ao Mestre Clayton." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2756" type="EtcItem" name="Parasita de Lota">
+		
+		<set name="icon" val="icon.etc_totem_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Isso pode ser obtido no windsus. Reúna 10 deles e leve-os ao Vidente Manakia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2757" type="EtcItem" name="Carta Para Manakia">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta recebida de Pa'agrio Lord Kakai. Entregue isso ao Vidente Manakia na cidade de Giran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2758" type="EtcItem" name="Carta de Manakia">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta recebida do vidente Manakia. Entregue isso ao Lorde Pa'agrio Kakai." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2759" type="EtcItem" name="Carta Para Nikola">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta recebida de Lockrin do Portão de Ferro. Entregue isto ao Maestro Nikola da Torre Cruma." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2760" type="EtcItem" name="Ordem de Nikola">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Obtenha 10 porta heartstones e leve-os ao Maestro Nikola." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2761" type="EtcItem" name="Pedra do Coração da Porta">
+		
+		<set name="icon" val="icon.etc_poison_pouch_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Isso pode ser obtido em um Porta. Reúna 10 deles e leve-os ao Maestro Nikola." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2762" type="EtcItem" name="Marca do Duelista">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram na Prova do Duelista. Um item para mudança ocupacional." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2763" type="EtcItem" name="Pedir Gludio">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate pelo menos 10 perfuradores e 10 nobres líderes de formigas em Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2764" type="EtcItem" name="Ordem Dion">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate pelo menos 10 drones stakato do pântano e 10 buscadores mortos em Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2765" type="EtcItem" name="Ordem Giran">
+		
+		<set name="icon" val="icon.etc_scroll_of_resurrection_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate pelo menos 10 senhores Orcs de Breka e 10 almas acorrentadas em Giran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2766" type="EtcItem" name="Ordem Oren">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate pelo menos 10 lizardman overlords de Leto e 10 olhos de monstro encantados em Oren." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2767" type="EtcItem" name="Ordem Aden">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mate pelo menos 10 Orcs Tamlin e 10 arqueiros Orcs Tamlin em Aden." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2768" type="EtcItem" name="Fragmento do Perfurador">
+		
+		<set name="icon" val="icon.etc_stone_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento do Perfurador quebrado. Colete 10 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2769" type="EtcItem" name="Antena de Formigas Nobre">
+		
+		<set name="icon" val="icon.etc_insect_leg_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As antenas do Formigas Nobre Líder. Colete 10 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2770" type="EtcItem" name="Quitina de Zangão">
+		
+		<set name="icon" val="icon.etc_fang_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A quitina do Stakatos do Pântano Zangão. Colete 10 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2771" type="EtcItem" name="Presa do Caçador de Mortos">
+		
+		<set name="icon" val="icon.etc_fang_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As presas do Morcego Caçador de Mortos. Colete 10 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2772" type="EtcItem" name="Colar Senhor Soberano">
+		
+		<set name="icon" val="icon.accessary_necklace_of_anguish_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Colete 10 colares do Orc Breka Soberano e leve-os ao duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2773" type="EtcItem" name="Corrente da Alma Algemada">
+		
+		<set name="icon" val="icon.etc_totem_necklace_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As correntes que cercam o corpo de uma Alma Algemada. Colete 10 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2774" type="EtcItem" name="Amuleto do Chefe">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O amuleto de um Homem Lagarto Leto Soberano. Colete 10 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2775" type="EtcItem" name="Carne do Olho Encantada">
+		
+		<set name="icon" val="icon.etc_meat_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carne de um olho encantado. Colete 10 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2776" type="EtcItem" name="Anel do Orc Tamrin">
+		
+		<set name="icon" val="icon.accessary_cerberuss_ring_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O anel de um Orc Tamrin. Colete 10 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2777" type="EtcItem" name="Flecha do Orc Tamrin">
+		
+		<set name="icon" val="icon.weapon_wooden_arrow_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As flechas de um arqueiro Orc Tamrin. Colete 10 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2778" type="EtcItem" name="Pedido Final">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Derrote o Excuro e Krator da Torre Cruma, o Grandis de Giran, o Timak Orc Overlord de Oren e o Lakin de Aden 3 vezes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2779" type="EtcItem" name="Pele de Excuro">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pele do excuro. Colete 3 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2780" type="EtcItem" name="Fragmento do Krator">
+		
+		<set name="icon" val="icon.etc_stone_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O fragmento de um krator quebrado. Colete 3 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2781" type="EtcItem" name="Pele de Grandi">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pele de um grandis. Colete 3 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2782" type="EtcItem" name="Cinto do Orc Timak">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O cinto de um senhor Orc Timak. Colete 3 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2783" type="EtcItem" name="Maça de Lakin">
+		
+		<set name="icon" val="icon.weapon_spike_club_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Maça usada por um lakin. Colete 3 deles para levar ao Duelista Kaien." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2784" type="EtcItem" name="Carta de Lutero">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta dada pelo Mestre Lutero. Leve isso para Alex da Floran Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2785" type="EtcItem" name="Mandado de Alex">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um mandado escrito por Alex. Leve isso para Leirynn." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2786" type="EtcItem" name="1a Ordem de Leirynn">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma lista de ordens dadas por Leirynn. &quot;Mate 10 Delu Shamans e traga de volta seus Símbolos.&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2787" type="EtcItem" name="Delú Totem">
+		
+		<set name="icon" val="icon.etc_totem_necklace_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O totem do Xãma Saska. Leve isso, junto com o resto dos totens Delu Xãma, para Leirynn." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2788" type="EtcItem" name="2a Ordem de Leirynn">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma lista de ordens dadas por Leirynn. Mate o chefe Delu, Kalkis, e traga a prova." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2789" type="EtcItem" name="Presa do Chefe Kalki">
+		
+		<set name="icon" val="icon.etc_fang_ivory_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Prova de que o chefe Delu Kalkis foi morto. Leve isso para Leirynn." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2790" type="EtcItem" name="Relatório de Leirynn">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relatório emitido por Leirynn. Leve isso para Alex." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2791" type="EtcItem" name="Mapa Estranho">
+		
+		<set name="icon" val="icon.etc_map_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um estranho mapa obtido do chefe Delu Kalkis." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2792" type="EtcItem" name="Mapa de Lambert">
+		
+		<set name="icon" val="icon.etc_map_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um mapa onde está escrito o nome de Lambert, guarda do antigo senhor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2793" type="EtcItem" name="Carta de Alex">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta dada por Alex. Pegue isso e vá até o bêbado Borys na Town of Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2794" type="EtcItem" name="Pedido de Alex">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="ordens de Alex. As ordens dão instruções para encontrar e recuperar o ouro perdido de Duke Ashton." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2795" type="EtcItem" name="Catálogo de Vinhos">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma lista de vinhos premium publicada pela Giran Comerciantes' Guild. Mostre isso ao Comerciante Tyra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2796" type="EtcItem" name="Contrato de Tyra">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O contrato que o Comerciante Tyra elaborou. O contrato afirma que Tyra trocará 10 bolsas de pó de esporos vermelhos por um vinho Malrukiano." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2797" type="EtcItem" name="Pó de Esporo Vermelho">
+		
+		<set name="icon" val="icon.etc_powder_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pó de Esporos Vermelho obtido matando o Fungo Gigante. Reúna 10 algibeiras e leve-as ao Comerciante Tyra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2798" type="EtcItem" name="Vinho Malrukiano">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Vinho premium elaborado seguindo os métodos da tribo Malruk. Leve isso para o bêbado Borys." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2799" type="EtcItem" name="Ordem Antiga">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma ordem antiga recebida do bêbado Borys. Pegue isso e vá até o guarda-costas Jax." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

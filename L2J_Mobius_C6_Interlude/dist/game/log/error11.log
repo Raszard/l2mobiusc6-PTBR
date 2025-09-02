@@ -1,0 +1,169 @@
+ago. 31, 2025 6:26:09 PM org.l2jmobius.gameserver.scripting.ScriptEngineManager executeScriptList
+ADVERTÊNCIA: ScriptEngine: D:\L2\Backup\IDES\eclipse-workspace\L2J_Mobius_C6_Interlude\dist\game\data\scripts\ai\bosses\QueenAnt.java failed execution!
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:209)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:175)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:373)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "status" is null
+	at ai.bosses.QueenAnt.<init>(QueenAnt.java:90)
+	at ai.bosses.QueenAnt.main(QueenAnt.java:392)
+	... 8 more
+
+ago. 31, 2025 6:26:09 PM org.l2jmobius.gameserver.scripting.ScriptEngineManager executeScriptList
+ADVERTÊNCIA: ScriptEngine: D:\L2\Backup\IDES\eclipse-workspace\L2J_Mobius_C6_Interlude\dist\game\data\scripts\ai\bosses\Baium.java failed execution!
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:209)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:175)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:373)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "status" is null
+	at ai.bosses.Baium.<init>(Baium.java:107)
+	at ai.bosses.Baium.main(Baium.java:634)
+	... 8 more
+
+ago. 31, 2025 6:26:09 PM org.l2jmobius.gameserver.scripting.ScriptEngineManager executeScriptList
+ADVERTÊNCIA: ScriptEngine: D:\L2\Backup\IDES\eclipse-workspace\L2J_Mobius_C6_Interlude\dist\game\data\scripts\ai\bosses\Antharas.java failed execution!
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:209)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:175)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:373)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.l2jmobius.gameserver.model.StatSet.getLong(String)" because "info" is null
+	at ai.bosses.Antharas.init(Antharas.java:213)
+	at ai.bosses.Antharas.<init>(Antharas.java:113)
+	at ai.bosses.Antharas.main(Antharas.java:945)
+	... 8 more
+
+ago. 31, 2025 6:26:09 PM org.l2jmobius.gameserver.scripting.ScriptEngineManager executeScriptList
+ADVERTÊNCIA: ScriptEngine: D:\L2\Backup\IDES\eclipse-workspace\L2J_Mobius_C6_Interlude\dist\game\data\scripts\ai\bosses\Core.java failed execution!
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:209)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:175)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:373)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "org.l2jmobius.gameserver.instancemanager.GrandBossManager.getStatus(int)" is null
+	at ai.bosses.Core.<init>(Core.java:102)
+	at ai.bosses.Core.main(Core.java:240)
+	... 8 more
+
+ago. 31, 2025 6:26:09 PM org.l2jmobius.gameserver.scripting.ScriptEngineManager executeScriptList
+ADVERTÊNCIA: ScriptEngine: D:\L2\Backup\IDES\eclipse-workspace\L2J_Mobius_C6_Interlude\dist\game\data\scripts\ai\bosses\Frintezza.java failed execution!
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:209)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:175)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:373)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "status" is null
+	at ai.bosses.Frintezza.<init>(Frintezza.java:289)
+	at ai.bosses.Frintezza.main(Frintezza.java:1829)
+	... 8 more
+
+ago. 31, 2025 6:26:09 PM org.l2jmobius.gameserver.scripting.ScriptEngineManager executeScriptList
+ADVERTÊNCIA: ScriptEngine: D:\L2\Backup\IDES\eclipse-workspace\L2J_Mobius_C6_Interlude\dist\game\data\scripts\ai\bosses\VanHalter.java failed execution!
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:209)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:175)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:373)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "status" is null
+	at ai.bosses.VanHalter.<init>(VanHalter.java:243)
+	at ai.bosses.VanHalter.main(VanHalter.java:1718)
+	... 8 more
+
+ago. 31, 2025 6:26:09 PM org.l2jmobius.gameserver.scripting.ScriptEngineManager executeScriptList
+ADVERTÊNCIA: ScriptEngine: D:\L2\Backup\IDES\eclipse-workspace\L2J_Mobius_C6_Interlude\dist\game\data\scripts\ai\bosses\Valakas.java failed execution!
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:209)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:175)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:373)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "status" is null
+	at ai.bosses.Valakas.<init>(Valakas.java:91)
+	at ai.bosses.Valakas.main(Valakas.java:1531)
+	... 8 more
+
+ago. 31, 2025 6:26:09 PM org.l2jmobius.gameserver.scripting.ScriptEngineManager executeScriptList
+ADVERTÊNCIA: ScriptEngine: D:\L2\Backup\IDES\eclipse-workspace\L2J_Mobius_C6_Interlude\dist\game\data\scripts\ai\bosses\Zaken.java failed execution!
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:209)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:175)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:373)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "status" is null
+	at ai.bosses.Zaken.<init>(Zaken.java:168)
+	at ai.bosses.Zaken.main(Zaken.java:976)
+	... 8 more
+
+ago. 31, 2025 6:26:09 PM org.l2jmobius.gameserver.scripting.ScriptEngineManager executeScriptList
+ADVERTÊNCIA: ScriptEngine: D:\L2\Backup\IDES\eclipse-workspace\L2J_Mobius_C6_Interlude\dist\game\data\scripts\ai\bosses\Orfen.java failed execution!
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:209)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:175)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:373)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "status" is null
+	at ai.bosses.Orfen.<init>(Orfen.java:62)
+	at ai.bosses.Orfen.main(Orfen.java:228)
+	... 8 more
+
+ago. 31, 2025 6:26:09 PM org.l2jmobius.gameserver.data.sql.OfflineTraderTable restoreOfflineTraders
+ADVERTÊNCIA: OfflineTraderTable: Error while loading offline traders: 
+java.sql.SQLSyntaxErrorException: (conn=2549) Table 'l2jmobiusc6.character_offline_trade' doesn't exist
+	at org.mariadb.jdbc.internal.util.exceptions.ExceptionFactory.createException(ExceptionFactory.java:62)
+	at org.mariadb.jdbc.internal.util.exceptions.ExceptionFactory.create(ExceptionFactory.java:158)
+	at org.mariadb.jdbc.MariaDbStatement.executeExceptionEpilogue(MariaDbStatement.java:266)
+	at org.mariadb.jdbc.MariaDbStatement.executeInternal(MariaDbStatement.java:366)
+	at org.mariadb.jdbc.MariaDbStatement.executeQuery(MariaDbStatement.java:615)
+	at org.l2jmobius.gameserver.data.sql.OfflineTraderTable.restoreOfflineTraders(OfflineTraderTable.java:172)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:426)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: org.mariadb.jdbc.internal.util.exceptions.MariaDbSqlException: Table 'l2jmobiusc6.character_offline_trade' doesn't exist
+	at org.mariadb.jdbc.internal.util.exceptions.MariaDbSqlException.of(MariaDbSqlException.java:34)
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.exceptionWithQuery(AbstractQueryProtocol.java:194)
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.executeQuery(AbstractQueryProtocol.java:262)
+	at org.mariadb.jdbc.MariaDbStatement.executeInternal(MariaDbStatement.java:360)
+	... 4 more
+Caused by: java.sql.SQLException: Table 'l2jmobiusc6.character_offline_trade' doesn't exist
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.readErrorPacket(AbstractQueryProtocol.java:1695)
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.readPacket(AbstractQueryProtocol.java:1557)
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.getResult(AbstractQueryProtocol.java:1520)
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.executeQuery(AbstractQueryProtocol.java:256)
+	... 5 more
+

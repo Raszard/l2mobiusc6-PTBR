@@ -1,0 +1,3433 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/Quests.xsd">
+  <quest id="1" name="Cartas de Amor">
+    <lvlMin val="2" />
+    <lvlMax val="5" />
+    <questType val="3" />
+    <entityName val="Gatekeeper Roxxy" />
+    <contactNpc val="30048" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Darin, um jovem na Talking Island, carrega uma paixão pela Teleportadora Roxxy, que não retribui seu afeto. Darin não é tão facilmente dissuadido, no entanto." />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="2" name="O que as Mulheres Querem">
+    <lvlMin val="2" />
+    <lvlMax val="5" />
+    <questType val="3" />
+    <entityName val="Teleportadora Mirabel" />
+    <contactNpc val="30223" />
+    <restrictions val="Elfo" />
+    <description val="Arujian, um jovem da Elven Village, adora Magistrada Greenis de todo o coração, mas ninguém sabe se Greenis retribuirá seu afeto." />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="3" name="O Selo Será Quebrado?">
+    <lvlMin val="16" />
+    <lvlMax val="26" />
+    <questType val="3" />
+    <entityName val="School of Dark Arts" />
+    <contactNpc val="30141" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="O Humano traiu o segredo que manteve o Hierarca Mitraell selado por séculos! Ajude Tetrarca Talloth a quebrar o selo que prende Mitraell!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="4" name="Viva o Senhor Pa'Agrio!">
+    <lvlMin val="2" />
+    <lvlMax val="5" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30578" />
+    <restrictions val="Orc" />
+    <description val="Lorde Pa'agrio Kakai, o líder de todos os Orcs, está doente! os anciãos decidiram que cada tribo precisará entregar um presente a ele para garantir uma rápida recuperação." />
+    <class val="44-45-46-47-48-49-50-51-52-113-114-115-116" />
+  </quest>
+  <quest id="5" name="Favor do Mineiro">
+    <lvlMin val="2" />
+    <lvlMax val="5" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30554" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os membros da Guilda do Pilar Cinzento estão trabalhando duro na Strip Mine. O mineiro Bolter está preocupado porque não há ninguém disponível para reunir os suprimentos de que a aldeia precisa." />
+    <class val="53-54-55-56-57-117-118" />
+  </quest>
+  <quest id="101" name="Espada da Solidariedade">
+    <lvlMin val="9" />
+    <lvlMax val="16" />
+    <questType val="3" />
+    <entityName val="Ferreiro Altran" />
+    <contactNpc val="30008" />
+    <restrictions val="Humano" />
+    <description val="A Espada da Solidariedade há muito simboliza a amizade entre Elfos e Humanos. o desaparecimento da espada coincidiu com a deterioração dessa amizade. o Grão-Mestre Roien está procurando um guerreiro para devolver a espada ao seu lugar de honra." />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="102" name="Febre do Sea of Spores">
+    <lvlMin val="12" />
+    <lvlMax val="18" />
+    <questType val="3" />
+    <entityName val="Mestre Cobendell" />
+    <contactNpc val="30284" />
+    <restrictions val="Elfo" />
+    <description val="Sentinelas que estavam conduzindo experimentos no Sea of Spores ficaram com febre alta. Cavaleiro Sentinela Alberius está procurando alguém para visitar o Mestre Cobendell para obter a cura." />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="103" name="Espírito de Artesão">
+    <lvlMin val="10" />
+    <lvlMax val="17" />
+    <questType val="3" />
+    <entityName val="Celebrante Abissal Cecktinon" />
+    <contactNpc val="30307" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="Karrod da Dark Elven Village é o melhor de todos os Ferreiros Elfos. Apesar de sua incrível habilidade, ele ainda não pode refinar minério de oriharukon. Convoque um Anão Warsmith para descobrir o segredo!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="104" name="Espírito dos Espelhos">
+    <lvlMin val="10" />
+    <lvlMax val="15" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30017" />
+    <restrictions val="Humano" />
+    <description val="Três Espíritos do Espelho escaparam do laboratório do Magistrado Gallint na Talking Island! Capture e sele esses espíritos!" />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="105" name="Combate com os Orcs">
+    <lvlMin val="10" />
+    <lvlMax val="15" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30218" />
+    <restrictions val="Elfo" />
+    <description val="Orcs Kaboo das Montanhas Sombrias invadiram a Elven Forest novamente. Ajude a Sentinela Kendell e os Elfos Fighters a derrotar os invasores e tomar a cabeça do Capitão Orc!" />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="106" name="Verdade Esquecida">
+    <lvlMin val="10" />
+    <lvlMax val="15" />
+    <questType val="3" />
+    <entityName val="Celebrante Abissal Kartia" />
+    <contactNpc val="30358" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="O infame Orc Brigand roubou as Revelações de Kaysha! Recupere este documento vital para garantir o futuro de todos os Elfos Sombrios!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="107" name="Punição Impiedosa">
+    <lvlMin val="12" />
+    <lvlMax val="16" />
+    <questType val="3" />
+    <entityName val="Centurião Parugon" />
+    <contactNpc val="30568" />
+    <restrictions val="Orc" />
+    <description val="O traidor exilado Baranka planeja derrubar o reino dos Orcs! Revele sua trama perversa e destrua-o! Dejakar Oroka!" />
+    <class val="44-45-46-47-48-49-50-51-52-113-114-115-116" />
+  </quest>
+  <quest id="108" name="Confusão, Queda, Barulho de Diamante">
+    <lvlMin val="10" />
+    <lvlMax val="14" />
+    <questType val="3" />
+    <entityName val="Comerciante Reep" />
+    <contactNpc val="30523" />
+    <restrictions val="Anão" />
+    <description val="O Diamante Estrela é um dos apenas 12 em todo o continente! os Anões estão planejando um Confusão, Qued Barulho de Diamante!" />
+    <class val="53-54-55-56-57-117-118" />
+  </quest>
+  <quest id="151" name="Cura para Febre">
+    <lvlMin val="15" />
+    <lvlMax val="21" />
+    <questType val="3" />
+    <entityName val="Talking Island, Western Territory" />
+    <contactNpc val="30050" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os alunos da Einhovants School of Magic estão com uma febre misteriosa. o professor deles, Elias, está bastante preocupado." />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="152" name="Estilhaços de Golem">
+    <lvlMin val="10" />
+    <lvlMax val="17" />
+    <questType val="3" />
+    <entityName val="Ferreiro Altran" />
+    <contactNpc val="30035" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O telhado do Einhasad Temple desabou! Ajude o Magistrado Harrys a restaurar o templo!" />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="153" name="Entregar Mercadorias">
+    <lvlMin val="2" />
+    <lvlMax val="5" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30041" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A carga que se presumia perdida em um naufrágio recente foi recuperada. Ajude o guarda Arnold a entregar a carga aos destinatários." />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="154" name="Sacrifício ao Mar">
+    <lvlMin val="2" />
+    <lvlMax val="7" />
+    <questType val="3" />
+    <entityName val="Talking Island, Eastern Territory" />
+    <contactNpc val="30312" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Faroleiro Rockswell planeja um ritual de sacrifício para acalmar as tempestades que assolam a ilha. Desta vez, ele pretende usar uma boneca em vez de uma virgem viva." />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="155" name="Encontrar Senhor Windawood">
+    <lvlMin val="3" />
+    <lvlMax val="6" />
+    <questType val="3" />
+    <entityName val="Obelisk of Victory" />
+    <contactNpc val="30042" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Chegou uma carta importante para Senhor Colin Windawood, o Cônsul da Talking Island. Senhor Windawood, mais provável de ser descoberto em um passeio do que em seu escritório, não o viu. Encontre Senhor Windawood e entregue a carta a ele." />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="156" name="Amor Milenar">
+    <lvlMin val="15" />
+    <lvlMax val="19" />
+    <questType val="3" />
+    <entityName val="???" />
+    <contactNpc val="30368" />
+    <restrictions val="Sem Requisitos" />
+    <description val="as ramificações da antiga batalha com o diabo, Beleth, ainda perduram nesta terra. Lilith ainda sofre por seu amante perdido, Theon, no Einhasad Temple. Seu corpo não foi recuperado, então ela nunca aceitou verdadeiramente sua morte. Ela esperou por ele por 1000 anos em seu ponto de encontro combinado na Talking Island..." />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="157" name="Recuperar Mercadorias Contrabandeadas">
+    <lvlMin val="5" />
+    <lvlMax val="9" />
+    <questType val="3" />
+    <entityName val="A margem do lago perto da escola" />
+    <contactNpc val="30005" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Armazém Wilford está quebrando o embargo comercial contra Gracia que foi imposto após a guerra recente. Ele deve ter cuidado..." />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="158" name="Semente do Mal">
+    <lvlMin val="21" />
+    <lvlMax val="26" />
+    <questType val="3" />
+    <entityName val="Elven Ruins" />
+    <contactNpc val="30031" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O mal surgiu nas Elven Ruins há muito abandonadas! o Sumo Sacerdote Biotin foi avisado sobre esta ameaça em um sonho e está reunindo forças para lutar contra o mal." />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="159" name="Proteja a Fonte de Água">
+    <lvlMin val="12" />
+    <lvlMax val="18" />
+    <questType val="3" />
+    <entityName val="Fonte de água" />
+    <contactNpc val="30154" />
+    <restrictions val="Elfo" />
+    <description val="Alguém envenenou intencionalmente o abastecimento de água de Elven Village! o Hierarca Asterios está procurando um jovem voluntário para encontrar e destruir este malfeitor para salvar a Árvore Mãe!" />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="160" name="Pedido de Nerupa">
+    <lvlMin val="3" />
+    <lvlMax val="7" />
+    <questType val="3" />
+    <entityName val="Comerciante Unoren" />
+    <contactNpc val="30370" />
+    <restrictions val="Elfo" />
+    <description val="Nerup a zeladora da Árvore-Mãe, está procurando um voluntário para visitar a aldeia em seu nome. o Hierarca não permitirá que ela vá para lá." />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="161" name="Fruto da Árvore Mãe">
+    <lvlMin val="3" />
+    <lvlMax val="7" />
+    <questType val="3" />
+    <entityName val="Thalia" />
+    <contactNpc val="30362" />
+    <restrictions val="Elfo" />
+    <description val="Os elfos devem sua longa expectativa de vida ao consumo do fruto da Árvore Mãe. os cuidadores da árvore estão bastante preocupados com a recente queda na produção de frutas." />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="162" name="Maldição da Fortaleza Subterrânea">
+    <lvlMin val="12" />
+    <lvlMax val="21" />
+    <questType val="3" />
+    <entityName val="Elven Fortress" />
+    <contactNpc val="30147" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="Espíritos antigos começaram a assombrar as ruínas da guerra dos Elfos Sombrios na Fortaleza Subterrânea. Eles clamam por vingança..." />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="163" name="Legado do Poeta">
+    <lvlMin val="11" />
+    <lvlMax val="15" />
+    <questType val="3" />
+    <entityName val="Elven Fortress" />
+    <contactNpc val="30220" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="Rumiel Moonshine, um poeta incrível, entretém seus companheiros com poesia sombri detalhando o pavor e a tristeza da guerra. Infelizmente, ele sucumbiu muito jovem à violência que tão eloquentemente descreveu... Mas sua alma vive em seus escritos, escondida entre as ruínas da Fortaleza Subterrânea!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="164" name="Demônio de Sangue">
+    <lvlMin val="21" />
+    <lvlMax val="26" />
+    <questType val="3" />
+    <entityName val="Elven Fortress" />
+    <contactNpc val="30149" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="O sangrento Lorde Kirunak, o líder das trevas, matou muitos bravos guerreiros élficos na batalha final da Fortaleza Subterrânea! a lenda diz que ele ainda se esconde perto daquele campo de batalha arruinado! Levantem-se, guerreiros élficos! a vingança é nossa finalmente!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="165" name="Caçada de Shilen">
+    <lvlMin val="3" />
+    <lvlMax val="7" />
+    <questType val="3" />
+    <entityName val="Shilen's Garden" />
+    <contactNpc val="30348" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="O Cerimônia das Trevas em homenagem a Shilen está prestes a começar. Prepare-se para a Caçada da Glória! Pegue seus arcos e flechas e encontre oferendas para a Mãe do Abismo!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="166" name="Cerimônia das Trevas">
+    <lvlMin val="2" />
+    <lvlMax val="5" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30130" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="O Cerimônia das Trevas é realizada em homenagem a Shilen, a mãe de todos os Elfos Sombrios. Vamos todos trabalhar juntos para fazer deste o melhor festival de todos!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="167" name="Parentesco dos Anões">
+    <lvlMin val="15" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Armazém Haprock" />
+    <contactNpc val="30350" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Armazém, Carlon, não vê sua família desde que foi capturado pelos Elfos Sombrios há dez anos. Ele procura alguém para entregar uma mensagem a seu irmão Haprock na cidade de Gludio." />
+    <class val="" />
+  </quest>
+  <quest id="168" name="Entregar Suprimentos">
+    <lvlMin val="3" />
+    <lvlMax val="6" />
+    <questType val="3" />
+    <entityName val="Mestre Harant" />
+    <contactNpc val="30349" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="Tetrarca Kaitar é conhecido por ver o futuro. Ele previu que a vila logo será atacada." />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="169" name="Filhos de Pesadelos">
+    <lvlMin val="15" />
+    <lvlMax val="20" />
+    <questType val="3" />
+    <entityName val="Swampland" />
+    <contactNpc val="30145" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="Magistrado Vlasty está pesquisando o antigo monstro conhecido como o Terror Sombrio." />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="170" name="Sedução Perigosa">
+    <lvlMin val="21" />
+    <lvlMax val="26" />
+    <questType val="3" />
+    <entityName val="School of Dark Arts" />
+    <contactNpc val="30305" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="Os sonhos do tetrarca Vellior são constantemente assombrados por uma bela e misteriosa mulher! Descubra a verdade sobre sua origem nas ruínas da School of Dark Arts!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="211" name="Julgamento do Desafiante">
+    <lvlMin val="35" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Undine Waterfall" />
+    <contactNpc val="30644" />
+    <restrictions val="Warrior, Elfo Knight, Palus Knight, Orc Monk, Orc Raider" />
+    <description val="Muitos Guerreiros buscam a Marca do Desafiante como prova de seu valor. uma conspiração das trevas envolve a marca." />
+    <class val="1-19-32-47-45" />
+  </quest>
+  <quest id="212" name="Julgamento do Dever">
+    <lvlMin val="35" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Senhor Aron Tanford" />
+    <contactNpc val="30109" />
+    <restrictions val="Humano Knight, Elfo Knight, Palus Knight" />
+    <description val="Por que os cavaleiros lutam? para ganho pessoal ou aclamação pública? Esta pergunta deve ser respondida por todos os que são chamados à cavalaria!" />
+    <class val="4-19-32" />
+  </quest>
+  <quest id="213" name="Julgamento do Buscador">
+    <lvlMin val="35" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="???" />
+    <contactNpc val="30106" />
+    <restrictions val="Rogue, Elfo Scout, Assassin" />
+    <description val="A paz do reino é ameaçada por espíritos malignos mutantes. a Guilda dos Buscadores quer conduzir um reconhecimento secreto para descobrir o que eles estão fazendo. É um trabalho difícil e perigoso. Você tem certeza de que está preparado para seguir o Caminho do Buscador?" />
+    <class val="7-22-35" />
+  </quest>
+  <quest id="214" name="Julgamento do Estudioso">
+    <lvlMin val="35" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Sumo Sacerdote Sylvain" />
+    <contactNpc val="30461" />
+    <restrictions val="Humano Wizard, Elfo Wizard, Dark Wizard" />
+    <description val="Todo Mago deve passar pela Julgamento do Estudioso. Paixão e humildade são essenciais para o sucesso." />
+    <class val="11-26-39" />
+  </quest>
+  <quest id="215" name="Julgamento do Peregrino">
+    <lvlMin val="35" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Vidente Tanapi" />
+    <contactNpc val="30648" />
+    <restrictions val="Cleric, Elfo Oracle, Shillien Oracle, Orc Shaman" />
+    <description val="Para entender o poder de uma divindade, você deve primeiro entender sua natureza. Abra sua mente para novos padrões de pensamento. a verdadeira iluminação chega a todos que a buscam." />
+    <class val="15-29-42-50" />
+  </quest>
+  <quest id="216" name="Julgamento da Guilda">
+    <lvlMin val="35" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Ferreiro Altran" />
+    <contactNpc val="30103" />
+    <restrictions val="Scavenger, Artisan" />
+    <description val="Para se tornar um membro de pleno direito da sociedade dos anões, um aprendiz de anões deve primeiro provar seu valor criando 7 Anéis do Viajante." />
+    <class val="54-56" />
+  </quest>
+  <quest id="217" name="Testemunho da Confiança">
+    <lvlMin val="37" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Hierarca Asterios" />
+    <contactNpc val="30191" />
+    <restrictions val="Warrior, Humano Knight, Rogue, Human Wizard, Cleric" />
+    <description val="Os humanos dominam orgulhosamente este continente há milênios. Mas, como já foi dito, o orgulho precede a queda. Se quiserem sobreviver, devem restaurar a confiança das outras raças." />
+    <class val="1-4-7-11-15" />
+  </quest>
+  <quest id="218" name="Testemunho da Vida">
+    <lvlMin val="37" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Hierarca Asterios" />
+    <contactNpc val="30460" />
+    <restrictions val="Elfo Knight, Elfo Scout, Elven Wizard, Elven Oracle" />
+    <description val="A Árvore Mãe, a mãe e local de descanso final de todos os Elfos, está morrendo! para evitar outro sacrifício caro, ela deve ter lágrimas da mais pura criatur a Água da Vida!" />
+    <class val="19-22-26-29" />
+  </quest>
+  <quest id="219" name="Testemunho do Destino">
+    <lvlMin val="37" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Irmão Metheus" />
+    <contactNpc val="30476" />
+    <restrictions val="Palus Knight, Assassin, Dark Wizard, Shillien Oracle" />
+    <description val="Elfos Sombrios acreditam que são descendentes de sua mãe abissal, Shilen. Eles buscam suas verdades sombrias sobre os tempos caóticos que virão." />
+    <class val="32-35-39-42" />
+  </quest>
+  <quest id="220" name="Testemunho de Glória">
+    <lvlMin val="37" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30514" />
+    <restrictions val="Orc Raider, Orc Monk, Orc Shaman" />
+    <description val="Um inverno eterno está chegando! para sobreviver ao caos iminente, você deve ser capaz de unir o poder de todas as tribos Orc. Você está pronto para tal tarefa?" />
+    <class val="45-47-50" />
+  </quest>
+  <quest id="221" name="Testemunho de Prosperidade">
+    <lvlMin val="37" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30104" />
+    <restrictions val="Scavenger, Artisan" />
+    <description val="Anões entendem a virtude da abundância acima de todas as outras. Anões verdadeiros estudam os ensinamentos de Maphr para entender melhor o conceito de fartura!" />
+    <class val="54-56" />
+  </quest>
+  <quest id="222" name="Teste do Duelista">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30623" />
+    <restrictions val="Warrior, Elfo Knight, Palus Knight, Orc Monk" />
+    <description val="Apenas os melhores lutadores do reino ganham o título de &quot;Duelista&quot;. Eles devem conquistar o espírito maligno mais poderoso de cada território!" />
+    <class val="1-19-32-47" />
+  </quest>
+  <quest id="223" name="Teste do Campeão">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Mason" />
+    <contactNpc val="30624" />
+    <restrictions val="Warrior, Orc Raider" />
+    <description val="Esses tempos caóticos são os melhores para os Guerreiros. Tudo, desde lama e sangue coagulado até amor e romance, está à disposição!" />
+    <class val="1-45" />
+  </quest>
+  <quest id="224" name="Teste do Sagitário">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Sagitário Hamil" />
+    <contactNpc val="30702" />
+    <restrictions val="Rogue, Elfo Scout, Assassin" />
+    <description val="Hamil é um arqueiro incrível! Ele foi nomeado Sagitário aos 20 anos! Derrote-o e você ganhará seu título, o melhor arqueiro de todo o reino!" />
+    <class val="7-22-35" />
+  </quest>
+  <quest id="225" name="Teste do Pesquisador">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Alex" />
+    <contactNpc val="30690" />
+    <restrictions val="Rogue, Elfo Scout, Assassin, Scavenger" />
+    <description val="Os pesquisadores encontram coisas que estão escondidas. para obter a Marca do Pesquisador, fale com Alex em Floran Village. Ele já foi conhecido como o melhor batedor do reino!" />
+    <class val="7-22-35-54" />
+  </quest>
+  <quest id="226" name="Teste do Curandeiro">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Perrin" />
+    <contactNpc val="30473" />
+    <restrictions val="Humano Knight, Elfo Knight, Cleric, Oracle" />
+    <description val="A Marca do Curador só é concedida àqueles que reconhecem o poder da luz purificadora. as profecias falam de uma mulher que salvará o mundo das trevas e do caos! a conspiração começa com ela.." />
+    <class val="4-19-15-29" />
+  </quest>
+  <quest id="227" name="Teste do Reformador">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Execution Grounds" />
+    <contactNpc val="30118" />
+    <restrictions val="Cleric, Shillien Oracle" />
+    <description val="Os buscadores da verdadeira fé, quem deseja se tornar uma ponte entre este mundo e o próximo como Sacerdote, deve falar com um pregador exilado chamado Sl um verdadeiro homem de fé." />
+    <class val="15-42" />
+  </quest>
+  <quest id="228" name="Teste de Mago">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Parina" />
+    <contactNpc val="30629" />
+    <restrictions val="Humano Wizard, Elfo Wizard, Dark Wizard" />
+    <description val="Bardo Rukal está procurando por uma música misteriosa que ele acredita ser a origem da magia elemental. Ele acredita que essa música permitirá que ele pratique a magia suprema!" />
+    <class val="11-26-39" />
+  </quest>
+  <quest id="229" name="Teste de Bruxaria">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Comerciante Alexandria" />
+    <contactNpc val="30630" />
+    <restrictions val="Humano Knight, Wizard, Palus Knight" />
+    <description val="A caixa contém a alma do Magro Negro Aklantoth, da época do Império Elmoreden! Antes que você possa abri-lo, você deve responder ao enigma. Qual é o segredo escondido no enigma?" />
+    <class val="11-26-39" />
+  </quest>
+  <quest id="230" name="Teste do Invocador">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Comerciante Lara" />
+    <contactNpc val="30634" />
+    <restrictions val="Humano Wizard, Elfo Wizard, Dark Wizard" />
+    <description val="A magia de invocação exige que o usuário faça contato com um espírito inteligente e de alto nível. uma vez que o contato é feito, o usuário deve então controlar o espírito. os Testemunhos de Invocação são uma competição entre os usuários dessa magia." />
+    <class val="11-26-39" />
+  </quest>
+  <quest id="231" name="Teste do Maestro">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30531" />
+    <restrictions val="Artisian" />
+    <description val="Para se tornar um maestro, você deve passar no Teste de Maestro. Lockrin do Portão de Ferro, que administra o teste, diz que você deve obter e trazer recomendações de outros três anciãos. Você realmente será capaz de obter recomendações dos três anciãos anões que são conhecidos por terem padrões muito elevados?" />
+    <class val="56" />
+  </quest>
+  <quest id="232" name="Teste do Senhor">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30565" />
+    <restrictions val="Orc Shaman" />
+    <description val="Overlords nascem, não são feitos. para se tornar um Overlord que também ocupa o cargo de Chefe, o candidato deve passar no Teste do Lorde. o teste para determinar se você é digno de se tornar um Overlord começou!" />
+    <class val="50" />
+  </quest>
+  <quest id="233" name="Teste do Espírito de Guerra">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30510" />
+    <restrictions val="Orc Shaman" />
+    <description val="Um dos cargos mais altos que um Shaman pode esperar alcançar é Warcryer. o Warcryer invoca os espíritos de seus ancestrais que morreram em batalha. para se tornar um Warcryer, você deve recuperar as cinzas de um grande ancestral!" />
+    <class val="50" />
+  </quest>
+  <quest id="257" name="A Guarda Está Ocupada">
+    <lvlMin val="6" />
+    <lvlMax val="16" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30039" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A política de imigração de Talking Island foi relaxada para dar refúgio àqueles que fugiram da violência da Guerra Graciana. Mas ainda é um lugar bastante perigoso!" />
+    <class val="" />
+  </quest>
+  <quest id="258" name="Traga Peles de Lobo">
+    <lvlMin val="3" />
+    <lvlMax val="9" />
+    <questType val="2" />
+    <entityName val="Talking Island, Eastern Territory" />
+    <contactNpc val="30001" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Senhor Windawood ordenou que o recém-nomeado Arconte formasse uma milícia para melhorar a segurança na ilha. Ele fez um grande pedido de armadura de couro do Comerciante Lector. Reúna peles de lobo para ajudar a garantir a paz na Talking Island!" />
+    <class val="" />
+  </quest>
+  <quest id="260" name="Caçar os Orcs">
+    <lvlMin val="6" />
+    <lvlMax val="16" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30221" />
+    <restrictions val="Elfo" />
+    <description val="Orcs Kaboo das Montanhas Sombrias começaram a invadir a Elven Forest. Eles até se infiltraram na vila sob os olhos dos guardas! Todos os Elfos corajosos que podem ajudar devem se apresentar ao Sentinela Rayen!" />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="261" name="Sonho de Colecionador">
+    <lvlMin val="15" />
+    <lvlMax val="21" />
+    <questType val="2" />
+    <entityName val="Elven Forest" />
+    <contactNpc val="30222" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Alshupes, um zoólogo amador, tem um interesse particular pelas peles e garras de animais raros. Ele paga uma recompensa a quem lhe trouxer as pernas das aranhas gigantes mutantes que espreitam perto da aldeia." />
+    <class val="" />
+  </quest>
+  <quest id="262" name="Comércio com a Ivory Tower">
+    <lvlMin val="8" />
+    <lvlMax val="16" />
+    <questType val="2" />
+    <entityName val="Dark Forest" />
+    <contactNpc val="30137" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Comerciante Vollodos relata um aumento na demanda por esporos especiais produzidos apenas na Dark Elven Forest. Ele promete uma recompensa a quem lhe trouxer esses esporos especiais..." />
+    <class val="" />
+  </quest>
+  <quest id="263" name="Subjugação Orc">
+    <lvlMin val="8" />
+    <lvlMax val="16" />
+    <questType val="2" />
+    <entityName val="Dark Forest" />
+    <contactNpc val="30346" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="Nossos ex-escravos, os Orcs Balor, ousaram nos desafiar! Agora eles estão escondidos nas montanhas! Levantem-se, Guerreiros de Shilen, e ensinem uma lição aos nossos ex-escravos!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="264" name="Garras Afiadas">
+    <lvlMin val="3" />
+    <lvlMax val="9" />
+    <questType val="2" />
+    <entityName val="Shilen's Garden" />
+    <contactNpc val="30136" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Comerciante Payne desenvolveu uma flecha única que usa uma garra de lobo como ponta de flecha! É mais eficaz em situações de cerco. Payne está pagando recompensas para quem lhe trouxer garras de lobo para preencher o enorme pedido de Kiel Nighthawk." />
+    <class val="" />
+  </quest>
+  <quest id="265" name="Cadeias de Escravidão">
+    <lvlMin val="6" />
+    <lvlMax val="11" />
+    <questType val="2" />
+    <entityName val="Shilen's Garden" />
+    <contactNpc val="30357" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="Nossos ex-escravos, os Diabretes, conseguiram escapar enquanto estávamos distraídos com a guerra. É hora de ensinarmos a esses desgraçados ingratos que ninguém escapa dos Elfos Sombrios!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="266" name="Apelos das Pixies">
+    <lvlMin val="3" />
+    <lvlMax val="8" />
+    <questType val="2" />
+    <entityName val="Shadow of the Mother Tree" />
+    <contactNpc val="31852" />
+    <restrictions val="Elfo" />
+    <description val="Muitos keltir e Lobos cresceram extraordinariamente na Elven Forest e agora estão quebrando as regras da natureza ao devorar pássaros em ninhos! a Rainha Pixy está preparando uma magia especial para lidar com eles..." />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="267" name="Ira de Vegetação">
+    <lvlMin val="4" />
+    <lvlMax val="9" />
+    <questType val="2" />
+    <entityName val="Shadow of the Mother Tree" />
+    <contactNpc val="31853" />
+    <restrictions val="Elfo" />
+    <description val="Ente Bremec, um espírito da florest está sendo atormentado por pequenos goblins perversos que recentemente invadiram e começaram a derrubar sua floresta. Ele pede ajuda para restaurar a paz em sua amada floresta." />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="271" name="Prova de Valor">
+    <lvlMin val="4" />
+    <lvlMax val="8" />
+    <questType val="2" />
+    <entityName val="Valley of Heroes" />
+    <contactNpc val="30577" />
+    <restrictions val="Orc" />
+    <description val="Você é um verdadeiro Orc Fighter ou apenas um aspirante? Prove-se!" />
+    <class val="44-45-46-47-48-49-50-51-52-113-114-115-116" />
+  </quest>
+  <quest id="272" name="Ira dos Ancestrais">
+    <lvlMin val="5" />
+    <lvlMax val="16" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30572" />
+    <restrictions val="Orc" />
+    <description val="Aqueles descarados Goblins Ladrões de Túmulos insultaram os espíritos antigos pela última vez! Não há mais razão para aturar a insolência deles! Deixe-os agora provar o aço Orc!" />
+    <class val="44-45-46-47-48-49-50-51-52-113-114-115-116" />
+  </quest>
+  <quest id="273" name="Invasores da Terra Santa">
+    <lvlMin val="6" />
+    <lvlMax val="14" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30566" />
+    <restrictions val="Orc" />
+    <description val="Diabretes estão invadindo o Immortal Plateau, a pátria ancestral dos Orcs! Aqueles ímpetos e diabinhos tolos não têm chance contra nós! no nome sagrado de Pa'agrio, o Senhor da Chama! Levantem-se, Guerreiros orcs! Expulsem este flagelo da nossa terra!" />
+    <class val="44-45-46-47-48-49-50-51-52-113-114-115-116" />
+  </quest>
+  <quest id="274" name="Batalha com os Lobisomens">
+    <lvlMin val="9" />
+    <lvlMax val="18" />
+    <questType val="2" />
+    <entityName val="Immortal Plateau do Norte" />
+    <contactNpc val="30569" />
+    <restrictions val="Orc" />
+    <description val="Os diabólicos Lobisomens Maraku pagarão pelo assassinato de um mensageiro do Senhor da Chama! em nome de Pa'agrio, mate todos eles!" />
+    <class val="44-45-46-47-48-49-50-51-52-113-114-115-116" />
+  </quest>
+  <quest id="275" name="Espiões Alados Negros">
+    <lvlMin val="11" />
+    <lvlMax val="15" />
+    <questType val="2" />
+    <entityName val="Immortal Plateau do Norte" />
+    <contactNpc val="30567" />
+    <restrictions val="Orc" />
+    <description val="Chegou a hora do traidor Baranka pagar por seus crimes. Destrua os Morcegos de Asas Negras que espionam as tribos do reino." />
+    <class val="44-45-46-47-48-49-50-51-52-113-114-115-116" />
+  </quest>
+  <quest id="276" name="Totem dos Hestui">
+    <lvlMin val="15" />
+    <lvlMax val="21" />
+    <questType val="2" />
+    <entityName val="Immortal Plateau do Norte" />
+    <contactNpc val="30571" />
+    <restrictions val="Orc" />
+    <description val="O totem do urso cinz antigo guardião da tribo Hestui, está sob ataque das forças do espírito maligno Kasha! Salve o totem do urso cinza de seu terrível destino!" />
+    <class val="44-45-46-47-48-49-50-51-52-113-114-115-116" />
+  </quest>
+  <quest id="277" name="Oferta da Teleportadora">
+    <lvlMin val="15" />
+    <lvlMax val="21" />
+    <questType val="2" />
+    <entityName val="Immortal Plateau do Norte" />
+    <contactNpc val="30576" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Teleportadora Tamil deve fazer uma oferenda a um totem de aranha para completar seus estudos de teletransporte na Ivory Tower." />
+    <class val="" />
+  </quest>
+  <quest id="291" name="A Vingança do Redbonnet">
+    <lvlMin val="4" />
+    <lvlMax val="8" />
+    <questType val="2" />
+    <entityName val="Frozen Valley" />
+    <contactNpc val="30553" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Quando crianç Maryse Redbonnet escapou por pouco de ser comida por Lobos. sua família não teve tanta sorte. Ela jurou vingança contra todos os Lobos!" />
+    <class val="" />
+  </quest>
+  <quest id="292" name="Varredura de Bandidos">
+    <lvlMin val="5" />
+    <lvlMax val="18" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30532" />
+    <restrictions val="Anão" />
+    <description val="Os comboios da Guilda Roda Dourada recentemente sofreram ataques ousados ??de bandidos goblins. Pelo bem de Maphr, esse ultraje deve ser vingado! Vamos dar a esses goblins uma dose de justiça anã!" />
+    <class val="53-54-55-56-57-117-118" />
+  </quest>
+  <quest id="293" name="as Veias Ocultas">
+    <lvlMin val="6" />
+    <lvlMax val="15" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30535" />
+    <restrictions val="Anão" />
+    <description val="O ancião Filaur, um especialista em negócios de construção e mineração, descobriu que Otuk Orcs descobriram recentemente uma mina de crisólito perdida há muito tempo..." />
+    <class val="53-54-55-56-57-117-118" />
+  </quest>
+  <quest id="294" name="Negócio Secreto">
+    <lvlMin val="10" />
+    <lvlMax val="16" />
+    <questType val="2" />
+    <entityName val="Western Mining Zone" />
+    <contactNpc val="30534" />
+    <restrictions val="Anão" />
+    <description val="A Guilda da Chave de Bronze tem negociado com ingredientes raros por milênios. Eles estão procurando alguém para caçar morcegos para um cliente importante." />
+    <class val="53-54-55-56-57-117-118" />
+  </quest>
+  <quest id="295" name="Sonhando com os Céus">
+    <lvlMin val="11" />
+    <lvlMax val="15" />
+    <questType val="2" />
+    <entityName val="Western Mining Zone" />
+    <contactNpc val="30536" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Arin, da Guilda Bigorna Negr há muito sonhava em voar e agora está estudando a antiga tecnologia dos Titãs em busca de seu objetivo... Mas ele deve primeiro encontrar um monstro com uma Pedra Flutuante..." />
+    <class val="" />
+  </quest>
+  <quest id="296" name="Seda de Aranha Tarântula">
+    <lvlMin val="15" />
+    <lvlMax val="21" />
+    <questType val="2" />
+    <entityName val="Western Mining Zone" />
+    <contactNpc val="30519" />
+    <restrictions val="Anel de Guaxinim ou Anel de Vagalume" />
+    <description val="A Guilda Escama de Prata recebeu um pedido especial para 20 trajes de seda de aranha do Rei de Elmore! Eles são para os emissários de Aden e devem ser da mais alta qualidade! Mion, um alfaiate da guild está desesperado... Ele está com pouco tempo e materiais!" />
+    <class val="" />
+  </quest>
+  <quest id="297" name="Favor da Teleportadora">
+    <lvlMin val="15" />
+    <lvlMax val="21" />
+    <questType val="2" />
+    <entityName val="Western Mining Zone" />
+    <contactNpc val="30540" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Desde que o Teleportadora Wirphy começou a usar a tecnologia dos antigos Titãs, ele teve mais negócios do que pode lidar! Agora ele precisa de alguns ingredientes especiais para recarregar sua fonte de energia..." />
+    <class val="" />
+  </quest>
+  <quest id="303" name="Coletar Pontas de Flecha">
+    <lvlMin val="10" />
+    <lvlMax val="14" />
+    <questType val="2" />
+    <entityName val="Elven Ruins" />
+    <contactNpc val="30029" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Minia é uma colecionadora de armas estranhas de diversas culturas. Ela recentemente começou a coletar o armamento dos Turak Orcs, nativos da Talking Island..." />
+    <class val="" />
+  </quest>
+  <quest id="306" name="Cristais de Fogo e Gelo">
+    <lvlMin val="17" />
+    <lvlMax val="23" />
+    <questType val="2" />
+    <entityName val="Elven Ruins" />
+    <contactNpc val="30004" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Escondidas nas profundezas das Elven Ruins estão raras relíquias, uma vez usadas em rituais que honram os antigos espíritos da água e do fogo!... Destrua o mal que os guarda e recupere as relíquias inestimáveis!" />
+    <class val="" />
+  </quest>
+  <quest id="313" name="Coletar Esporos">
+    <lvlMin val="8" />
+    <lvlMax val="13" />
+    <questType val="2" />
+    <entityName val="Elven Forest" />
+    <contactNpc val="30150" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Sea of Spores foi criado por uma magia maligna lançada na Grande Guerra há mais de 2.000 anos! o veneno perverso perdurou por milênios e agora está cruzando as montanhas, seguindo direto para a Elven Forest! os Elfos estão tentando freneticamente encontrar uma maneira de detê-lo." />
+    <class val="" />
+  </quest>
+  <quest id="316" name="Destrua os Portadores da Praga">
+    <lvlMin val="18" />
+    <lvlMax val="24" />
+    <questType val="2" />
+    <entityName val="Elven Fortress" />
+    <contactNpc val="30155" />
+    <restrictions val="Elfo" />
+    <description val="Os Elfos nunca perdoaram os homens-rato por introduzirem a praga em sua sagrada Elven Forest... Sem mencionar sua aliança profana com os Elfos Sombrios que resultou na morte de milhares de Elfos! Mestra Ellenia está recrutando voluntários para destruir as feras imundas..." />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="317" name="Pegue o Vento">
+    <lvlMin val="18" />
+    <lvlMax val="23" />
+    <questType val="2" />
+    <entityName val="Elven Forest" />
+    <contactNpc val="30361" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Lireins são espíritos do vento e podem rapidamente provocar uma grande tempestade! Dentro de seus corpos, você encontrará Fragmento do Vento de pedra da alm bons para uma variedade de propósitos!" />
+    <class val="" />
+  </quest>
+  <quest id="319" name="Cheiro da Morte">
+    <lvlMin val="11" />
+    <lvlMax val="18" />
+    <questType val="2" />
+    <entityName val="Swampland" />
+    <contactNpc val="30138" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Um pouco de pele de cadáver moída é essencial para o cultivo de Belladona..." />
+    <class val="" />
+  </quest>
+  <quest id="320" name="Ossos Contam o Futuro">
+    <lvlMin val="10" />
+    <lvlMax val="18" />
+    <questType val="2" />
+    <entityName val="School of Dark Arts" />
+    <contactNpc val="30359" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="Tetrarca Kaitar prediz o futuro com ossos de homens mortos. Ele prevê uma escuridão se aproximando que ameaça destruir todas as raças! Ele precisa de um ingrediente secreto contendo uma incrível energia mortal para entender completamente a profecia..." />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="324" name="O mais Doce Veneno">
+    <lvlMin val="18" />
+    <lvlMax val="23" />
+    <questType val="2" />
+    <entityName val="ninho de aranha" />
+    <contactNpc val="30351" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Elfos Sombrios gostam muito de vinho drevient, uma bebida feita com veneno de aranhas. Astaron, um Mestre cervejeiro, se oferece para fazer algumas para você se você trouxer os ingredientes de que ele precisa." />
+    <class val="" />
+  </quest>
+  <quest id="325" name="Colecionador Sombrio">
+    <lvlMin val="15" />
+    <lvlMax val="26" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30336" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A lenda diz que existe alguém que coleciona pedaços de coisas mortas-vivas... o que ele poderia estar pensando?" />
+    <class val="" />
+  </quest>
+  <quest id="326" name="Vencer Remanescentes">
+    <lvlMin val="21" />
+    <lvlMax val="30" />
+    <questType val="2" />
+    <entityName val="acampamento abandonado" />
+    <contactNpc val="30435" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os Mercenários do Leão Negro estão procurando voluntários para ajudar a livrar o reino dos últimos invasores imundos de Gracian! Depois de sua derrota humilhante, a maioria dos gracianos voltou para cas mas alguns retardatários ficaram para trás para saquear e saquear. Fique com o Leão Negro contra os invasores imundos!" />
+    <class val="" />
+  </quest>
+  <quest id="328" name="Senso para os Negócios">
+    <lvlMin val="21" />
+    <lvlMax val="32" />
+    <questType val="2" />
+    <entityName val="Wastelands" />
+    <contactNpc val="30436" />
+    <restrictions val="Sem Requisitos" />
+    <description val="as lendas falam de um tesouro escondido nas Wastelands... Como um lugar tão desolado pode conter um tesouro?" />
+    <class val="" />
+  </quest>
+  <quest id="329" name="Curiosidade de um Anão">
+    <lvlMin val="33" />
+    <lvlMax val="38" />
+    <questType val="2" />
+    <entityName val="Wastelands" />
+    <contactNpc val="30437" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os Anões são naturalmente curiosos, mas Rolento é ainda mais curioso do que a maioria! Ele está procurando por algumas pessoas que pensam como ele para se juntar a ele..." />
+    <class val="" />
+  </quest>
+  <quest id="330" name="Adepto do Gosto">
+    <lvlMin val="24" />
+    <lvlMax val="34" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30469" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O sonho do chef Jonas sempre foi voltar à sua cidade natal como um chef de classe mundial. Ele planeja entrar em uma competição real, que será julgada por ninguém menos que Magistrada Mirien, uma comedora notoriamente meticulosa!... o que ele deve preparar...?" />
+    <class val="" />
+  </quest>
+  <quest id="331" name="Flecha da Vingança">
+    <lvlMin val="32" />
+    <lvlMax val="39" />
+    <questType val="2" />
+    <entityName val="Gorgon Flower Garden" />
+    <contactNpc val="30125" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Dragão Terrestre Antharas tem devastado o reino de Aden nos últimos anos. Há uma pessoa em particular que busca vingar sua tirania..." />
+    <class val="" />
+  </quest>
+  <quest id="333" name="Caça ao Leão Negro">
+    <lvlMin val="25" />
+    <lvlMax val="39" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30735" />
+    <restrictions val="Marca do Leão Negro" />
+    <description val="Espíritos malignos se aproveitaram da fraqueza de Aden após a Guerra Gracian para causar estragos em todo o reino. os Lordes de cada território convocaram os Mercenários do Leão Negro para afastar os espíritos malignos..." />
+    <class val="" />
+  </quest>
+  <quest id="334" name="Poção dos Desejos">
+    <lvlMin val="30" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="Árvore do Guardião do Segredo" />
+    <contactNpc val="30738" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A alquimista Matild há muito tenta criar uma poção misteriosa. Ela descobriu recentemente um livro contendo a receita e pede que você leve para ela. Ela lhe dá um livro de alquimia e indica como chegar à árvore do guardião do segredo." />
+    <class val="" />
+  </quest>
+  <quest id="335" name="Canção do Caçador">
+    <lvlMin val="35" />
+    <lvlMax val="59" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30744" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A Guilda dos Caçadores tem uma história longa e romântica e sempre esteve nos sonhos dos jovens que buscam aventura... Quer escolham caçar criminosos ou monstros! Definitivamente não é uma tarefa fácil ingressar na Guilda dos Caçadores." />
+    <class val="" />
+  </quest>
+  <quest id="336" name="Moedas de Magia">
+    <lvlMin val="40" />
+    <lvlMax val="60" />
+    <questType val="0" />
+    <entityName val="Presidente da Guilda Bernard" />
+    <contactNpc val="30232" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Quem teria pensado que a coleta de moedas poderia levar a um caos tão terrível em todo o reino? Parece impossível de controlar agora! Você pode obter o Associação de Colecionador de Moedas 1?" />
+    <class val="" />
+  </quest>
+  <quest id="337" name="Audiência com o Dragão da Terra">
+    <lvlMin val="50" />
+    <lvlMax val="64" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30753" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Dragão Terrestre Antharas invadiu todo o reino de Giran desde que acordou de seu antigo sono. Gabrielle está procurando um guerreiro para livrar a terra desse flagelo." />
+    <class val="" />
+  </quest>
+  <quest id="401" name="Caminho para um Warrior">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Comerciante Simplon" />
+    <contactNpc val="30010" />
+    <restrictions val="Humano Fighter" />
+    <description val="Todos os Guerreiros devem ser corajosos e tenazes. Você possui essas qualidades?" />
+    <class val="0" />
+  </quest>
+  <quest id="402" name="Caminho para um Humano Knight">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30417" />
+    <restrictions val="Humano Fighter" />
+    <description val="Para se tornar um Knight, você deve enfrentar a lendária missão conhecida como Caminho para um Humano Knight." />
+    <class val="0" />
+  </quest>
+  <quest id="403" name="Caminho para um Rogue">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Neti" />
+    <contactNpc val="30379" />
+    <restrictions val="Humano Fighter" />
+    <description val="Fale primeiro com o Guarda Bezique se quiser seguir o Caminho para um Rogue." />
+    <class val="0" />
+  </quest>
+  <quest id="404" name="Caminho para um Humano Wizard">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Salamandra Flamejante" />
+    <contactNpc val="30391" />
+    <restrictions val="Humano Mystic" />
+    <description val="Os Wizards devem ter uma compreensão profunda do poder e dos significados de cada um dos quatro elementos. uma ficha de fogo é essencial se você quiser seguir o Caminho para um Wizard!" />
+    <class val="10" />
+  </quest>
+  <quest id="405" name="Caminho para um Cleric">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Cidade de Gludio" />
+    <contactNpc val="30022" />
+    <restrictions val="Humano Mystic" />
+    <description val="Clerics em potencial devem confiscar livros subversivos e levá-los ao Sacerdote Zigaunt... Ele ficará muito impressionado!" />
+    <class val="10" />
+  </quest>
+  <quest id="406" name="Caminho para um Elfo Knight">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Ruins of Agony" />
+    <contactNpc val="30327" />
+    <restrictions val="Elfo Fighter" />
+    <description val="Por milênios, os Elfo KnightS percorreram o caminho da espada ou o caminho da flecha. Ambos os caminhos conduzem inevitavelmente a Eva e Einhasad..." />
+    <class val="18" />
+  </quest>
+  <quest id="407" name="Caminho para um Elfo Scout">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Guarda Moretti" />
+    <contactNpc val="30328" />
+    <restrictions val="Elfo Fighter" />
+    <description val="Elfo Scouts são os mais hábeis e elegantes de todos os Elfos! para se tornarem Scout, eles devem primeiro provar seu valor na batalha..." />
+    <class val="18" />
+  </quest>
+  <quest id="408" name="Caminho para um Elfo Wizard">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30414" />
+    <restrictions val="Elfo Mystic" />
+    <description val="Elfo Wizards têm jeito com espíritos... Mas primeiro, eles devem realizar um ritual para Eva..." />
+    <class val="25" />
+  </quest>
+  <quest id="409" name="Caminho para um Elfo Oracle">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="???" />
+    <contactNpc val="30293" />
+    <restrictions val="Elfo Mystic" />
+    <description val="A revelação das chamas foi transmitida entre os sacerdotes élficos durante séculos. Rumores persistem de que uma garota revelação apareceu recentemente..." />
+    <class val="25" />
+  </quest>
+  <quest id="410" name="Caminho para um Palus Knight">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Neutral Zone" />
+    <contactNpc val="30329" />
+    <restrictions val="Dark Fighter" />
+    <description val="Elfos Sombrios Knights deve passar por dois testes para se tornar um Palus Knight de elite. Você é digno de se juntar a eles?" />
+    <class val="31" />
+  </quest>
+  <quest id="411" name="Caminho para um Assassin">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Bruxa Arkenia" />
+    <contactNpc val="30416" />
+    <restrictions val="Dark Fighter" />
+    <description val="Um Dark Fighter é um Assassin implacável e silencioso. Encontre Arkenia no altar da cerimônia de maioridade e prove seu valor para ela." />
+    <class val="31" />
+  </quest>
+  <quest id="412" name="Caminho para um Dark Wizard">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="30421" />
+    <restrictions val="Dark Mystic" />
+    <description val="Shilen é a mãe das artes das trevas. para se tornar um Dark Wizard, é preciso provar ser capaz de controlar os espíritos com seu poder." />
+    <class val="38" />
+  </quest>
+  <quest id="413" name="Caminho para um Shillien Oracle">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Magistrado Talbot" />
+    <contactNpc val="30330" />
+    <restrictions val="Dark Mystic" />
+    <description val="Os Shillien Oracles buscam a verdade e a iluminação na escuridão que nos cerca. Nem todos são dignos de tão nobre profissão." />
+    <class val="38" />
+  </quest>
+  <quest id="414" name="Caminho para um Orc Raider">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Northern Immortal Plateau" />
+    <contactNpc val="30570" />
+    <restrictions val="Orc Fighter" />
+    <description val="Orc Raiders inspiram medo em seus inimigos com sua coragem que desafia a morte e porte real." />
+    <class val="44" />
+  </quest>
+  <quest id="415" name="Caminho para um Monk">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Khavatari Rosheek" />
+    <contactNpc val="30587" />
+    <restrictions val="Orc Fighter" />
+    <description val="Orcs Monks são Mestres da tradicional arte marcial Orc, kabart. o caminho do Monk exige que eles recebam pergaminhos de dois Mestres." />
+    <class val="44" />
+  </quest>
+  <quest id="416" name="Caminho para um Orc Shaman">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Cave of Trials" />
+    <contactNpc val="30585" />
+    <restrictions val="Orc Mytisc" />
+    <description val="Os Orc Shamans devem dominar a linguagem do fogo para se comunicar com as almas no campo de batalha." />
+    <class val="49" />
+  </quest>
+  <quest id="417" name="Caminho para um Scavenger">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Comerciante Mion" />
+    <contactNpc val="30524" />
+    <restrictions val="Anão Fighter" />
+    <description val="Mestre Tom professor do caminho do Scavenger, está desaparecido! Você deve encontrá-lo!" />
+    <class val="53" />
+  </quest>
+  <quest id="418" name="Caminho para um Artisan">
+    <lvlMin val="19" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Abandoned Coal Mines" />
+    <contactNpc val="30527" />
+    <restrictions val="Anão Fighter" />
+    <description val="Os Anões Artisans são artesãos consumados. Eles devem passar por testes dos três Ferreiros." />
+    <class val="53" />
+  </quest>
+  <quest id="419" name="Tenha um Animal de Estimação">
+    <lvlMin val="15" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30731" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Um animal de estimação será seu amigo nos momentos mais difíceis. Não é fácil adquirir um, no entanto." />
+    <class val="" />
+  </quest>
+  <quest id="420" name="Pequena Asa">
+    <lvlMin val="35" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="Ancião Cronos" />
+    <contactNpc val="30829" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Filhotes são, honestamente, criaturinhas feias! Mas de que outra forma você conseguiria um Strider ou um Wyvern?" />
+    <class val="" />
+  </quest>
+  <quest id="501" name="Prova da Aliança do Clã">
+    <lvlMin val="0" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Bruxa Kalis" />
+    <contactNpc val="30756" />
+    <restrictions val="Líder do Clã, Nível 3 do Clã" />
+    <description val="Os ventos do destino trouxeram você a este lugar! a crônica caótica deve cessar! Quando conseguirmos isso, nosso Clã estará mais forte do que nunca! Surgir!" />
+    <class val="" />
+  </quest>
+  <quest id="503" name="Em Busca da Ambição do Clã!">
+    <lvlMin val="0" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Martien" />
+    <contactNpc val="30760" />
+    <restrictions val="Líder do Clã, Nível 4 do Clã" />
+    <description val="Senhor Gustav Athebaldt tem sérias preocupações sobre o futuro do reino. Ele não quer nada além de ajudar os jovens e corajosos líderes a trazer a paz para a terra! Se você unir forças com ele na Vila de Oren, ele lhe dará uma prova de expectativ aumentando o poder do Clã!" />
+    <class val="" />
+  </quest>
+  <quest id="362" name="Bandolim do Bardo">
+    <lvlMin val="15" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="Comerciante Woodrow" />
+    <contactNpc val="30957" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A música é a mais bela forma de expressão!. um certo jovem, tímido e cego de amor, sabe muito bem disso..." />
+    <class val="" />
+  </quest>
+  <quest id="363" name="Som Doloroso de Flauta">
+    <lvlMin val="15" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30956" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A música é a mais bela forma de expressão! Mesmo uma certa dama de nobreza com gosto requintado é indefesa em seu abraço!" />
+    <class val="" />
+  </quest>
+  <quest id="364" name="Acordeão Jovial">
+    <lvlMin val="15" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="cisne bardo" />
+    <contactNpc val="30959" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Alguém disse que a música é a forma mais bonita de se mostrar... o músico que ama a música e se autodenomina o Mestre da melodi procura alguém que possa tocar com ele..." />
+    <class val="" />
+  </quest>
+  <quest id="348" name="Uma Busca Arrogante">
+    <lvlMin val="60" />
+    <lvlMax val="75" />
+    <questType val="2" />
+    <entityName val="Entrada para a Giant's Cave" />
+    <contactNpc val="30864" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Acima da Tower of Insolence gira um vórtice misterioso. Lá os deuses selaram Baium, o arrogante criador da torre. o que você pode aprender lá?" />
+    <class val="" />
+  </quest>
+  <quest id="422" name="Arrependa-se de Seus Pecados">
+    <lvlMin val="0" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30981" />
+    <restrictions val="Deve ter +1 de PK" />
+    <description val="O Juiz Sombrio dá aos pecadores uma chance de redenção. Você seguirá o caminho da penitênci pecador? Esteja avisado, com certeza será repleto de provações e tribulações!" />
+    <class val="" />
+  </quest>
+  <quest id="504" name="Competição Pela Bandit Stronghold">
+    <lvlMin val="0" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="35437" />
+    <restrictions val="Líder do Clã, acima do nível 4 do Clã, 1 hora antes da Guerra do Salão do Clã" />
+    <description val="Uma guerra Santa estourou sobre a posição do Ol Mahum chefe da Bandit Stronghold! a competição tornou-se tão acirrada que foi aberta a pessoas de fora!" />
+    <class val="" />
+  </quest>
+  <quest id="347" name="Vá Obter a Calculadora.">
+    <lvlMin val="12" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30526" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Não é dito que a insanidade sempre está no cerne do gênio? o Ferreiro Brunon sonha em ser o primeiro a visitar a lu mas deve ter algo primeiro..." />
+    <class val="" />
+  </quest>
+  <quest id="340" name="Subjugação do Homem Lagarto">
+    <lvlMin val="17" />
+    <lvlMax val="21" />
+    <questType val="2" />
+    <entityName val="Fellmere Harvesting Grounds" />
+    <contactNpc val="30385" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Embora cercado por todas as direções, outra força começou a ameaçar Gludio! Homem Lagarto começaram a saquear e pilhar por toda a terra! Destrua-os e restaure a paz!" />
+    <class val="" />
+  </quest>
+  <quest id="171" name="Atos de Maldade">
+    <lvlMin val="27" />
+    <lvlMax val="32" />
+    <questType val="3" />
+    <entityName val="Comerciante Arodin" />
+    <contactNpc val="30381" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Espíritos malignos ameaçadores ameaçam cada vez mais a paz de Gludio! Desmascare e destrua a conspiração entre os Orcs Turek e os Ol Mahums na parte norte do território!" />
+    <class val="" />
+  </quest>
+  <quest id="343" name="Sob a Sombra da Ivory Tower">
+    <lvlMin val="40" />
+    <lvlMax val="47" />
+    <questType val="2" />
+    <entityName val="Cratera da Ivory Tower" />
+    <contactNpc val="30834" />
+    <restrictions val="Humano Wizard, Elfo Wizard, Dark Wizard, Feiticeiro/ss, Necromante, Bruxo, Feiticeiro, Invocador Elemental, Gritador, Invocador Fantasma" />
+    <description val="O mineral há muito procurado, Nebulit foi usado pelos antigos gigantes como um amplificador mágico. uma missão secreta está em andamento para garantir um suprimento dele..." />
+    <class val="11-26-39-12-13-14-27-28-40-41" />
+  </quest>
+  <quest id="338" name="Caçador de Jacaré">
+    <lvlMin val="40" />
+    <lvlMax val="47" />
+    <questType val="2" />
+    <entityName val="Alligator Island" />
+    <contactNpc val="30892" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Jacarés gigantes ameaçam Innadril! o Comerciante Enbern está procurando alguém para ajudá-lo a capturar algumas das feras..." />
+    <class val="" />
+  </quest>
+  <quest id="341" name="Caça às Feras Selvagens">
+    <lvlMin val="20" />
+    <lvlMax val="24" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30078" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O salmão voltou ao rio tão rápido quanto um raio! o merceeiro Pano correu para vender suprimentos de pesc mas problemas imprevistos ameaçam sua própria existência..." />
+    <class val="" />
+  </quest>
+  <quest id="344" name="1000 Anos, o Fim da Lamentação">
+    <lvlMin val="48" />
+    <lvlMax val="55" />
+    <questType val="2" />
+    <entityName val="Dragon Valley" />
+    <contactNpc val="30754" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Há muito tempo, bravos Guerreiros empunhando espadas partiram para matar o dragão da terr Antharas. com suas armaduras brilhantes e belos cavalos brancos brilhando ao sol, eles se dirigiram ao pôr do sol para enfrentar a best para nunca mais voltar..." />
+    <class val="" />
+  </quest>
+  <quest id="327" name="Recupere a Fazenda">
+    <lvlMin val="25" />
+    <lvlMax val="34" />
+    <questType val="2" />
+    <entityName val="Orc Barracks" />
+    <contactNpc val="30597" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Tudo o que esperava os fazendeiros voltando para casa da longa guerra era terra queimada e bárbaros malvados!" />
+    <class val="" />
+  </quest>
+  <quest id="259" name="Apelo do Fazendeiro">
+    <lvlMin val="15" />
+    <lvlMax val="21" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30497" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Edmond e Marius sonham em construir um rancho de sucesso na Talking Island, mas certos monstros de oito patas estão em seu caminho..." />
+    <class val="" />
+  </quest>
+  <quest id="350" name="Melhore sua Arma">
+    <lvlMin val="40" />
+    <lvlMax val="80" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="0" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Uma grande e desconhecida escuridão surge no horizonte... Pressentindo o caos que se aproxim os Magistrados e Maestros estão preparando caminhos secretos para conter a ameaça." />
+    <class val="" />
+  </quest>
+  <quest id="345" name="Método para Ressuscitar os Mortos">
+    <lvlMin val="35" />
+    <lvlMax val="42" />
+    <questType val="2" />
+    <entityName val="Field of Whispers" />
+    <contactNpc val="30970" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Depois de muitas dificuldades, a Serralheria Dorothy e seus amigos conseguiram roubar o tesouro do lendário pirata Zaken! a presa brilhante os esperava perto da aldeia." />
+    <class val="" />
+  </quest>
+  <quest id="421" name="A Grande Aventura da Pequena Asa">
+    <lvlMin val="45" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30610" />
+    <restrictions val="Pet Nível 55, um Dragonflute" />
+    <description val="Criar um filhote gordo e preguiçoso não é uma tarefa fácil! Agora você colherá a colheita de seu trabalho duro!" />
+    <class val="" />
+  </quest>
+  <quest id="351" name="Cisne Negro">
+    <lvlMin val="32" />
+    <lvlMax val="36" />
+    <questType val="2" />
+    <entityName val="Field of Silence" />
+    <contactNpc val="30916" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Homens Lagarto Tasaba roubaram cargas pertencentes a Iason Heine, dono da guilda comercial de maior sucesso em Heine! Mate os Homems Lagartos e recupere a carga!" />
+    <class val="" />
+  </quest>
+  <quest id="234" name="Sussurro do Destino">
+    <lvlMin val="75" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Mensageiro de Shilen Cabrio" />
+    <contactNpc val="31002" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Muitos viajantes em busca de uma nova esperança seguem os sussurros da senhora do vento! Mantenha o coração! em breve você adquirirá a chama do purgatório!" />
+    <class val="" />
+  </quest>
+  <quest id="352" name="Ajude Rood a Criar um Novo Animal de Estimação!">
+    <lvlMin val="39" />
+    <lvlMax val="44" />
+    <questType val="2" />
+    <entityName val="Field of Whispers" />
+    <contactNpc val="31067" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Será verdade que um lindo e nobre animal de estimação foi descoberto no silencioso campo de juncos?" />
+    <class val="" />
+  </quest>
+  <quest id="353" name="Poder das Trevas">
+    <lvlMin val="55" />
+    <lvlMax val="60" />
+    <questType val="2" />
+    <entityName val="Dragon Valley" />
+    <contactNpc val="31044" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Galman passa seu tempo sozinho em Dragon Valley... Ninguém quer chegar perto dele, mas ele tem uma história para contar..." />
+    <class val="" />
+  </quest>
+  <quest id="354" name="Conquista da Alligator Island">
+    <lvlMin val="38" />
+    <lvlMax val="49" />
+    <questType val="0" />
+    <entityName val="Alligator Island" />
+    <contactNpc val="30895" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Depois de serem expulsos de suas rotas comerciais de Giran para Innadril pelos humanos, as autoridades da guilda dos Anões concordaram em estabelecer novos mercados para seus produtos. no entanto, eles podem conseguir mais do que esperavam..." />
+    <class val="" />
+  </quest>
+  <quest id="355" name="Honra da Família">
+    <lvlMin val="36" />
+    <lvlMax val="49" />
+    <questType val="0" />
+    <entityName val="Grandes Planícies de Oren" />
+    <contactNpc val="30181" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Comerciante Galibredo afirma ter sangue real nas veias. Ele afirma ser descendente de uma distinta família aristocrática do antigo Império Elmoreden. Ele procura recuperar a glória do passado e restaurar-se ao seu lugar de honra por direito." />
+    <class val="" />
+  </quest>
+  <quest id="356" name="Desenterre o Sea of Spores!">
+    <lvlMin val="43" />
+    <lvlMax val="51" />
+    <questType val="2" />
+    <entityName val="Sea of Spores" />
+    <contactNpc val="30717" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os Magos da Ivory Tower têm procurado conter a expansão do Sea of Spores desde os tempos antigos. Agora eles querem uma solução permanente para esse problema." />
+    <class val="" />
+  </quest>
+  <quest id="357" name="Ambição do Armazém">
+    <lvlMin val="47" />
+    <lvlMax val="57" />
+    <questType val="0" />
+    <entityName val="vale encantado" />
+    <contactNpc val="30686" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O chefe do depósito, Baxt, anunciou recentemente sua aposentadori e a competição para substituí-lo já se tornou acirrada entre os cargueiros." />
+    <class val="" />
+  </quest>
+  <quest id="358" name="Filho Ilegítimo de uma Deusa">
+    <lvlMin val="63" />
+    <lvlMax val="67" />
+    <questType val="2" />
+    <entityName val="Seal of Shilen" />
+    <contactNpc val="30862" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Elfos Sombrios pensam em Shilen como sua mãe, como ela pode muito bem ser, mas crianças nascidas de tal loucura são obrigadas a lançar uma sombra negra..." />
+    <class val="" />
+  </quest>
+  <quest id="359" name="Para Mortos Insones">
+    <lvlMin val="60" />
+    <lvlMax val="67" />
+    <questType val="2" />
+    <entityName val="Killing Ground" />
+    <contactNpc val="30857" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A amargura do Rei por sua derrota foi tão grande que transcendeu até mesmo sua morte! Até hoje, ele vagueia por seu castelo em ruínas..." />
+    <class val="" />
+  </quest>
+  <quest id="360" name="Saquear Seus Suprimentos">
+    <lvlMin val="52" />
+    <lvlMax val="59" />
+    <questType val="2" />
+    <entityName val="The Cemetery" />
+    <contactNpc val="30873" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Reis, nobres e heróis são enterrados nThe Cemetery Nacional. Desde o colapso do reino, este lugar sagrado foi invadido por monstros! Existem forças do mal por trás disso." />
+    <class val="" />
+  </quest>
+  <quest id="365" name="Legado do Diabo">
+    <lvlMin val="39" />
+    <lvlMax val="56" />
+    <questType val="0" />
+    <entityName val="Devil's Isle" />
+    <contactNpc val="30095" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O capitão pirata Zaken procurou por um tesouro durante toda a sua vida. Enquanto ele morreu prematuramente, sua maldição continua viva na Devil's Isle!" />
+    <class val="" />
+  </quest>
+  <quest id="366" name="Xamã de Cabelo Prateado">
+    <lvlMin val="48" />
+    <lvlMax val="58" />
+    <questType val="0" />
+    <entityName val="Devil's Isle" />
+    <contactNpc val="30111" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A Devil's Isle é o lar dos espíritos inquietos do Capitão Pirata Zaken e seus homens. Essa ilha guarda alguns segredos medonhos..." />
+    <class val="" />
+  </quest>
+  <quest id="367" name="Recarga Eletrizante!">
+    <lvlMin val="37" />
+    <lvlMax val="47" />
+    <questType val="0" />
+    <entityName val="Entrada para a Cruma Tower" />
+    <contactNpc val="30673" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Todas as melhores descobertas são acidentais! que segredos científicos podemos aprender com os antigos gigantes?" />
+    <class val="" />
+  </quest>
+  <quest id="368" name="Invadindo a Área Sagrada">
+    <lvlMin val="36" />
+    <lvlMax val="48" />
+    <questType val="0" />
+    <entityName val="Garden of Eva" />
+    <contactNpc val="30926" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Garden of Eva é o santuário sagrado da Deusa da Água! o que todas aquelas criaturas malignas estão fazendo aí?!" />
+    <class val="" />
+  </quest>
+  <quest id="369" name="Colecionador de Joias">
+    <lvlMin val="25" />
+    <lvlMax val="37" />
+    <questType val="0" />
+    <entityName val="Entrada do Forgotten Temple" />
+    <contactNpc val="30376" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Magistrado Nell quer saber a conexão entre a pedra da alma encontrada nas Elven Ruins na Talking Island e aquela encontrada no Forgotten Temple... e essa não é a única pergunta dela!" />
+    <class val="" />
+  </quest>
+  <quest id="370" name="Um Ancião Semeia Sementes">
+    <lvlMin val="28" />
+    <lvlMax val="42" />
+    <questType val="0" />
+    <entityName val="Ant Nest" />
+    <contactNpc val="30612" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O livro de feitiços proibido, usado para proteger contra o demônio Beleth, imediatamente transformou a outrora fértil terra ao sul de Aden em um terreno baldio estéril. Agor finalmente, Ancião Casian tem esperanças de reacender a vida lá." />
+    <class val="" />
+  </quest>
+  <quest id="371" name="Grito de Fantasmas">
+    <lvlMin val="59" />
+    <lvlMax val="71" />
+    <questType val="0" />
+    <entityName val="Tower of Insolence" />
+    <contactNpc val="30867" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A Tower of Insolence foi construída com o sangue e os ossos de suas muitas vítimas inocentes. Aquele lugar é assombrado pelas almas daqueles que foram erroneamente executados lá! Você os pacificaria?" />
+    <class val="" />
+  </quest>
+  <quest id="372" name="Legado de Insolência">
+    <lvlMin val="59" />
+    <lvlMax val="75" />
+    <questType val="0" />
+    <entityName val="Tower of Insolence" />
+    <contactNpc val="30844" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A Tower of Insolence é definitivamente uma das estruturas mais maravilhosas da história! a Guilda do Pilar Cinzento, arquitetos especialistas, sentiu que precisava recuperar a herança da tecnologia de seus ancestrais anões." />
+    <class val="" />
+  </quest>
+  <quest id="374" name="Sussurro dos Sonhos, Parte I">
+    <lvlMin val="56" />
+    <lvlMax val="66" />
+    <questType val="0" />
+    <entityName val="Entrada para Antharas' Lair" />
+    <contactNpc val="30515" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Um caos sombrio está prestes a descer sobre o mundo! o Vidente Manakia recebeu um aviso em um sonho e está planejando uma cerimônia para tentar entender melhor a escuridão que se aproxima..." />
+    <class val="" />
+  </quest>
+  <quest id="375" name="Sussurro dos Sonhos, Parte II">
+    <lvlMin val="60" />
+    <lvlMax val="74" />
+    <questType val="0" />
+    <entityName val="Antharas' Lair" />
+    <contactNpc val="30515" />
+    <restrictions val="pedra misteriosa" />
+    <description val="O Vidente Manakia não é capaz de prever adequadamente a escuridão que se aproxima. Ele pede ajuda para adquirir materiais melhores." />
+    <class val="" />
+  </quest>
+  <quest id="376" name="Exploração da Giant's Cave, Parte I">
+    <lvlMin val="51" />
+    <lvlMax val="63" />
+    <questType val="0" />
+    <entityName val="Giant's Cave" />
+    <contactNpc val="31147" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O anão Sobling resolveu o enigma do passado e revelou a verdade. Ainda há algo mais que ele precisa fazer na Giants Cave." />
+    <class val="" />
+  </quest>
+  <quest id="377" name="Exploração da Giant's Cave, Parte II">
+    <lvlMin val="57" />
+    <lvlMax val="69" />
+    <questType val="0" />
+    <entityName val="Entrada para a Giant's Cave" />
+    <contactNpc val="31147" />
+    <restrictions val="Dicionário de Línguas Antigas: Nível Intermediário" />
+    <description val="Os esforços de Sobling estão finalmente começando a dar frutos. no entanto, ele diz que ainda há espaço para melhorias." />
+    <class val="" />
+  </quest>
+  <quest id="378" name="Festa Magnífica">
+    <lvlMin val="20" />
+    <lvlMax val="30" />
+    <questType val="2" />
+    <entityName val="Guarda Harlan" />
+    <contactNpc val="30594" />
+    <restrictions val="Vinho Fantasi adepto do Taste, Traga o Sabor dos Ingredientes a missão foi cumprida" />
+    <description val="Chefe de depósito Lansfo cuida do depósito em Dion há 40 anos. Agora ele recebeu a promoção de sua vida!" />
+    <class val="" />
+  </quest>
+  <quest id="379" name="Vinho Fantasia">
+    <lvlMin val="20" />
+    <lvlMax val="25" />
+    <questType val="2" />
+    <entityName val="Dion Hills" />
+    <contactNpc val="30074" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os pais enfrentariam o fogo do inferno por suas filhas! o guarda Harlan de Dion não é exceção." />
+    <class val="" />
+  </quest>
+  <quest id="380" name="Realce o Sabor dos Ingredientes!">
+    <lvlMin val="24" />
+    <lvlMax val="29" />
+    <questType val="2" />
+    <entityName val="" />
+    <contactNpc val="30069" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Dion está sempre lotado para seu concurso mensal de culinária. um Mestre que gosta de cozinhar planeja embaraçar os outros cozinheiros com sua técnica especializada!" />
+    <class val="" />
+  </quest>
+  <quest id="381" name="Vamos nos Tornar um Membro Real!">
+    <lvlMin val="55" />
+    <lvlMax val="65" />
+    <questType val="2" />
+    <entityName val="Forsaken Plains" />
+    <contactNpc val="30232" />
+    <restrictions val="Associação de Colecionador de Moedas - 1, Conclusão da missão &quot;Moedas de Magia&quot;." />
+    <description val="O Coin Collectors Club tem membros de todas as terras! Gostaria de fazer o teste para ingressar?" />
+    <class val="" />
+  </quest>
+  <quest id="382" name="Moeda Mágica de Kail">
+    <lvlMin val="55" />
+    <lvlMax val="60" />
+    <questType val="2" />
+    <entityName val="Forsaken Plains" />
+    <contactNpc val="30687" />
+    <restrictions val="Associação Real" />
+    <description val="Kail, conhecido como o braço direito do demônio Beleth, tinha o hábito de fazer moedas estranhas. Há um certo colecionador que não coleciona outros..." />
+    <class val="" />
+  </quest>
+  <quest id="383" name="Procurando Por um Tesouro">
+    <lvlMin val="42" />
+    <lvlMax val="50" />
+    <questType val="2" />
+    <entityName val="Comerciante Espen" />
+    <contactNpc val="30890" />
+    <restrictions val="Mapa do Tesouro do Pirata" />
+    <description val="O lendário capitão pirata Zaken deixou muitas lendas e ainda mais corpos em seu rastro! uma história fala sobre seu tesouro, e parece ser a que a maioria das pessoas quer ouvir... o Comerciante Espen pode lhe contar mais!" />
+    <class val="" />
+  </quest>
+  <quest id="384" name="Passatempo do Armazém">
+    <lvlMin val="40" />
+    <lvlMax val="52" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="30182" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Negociar é um trabalho entorpecente! os cargueiros devem criar suas próprias maneiras de matar o tempo." />
+    <class val="" />
+  </quest>
+  <quest id="385" name="Jugo do Passado">
+    <lvlMin val="20" />
+    <lvlMax val="75" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="0" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Guardião do Portão Ziggurat, que anseia por se tornar Humano novamente, pede que você mate os guardiões e colete os pergaminhos da magia antiga." />
+    <class val="" />
+  </quest>
+  <quest id="505" name="Oferta de Sangue">
+    <lvlMin val="0" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="0" />
+    <restrictions val="Grupo de nível apropriado. Disponível apenas durante o período de competição do SSQ." />
+    <description val="Mate o maior número possível de criaturas malignas em 18 minutos!" />
+    <class val="" />
+  </quest>
+  <quest id="373" name="Fornecedor de Reagentes">
+    <lvlMin val="57" />
+    <lvlMax val="75" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="30166" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A Ivory Tower é a maior conquista de nossa civilização! a pesquisa feita aqui beneficiará as gerações futuras! a magia é o caminho do futuro!" />
+    <class val="" />
+  </quest>
+  <quest id="235" name="Elixir de Mimir">
+    <lvlMin val="75" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Comerciante Mágico Wesley" />
+    <contactNpc val="30721" />
+    <restrictions val="Estrela do Destino" />
+    <description val="A estrela do destino muda o destino de quem a possui! Qual é o segredo dos antigos gigantes?" />
+    <class val="" />
+  </quest>
+  <quest id="386" name="Dignidade Roubada">
+    <lvlMin val="58" />
+    <lvlMax val="75" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="30843" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A Guilda do Portão de Ferro está furiosa porque o minério de infernium que precisa para construir um armazém foi roubado por monstros! Eles pediram ajuda para recuperar o minério." />
+    <class val="" />
+  </quest>
+  <quest id="79" name="Saga do Adventurer">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Klaus" />
+    <contactNpc val="31603" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Terceira Mudança de classe - a missão de um Treasure Hunter se torna um Adventurer" />
+    <class val="8" />
+  </quest>
+  <quest id="80" name="Saga do Wind Rider">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Vendedora de livro de feitiços Elena" />
+    <contactNpc val="31603" />
+    <restrictions val="Plains Walker" />
+    <description val="A missão de transferência de terceira classe para um Plains Walker se tornar um Wind Rider." />
+    <class val="23" />
+  </quest>
+  <quest id="81" name="Saga do Ghost Hunter">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Mestre Drakon" />
+    <contactNpc val="31603" />
+    <restrictions val="Abyss Walker" />
+    <description val="A Missão de Transferência de Terceira Classe para um Abyss Walker para se tornar um Ghost Hunter." />
+    <class val="36" />
+  </quest>
+  <quest id="82" name="Saga do Sagittarius">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Corretor de Informações Grimst" />
+    <contactNpc val="30702" />
+    <restrictions val="Hawkeye" />
+    <description val="A missão de transferência de terceira classe para um Hawkeye se torna um Sagittarius" />
+    <class val="9" />
+  </quest>
+  <quest id="83" name="Saga do Moonlight Sentinel">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Corretor de Informações Grimst" />
+    <contactNpc val="30702" />
+    <restrictions val="Silver Ranger" />
+    <description val="A missão de transferência de terceira classe para um Silver Ranger se tornar um Moonlight Sentinela" />
+    <class val="24" />
+  </quest>
+  <quest id="84" name="Saga do Ghost Sentinel">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Corretor de Informações Grimst" />
+    <contactNpc val="30702" />
+    <restrictions val="Phantom Ranger" />
+    <description val="A missão de transferência de terceira classe para um Phantom Ranger se tornar um Ghost Sentinela" />
+    <class val="37" />
+  </quest>
+  <quest id="431" name="Marcha Nupcial">
+    <lvlMin val="38" />
+    <lvlMax val="43" />
+    <questType val="0" />
+    <entityName val="Field of Silence" />
+    <contactNpc val="31042" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Maestro da Melodia Kantabilon encontrou a partitura musical para uma marcha nupcial e pede que você consiga um Cristal de Eco Especial para conter a música." />
+    <class val="" />
+  </quest>
+  <quest id="432" name="Música de Festa de Aniversário">
+    <lvlMin val="31" />
+    <lvlMax val="36" />
+    <questType val="0" />
+    <entityName val="Floran Agricultural Area" />
+    <contactNpc val="31043" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O belo clima inspirou Maestra da Melodia Octavia a terminar uma peça musical de aniversário. Você vai ajudá-la a armazená-lo?" />
+    <class val="" />
+  </quest>
+  <quest id="601" name="Observando os Olhos">
+    <lvlMin val="71" />
+    <lvlMax val="78" />
+    <questType val="0" />
+    <entityName val="Wall of Argos" />
+    <contactNpc val="31683" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Olho de Argos pede para você matar os discípulos que estão tornando sua vida miserável." />
+    <class val="" />
+  </quest>
+  <quest id="602" name="Sombra de Luz">
+    <lvlMin val="68" />
+    <lvlMax val="75" />
+    <questType val="0" />
+    <entityName val="Wall of Argos" />
+    <contactNpc val="31683" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Quando Daimon, Olhos Brancos, tenta controlar os monstros aqui, o Olho de Argos procurou soldados para derrotá-lo." />
+    <class val="" />
+  </quest>
+  <quest id="603" name="Daimon, Olhos Brancos - Parte I">
+    <lvlMin val="73" />
+    <lvlMax val="78" />
+    <questType val="0" />
+    <entityName val="tábua de Pedra Antiga - 1" />
+    <contactNpc val="31683" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Olho de Argos pede que você destrua o olho gigante nascido de seu lado negro." />
+    <class val="" />
+  </quest>
+  <quest id="604" name="Daimon, Olhos Brancos - Parte II">
+    <lvlMin val="73" />
+    <lvlMax val="78" />
+    <questType val="0" />
+    <entityName val="Altar dos Olhos Brancos" />
+    <contactNpc val="31683" />
+    <restrictions val="Conclusão da missão &quot;Daimon, Olhos Brancos - Parte I&quot;. Conta de Invocação Inacabada" />
+    <description val="O Olho de Argos lhe dá uma conta de convocação e pede que você destrua Daimon, o Olhos Brancos." />
+    <class val="" />
+  </quest>
+  <quest id="621" name="Entrega de Ovos">
+    <lvlMin val="68" />
+    <lvlMax val="73" />
+    <questType val="2" />
+    <entityName val="Pulin" />
+    <contactNpc val="31521" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Chef Jeremy está procurando alguém para entregar ovos cozidos aos seus clientes." />
+    <class val="" />
+  </quest>
+  <quest id="622" name="Entrega de Bebidas Especiais">
+    <lvlMin val="68" />
+    <lvlMax val="73" />
+    <questType val="2" />
+    <entityName val="Beolin" />
+    <contactNpc val="31521" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Chef Jeremy está procurando alguém para entregar bebidas especiais para seus clientes." />
+    <class val="" />
+  </quest>
+  <quest id="623" name="A Melhor Comida">
+    <lvlMin val="71" />
+    <lvlMax val="78" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="31521" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Chef Jeremy pede para você reunir os ingredientes para que ele possa desenvolver um prato regional especial." />
+    <class val="" />
+  </quest>
+  <quest id="624" name="Os Melhores Ingredientes - Parte I">
+    <lvlMin val="73" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="31521" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Chef Jeremy pede que você reúna os ingredientes para atrair Bumbalump Imperador Sincelo, o Rei dos Yetis, para que você possa obter uma excelente carne de yeti." />
+    <class val="" />
+  </quest>
+  <quest id="625" name="Os Melhores Ingredientes - Parte II">
+    <lvlMin val="73" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Mesa do Yeti" />
+    <contactNpc val="31521" />
+    <restrictions val="Conclusão da missão &quot;Os melhores ingredientes - Parte I&quot;." />
+    <description val="Chef Jeremy pede que você reúna os ingredientes para atrair Bumbalump Imperador Sincelo, o Rei dos Yetis, para que você possa obter uma excelente carne de yeti." />
+    <class val="" />
+  </quest>
+  <quest id="13" name="Entrega de Encomendas">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="3" />
+    <entityName val="Ferreiro Vulcan" />
+    <contactNpc val="31274" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Comerciante de Mineiros Fundin na cidade de Goddard pede que você faça uma entrega imediata para Vulcan na região inferior de Forge of the Gods." />
+    <class val="" />
+  </quest>
+  <quest id="14" name="Paradeiro do Arqueólogo">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="3" />
+    <entityName val="???" />
+    <contactNpc val="31263" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Liesel pede para você entregar uma carta para seu amigo Arqueólogo que deixou a cidade alguns anos atrás." />
+    <class val="" />
+  </quest>
+  <quest id="618" name="Dentro da Chama">
+    <lvlMin val="60" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Ferreira Hilda" />
+    <contactNpc val="31540" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Você precisará de um conjunto de Pedras Flutuantes para entrar na Flame Pass dentro da Forge of the Gods." />
+    <class val="" />
+  </quest>
+  <quest id="88" name="Saga do Archmage">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Magistrado Justin" />
+    <contactNpc val="30176" />
+    <restrictions val="Sorcerer" />
+    <description val="Um Sorcerer deve obter o poder selado nos Tábuas da Visão para se tornar um Archmage." />
+    <class val="12" />
+  </quest>
+  <quest id="89" name="Saga do Mystic Muse">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Magistrado Alminas" />
+    <contactNpc val="30174" />
+    <restrictions val="Spellsinger" />
+    <description val="Um Spellsinger deve obter o poder selado nos Tábuas da Visão para se tornar um Mystic Muse." />
+    <class val="27" />
+  </quest>
+  <quest id="90" name="Saga do Storm Screamer">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Magistrado Kamilen" />
+    <contactNpc val="30175" />
+    <restrictions val="Spellhowler" />
+    <description val="Um Spellhowler deve obter o poder selado nos Tábuas da Visão para se tornar um Storm Screamer." />
+    <class val="40" />
+  </quest>
+  <quest id="94" name="Saga do Soultaker">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Sumo Sacerdote Gregório" />
+    <contactNpc val="30832" />
+    <restrictions val="Soultaker" />
+    <description val="Hardin pede que você investigue o Necromancer Hindemith, que foi visto à espreita em torno dos Tábuas da Visão." />
+    <class val="13" />
+  </quest>
+  <quest id="95" name="Saga do Hell Knight">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Guarda Bayard" />
+    <contactNpc val="31582" />
+    <restrictions val="Dark Avenger" />
+    <description val="Mordred, o Cavaleiro das Trevas pede que você investigue o Vingador Sombrio Waldstein, que foi visto espreitando os Tábuas da Visão." />
+    <class val="6" />
+  </quest>
+  <quest id="426" name="Missão de Fishshot">
+    <lvlMin val="1" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Qualquer membro da Guilda dos Pescadores" />
+    <contactNpc val="0" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os membros da Guilda dos Pescadores em cada aldeia são conhecidos por fazer tiros de pesca de um fluido doce que os espíritos da água gostam." />
+    <class val="" />
+  </quest>
+  <quest id="617" name="Junte as Chamas">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Forge of the Gods" />
+    <contactNpc val="31539" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Vulcano está coletando Tochas no nível inferior da Forge of the Gods. Ele lhe dará uma recompensa especial se você derrotar todos os monstros de lá e trazer para ele as chamas que você coletar." />
+    <class val="" />
+  </quest>
+  <quest id="619" name="Relíquias do Antigo Império">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="The Cemetery" />
+    <contactNpc val="31538" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Fantasma do Aventureiro rouba relíquias dos nobres que foram mortos quando vieram a Cemetery prestar suas homenagens. Leve a ele 1000 Relíquias Quebradas e ele lhe dará uma recompensa." />
+    <class val="" />
+  </quest>
+  <quest id="620" name="Quatro Cálices">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Four Sepulchers" />
+    <contactNpc val="31453" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Espírito Desconhecido na entrada do Four Sepulchers está coletando 4 Cálices que você pode obter das Sombras de Halisha dentro do Four Sepulchers." />
+    <class val="" />
+  </quest>
+  <quest id="27" name="Baú pego com Isca do Vento">
+    <lvlMin val="27" />
+    <lvlMax val="29" />
+    <questType val="3" />
+    <entityName val="Lanosco" />
+    <contactNpc val="31570" />
+    <restrictions val="Conclusão da missão &quot;Isca Especial de Lanosco&quot;." />
+    <description val="Lanosco pede que você procure um baú de tesouro perdido. Ele acha que provavelmente caiu na água. Você deveria tentar pescá-lo. ao encontrá-lo, abra-o para ver o que contém e devolva-o ao seu dono original. Missão única." />
+    <class val="" />
+  </quest>
+  <quest id="28" name="Baú pego com Isca Aérea Gelada.">
+    <lvlMin val="36" />
+    <lvlMax val="38" />
+    <questType val="3" />
+    <entityName val="O'Fulle" />
+    <contactNpc val="31572" />
+    <restrictions val="Conclusão da missão &quot;Isca Especial de O'Fulle&quot;." />
+    <description val="Você pegou uma isca estranha de O'Fulle, um membro da Guilda de Pescadores de Giran. Eu me pergunto o que há na caixa que ele quer que você recupere?" />
+    <class val="" />
+  </quest>
+  <quest id="29" name="Baú pego com Isca Terrestre.">
+    <lvlMin val="48" />
+    <lvlMax val="50" />
+    <questType val="3" />
+    <entityName val="Willie" />
+    <contactNpc val="31574" />
+    <restrictions val="Conclusão da missão &quot;A isca especial de Willie&quot;." />
+    <description val="Você recebeu uma isca estranha de Willie. o que há dentro da caixa?" />
+    <class val="" />
+  </quest>
+  <quest id="30" name="Baú pego com Isca Flamejante.">
+    <lvlMin val="60" />
+    <lvlMax val="62" />
+    <questType val="3" />
+    <entityName val="Linnaeus" />
+    <contactNpc val="31577" />
+    <restrictions val="Conclusão da missão &quot;Isca Especial de Linnaeus&quot;." />
+    <description val="Você pegou uma isca estranha de Linnaeus. o que há dentro da caixa?" />
+    <class val="" />
+  </quest>
+  <quest id="50" name="Isca Especial de Lanosco">
+    <lvlMin val="27" />
+    <lvlMax val="29" />
+    <questType val="1" />
+    <entityName val="Windy Hill" />
+    <contactNpc val="31570" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Lanosco pede que você obtenha materiais especiais de que precisa para fazer uma isca especial que será usada para recuperar uma caixa perdida. Segundo Lanosco, essa isca não pega peixe, mas pode ser usada para pegar um baú especial!" />
+    <class val="" />
+  </quest>
+  <quest id="51" name="Isca Especial de O'Fulle">
+    <lvlMin val="36" />
+    <lvlMax val="38" />
+    <questType val="1" />
+    <entityName val="Death Pass" />
+    <contactNpc val="31572" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Lanosco pede que você obtenha materiais especiais de que precisa para fazer uma isca especial que será usada para recuperar uma caixa perdida. Segundo O'Fulle, essa isca não pega peixe, mas pode ser usada para pegar um baú especial!" />
+    <class val="" />
+  </quest>
+  <quest id="52" name="Isca Especial de Willie">
+    <lvlMin val="48" />
+    <lvlMax val="50" />
+    <questType val="1" />
+    <entityName val="Outlaw Forest" />
+    <contactNpc val="31574" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O membro da Guilda dos Pescadores, Willie de Oren, pede que você traga os ingredientes de que ele precisa para fazer sua isca especial. Ele não pega peixes, não te torna popular, mas encontra baús de tesouro!" />
+    <class val="" />
+  </quest>
+  <quest id="53" name="Isca Especial de Linnaeus">
+    <lvlMin val="60" />
+    <lvlMax val="62" />
+    <questType val="1" />
+    <entityName val="Seal of Shilen" />
+    <contactNpc val="31577" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O membro da Guilda dos Pescadores, Linnaeus de Oren, pede que você traga os ingredientes de que ele precisa para fazer sua isca especial. Ele não pega peixes, não te torna popular, mas encontra baús de tesouro!" />
+    <class val="" />
+  </quest>
+  <quest id="299" name="Reúna os Ingredientes para a Torta">
+    <lvlMin val="34" />
+    <lvlMax val="40" />
+    <questType val="0" />
+    <entityName val="Beehive" />
+    <contactNpc val="30620" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Para fazer uma torta especial para o banquete deste fim de seman ajude Emily a coletar mel das abelhas." />
+    <class val="" />
+  </quest>
+  <quest id="300" name="Caçando Homem Lagarto Leto">
+    <lvlMin val="34" />
+    <lvlMax val="39" />
+    <questType val="0" />
+    <entityName val="Plains of the Lizardmen" />
+    <contactNpc val="30126" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Repulse os Homem Lagarto Leto que de repente ganharam poder!" />
+    <class val="" />
+  </quest>
+  <quest id="15" name="Doces Sussurros">
+    <lvlMin val="60" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Necromante Misterioso" />
+    <contactNpc val="31302" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Vladimir procura assistentes para ajudar a misteriosa organização a que pertence. É um pedido que você não pode recusar." />
+    <class val="" />
+  </quest>
+  <quest id="32" name="Uma Mentira Óbvia">
+    <lvlMin val="45" />
+    <lvlMax val="0" />
+    <questType val="1" />
+    <entityName val="Gentler" />
+    <contactNpc val="30120" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Sumo Sacerdote Maximilian pediu a Gentler que lhe preparasse um remédio, mas o processo foi interrompido e atrasado. Ele pede para você ajudar Gentler." />
+    <class val="" />
+  </quest>
+  <quest id="33" name="Faça um Par de Sapatos Sociais">
+    <lvlMin val="60" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Leikar" />
+    <contactNpc val="30838" />
+    <restrictions val="O personagem deve ter a missão &quot;Faça Roupas Formais&quot;." />
+    <description val="Enquanto faz roupas formais, Leikar pede que você vá até Comerciante Woodley e pegue alguns sapatos sociais. Woodley não os fabric no entanto." />
+    <class val="" />
+  </quest>
+  <quest id="34" name="Em Busca de Pano">
+    <lvlMin val="60" />
+    <lvlMax val="0" />
+    <questType val="1" />
+    <entityName val="Comerciante Varan" />
+    <contactNpc val="30088" />
+    <restrictions val="O personagem deve ter a missão &quot;Faça Roupas Formais&quot;." />
+    <description val="Radia diz que os ingredientes de que precisa ainda não chegaram. Ela pede que você vá até a cidade de Gludio e verifique a entrega dela." />
+    <class val="" />
+  </quest>
+  <quest id="35" name="Encontre Joias Brilhantes">
+    <lvlMin val="60" />
+    <lvlMax val="0" />
+    <questType val="1" />
+    <entityName val="Felton" />
+    <contactNpc val="30091" />
+    <restrictions val="O personagem deve ter a missão &quot;Faça Roupas Formais&quot;." />
+    <description val="Leikar pede para você ir até Ellie e pegar a joia del mas Ellie diz que não terminou porque a entrega não chegou." />
+    <class val="" />
+  </quest>
+  <quest id="36" name="Faça um Kit de Costura">
+    <lvlMin val="60" />
+    <lvlMax val="0" />
+    <questType val="1" />
+    <entityName val="Golem de Aço Reforçado" />
+    <contactNpc val="30847" />
+    <restrictions val="O personagem deve ter a missão &quot;Faça Roupas Formais&quot;." />
+    <description val="Leikar pede que você visite Ferris em Aden Castle Town e faça um kit de costura. Você precisará de um ingrediente extraordinário para fazê-lo." />
+    <class val="" />
+  </quest>
+  <quest id="37" name="Faça Roupas Formais">
+    <lvlMin val="60" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Leikar" />
+    <contactNpc val="30842" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Você visitou Alexis para fazer algumas roupas formais, mas descobriu que sua empregad Leikar, as faz melhor do que ela. Vá ver Leikar." />
+    <class val="" />
+  </quest>
+  <quest id="85" name="Saga do Cardinal">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Santa da Luz" />
+    <contactNpc val="30191" />
+    <restrictions val="Bishop" />
+    <description val="Hollint pede que você verifique se aquele que afirma ser o Santo da Luz na cidade de Goddard é autêntico." />
+    <class val="16" />
+  </quest>
+  <quest id="86" name="Saga do Hierophant">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Santa da Luz" />
+    <contactNpc val="30191" />
+    <restrictions val="Prophet" />
+    <description val="Hollint pede que você verifique se aquele que afirma ser o Santo da Luz na cidade de Goddard é autêntico." />
+    <class val="17" />
+  </quest>
+  <quest id="87" name="Saga do Eva's Saint">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Santa da Luz" />
+    <contactNpc val="30191" />
+    <restrictions val="Elfo Elder" />
+    <description val="Hollint pede que você verifique se aquele que afirma ser o Santo da Luz na cidade de Goddard é autêntico." />
+    <class val="30" />
+  </quest>
+  <quest id="96" name="Saga do Spectral Dancer">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Elena" />
+    <contactNpc val="31582" />
+    <restrictions val="Bladedancer" />
+    <description val="Mordred, o Cavaleiro das Trevas escolhe apenas os melhores soldados para procurar os segredos antigos. para piorar a situação, o Senhor do Purgatório, Death Lord Hallate, também está de olho no conhecimento antigo." />
+    <class val="34" />
+  </quest>
+  <quest id="97" name="Saga do Shillien Templar">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Samael" />
+    <contactNpc val="31580" />
+    <restrictions val="Cavaleiro de Shillien" />
+    <description val="Galadrid pede que você se junte ao projeto dele como forma de avançar na guilda. Ele acha que Shiken está atrás dele." />
+    <class val="33" />
+  </quest>
+  <quest id="98" name="Saga do Shillien Saint">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Saint of Light" />
+    <contactNpc val="31581" />
+    <restrictions val="Shillien Elder" />
+    <description val="Anastia diz para você ir ver a Santa da Luz que veio a Goddard e ouvir seus conselhos sobre o seu futuro." />
+    <class val="43" />
+  </quest>
+  <quest id="626" name="Um Crepúsculo Escuro">
+    <lvlMin val="60" />
+    <lvlMax val="71" />
+    <questType val="0" />
+    <entityName val="Valley of Saints" />
+    <contactNpc val="31517" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Hierarca encarregado do Altar Maligno pede que você elimine aqueles que interferem nas atividades de seus seguidores." />
+    <class val="" />
+  </quest>
+  <quest id="627" name="Coração em Busca de Poder">
+    <lvlMin val="60" />
+    <lvlMax val="71" />
+    <questType val="0" />
+    <entityName val="Valley of Saints" />
+    <contactNpc val="31518" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Necromante Misterioso fica taciturno perto da entrada do Valley of Saints. Ele diz que está reunindo materiais para sua pesquisa sobre aumento de poder." />
+    <class val="" />
+  </quest>
+  <quest id="16" name="A Escuridão Vindoura">
+    <lvlMin val="62" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Altar Maligno" />
+    <contactNpc val="31517" />
+    <restrictions val="Conclusão da missão &quot;Luz e Trevas&quot;." />
+    <description val="O Hierarca diz que você deve passar por um teste para ser reconhecido como membro de seu grupo." />
+    <class val="" />
+  </quest>
+  <quest id="17" name="Luz e Trevas">
+    <lvlMin val="61" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Altar dos Santos" />
+    <contactNpc val="31517" />
+    <restrictions val="Conclusão da missão &quot;Doces Sussurros&quot;." />
+    <description val="O Hierarca está tentando tornar possível a realização de seu ritual no Altar dos Santos." />
+    <class val="" />
+  </quest>
+  <quest id="634" name="Em Busca de Fragmentos de Dimensão">
+    <lvlMin val="20" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="0" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Você precisa de um Fragmento Dimensional para permanecer temporariamente dentro da Fenda Dimensional. Obtenha o máximo possível de Fragmentos Dimensionais." />
+    <class val="" />
+  </quest>
+  <quest id="635" name="Na Fenda Dimensional">
+    <lvlMin val="20" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="0" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Destrua todos os monstros dentro da Fenda Dimensional. o número de teletransportes é limitado, então você deve trabalhar rapidamente!" />
+    <class val="" />
+  </quest>
+  <quest id="38" name="Presas de Dragão">
+    <lvlMin val="19" />
+    <lvlMax val="29" />
+    <questType val="1" />
+    <entityName val="Homem Lagarto Langk Força de Ataque" />
+    <contactNpc val="30386" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A tribo primitiva de Homem Lagarto Langk na parte sul do Território de Gludio tem usado um feitiço desconhecido até mesmo pelos Místicos da Ivory Tower." />
+    <class val="" />
+  </quest>
+  <quest id="39" name="Invasor de Olhos Vermelhos">
+    <lvlMin val="20" />
+    <lvlMax val="28" />
+    <questType val="1" />
+    <entityName val="Líder da Guarda Bathis" />
+    <contactNpc val="30334" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os olhos vermelhos dos Homem Lagarto Maille contemplam as sombras escuras lançadas pelo Castelo Gludio devastado pela guerra." />
+    <class val="" />
+  </quest>
+  <quest id="298" name="Conspiração dos Homems Lagartos">
+    <lvlMin val="25" />
+    <lvlMax val="34" />
+    <questType val="0" />
+    <entityName val="Magistrado Rohmer" />
+    <contactNpc val="30333" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os Homem Lagarto Maille se aproximam lenta e ameaçadoramente do castelo. Seu poder secreto logo será revelado." />
+    <class val="" />
+  </quest>
+  <quest id="6" name="Passo para o Futuro">
+    <lvlMin val="3" />
+    <lvlMax val="10" />
+    <questType val="3" />
+    <entityName val="Magistrado Baulro" />
+    <contactNpc val="30006" />
+    <restrictions val="Humano" />
+    <description val="A Teleportadora Roxxy fala das maravilhas do mundo além da Talking Island. Ela enche seu coração de esperança de aventura!" />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="7" name="Uma Viagem Começa">
+    <lvlMin val="3" />
+    <lvlMax val="10" />
+    <questType val="3" />
+    <entityName val="Comerciante Ariel" />
+    <contactNpc val="30146" />
+    <restrictions val="Elfo" />
+    <description val="Uma estrada está aberta a todos os que desejam ver o mundo!" />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="8" name="Uma Aventura Começa">
+    <lvlMin val="3" />
+    <lvlMax val="10" />
+    <questType val="3" />
+    <entityName val="Sentry Roselyn" />
+    <contactNpc val="30134" />
+    <restrictions val="Elfo Sombrio" />
+    <description val="Uma estrada está aberta a todos os que desejam ver o mundo!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="9" name="Na Cidade dos Humanos">
+    <lvlMin val="3" />
+    <lvlMax val="10" />
+    <questType val="3" />
+    <entityName val="Vidente Tanapi" />
+    <contactNpc val="30583" />
+    <restrictions val="Orc" />
+    <description val="O centurião Petukai busca o verdadeiro significado do poder. o lugar para aprender sobre a história de suas derrotas é..." />
+    <class val="44-45-46-47-48-49-50-51-52-113-114-115-116" />
+  </quest>
+  <quest id="10" name="No Mundo">
+    <lvlMin val="3" />
+    <lvlMax val="10" />
+    <questType val="3" />
+    <entityName val="Chefe do Armazém Reed" />
+    <contactNpc val="30533" />
+    <restrictions val="Anão" />
+    <description val="Uma estrada está aberta a todos os que desejam ver o mundo!" />
+    <class val="53-54-55-56-57-117-118" />
+  </quest>
+  <quest id="45" name="Para a Talking Island">
+    <lvlMin val="3" />
+    <lvlMax val="10" />
+    <questType val="3" />
+    <entityName val="Comerciante Mágico Gentler" />
+    <contactNpc val="30097" />
+    <restrictions val="Marca do Viajante, conclusão da missão &quot;Passo para o Futuro&quot;." />
+    <description val="Deixe a agitação de Giran para trás e volte para a pacífica Talking Island!" />
+    <class val="0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-88-89-90-91-92-93-94-95-96-97-98-99" />
+  </quest>
+  <quest id="46" name="Mais uma Vez nos Braços da Árvore Mãe">
+    <lvlMin val="3" />
+    <lvlMax val="10" />
+    <questType val="3" />
+    <entityName val="Comerciante Mágico Gentler" />
+    <contactNpc val="30097" />
+    <restrictions val="Marca do viajante, conclusão da missão &quot;Uma Viagem Começa&quot;." />
+    <description val="Deixe a agitação de Giran para trás e volte para sua amada Árvore Mãe!" />
+    <class val="18-19-20-21-22-23-24-25-26-27-28-29-30-100-101-102-103-104-105" />
+  </quest>
+  <quest id="47" name="Dentro da Floresta Escura">
+    <lvlMin val="3" />
+    <lvlMax val="10" />
+    <questType val="3" />
+    <entityName val="Comerciante Mágico Gentler" />
+    <contactNpc val="30097" />
+    <restrictions val="Marca do Viajante, Conclusão da Missão &quot;Uma Aventura Começa&quot;." />
+    <description val="Deixe a agitação de Giran para trás e volte para seus amigos e familiares na floresta!" />
+    <class val="31-32-33-34-35-36-37-38-39-40-41-42-43-106-107-108-109-110-111-112" />
+  </quest>
+  <quest id="48" name="Para o Immortal Plateau">
+    <lvlMin val="3" />
+    <lvlMax val="10" />
+    <questType val="3" />
+    <entityName val="Comerciante Mágico Gentler" />
+    <contactNpc val="30097" />
+    <restrictions val="Marca do Viajante, Conclusão da Missão &quot;Rumo à Cidade dos Humanos&quot;." />
+    <description val="Deixe a agitação de Giran para trás e volte para seus amigos e familiares no Immortal Plateau!" />
+    <class val="44-45-46-47-48-49-50-51-52-113-114-115-116" />
+  </quest>
+  <quest id="49" name="A Estrada para Casa">
+    <lvlMin val="3" />
+    <lvlMax val="10" />
+    <questType val="3" />
+    <entityName val="Comerciante Mágico Gentler" />
+    <contactNpc val="30097" />
+    <restrictions val="Marca do Viajante, Conclusão da Missão &quot;No Mundo&quot;." />
+    <description val="Deixe a agitação de Giran para trás! Volte para a aldeia que você tanto sente falta!" />
+    <class val="53-54-55-56-57-117-118" />
+  </quest>
+  <quest id="19" name="Vá para o Pasto!">
+    <lvlMin val="63" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Pastor de Bestas Tunatun" />
+    <contactNpc val="31302" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Vladimir diz que seu pedido recente de carne do Pastureland estava mole. Ele pede que você devolva para ele." />
+    <class val="" />
+  </quest>
+  <quest id="42" name="Ajude o Tio!">
+    <lvlMin val="25" />
+    <lvlMax val="0" />
+    <questType val="1" />
+    <entityName val="Gerenciador de Pets Waters" />
+    <contactNpc val="30828" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Um di seu tio partiu para abrir um rancho no norte, e Waters recentemente recebeu uma carta dele! Ele quer ajudar seu tio a começar uma nova vida..." />
+    <class val="" />
+  </quest>
+  <quest id="43" name="Ajude a Irmã!">
+    <lvlMin val="26" />
+    <lvlMax val="0" />
+    <questType val="1" />
+    <entityName val="Gerenciador de Pets Cooper" />
+    <contactNpc val="30829" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Planejando se mudar para um lugar tranquilo, Cooper recebe uma carta de sua irmã mais nova um dia. a carta diz que ela quer se tornar uma aventureira e ajudar seu irmão! Cooper quer pegar uma adaga para ela!" />
+    <class val="" />
+  </quest>
+  <quest id="44" name="Ajude o Filho!">
+    <lvlMin val="24" />
+    <lvlMax val="0" />
+    <questType val="1" />
+    <entityName val="Gerenciador de Pets Lundy" />
+    <contactNpc val="30827" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Gerenciador de Pets Lundy tem um filho que está prestes a se tornar um aventureiro. Ele diz que lhe dará um presente maravilhoso se você lhe der um martelo de trabalho." />
+    <class val="" />
+  </quest>
+  <quest id="70" name="Saga do Phoenix Knight">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Mestre Felix" />
+    <contactNpc val="30849" />
+    <restrictions val="Paladin" />
+    <description val="Você perdeu tantas pessoas quantas tentou salvar. Conheça seus limites e vá além deles!" />
+    <class val="5" />
+  </quest>
+  <quest id="71" name="Saga do Eva's Templar">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Mestre Bronwyn" />
+    <contactNpc val="30852" />
+    <restrictions val="Temple Knight" />
+    <description val="Oh, Mãe Árvore Guardiã! Por que você está contido? Liberte-se de suas amarras e torne-se um verdadeiro Cavaleiro da deusa!" />
+    <class val="20" />
+  </quest>
+  <quest id="72" name="Saga do Sword Muse">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Ferreiro Feynn" />
+    <contactNpc val="30853" />
+    <restrictions val="Sword Singer" />
+    <description val="Oh, cantor da espada... Quem te ensinou e para quem você está cantando?" />
+    <class val="21" />
+  </quest>
+  <quest id="73" name="Saga do Duelist">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Diretor de Arena" />
+    <contactNpc val="30849" />
+    <restrictions val="Gladiator" />
+    <description val="Apenas os melhores Gladiadores podem ser chamados de Duelistas. que coisas secretas eles devem sacrificar pela vitória? que conhecimento desconhecido eles possuem?" />
+    <class val="2" />
+  </quest>
+  <quest id="74" name="Saga dos Dreadnoughts">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Guarda Ulrich" />
+    <contactNpc val="30850" />
+    <restrictions val="Warlord" />
+    <description val="Os senhores da guerra são a tempestade do campo de batalha. uma garota surgiu na terra de Elmore que é conhecida como a maior Warlord que já existiu! Dizem que ela é protegida por um dragão! Por que ela voltou?" />
+    <class val="3" />
+  </quest>
+  <quest id="75" name="Saga do Titan">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Prefeito Lakan" />
+    <contactNpc val="31327" />
+    <restrictions val="Destroyer" />
+    <description val="Nos tempos antigos, os Guerreiros Orcs eram tão poderosos quanto os gigantes! um Orc Warrior está trazendo esse poder à vida mais uma vez." />
+    <class val="46" />
+  </quest>
+  <quest id="76" name="Saga do Grand Khavatari">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Duda-Mara Totem Spirit" />
+    <contactNpc val="31339" />
+    <restrictions val="Tyrant" />
+    <description val="O Hierarca Khavatari, Hubai, foi assassinado! os principais suspeitos são seus seguidores, Kashu e Uruz! a jornada de Khavatari para pegar o criminoso começa agora!" />
+    <class val="48" />
+  </quest>
+  <quest id="77" name="Saga do Dominator">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Mensageiro de Ketra Wahkan" />
+    <contactNpc val="31336" />
+    <restrictions val="Overlord" />
+    <description val="Se um Overlord é um Rei, então o que é um Rei senão aquele que se apodera da autoridade para governar?" />
+    <class val="51" />
+  </quest>
+  <quest id="78" name="Saga do Doomcryer">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Espírito Totem Duda-Mara" />
+    <contactNpc val="31336" />
+    <restrictions val="Warcyer" />
+    <description val="as advertências dos ancestrais ecoam através dos séculos. Você deve reunir muito mais almas nobres se quiser sobreviver!" />
+    <class val="52" />
+  </quest>
+  <quest id="631" name="Deliciosa Carne de Qualidade">
+    <lvlMin val="65" />
+    <lvlMax val="73" />
+    <questType val="0" />
+    <entityName val="Beast Farm" />
+    <contactNpc val="31537" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A melhor carne vem de um animal maduro, mas sem ninguém para criá-los, esses animais se tornaram ferozes demais para se aproximar!" />
+    <class val="" />
+  </quest>
+  <quest id="632" name="Pedido do Necromante">
+    <lvlMin val="63" />
+    <lvlMax val="77" />
+    <questType val="0" />
+    <entityName val="Forest of the Dead" />
+    <contactNpc val="31522" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Necromante na Forest of the Dead pede que você destrua os vampiros que estão interferindo em sua coleção de materiais mágicos." />
+    <class val="" />
+  </quest>
+  <quest id="633" name="Na Vila Esquecida">
+    <lvlMin val="65" />
+    <lvlMax val="73" />
+    <questType val="0" />
+    <entityName val="Forest of the Dead" />
+    <contactNpc val="31388" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A Aldeia Esquecida dentro da Forest of the Dead. as pessoas aqui são constantemente assediadas por mortos-vivos e Magos das Trevas. Ajude-os!" />
+    <class val="" />
+  </quest>
+  <quest id="20" name="Criar com Amor">
+    <lvlMin val="65" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Fazenda de feras" />
+    <contactNpc val="31537" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Uma fera bondosa pode possuir uma Joia da Inocência. Onde você pode encontrar um?" />
+    <class val="" />
+  </quest>
+  <quest id="21" name="Verdade Escondida">
+    <lvlMin val="63" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Lápide" />
+    <contactNpc val="31522" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A Forest of the Dead. um fantasma insone vive na escuridão profunda. a conspiração nasce." />
+    <class val="" />
+  </quest>
+  <quest id="22" name="Tragédia na Floresta Von Hellmann">
+    <lvlMin val="63" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Grande Magistrada Tifaren" />
+    <contactNpc val="31334" />
+    <restrictions val="Conclusão da missão &quot;Verdade Escondida&quot;." />
+    <description val="O Sacerdote solicitou necromancia. Qual é a tragédia da Floresta Hellmann? Alguns morrem e alguns ficam bastante ricos." />
+    <class val="" />
+  </quest>
+  <quest id="23" name="Coração da Lidia">
+    <lvlMin val="64" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Sumo Sacerdote Innocentin" />
+    <contactNpc val="31328" />
+    <restrictions val="Conclusão da missão &quot;Tragédia da Floresta Hellmann&quot;." />
+    <description val="Uma garota sabe a verdade. na noite em que ela se tornou uma vampir uma tragédia se abateu sobre a família Von Hellmann." />
+    <class val="" />
+  </quest>
+  <quest id="24" name="Habitantes da Forest of the Dead">
+    <lvlMin val="65" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Lápide" />
+    <contactNpc val="31389" />
+    <restrictions val="Conclusão da missão &quot;Coração da Lidia&quot;." />
+    <description val="Algo horrível aconteceu no que hoje é conhecido como Cursed Village. a Senhora Lidia foi a responsável por esses trágicos acontecimentos? o que ou quem estava por trás da tragédia da Floresta Hellmann senão ela?" />
+    <class val="" />
+  </quest>
+  <quest id="25" name="Escondido Atrás da Verdade">
+    <lvlMin val="66" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Sacerdote Benedito" />
+    <contactNpc val="31349" />
+    <restrictions val="Conclusão da missão &quot;Habitantes da Forest of the Dead&quot;." />
+    <description val="A conspiração foi exposta. o que teria sido uma tragédia completa só foi salva pelo fato de ela ter sobrevivido por causa do experimento." />
+    <class val="" />
+  </quest>
+  <quest id="91" name="Saga do Arcana Lord">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Servidor de Keats" />
+    <contactNpc val="31605" />
+    <restrictions val="Warlock" />
+    <description val="Para refinar sua técnica de invocação ao seu nível mais alto, o de Arcana Lord, um Warlock deve absorver o conhecimento dos seis Tábuas da Visão!" />
+    <class val="14" />
+  </quest>
+  <quest id="92" name="Saga do Elemental Master">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="High Summoner Radyss" />
+    <contactNpc val="30174" />
+    <restrictions val="Elemental Summoner" />
+    <description val="Para se tornar um Elemental Master, um Elemental Summoner deve receber as visões de seis tábuas de pedra." />
+    <class val="28" />
+  </quest>
+  <quest id="93" name="Saga do Spectral Master">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Invocador Noctisse" />
+    <contactNpc val="30175" />
+    <restrictions val="Invocador Fantasma" />
+    <description val="Para se tornar um Spectral Mestre, um Phantom Summoner deve receber as visões de seis tabuletas de pedra." />
+    <class val="41" />
+  </quest>
+  <quest id="99" name="Saga do Fortune Seeker">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Pamela Aprodia" />
+    <contactNpc val="31594" />
+    <restrictions val="Bounty Hunter" />
+    <description val="O lendário graal do esplendor simboliza o conhecimento dos deuses. É parte da geometria absoluta que os Centuriões Anões há muito procuram. Este conhecimento permite que alguém se torne um Fortune Seeker, controlando a riqueza e o destino!" />
+    <class val="55" />
+  </quest>
+  <quest id="100" name="Saga do Maestro">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Mestre Tobald" />
+    <contactNpc val="31592" />
+    <restrictions val="Ferreiro de guerra" />
+    <description val="Estas antigas tábuas de pedra estão gravadas com a própria linguagem dos deuses! o conhecimento contido nessas Tábuas da Visão pode transformar um mortal em um Maestro com o poder de fazer metais derramarem como mel!" />
+    <class val="57" />
+  </quest>
+  <quest id="11" name="Reunião Secreta com Orcs Ketra">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="3" />
+    <entityName val="Comerciante Leon" />
+    <contactNpc val="31296" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os hostis Orcs Ketra possuem uma influência muito grande no Território de Goddard. o guarda Cadmon lhe diz que lhe dará a oportunidade de se aproximar da tribo Ketra e lhe propõe uma missão..." />
+    <class val="" />
+  </quest>
+  <quest id="12" name="Encontro Secreto com Silenos Varka">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="3" />
+    <entityName val="Comerciante Helmut" />
+    <contactNpc val="31296" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os hostis Orcs Ketra possuem uma influência muito grande no Território de Goddard. o guarda Cadmon lhe diz que lhe dará a oportunidade de se aproximar da tribo Ketra e lhe propõe uma missão..." />
+    <class val="" />
+  </quest>
+  <quest id="18" name="Encontro com o Carneiro Dourado">
+    <lvlMin val="66" />
+    <lvlMax val="76" />
+    <questType val="3" />
+    <entityName val="Armazém Cargueiro Daisy" />
+    <contactNpc val="31314" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Chefe do Armazém, Donald, pede que você entregue suprimentos de guerra para a Força Mercenária Carneiro Dourado que foi despachada para o Swamp of Screams. Ele pede que você vá primeiro conhecer o Armazém Cargueiro Daisy, sua sobrinha..." />
+    <class val="" />
+  </quest>
+  <quest id="31" name="Segredo Enterrado no Pântano">
+    <lvlMin val="66" />
+    <lvlMax val="76" />
+    <questType val="3" />
+    <entityName val="O lugar onde o pesquisador Krorin desapareceu." />
+    <contactNpc val="31555" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Fornecedor Mercenário Abercrombie da Força Mercenária Carneiro Dourado pede que você encontre um pesquisador que desapareceu enquanto explorava as relíquias de um antigo império que estava escondido no Swamp of Screams..." />
+    <class val="" />
+  </quest>
+  <quest id="605" name="Aliança com Orcs Ketra">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Varka Silenos Stronghold" />
+    <contactNpc val="31371" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Mensageiro Wahkan pede que você seja um aliado dos Orcs Ketra e se junte a eles na luta contra Silenos Vark o inimigo jurado dos Orcs Ketra..." />
+    <class val="" />
+  </quest>
+  <quest id="606" name="Guerra com Silenos Varka">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Varka Silenos Stronghold" />
+    <contactNpc val="31370" />
+    <restrictions val="Aliança de Ketra - Nível 1 ou superior." />
+    <description val="Kadun Zu Ketr o chefe dos Orcs Ketra está procurando um bravo lutador que irá derrotar Silenos Vark seu inimigo jurado..." />
+    <class val="" />
+  </quest>
+  <quest id="607" name="Prove sua Coragem!">
+    <lvlMin val="75" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Shadith, Herói de Varka" />
+    <contactNpc val="31370" />
+    <restrictions val="Aliança de Ketra - Nível 3" />
+    <description val="Você ouviu a notícia de que Kadun Zu Hestui, o ancião de Orcs Ketra está procurando um guerreiro que possa derrotar Shadith, o herói da tribo Silenos Varka." />
+    <class val="" />
+  </quest>
+  <quest id="608" name="Mate o Comandante Inimigo!">
+    <lvlMin val="75" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Varka Comandante Mos" />
+    <contactNpc val="31370" />
+    <restrictions val="Aliança de Ketra - Nível 4" />
+    <description val="Você ouviu a notícia de que Kadun Zu Hestui, o ancião de Orcs Ketra está procurando um guerreiro que possa derrotar Shadith, o herói da tribo Silenos Varka." />
+    <class val="" />
+  </quest>
+  <quest id="609" name="Poder Mágico da Água - Parte I">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="2" />
+    <entityName val="Asef Guia das Almas Mortas" />
+    <contactNpc val="31371" />
+    <restrictions val="Aliança de Ketra - Nível 2 ou superior" />
+    <description val="O Mensageiro de Ketr Wahkan, deu a você a missão de roubar a fonte do poder mágico do xamã de Silenos Vark seu inimigo..." />
+    <class val="" />
+  </quest>
+  <quest id="610" name="Poder Mágico da Água - Parte II">
+    <lvlMin val="75" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Altar Sagrado de Varka" />
+    <contactNpc val="31372" />
+    <restrictions val="Aliança de Ketra - Nível 2 ou Superior. Além disso, apenas um personagem que cumpriu a missão &quot;Poder Mágico da Água - Parte I&quot; pode seguir esta missão." />
+    <description val="Você deve usar o totem que roubou do xamã de Silenos Varka para invocar o Espírito da Água e matá-lo..." />
+    <class val="" />
+  </quest>
+  <quest id="611" name="Aliança com Silenos Varka">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Ketra Orc Outpost" />
+    <contactNpc val="31378" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Naran Ashanuk, o Mensageiro de Varka pede que você se torne um amigo de Silenos Varka e se junte a eles na luta contra Orcs Ketr seu inimigo jurado..." />
+    <class val="" />
+  </quest>
+  <quest id="612" name="Guerra com Orcs Ketra">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Orc Ketra Outpost" />
+    <contactNpc val="31377" />
+    <restrictions val="Aliança de Varka - Nível 1 ou superior." />
+    <description val="Ashas Varka Durai, chefe de Silenos Varka está procurando um lutador que irá derrotar Orcs Ketr o inimigo jurado de Silenos Varka..." />
+    <class val="" />
+  </quest>
+  <quest id="613" name="Prove sua Coragem!">
+    <lvlMin val="75" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Hekaton, Herói de Ketra" />
+    <contactNpc val="31377" />
+    <restrictions val="Aliança de Varka - Nível 3" />
+    <description val="Ashas Varka Durai, chefe de Silenos Varka está procurando um lutador que irá derrotar Orcs Ketr o inimigo jurado de Silenos Varka..." />
+    <class val="" />
+  </quest>
+  <quest id="614" name="Mate o Comandante Inimigo!">
+    <lvlMin val="75" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Tayr, Comandante de Ketra" />
+    <contactNpc val="31377" />
+    <restrictions val="Aliança de Varka - Nível 4" />
+    <description val="Ashas Varka Durai, chefe de Silenos Varka está procurando um lutador que irá derrotar Orcs Ketr o inimigo jurado de Silenos Varka..." />
+    <class val="" />
+  </quest>
+  <quest id="615" name="Poder Mágico do Fogo - Parte I">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="2" />
+    <entityName val="Udan Mardui, Guia das Almas Mortas" />
+    <contactNpc val="31378" />
+    <restrictions val="Aliança de Varka - Nível 2 ou superior" />
+    <description val="O Mensageiro de Vark Naran Ashanuk, deu a você a missão de roubar a fonte do poder mágico do xamã de Orcs Ketr seu inimigo..." />
+    <class val="" />
+  </quest>
+  <quest id="616" name="Poder Mágico do Fogo - Parte II">
+    <lvlMin val="75" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Altar Sagrado de Ketra" />
+    <contactNpc val="31379" />
+    <restrictions val="Aliança de Varka - Nível 2 ou Superior. Além disso, apenas um personagem que cumpriu a missão &quot;Poder Mágico do Fogo - Parte I&quot; pode seguir esta missão." />
+    <description val="Você deve usar o totem que roubou do xamã de Orcs Ketra para invocar o Espírito da Água e matá-lo..." />
+    <class val="" />
+  </quest>
+  <quest id="629" name="Limpe o Swamp of Screams">
+    <lvlMin val="66" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Swamp of Screams" />
+    <contactNpc val="31553" />
+    <restrictions val="Distintivo de Carneiro Dourado - Recruta ou Distintivo de Carneiro Dourado - Soldado" />
+    <description val="Pierce, capitão da Força Mercenária Carneiro Dourado, atribuiu a você a tarefa de expulsar os stakatos. Você deve ir ao Swamp of Screams para realizar esta missão..." />
+    <class val="" />
+  </quest>
+  <quest id="241" name="Possuidor de uma Alma Preciosa - 1">
+    <lvlMin val="50" />
+    <lvlMax val="75" />
+    <questType val="3" />
+    <entityName val="Gabrielle" />
+    <contactNpc val="31739" />
+    <restrictions val="Essa missão só pode ser cumprida enquanto o personagem estiver em uma subclasse." />
+    <description val="Talien é um bardo que vagueia pela cidade do castelo de Aden. Ele pede que você o ajude a coletar as histórias de heróis antigos..." />
+    <class val="" />
+  </quest>
+  <quest id="246" name="Possuidor de uma Alma Preciosa - 3">
+    <lvlMin val="65" />
+    <lvlMax val="75" />
+    <questType val="3" />
+    <entityName val="Ossian" />
+    <contactNpc val="31740" />
+    <restrictions val="Essa missão só pode ser cumprida enquanto o personagem estiver em uma subclasse. Além disso, o personagem também deve ter concluído &quot;Possuidor de uma Alma Preciosa - 2&quot;." />
+    <description val="Caradine pede que você ajude a Dama do Lago a recuperar suas forças perdidas..." />
+    <class val="" />
+  </quest>
+  <quest id="247" name="Possuidor de uma Alma Preciosa - 4">
+    <lvlMin val="75" />
+    <lvlMax val="80" />
+    <questType val="3" />
+    <entityName val="" />
+    <contactNpc val="31740" />
+    <restrictions val="Essa missão só pode ser cumprida enquanto o personagem estiver em uma subclasse. Além disso, o personagem também deve ter concluído &quot;Possuidor de uma Alma Preciosa - 3&quot;." />
+    <description val="Caradine pede que você ajude a Dama do Lago a recuperar suas forças perdidas..." />
+    <class val="" />
+  </quest>
+  <quest id="628" name="Caçada a Força Mercenária Carneiro Dourado">
+    <lvlMin val="66" />
+    <lvlMax val="78" />
+    <questType val="0" />
+    <entityName val="Swamp of Screams" />
+    <contactNpc val="31554" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A Força Mercenária Carneiro Dourado está recrutando! Esta prestigiosa força mercenária está atualmente cumprindo a missão de subjugar/expulsar stakatos do Swamp of Screams..." />
+    <class val="" />
+  </quest>
+  <quest id="242" name="Possuidor de uma Alma Preciosa - 2">
+    <lvlMin val="60" />
+    <lvlMax val="75" />
+    <questType val="3" />
+    <entityName val="Cassandra" />
+    <contactNpc val="31742" />
+    <restrictions val="Essa missão só pode ser cumprida enquanto o personagem estiver em uma subclasse. Além disso, o personagem também deve ter concluído &quot;Possuidor de uma Alma Preciosa - 1&quot;." />
+    <description val="Virgílio, um anão que adora a Dama do Lago, pede a você que ajude sua neta atormentada por um estranho pesadelo..." />
+    <class val="" />
+  </quest>
+  <quest id="118" name="Liderar e Ser Liderado">
+    <lvlMin val="19" />
+    <lvlMax val="40" />
+    <questType val="3" />
+    <entityName val="Maille Lizardmen Barracks" />
+    <contactNpc val="30298" />
+    <restrictions val="Um membro patrocinado da Academia do Clã" />
+    <description val="O Ferreiro Pinter da cidade de Gludio faz armaduras que apenas membros da Academia do Clã podem usar." />
+    <class val="" />
+  </quest>
+  <quest id="123" name="Líder e o Seguidor">
+    <lvlMin val="19" />
+    <lvlMax val="40" />
+    <questType val="3" />
+    <entityName val="Sul da cidade de Schuttgart" />
+    <contactNpc val="31961" />
+    <restrictions val="Um membro patrocinado da Academia do Clã" />
+    <description val="O Ferreiro-chefe Newyear da cidade de Schuttgart faz armaduras que apenas os membros da Academia do Clã podem usar." />
+    <class val="" />
+  </quest>
+  <quest id="119" name="Último Príncipe Imperial">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="3" />
+    <entityName val="Enfermeira Devorin" />
+    <contactNpc val="31453" />
+    <restrictions val="Broche Antigo" />
+    <description val="O Espírito Desconhecido na entrada do Four Sepulchers precisa de ajuda mortal para passar pelo campo de força mágico criado por seu sósia." />
+    <class val="" />
+  </quest>
+  <quest id="508" name="Reputação do Clã">
+    <lvlMin val="0" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Senhor Eric Rodemai" />
+    <contactNpc val="30868" />
+    <restrictions val="Líder do Clã, Nível 5 do Clã ou Maior" />
+    <description val="Senhor Eric Rodemai em Aden Castle Town está procurando um bravo aventureiro para aumentar a reputação do Clã." />
+    <class val="" />
+  </quest>
+  <quest id="509" name="Prestígio do Clã">
+    <lvlMin val="0" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Grande Magistrado Valdis" />
+    <contactNpc val="31331" />
+    <restrictions val="Líder do Clã, Nível 6 do Clã ou Maior" />
+    <description val="Grande Magistrado Baldis no Rune Township está procurando por um poderoso Clã que possa aumentar o prestígio do Clã." />
+    <class val="" />
+  </quest>
+  <quest id="636" name="Verdade Além do Portão">
+    <lvlMin val="73" />
+    <lvlMax val="80" />
+    <questType val="2" />
+    <entityName val="Sacerdote Flauron" />
+    <contactNpc val="31329" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Sacerdote Eliyah no Rune Township sabe como entrar no Temple of Pagans." />
+    <class val="" />
+  </quest>
+  <quest id="637" name="Através do Portão mais uma Vez">
+    <lvlMin val="73" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Forest of the Dead" />
+    <contactNpc val="32010" />
+    <restrictions val="Marca do Visitante Desbotada" />
+    <description val="O Sacerdote Flauron parece ter algo a perguntar à pessoa que carrega a Marca do Visitante Desvanecido." />
+    <class val="" />
+  </quest>
+  <quest id="654" name="Jornada para um Assentamento">
+    <lvlMin val="74" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Espírito Desconhecido" />
+    <contactNpc val="31453" />
+    <restrictions val="Conclusão da missão &quot;Último Príncipe Imperial&quot;." />
+    <description val="O Espírito Desconhecido na entrada do Four Sepulchers precisa de alguém para fazer seu duplo dormir." />
+    <class val="" />
+  </quest>
+  <quest id="117" name="O Oceano das Estrelas Distantes">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="???" />
+    <contactNpc val="32053" />
+    <restrictions val="Venha a Tarde" />
+    <description val="O ferroviário é assombrado por um fantasma que aparece todas as noites. Qual é o motivo das aparições do fantasma? Qual é o sonho do Anão?" />
+    <class val="" />
+  </quest>
+  <quest id="109" name="Em Busca do Ninho">
+    <lvlMin val="66" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="O local onde a comunicação terminou" />
+    <contactNpc val="31553" />
+    <restrictions val="Distintivo de Carneiro Dourado - Recruta ou Distintivo de Carneiro Dourado - Soldado" />
+    <description val="De acordo com as informações coletadas pelo Exército Mercenário Carneiro Dourado, os Stakatos têm um ninho vil onde vivem e se reproduzem. Pierce está tentando encontrar a entrada do ninho." />
+    <class val="" />
+  </quest>
+  <quest id="112" name="Caminhada do Destino">
+    <lvlMin val="20" />
+    <lvlMax val="36" />
+    <questType val="3" />
+    <entityName val="Karuda" />
+    <contactNpc val="30572" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Livina sente energia negativa vinda da direção das Criptas da Desgraça." />
+    <class val="" />
+  </quest>
+  <quest id="113" name="Situação da Beacon Tower">
+    <lvlMin val="40" />
+    <lvlMax val="51" />
+    <questType val="3" />
+    <entityName val="Torrant" />
+    <contactNpc val="31979" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Moira quer que a caixa contendo a chama do espírito santo seja levada para a Torre Beacon porque o poder de Pa'agrio está ficando mais fraco lá." />
+    <class val="" />
+  </quest>
+  <quest id="122" name="Notícias Sinistras">
+    <lvlMin val="20" />
+    <lvlMax val="36" />
+    <questType val="3" />
+    <entityName val="Karuda" />
+    <contactNpc val="31979" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Moira recebeu uma revelação de Pa'agrio de que uma jornada para as Criptas da Desgraça está destinada." />
+    <class val="" />
+  </quest>
+  <quest id="640" name="A Hora Zero">
+    <lvlMin val="66" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Stakato Nest" />
+    <contactNpc val="31554" />
+    <restrictions val="Conclusão da missão &quot;Em Busca do Ninho&quot;." />
+    <description val="O Capitão Mercenário Pierce localizou o Stakato Nest e comprometeu todas as suas tropas lá para terminar a árdua batalha." />
+    <class val="" />
+  </quest>
+  <quest id="644" name="Aniquilação do Ladrão de Túmulos">
+    <lvlMin val="20" />
+    <lvlMax val="33" />
+    <questType val="0" />
+    <entityName val="Esconderijo do ladrão de túmulos" />
+    <contactNpc val="32017" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Karuda diz que os espíritos vingativos estão aumentando por causa das atividades dos ladrões de túmulos e pede que você elimine os ladrões de túmulos." />
+    <class val="" />
+  </quest>
+  <quest id="645" name="Fantasmas de Batur">
+    <lvlMin val="23" />
+    <lvlMax val="36" />
+    <questType val="0" />
+    <entityName val="Espírito vingativo" />
+    <contactNpc val="32017" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Os espíritos vingativos estão aumentando por causa das atividades dos ladrões de túmulos, e Karuda precisa de ajuda para impedir que algo maligno aconteça." />
+    <class val="" />
+  </quest>
+  <quest id="646" name="Sinais de Revolta">
+    <lvlMin val="40" />
+    <lvlMax val="51" />
+    <questType val="0" />
+    <entityName val="Orc Ragna" />
+    <contactNpc val="32016" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Torrant diz que os Orcs Ragna estão se preparando para uma revolta e pede que você mine seu poder de luta antes que as tropas cheguem." />
+    <class val="" />
+  </quest>
+  <quest id="115" name="O Outro Lado da Verdade">
+    <lvlMin val="53" />
+    <lvlMax val="63" />
+    <questType val="3" />
+    <entityName val="Misa" />
+    <contactNpc val="32020" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Rafforty está recrutando aventureiros para ajudar a Guilda Zinnia." />
+    <class val="" />
+  </quest>
+  <quest id="648" name="O Sonho de um Comerciante de Gelo">
+    <lvlMin val="53" />
+    <lvlMax val="63" />
+    <questType val="0" />
+    <entityName val="Frozen Labyrinth" />
+    <contactNpc val="32020" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Raforty está coletando Cristais de Gelo para sua guilda." />
+    <class val="" />
+  </quest>
+  <quest id="651" name="Juventude Fugitiva">
+    <lvlMin val="26" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="Membro da Guilda dos Pescadores" />
+    <contactNpc val="32014" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Quando você conhece o filho de um pescador que fugiu porque não queria fazer parte dos negócios da famíli convença-o a voltar para casa." />
+    <class val="" />
+  </quest>
+  <quest id="652" name="Um Ex-Aventureiro Idoso">
+    <lvlMin val="46" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="Sara" />
+    <contactNpc val="32012" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O velho ex-aventureiro saiu de casa por alguma agitação e encontrou sérios problemas. Se você o encontrar durante a aventur ajude-o." />
+    <class val="" />
+  </quest>
+  <quest id="653" name="Donzela Selvagem">
+    <lvlMin val="36" />
+    <lvlMax val="0" />
+    <questType val="2" />
+    <entityName val="Galibredo" />
+    <contactNpc val="32013" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Se você conhecer Suki, que fugiu porque se apaixonou por um vagabundo, convença-a a voltar para casa." />
+    <class val="" />
+  </quest>
+  <quest id="659" name="Prefiro Colecionar Suspiro de Fada">
+    <lvlMin val="26" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Windy Hill" />
+    <contactNpc val="30634" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Colete o hálito de Sylph do Vento, a Fada do Vento, em Windy Hill." />
+    <class val="" />
+  </quest>
+  <quest id="660" name="Ajudando a Floran Village.">
+    <lvlMin val="30" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Alex" />
+    <contactNpc val="30608" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Floran Village é uma comuna de agricultores. a vila tem crescido, mas precisa de uma ajuda extra nos dias de hoje." />
+    <class val="" />
+  </quest>
+  <quest id="661" name="Tornar os Campos de Colheita Seguros">
+    <lvlMin val="21" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Fellmere Harvesting Grounds" />
+    <contactNpc val="30210" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Proteja os Fellmere Harvesting Grounds para que os pedreiros possam trabalhar com segurança." />
+    <class val="" />
+  </quest>
+  <quest id="655" name="Um Grande Plano para Domar Feras Selvagens">
+    <lvlMin val="0" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Beast Farm" />
+    <contactNpc val="35627" />
+    <restrictions val="Líder do Clã, acima do nível 4 do Clã, 1 hora antes da Guerra do Salão do Clã" />
+    <description val="O Clã que melhor domar as feras pode obter um salão de Clã." />
+    <class val="" />
+  </quest>
+  <quest id="638" name="Buscadores do Santo Graal">
+    <lvlMin val="73" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Temple of Pagans" />
+    <contactNpc val="31328" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Sumo Sacerdote Innocentin de Rune Township está tentando impedir que os pagãos capturem o Graal of Splendor." />
+    <class val="" />
+  </quest>
+  <quest id="639" name="Guardiões do Santo Graal">
+    <lvlMin val="73" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Monestary of Silence" />
+    <contactNpc val="31350" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Sacerdote Dominic, do município de Rune, está tentando obter algo escondido no Monestary of Silence." />
+    <class val="" />
+  </quest>
+  <quest id="650" name="Um Sonho Quebrado">
+    <lvlMin val="39" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Sky Wagon Relic" />
+    <contactNpc val="32054" />
+    <restrictions val="Conclusão da missão &quot;Oceano de Estrelas Distantes&quot;." />
+    <description val="Os Anões da Relíquia da Carroça do Céu eventualmente enlouqueceram. Eles podem ser salvos?" />
+    <class val="" />
+  </quest>
+  <quest id="649" name="Um Saqueador e um Ferroviário">
+    <lvlMin val="30" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Plunderous Plains" />
+    <contactNpc val="32052" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Ferroviário Obi nas Planícies Plunderous é atormentado por ataques de bandidos incessantes. Ajudem-no!" />
+    <class val="" />
+  </quest>
+  <quest id="647" name="Afluxo de Máquinas">
+    <lvlMin val="46" />
+    <lvlMax val="54" />
+    <questType val="0" />
+    <entityName val="Pavel Ruins" />
+    <contactNpc val="32069" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Colecionador Gutenhagen quer limpar as Ruínas Pavel de Golems para pesquisá-los." />
+    <class val="" />
+  </quest>
+  <quest id="121" name="Pavel, o Gigante">
+    <lvlMin val="46" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Coletora Yumi" />
+    <contactNpc val="31961" />
+    <restrictions val="Sem Requisitos" />
+    <description val="as Pavel Ruins estão perto de Schuttgart Village. o que está acontecendo lá?" />
+    <class val="" />
+  </quest>
+  <quest id="116" name="Além das Colinas do Inverno">
+    <lvlMin val="30" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Filaur do Pilar Cinzento" />
+    <contactNpc val="30535" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A Dwarven Village está congelada. Se você viajar ao longo da rota da ferrovia em direção ao sul e sobre a colina gelad chegará às Planícies Plunderous." />
+    <class val="" />
+  </quest>
+  <quest id="114" name="Ressurreição de um Antigo Gerente">
+    <lvlMin val="49" />
+    <lvlMax val="58" />
+    <questType val="3" />
+    <entityName val="Coletora Yumi" />
+    <contactNpc val="32041" />
+    <restrictions val="Conclusão da missão &quot;Pavel, o Gigante&quot;." />
+    <description val="Os enigmas estão escondidos nas Pavel Ruins. que grande mistério está aí?" />
+    <class val="" />
+  </quest>
+  <quest id="120" name="Pesquisa de Pavel">
+    <lvlMin val="50" />
+    <lvlMax val="58" />
+    <questType val="3" />
+    <entityName val="Atlanta" />
+    <contactNpc val="32046" />
+    <restrictions val="Conclusão da missão &quot;Ressurreição de um Antigo Gerente&quot;." />
+    <description val="as velhas relíquias foram despertadas por engano. Enorme energia está fluindo. Pare o perigo que se aproxima!" />
+    <class val="" />
+  </quest>
+  <quest id="111" name="Prova do Caçador de Elrokian">
+    <lvlMin val="75" />
+    <lvlMax val="0" />
+    <questType val="1" />
+    <entityName val="Mushika" />
+    <contactNpc val="32113" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Na Primeval Isle, onde abundam as criaturas primitivas, os nativos dizem ter uma habilidade especial para caçar dinossauros. para aprendê-lo, você deve primeiro ganhar a confiança desses nativos..." />
+    <class val="" />
+  </quest>
+  <quest id="124" name="Conhecendo os Elroki">
+    <lvlMin val="75" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Mushika" />
+    <contactNpc val="32113" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O velho explorador da Ilha Primordial, Marquez, recebeu uma carta de seu amigo, o chefe Elroki Mushika. o chefe pede a Marquez que lhe envie um jovem e corajoso aventureiro que possa procurar na ilha uma cura para sua misteriosa doença." />
+    <class val="" />
+  </quest>
+  <quest id="125" name="Nome do Mal - 1">
+    <lvlMin val="76" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Mushika" />
+    <contactNpc val="32114" />
+    <restrictions val="Conclusão da missão &quot;Conhecendo os Elroki&quot;." />
+    <description val="Graças ao remédio milagroso, Mushika se recupera de sua doença. Mas ele está mais preocupado com os estranhos acontecimentos que ocorrem na ilha do que com sua própria saúde. Ele pede sua ajuda para obter o epitáfio de que precisa para descobrir a causa. Pode ser encontrado no antigo monumento de pedra localizado perto do Lost Nest." />
+    <class val="" />
+  </quest>
+  <quest id="126" name="Nome do Mal - 2">
+    <lvlMin val="77" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Asamah" />
+    <contactNpc val="32115" />
+    <restrictions val="Conclusão da missão &quot;Nome do Mal - 1&quot;." />
+    <description val="Asamah suspeita que haja alguma ligação entre o selo mágico do machado Gazkh e os estranhos eventos que ocorrem na ilha. para descobrir a caus ele pede que você procure os três Kaimus e traga de volta sua sabedoria sobre o assunto." />
+    <class val="" />
+  </quest>
+  <quest id="510" name="Reputação do Clã">
+    <lvlMin val="0" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="31331" />
+    <restrictions val="Líder do Clã, Nível 5 do Clã ou maior" />
+    <description val="O Grande Magistrado Valdis de Rune Township precisa de um ingrediente especial para criar armas e armaduras para seus guardas." />
+    <class val="" />
+  </quest>
+  <quest id="641" name="Ataque Sailren!">
+    <lvlMin val="77" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Lost Nest" />
+    <contactNpc val="32109" />
+    <restrictions val="Conclusão da missão &quot;Nome do Mal - 2&quot;." />
+    <description val="No acampamento do chefe Elroki na Primeval Isle, Asamah pede a você para ajudar a salvar a tribo Elroki de um perigo iminente. para isso, você deve derrotar Sailren, um temível dinossauro de incrível poder." />
+    <class val="" />
+  </quest>
+  <quest id="642" name="Uma Poderosa Criatura Primitiva">
+    <lvlMin val="75" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Lost Nest" />
+    <contactNpc val="32105" />
+    <restrictions val="Sem Requisitos" />
+    <description val="A descoberta de poderosas criaturas primitivas na Primeval Isle despertou o interesse dos mágicos, que estão curiosos sobre a origem das criaturas, e dos Ferreiros, que estão interessados ??em quais itens podem ser fabricados a partir das criaturas. Ambos os grupos estão ansiosos para encontrar aventureiros dispostos a enfrentar os perigos da Primeval Isle para trazer de volta os ingredientes de pesquisa de que precisam." />
+    <class val="" />
+  </quest>
+  <quest id="643" name="Ascensão e Queda da Tribo Elroki">
+    <lvlMin val="75" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Planícies Primitivas" />
+    <contactNpc val="32106" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Criaturas primitivas poderosas chamadas dinossauros abundam na Primeval Isle. os mágicos querem ossos de dinossauros para suas pesquisas, enquanto os nativos Elrokians precisam de ossos de dinossauros para ajudar a restaurar a tribo à sua antiga glória. Ambos os grupos precisam de um aventureiro disposto a derrotar os dinossauros e retornar com os ossos necessários." />
+    <class val="" />
+  </quest>
+  <quest id="662" name="Um Jogo de Cartas">
+    <lvlMin val="61" />
+    <lvlMax val="80" />
+    <questType val="0" />
+    <entityName val="Klump" />
+    <contactNpc val="30845" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Chefe do Armazém Klump, da Cidade do Castelo de Aden, passa a maior parte do tempo jogando cartas. a palavra é que quem conseguir vencê-lo ganhará um prêmio generoso." />
+    <class val="" />
+  </quest>
+  <quest id="663" name="Sussurros Sedutores">
+    <lvlMin val="50" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="" />
+    <contactNpc val="30846" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Ferreiro Wilbert de Aden Castle Town está procurando pessoas para jogar um jogo muito popular entre os Ferreiros." />
+    <class val="" />
+  </quest>
+  <quest id="688" name="Derrote os Invasores Elrokian!">
+    <lvlMin val="75" />
+    <lvlMax val="0" />
+    <questType val="0" />
+    <entityName val="Elroki" />
+    <contactNpc val="32105" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Comerciante Dinn do Primeval Isle Wharf está ansioso porque invasores Elrokianos estão roubando itens dos mercadores. Ele promete lhe dar uma recompensa se você capturar os invasores e trazer de volta seus colares como prova." />
+    <class val="" />
+  </quest>
+  <quest id="110" name="Para a Primeval Isle">
+    <lvlMin val="75" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Marquez" />
+    <contactNpc val="31338" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Anton da biblioteca de Rune Township dá a você um livro antigo e pede que você o entregue a Marquez no Primeval Isle Wharf." />
+    <class val="" />
+  </quest>
+  <quest id="127" name="Kamael: uma Janela para o Futuro">
+    <lvlMin val="1" />
+    <lvlMax val="0" />
+    <questType val="3" />
+    <entityName val="Klaus Blackbird" />
+    <contactNpc val="31350" />
+    <restrictions val="Sem Requisitos" />
+    <description val="O Sacerdote Dominic do Rune Township está procurando um aventureiro que será capaz de executar com sucesso uma tarefa especial e secreta. Esta tarefa diz respeito ao aparecimento da nova raça chamada Kamael; Ele diz que sua tarefa é encontrar um representante de cada raça e descobrir sua posição e os termos desejados..." />
+    <class val="" />
+  </quest>
+   <quest id="700" name="Legado de Maria">
+    <lvlMin val="75" />
+    <lvlMax val="80" />
+    <questType val="3" />
+    <entityName val="Michaelle" />
+    <contactNpc val="84004" />
+    <restrictions val="Sem Requisitos" />
+    <description val="Michaelle está atrás de sua mãe e seu irmão que foram atrás de um monstro que jogou uma doença terrivel em sua mãe." />
+    <class val="" />
+  </quest>
+ </list>

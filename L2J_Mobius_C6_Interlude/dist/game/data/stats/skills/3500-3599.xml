@@ -1,0 +1,1657 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="3500" levels="1" name="Conjunto Madeira">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pDef" val="1.02" />
+			
+			<add order="0x40" stat="maxHp" val="41" />
+			
+		</for>
+	</skill>
+	<skill id="3501" levels="1" name="Conjunto Devoção">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			
+		</for>
+	</skill>
+	<skill id="3502" levels="1" name="Conjunto Armadura Pesada de Mithril">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x40" stat="poisonVuln" val="0.8" />
+			
+		</for>
+	</skill>
+	<skill id="3503" levels="1" name="Conjunto Couro Reforçado">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="maxMp" val="80" />
+			
+		</for>
+	</skill>
+	<skill id="3504" levels="1" name="Conjunto Conhecimento">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="mAtk" val="1.1" />
+			
+			<mul order="0x30" stat="regMp" val="0.95" />
+			
+		</for>
+	</skill>
+	<skill id="3505" levels="1" name="Conjunto Mantícora">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="maxMp" val="92" />
+			
+		</for>
+	</skill>
+	<skill id="3506" levels="1" name="Conjunto Brigandine">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pDef" val="1.05" />
+			
+			<add order="0x40" stat="maxHp" val="153" />
+			
+		</for>
+	</skill>
+	<skill id="3507" levels="1" name="Conjunto Élfico de Mithril">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="runSpd" val="7" />
+			
+			<add order="0x40" stat="WIT" val="1" />
+			
+			<sub order="0x40" stat="INT" val="1" />
+			
+		</for>
+	</skill>
+	<skill id="3508" levels="1" name="Conjunto Armadura Leve de Mithril">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="rEvas" val="4" />
+			
+		</for>
+	</skill>
+	<skill id="3509" levels="1" name="Conjunto Cota de Malha">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="daggerWpnVuln" val="0.9476" />
+			
+		</for>
+	</skill>
+	<skill id="3510" levels="1" name="Conjunto Karmiano">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pDef" val="1.0524" />
+			
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			
+		</for>
+	</skill>
+	<skill id="3511" levels="1" name="Conjunto Couro Banhado">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="STR" val="4" />
+			
+			<sub order="0x40" stat="CON" val="1" />
+			
+		</for>
+	</skill>
+	<skill id="3512" levels="1" name="Conjunto Armadura Pesada Composta">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="weightPenalty" val="5795" />
+			
+		</for>
+	</skill>
+	<skill id="3513" levels="1" name="Conjunto Demônio">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<sub order="0x40" stat="maxHp" val="270" />
+			
+			<add order="0x40" stat="INT" val="4" />
+			
+			<sub order="0x40" stat="WIT" val="1" />
+			
+		</for>
+	</skill>
+	<skill id="3514" levels="1" name="Conjunto Armadura Leve Theca de Couro">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pDef" val="1.0524" />
+			
+		</for>
+	</skill>
+	<skill id="3515" levels="1" name="Conjunto Drake de Couro">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="mDef" val="1.0524" />
+			
+		</for>
+	</skill>
+	<skill id="3516" levels="1" name="Conjunto Completo de Placas">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="maxHp" val="270" />
+			
+		</for>
+	</skill>
+	<skill id="3517" levels="1" name="Conjunto Divino">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pDef" val="1.0524" />
+			
+			<add order="0x40" stat="maxMp" val="171" />
+			
+			<sub order="0x40" stat="INT" val="1" />
+			
+			<add order="0x40" stat="WIT" val="1" />
+			
+		</for>
+	</skill>
+	<skill id="3518" levels="1" name="Conjunto Armadura Pesada de Zubei">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pDef" val="1.0524" />
+			
+			<add order="0x40" stat="maxHp" val="294" />
+			
+		</for>
+	</skill>
+	<skill id="3519" levels="1" name="Conjunto Armadura Pesada Avadon">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="maxHp" val="294" />
+			
+		</for>
+	</skill>
+	<skill id="3520" levels="1" name="Conjunto Armadura Leve Zubei de Couro ">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="rEvas" val="4" />
+			
+		</for>
+	</skill>
+	<skill id="3521" levels="1" name="Conjunto Armadura Leve Avadon">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="mDef" val="1.0525" />
+			
+			<add order="0x40" stat="weightPenalty" val="5795" />
+			
+		</for>
+	</skill>
+	<skill id="3522" levels="1" name="Conjunto Manto Zubei">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="mAtk" val="1.1" />
+			
+			<mul order="0x30" stat="regMp" val="0.95" />
+			
+		</for>
+	</skill>
+	<skill id="3523" levels="1" name="Conjunto Manto Avadon">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pDef" val="1.0547" />
+			
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			
+		</for>
+	</skill>
+	<skill id="3524" levels="1" name="Conjunto Armadura Pesada Lobo Azul">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="runSpd" val="7" />
+			
+			<mul order="0x30" stat="regHp" val="1.0524" />
+			
+			<add order="0x40" stat="STR" val="3" />
+			
+			<sub order="0x40" stat="CON" val="1" />
+			
+			<sub order="0x40" stat="DEX" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3525" levels="1" name="Conjunto Armadura Pesada da Perdição">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="maxHp" val="320" />
+			
+			<add order="0x40" stat="breath" val="200" />
+			
+			<sub order="0x40" stat="STR" val="3" />
+			
+			<add order="0x40" stat="CON" val="3" />
+			
+		</for>
+	</skill>
+	<skill id="3526" levels="1" name="Conjunto Armadura Leve Lobo Azul">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pDef" val="1.0524" />
+			
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			
+			<sub order="0x40" stat="INT" val="2" />
+			
+			<add order="0x40" stat="MEN" val="3" />
+			
+			<sub order="0x40" stat="WIT" val="1" />
+			
+		</for>
+	</skill>
+	<skill id="3527" levels="1" name="Conjunto Armadura Leve da Perdição">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="breath" val="200" />
+			
+			<mul order="0x30" stat="pAtk" val="1.027" />
+			
+			<mul order="0x30" stat="regMp" val="1.025" />
+			
+			<sub order="0x40" stat="STR" val="1" />
+			
+			<sub order="0x40" stat="CON" val="2" />
+			
+			<add order="0x40" stat="DEX" val="3" />
+			
+			<mul order="0x30" stat="poisonVuln" val="0.8" />
+			
+		</for>
+	</skill>
+	<skill id="3528" levels="1" name="Conjunto Manto Lobo Azul">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="maxMp" val="206" />
+			
+			<mul order="0x30" stat="regMp" val="1.0524" />
+			
+			<sub order="0x40" stat="INT" val="2" />
+			
+			<sub order="0x40" stat="MEN" val="1" />
+			
+			<add order="0x40" stat="WIT" val="3" />
+			
+		</for>
+	</skill>
+	<skill id="3529" levels="1" name="Conjunto Manto da Perdição">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="runSpd" val="7" />
+			
+			<add order="0x40" stat="breath" val="200" />
+			
+			<mul order="0x30" stat="regMp" val="1.0524" />
+			
+			<add order="0x40" stat="INT" val="2" />
+			
+			<add order="0x40" stat="MEN" val="1" />
+			
+			<sub order="0x40" stat="WIT" val="3" />
+			
+		</for>
+	</skill>
+	<skill id="3530" levels="1" name="Conjunto de Armadura Pesada Peitoral de Cristal Escuro">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="gainHp" val="1.04" />
+			
+			<mul order="0x30" stat="paralyzeVuln" val="0.5" />
+			
+			<sub order="0x40" stat="STR" val="2" />
+			
+			<add order="0x40" stat="CON" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3531" levels="1" name="Conjunto de Armadura Pesada Tallum">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.08" />
+			
+			<add order="0x40" stat="weightPenalty" val="5759" />
+			
+			<mul order="0x30" stat="poisonVuln" val="0.2" />
+			
+			<mul order="0x30" stat="bleedVuln" val="0.2" />
+			
+			<add order="0x40" stat="STR" val="2" />
+			
+			<sub order="0x40" stat="CON" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3532" levels="1" name="Conjunto de Armadura Leve de Cristal Escuro">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.04" />
+			
+			<mul order="0x30" stat="pAtk" val="1.04" />
+			
+			<mul order="0x30" stat="paralyzeVuln" val="0.5" />
+			
+			<add order="0x40" stat="STR" val="1" />
+			
+			<sub order="0x40" stat="CON" val="1" />
+			
+		</for>
+	</skill>
+	<skill id="3533" levels="1" name="Conjunto de Armadura Leve Tallum">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="regMp" val="1.08" />
+			
+			<add order="0x40" stat="maxMp" val="222" />
+			
+			<mul order="0x30" stat="poisonVuln" val="0.2" />
+			
+			<mul order="0x30" stat="bleedVuln" val="0.2" />
+			
+			<add order="0x40" stat="MEN" val="2" />
+			
+			<sub order="0x40" stat="WIT" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3534" levels="1" name="Conjunto Manto Tallum">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			
+			<mul order="0x30" stat="mDef" val="1.08" />
+			
+			<mul order="0x30" stat="poisonVuln" val="0.2" />
+			
+			<mul order="0x30" stat="bleedVuln" val="0.2" />
+			
+			<sub order="0x40" stat="INT" val="2" />
+			
+			<add order="0x40" stat="WIT" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3535" levels="1" name="Conjunto Manto de Cristal Escuro">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pDef" val="1.08" />
+			
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			
+			<add order="0x40" stat="runSpd" val="7" />
+			
+			<sub order="0x40" stat="cancel" val="18" />
+			
+			<mul order="0x30" stat="paralyzeVuln" val="0.5" />
+			
+			<add order="0x40" stat="WIT" val="2" />
+			
+			<sub order="0x40" stat="MEN" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3536" levels="1" name="Conjunto Armadura Pesada Pesadelo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pAtk" val="1.04" />
+			
+			<mul order="0x40" stat="sleepVuln" val="0.3" />
+			
+			<mul order="0x40" stat="rootVuln" val="0.3" />
+			
+			<add order="0x40" stat="CON" val="2" />
+			
+			<sub order="0x40" stat="DEX" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3537" levels="1" name="Conjunto Armadura Pesada Majestosa">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pAtk" val="1.04" />
+			
+			<add order="0x40" stat="accCombat" val="3" />
+			
+			<mul order="0x30" stat="stunVuln" val="0.5" />
+			
+			<add order="0x40" stat="STR" val="2" />
+			
+			<sub order="0x40" stat="CON" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3538" levels="1" name="Conjunto Armadura Leve de Couro de Pesadelo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="mDef" val="1.04" />
+			
+			<mul order="0x30" stat="sleepVuln" val="0.3" />
+			
+			<mul order="0x30" stat="rootVuln" val="0.3" />
+			
+			<add order="0x40" stat="absorbDam" val="3" />
+			
+			<add order="0x40" stat="DEX" val="1" />
+			
+			<sub order="0x40" stat="CON" val="1" />
+			
+		</for>
+	</skill>
+	<skill id="3539" levels="1" name="Conjunto Armadura Leve Majestosa">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pAtk" val="1.08">
+				
+				<and>
+					<using kind="Bow,Crossbow" />
+				</and>
+			</mul>
+			<add order="0x40" stat="maxMp" val="240" />
+			
+			<add order="0x40" stat="weightPenalty" val="5759" />
+			
+			<mul order="0x30" stat="stunVuln" val="0.5" />
+			
+			<add order="0x40" stat="DEX" val="1" />
+			
+			<sub order="0x40" stat="CON" val="1" />
+			
+		</for>
+	</skill>
+	<skill id="3540" levels="1" name="Conjunto Manto Pesadelo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="regMp" val="1.04" />
+			
+			<mul order="0x30" stat="mAtk" val="1.08" />
+			
+			<mul order="0x30" stat="sleepVuln" val="0.3" />
+			
+			<mul order="0x30" stat="rootVuln" val="0.3" />
+			
+			<add order="0x40" stat="INT" val="2" />
+			
+			<sub order="0x40" stat="WIT" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3541" levels="1" name="Conjunto Manto Majestoso">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="maxMp" val="240" />
+			
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			
+			<mul order="0x30" stat="regMp" val="1.08" />
+			
+			<mul order="0x30" stat="stunVuln" val="0.5" />
+			
+			<add order="0x40" stat="MEN" val="1" />
+			
+			<sub order="0x40" stat="INT" val="1" />
+			
+		</for>
+	</skill>
+	<skill id="3542" levels="6" name="Habilidade Especial: Dano Crítico">
+		
+		<table name="#cAtkAdd">203.97 226.51 248.71 269.91 289.4 306.42</table>
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<for>
+			<add order="0x40" stat="cAtkAdd" val="#cAtkAdd" />
+		</for>
+	</skill>
+	<skill id="3543" levels="1" name="Equipado Com Escudo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="maxHp" val="126" />
+		</for>
+	</skill>
+	<skill id="3544" levels="1" name="Equipado Com Escudo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="maxHp" val="20" />
+		</for>
+	</skill>
+	<skill id="3545" levels="1" name="Equipado Com Escudo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="maxHp" val="198" />
+		</for>
+	</skill>
+	<skill id="3546" levels="1" name="Equipado Com Escudo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="mDef" val="1.0526" />
+		</for>
+	</skill>
+	<skill id="3547" levels="1" name="Equipado Com Escudo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" val="1.0525" stat="rShld" />
+		</for>
+	</skill>
+	<skill id="3548" levels="1" name="Equipado Com Escudo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="rShld" val="1.24" />
+		</for>
+	</skill>
+	<skill id="3549" levels="1" name="Equipado Com Escudo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="rShld" val="1.24" />
+		</for>
+	</skill>
+	<skill id="3550" levels="1" name="Equipado Com Escudo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="rShld" val="1.18" />
+		</for>
+	</skill>
+	<skill id="3551" levels="1" name="Equipado Com Escudo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="reflectDam" val="5" />
+		</for>
+	</skill>
+	<skill id="3552" levels="2" name="Habilidade Especial: Dano Pvp">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		</for>
+	</skill>
+	<skill id="3553" levels="1" name="Conjunto Armadura Pesada do Cruzado Imperial">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pDef" val="1.08" />
+			
+			<add order="0x40" stat="maxHp" val="445" />
+			
+			<mul order="0x30" stat="sleepVuln" val="0.3" />
+			
+			<mul order="0x30" stat="rootVuln" val="0.3" />
+			
+			<sub order="0x40" stat="DEX" val="2" />
+			
+			<add order="0x40" stat="STR" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3554" levels="1" name="Equipado Com Escudo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="poisonVuln" val="0.2" />
+			<mul order="0x30" stat="bleedVuln" val="0.2" />
+		</for>
+	</skill>
+	<skill id="3555" levels="1" name="Conjunto Armadura Leve Dracônica">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.04" />
+			
+			<mul order="0x30" stat="pAtk" val="1.04" />
+			
+			<add order="0x40" stat="maxMp" val="289" />
+			
+			<add order="0x40" stat="weightPenalty" val="5759" />
+			
+			<add order="0x40" stat="DEX" val="1" />
+			
+			<add order="0x40" stat="STR" val="1" />
+			
+			<sub order="0x40" stat="CON" val="2" />
+			
+		</for>
+	</skill>
+	<skill id="3556" levels="1" name="Conjunto Manto Dos Arcanos Maiores">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="mAtk" val="1.17" />
+			
+			<add order="0x40" stat="runSpd" val="7" />
+			
+			<sub order="0x40" stat="cancel" val="50" />
+			
+			<add order="0x40" stat="weightPenalty" val="5759" />
+			
+			<add order="0x40" stat="WIT" val="1" />
+			
+			<add order="0x40" stat="INT" val="1" />
+			
+			<sub order="0x40" stat="MEN" val="2" />
+			
+			<mul order="0x30" stat="stunVuln" val="0.5" />
+			
+		</for>
+	</skill>
+	<skill id="3557" levels="1" name="Colar do Valakas">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxHp" val="445" />
+			<mul order="0x30" stat="pAtk" val="1.04" />
+			<mul order="0x30" stat="mAtk" val="1.08" />
+			<mul order="0x30" stat="mCritRate" val="2" />
+			<mul order="0x30" stat="fireVuln" val="0.85" />
+			<mul order="0x30" stat="sleepVuln" val="0.2" />
+			<mul order="0x30" stat="mReuse" val="0.9" />
+			<mul order="0x30" stat="pReuse" val="0.9" />
+			<add order="0x40" stat="reflectDam" val="5" />
+		</for>
+	</skill>
+	<skill id="3558" levels="1" name="Brinco do Antharas">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="singleEffect" val="true" />
+		<for>
+			<mul order="0x30" stat="bleedVuln" val="0.2" />
+			<mul order="0x30" stat="gainHp" val="1.1" />
+			<add order="0x40" stat="absorbDam" val="4" />
+			<mul order="0x30" stat="stunVuln" val="0.4" />
+			<mul order="0x30" stat="derangementVuln" val="0.4" />
+			<mul order="0x30" stat="MagicalMpConsumeRate" val="0.95" />
+			<mul order="0x30" stat="PhysicalMpConsumeRate" val="0.95" />
+			<mul order="0x30" stat="earthVuln" val="0.85" />
+		</for>
+	</skill>
+	<skill id="3559" levels="1" name="Brinco do Zaken">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="singleEffect" val="true" />
+		<for>
+			<mul order="0x30" stat="bleedVuln" val="0.4" />
+			<mul order="0x30" stat="gainHp" val="1.1" />
+			<add order="0x40" stat="absorbDam" val="4" />
+			<mul order="0x30" stat="stunVuln" val="0.6" />
+			<mul order="0x30" stat="derangementVuln" val="0.6" />
+		</for>
+	</skill>
+	<skill id="3560" levels="1" name="Brinco do Orfen">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="singleEffect" val="true" />
+		<for>
+			<mul order="0x30" stat="bleedVuln" val="0.6" />
+			<mul order="0x30" stat="gainHp" val="1.06" />
+		</for>
+	</skill>
+	<skill id="3561" levels="1" name="Anel do Baium">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="singleEffect" val="true" />
+		<for>
+			<mul order="0x30" stat="poisonVuln" val="0.2" />
+			<add order="0x40" stat="accCombat" val="2" />
+			<mul order="0x30" stat="cAtk" val="1.15" />
+			<mul order="0x30" stat="rootVuln" val="0.4" />
+			<mul order="0x30" stat="pAtkSpd" val="1.04" />
+			<mul order="0x30" stat="mAtkSpd" val="1.04" />
+		</for>
+	</skill>
+	<skill id="3562" levels="1" name="Anel da Formiga Rainha">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="singleEffect" val="true" />
+		<for>
+			<mul order="0x30" stat="poisonVuln" val="0.4" />
+			<add order="0x40" stat="accCombat" val="2" />
+			<mul order="0x30" stat="cAtk" val="1.15" />
+			<mul order="0x30" stat="rootVuln" val="0.6" />
+		</for>
+	</skill>
+	<skill id="3563" levels="1" name="Anel do Núcleo">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="singleEffect" val="true" />
+		<for>
+			<mul order="0x30" stat="poisonVuln" val="0.6" />
+			<add order="0x40" stat="accCombat" val="1" />
+		</for>
+	</skill>
+	<skill id="3564" levels="1" name="Habilidade Especial: Aceleração">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.07" />
+			
+		</for>
+	</skill>
+	<skill id="3565" levels="1" name="Habilidade Especial: Foco">
+		
+		<set name="target" val="NONE" />
+		<set name="skillType" val="NOT_DONE" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+	</skill>
+	<skill id="3566" levels="1" name="Habilidade Especial: Foco">
+		
+		<set name="target" val="NONE" />
+		<set name="skillType" val="NOT_DONE" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+	</skill>
+	<skill id="3567" levels="2" name="Habilidade Especial: Foco">
+		
+		<set name="target" val="NONE" />
+		<set name="skillType" val="NOT_DONE" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+	</skill>
+	<skill id="3568" levels="1" name="Habilidade Especial: Drenagem de HP">
+		
+		<table name="#absorbDam">6 7 8 9 10 14</table>
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<for>
+			<add order="0x40" stat="absorbDam" val="#absorbDam" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+		</for>
+	</skill>
+	<skill id="3569" levels="1" name="Habilidade Especial: Regeneração de HP">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="regHp" val="1.5" />
+			
+		</for>
+	</skill>
+	<skill id="3570" levels="1" name="Habilidade Especial: Saúde Robusta">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="magicLevel" val="75" />
+		<set name="castRange" val="-1" />
+		<for>
+			<mul order="0x30" stat="maxHp" val="1.25">
+				
+				<target pvp="1" />
+			</mul>
+			<mul order="0x30" stat="maxMp" val="1.3">
+				
+				<target pvp="1" />
+			</mul>
+			<mul order="0x30" stat="maxCp" val="1.5">
+				
+				<target pvp="1" />
+			</mul>
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<add order="0x40" stat="reflectDam" val="9" />
+			
+		</for>
+	</skill>
+	<skill id="3571" levels="1" name="Habilidade Especial: Atordoamento Crt.">
+		
+		<set name="magiclvl" val="80" />
+		<set name="effectPoint" val="100" />
+		<set name="target" val="ONE" />
+		<set name="skillType" val="STUN" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="activateRate" val="27" />
+		<set name="levelModifier" val="1" />
+		<set name="saveVs" val="CON" />
+		<set name="lvlDepend" val="1" />
+		<for>
+			<effect count="1" name="Stun" time="5" val="0" stackOrder="1" stackType="Stun" />
+		</for>
+	</skill>
+	<skill id="3572" levels="1" name="Habilidade Especial: Dano Crt.">
+		
+		<table name="#cAtkAdd">265 906 999 1059</table>
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<for>
+			<add order="0x40" stat="cAtkAdd" val="#cAtkAdd" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+		</for>
+	</skill>
+	<skill id="3573" levels="1" name="Habilidade Especial: Orientação">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<add order="0x40" stat="accCombat" val="5" />
+			
+		</for>
+	</skill>
+	<skill id="3574" levels="1" name="Habilidade Especial: Lentidão Crt.">
+		
+		<set name="magicLevel" val="74" />
+		<set name="power" val="80" />
+		<set name="levelModifier" val="2" />
+		<set name="target" val="ONE" />
+		<set name="skillType" val="DEBUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="castRange" val="600" />
+		<set name="effectRange" val="1100" />
+		<for>
+			<effect count="1" name="Buff" time="30" val="0" stackOrder="0.5" stackType="RunSpeedDown">
+				<mul order="0x30" stat="runSpd" val="0.5" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3575" levels="1" name="Habilidade Especial: Opção de Empoderamento">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.25" />
+		</for>
+	</skill>
+	<skill id="3576" levels="1" name="Habilidade Especial: Regeneração de MP">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		<for>
+			<mul order="0x40" stat="regMp" val="1.5" />
+			
+		</for>
+	</skill>
+	<skill id="3577" levels="1" name="Habilidade Especial: Enraizamento Mágico">
+		
+		<set name="effectPoint" val="100" />
+		<set name="activateRate" val="80" />
+		<set name="magiclvl" val="75" />
+		<set name="levelModifier" val="2" />
+		<set name="saveVs" val="MEN" />
+		<set name="target" val="ONE" />
+		<set name="skillType" val="ROOT" />
+		<set name="power" val="100" />
+		
+		<set name="isMagic" val="true" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="lvlDepend" val="2" />
+		<for>
+			<effect count="1" name="Root" stackOrder="-1" stackType="Root" time="30" val="0" />
+		</for>
+	</skill>
+	<skill id="3578" levels="1" name="Habilidade Especial: Lâmina do Infinito">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="CHANCE" />
+		<set name="chanceType" val="ON_CRIT" />
+		<set name="activationChance" val="5" />
+		<set name="triggeredId" val="3579" />
+		<set name="triggeredLevel" val="1" />
+		<for>
+			<mul order="0x30" stat="maxHp" val="1.25" />
+			
+			<mul order="0x30" stat="maxMp" val="1.3" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<mul order="0x30" stat="sDef" val="1.33" />
+			
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+			<add order="0x40" stat="reflectDam" val="9" />
+			
+		</for>
+	</skill>
+	<skill id="3579" levels="1" name="Diminuir Def.F.">
+		
+		<set name="bestowed" val="true" />
+		<set name="isDebuff" val="true" />
+		<set name="lvlDepend" val="1" />
+		<set name="magicLevel" val="80" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="power" val="80" />
+		
+		<set name="skillType" val="DEBUFF" />
+		<set name="target" val="ONE" />
+		<for>
+			<effect count="1" name="Debuff" time="120" val="0" stackOrder="0.77" stackType="pDefDown">
+				<mul order="0x30" stat="pDef" val="0.77" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3580" levels="1" name="Habilidade Especial: Machado do Infinito">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="CHANCE" />
+		<set name="chanceType" val="ON_CRIT" />
+		<set name="activationChance" val="20" />
+		<set name="triggeredId" val="3581" />
+		<set name="triggeredLevel" val="1" />
+		<for>
+			<mul order="0x30" stat="maxHp" val="1.25" />
+			
+			<mul order="0x30" stat="maxMp" val="1.3" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<mul order="0x30" stat="rShld" val="1.39" />
+			
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+			<add order="0x40" stat="reflectDam" val="9" />
+			
+		</for>
+	</skill>
+	<skill id="3581" levels="1" name="Discórdia">
+		<set name="bestowed" val="true" />
+		<set name="isDebuff" val="true" />
+		<set name="magicLevel" val="80" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="power" val="80" />
+		
+		<set name="skillType" val="CONFUSE_MOB_ONLY" />
+		<set name="target" val="ONE" />
+		<for>
+			<effect count="5" name="Confusion" time="4" val="0" />
+		</for>
+	</skill>
+	<skill id="3582" levels="1" name="Habilidade Especial: Cutelo do Infinito">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<for>
+			<add order="0x40" stat="cAtkAdd" val="504" />
+			
+			<mul order="0x30" stat="maxHp" val="1.25" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<add order="0x40" stat="rCrit" val="78.7" />
+			
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+			<add order="0x40" stat="reflectSkillPhysic" val="10" />
+			
+			<add order="0x40" stat="reflectSkillMagic" val="10" />
+			
+		</for>
+	</skill>
+	<skill id="3583" levels="1" name="Habilidade Especial: Triturador do Infinito">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="CHANCE" />
+		<set name="chanceType" val="ON_CRIT" />
+		<set name="activationChance" val="25" />
+		<set name="triggeredId" val="3584" />
+		<set name="triggeredLevel" val="1" />
+		<for>
+			<mul order="0x30" stat="maxHp" val="1.25" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<mul order="0x30" stat="pAtkSpd" val="1.07" />
+			
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+			<add order="0x40" stat="reflectSkillPhysic" val="10" />
+			
+			<add order="0x40" stat="reflectSkillMagic" val="10" />
+			
+		</for>
+	</skill>
+	<skill id="3584" levels="1" name="Choque">
+		
+		<set name="bestowed" val="true" />
+		<set name="isDebuff" val="true" />
+		<set name="lvlDepend" val="1" />
+		<set name="magicLevel" val="80" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="power" val="80" />
+		<set name="skillType" val="STUN" />
+		<set name="target" val="ONE" />
+		<for>
+			<effect count="1" name="Stun" time="9" val="0" stackOrder="2" stackType="Stun" />
+		</for>
+	</skill>
+	<skill id="3585" levels="1" name="Asa do Infinita">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="CHANCE" />
+		<set name="chanceType" val="ON_CRIT" />
+		<set name="activationChance" val="10" />
+		<set name="triggeredId" val="3586" />
+		<set name="triggeredLevel" val="1" />
+		<for>
+			<mul order="0x30" stat="maxHp" val="1.25" />
+			
+			<mul order="0x30" stat="maxMp" val="1.3" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<add order="0x40" stat="rCrit" val="78.7" />
+			
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+			<add order="0x40" stat="reflectSkillPhysic" val="10" />
+			
+			<add order="0x40" stat="reflectSkillMagic" val="10" />
+			
+		</for>
+	</skill>
+	<skill id="3586" levels="1" name="Restrição de Habilidade Física">
+		
+		<set name="bestowed" val="true" />
+		<set name="isDebuff" val="true" />
+		<set name="lvlDepend" val="2" />
+		<set name="magicLevel" val="80" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="power" val="80" />
+		
+		<set name="skillType" val="MUTE" />
+		<set name="target" val="ONE" />
+		<for>
+			<effect count="1" name="PsychicalMute" time="30" val="0" stackOrder="1" stackType="silence" />
+			
+		</for>
+	</skill>
+	<skill id="3587" levels="1" name="Habilidade Especial: Presa do Infinito">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="CHANCE" />
+		<set name="chanceType" val="ON_CRIT" />
+		<set name="activationChance" val="25" />
+		<set name="triggeredId" val="3588" />
+		<set name="triggeredLevel" val="1" />
+		<for>
+			<mul order="0x30" stat="maxHp" val="1.25" />
+			
+			<mul order="0x30" stat="maxMp" val="1.3" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<add order="0x40" stat="rEvas" val="3.15" />
+			
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+			<add order="0x40" stat="reflectSkillPhysic" val="10" />
+			
+			<add order="0x40" stat="reflectSkillMagic" val="10" />
+			
+		</for>
+	</skill>
+	<skill id="3588" levels="1" name="Choque">
+		
+		<set name="bestowed" val="true" />
+		<set name="isDebuff" val="true" />
+		<set name="lvlDepend" val="1" />
+		<set name="magicLevel" val="80" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="power" val="80" />
+		<set name="skillType" val="STUN" />
+		<set name="target" val="ONE" />
+		<for>
+			<effect count="1" name="Stun" time="9" val="0" stackOrder="2" stackType="Stun" />
+		</for>
+	</skill>
+	<skill id="3589" levels="1" name="Habilidade Especial: Ferrão do Infinito">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="CHANCE" />
+		<set name="chanceType" val="ON_CRIT" />
+		<set name="activationChance" val="5" />
+		<set name="triggeredId" val="3590" />
+		<set name="triggeredLevel" val="1" />
+		<for>
+			<mul order="0x30" stat="maxMp" val="1.3" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<mul order="0x30" stat="pAtkSpd" val="1.03" />
+			
+			<add order="0x40" stat="regMp" val="0.51" />
+			
+			<add order="0x40" stat="rCrit" val="220">
+				
+				<and>
+					<player behind="True" />
+				</and>
+			</add>
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+			<mul order="0x30" stat="absorbDam" val="1.02" />
+			
+		</for>
+	</skill>
+	<skill id="3590" levels="1" name="Silêncio">
+		
+		<set name="bestowed" val="true" />
+		<set name="lvlDepend" val="1" />
+		<set name="isDebuff" val="true" />
+		<set name="magicLevel" val="80" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="power" val="80" />
+		<set name="skillType" val="MUTE" />
+		<set name="target" val="ONE" />
+		<for>
+			<effect count="1" name="Mute" time="30" val="0" stackOrder="1" stackType="silence" />
+			
+		</for>
+	</skill>
+	<skill id="3591" levels="1" name="Habilidade Especial: Lança do Infinito">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="CHANCE" />
+		<set name="chanceType" val="ON_CRIT" />
+		<set name="activationChance" val="10" />
+		<set name="triggeredId" val="3592" />
+		<set name="triggeredLevel" val="1" />
+		<for>
+			<mul order="0x30" stat="maxHp" val="1.25" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<mul order="0x30" stat="pAtkSpd" val="1.07" />
+			
+			<add order="0x40" stat="accCombat" val="4.89" />
+			
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+			<add order="0x40" stat="reflectSkillPhysic" val="10" />
+			
+			<add order="0x40" stat="reflectSkillMagic" val="10" />
+			
+		</for>
+	</skill>
+	<skill id="3592" levels="1" name="Dissipar">
+		<set name="bestowed" val="true" />
+		<set name="magicLvl" val="80" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="power" val="80" />
+		<set name="skillType" val="CORE_DONE" />
+		<set name="target" val="ONE" />
+		
+		<set name="negateSkillTypes" val="BUFF" />
+		<set name="negatePower" val="5" />
+		<for>
+			<effect count="1" name="HeroCancel" time="1" noicon="1" val="0" />
+		</for>
+	</skill>
+	<skill id="3593" levels="1" name="Habilidade Especial: Arco do Infinito">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="CHANCE" />
+		<set name="chanceType" val="ON_CRIT" />
+		<set name="activationChance" val="7" />
+		<set name="triggeredId" val="3594" />
+		<set name="triggeredLevel" val="1" />
+		<for>
+			<mul order="0x30" stat="maxMp" val="1.3" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+		</for>
+	</skill>
+	<skill id="3594" levels="1" name="Lento">
+		
+		<set name="bestowed" val="true" />
+		<set name="isDebuff" val="true" />
+		<set name="lvlDepend" val="1" />
+		<set name="magicLevel" val="80" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="power" val="80" />
+		
+		<set name="skillType" val="DEBUFF" />
+		<set name="target" val="ONE" />
+		<set name="effectPoint" val="100" />
+		<for>
+			<effect count="1" name="Debuff" time="30" val="0" stackOrder="0.5" stackType="RunSpeedDown">
+				<mul order="0x30" stat="runSpd" val="0.5" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="3595" levels="1" name="Habilidade Especial: Cetro do Infinito">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="CHANCE" />
+		<set name="chanceType" val="ON_MAGIC_GOOD" />
+		<set name="activationChance" val="3" />
+		<set name="triggeredId" val="3596" />
+		<set name="triggeredLevel" val="1" />
+		<for>
+			<mul order="0x30" stat="maxMp" val="1.3" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<add order="0x40" stat="mAtk" val="29.67" />
+			
+			<basemul order="0x30" stat="mCritRate" val="0.1" />
+			
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+			<mul order="0x30" stat="MagicalMpConsumeRate" val="0.96" />
+			
+			<sub order="0x40" stat="cancel" val="106" />
+			
+		</for>
+	</skill>
+	<skill id="3596" levels="1" name="Recuperação Completa">
+		<set name="aggroPoints" val="100" />
+		<set name="bestowed" val="true" />
+		<set name="magicLevel" val="80" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="power" val="100" />
+		<set name="skillType" val="HEAL_PERCENT" />
+		<set name="target" val="ONE" />
+	</skill>
+	<skill id="3597" levels="1" name="Habilidade Especial: Vara do Infinita">
+		
+		<set name="magicLevel" val="80" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="CHANCE" />
+		<set name="chanceType" val="ON_MAGIC_GOOD" />
+		<set name="activationChance" val="3" />
+		<set name="triggeredId" val="3598" />
+		<set name="triggeredLevel" val="1" />
+		<for>
+			<mul order="0x30" stat="maxMp" val="1.3" />
+			
+			<mul order="0x30" stat="maxCp" val="1.5" />
+			
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			
+			<add order="0x40" stat="regMp" val="0.51" />
+			
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+			
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			
+		</for>
+	</skill>
+	<skill id="3598" levels="1" name="Recuperação Completa">
+		<set name="aggroPoints" val="100" />
+		<set name="bestowed" val="true" />
+		<set name="magicLevel" val="80" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="power" val="100" />
+		<set name="skillType" val="HEAL_PERCENT" />
+		<set name="target" val="ONE" />
+	</skill>
+	<skill id="3599" levels="1" name="Lança Multi-Ataque">
+		
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="PASSIVE" />
+		<for>
+			<add order="0x40" stat="poleTargetCount" val="4" />
+		</for>
+	</skill>
+</list>

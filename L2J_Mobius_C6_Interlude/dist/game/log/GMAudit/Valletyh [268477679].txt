@@ -1,0 +1,109 @@
+07/01/2025 18:15:06>Valletyh [268477679]>admin_admin>no-target>
+07/01/2025 18:15:11>Valletyh [268477679]>admin_create_item>no-target>
+07/01/2025 18:16:25>Valletyh [268477679]>admin_create_item>no-target> 1539 5
+07/01/2025 18:16:28>Valletyh [268477679]>admin_admin>Valletyh>
+07/01/2025 18:16:29>Valletyh [268477679]>admin_create_item>Valletyh>
+07/01/2025 18:16:36>Valletyh [268477679]>admin_create_item>Valletyh> 1060 5
+07/01/2025 18:16:38>Valletyh [268477679]>admin_admin>Valletyh>
+07/01/2025 18:16:40>Valletyh [268477679]>admin_create_item>Valletyh>
+07/01/2025 18:16:48>Valletyh [268477679]>admin_create_item>Valletyh> 1061 5
+07/01/2025 18:17:25>Valletyh [268477679]>admin_admin>Valletyh>
+07/01/2025 18:17:27>Valletyh [268477679]>admin_create_item>Valletyh>
+07/01/2025 18:17:32>Valletyh [268477679]>admin_create_item>Valletyh> 728 5
+07/01/2025 18:18:32>Valletyh [268477679]>admin_admin>Valletyh>
+07/01/2025 18:18:33>Valletyh [268477679]>admin_create_item>Valletyh>
+07/01/2025 18:18:40>Valletyh [268477679]>admin_create_item>Valletyh> 6539 5
+07/01/2025 18:18:44>Valletyh [268477679]>admin_admin>Valletyh>
+07/01/2025 18:18:46>Valletyh [268477679]>admin_create_item>Valletyh>
+07/01/2025 18:18:55>Valletyh [268477679]>admin_create_item>Valletyh> 6539 5
+07/01/2025 18:19:18>Valletyh [268477679]>admin_admin>Valletyh>
+07/01/2025 18:19:19>Valletyh [268477679]>admin_create_item>Valletyh>
+07/01/2025 18:19:24>Valletyh [268477679]>admin_create_item>Valletyh> 9351 5
+07/01/2025 18:19:44>Valletyh [268477679]>admin_admin>Valletyh>
+07/01/2025 18:19:45>Valletyh [268477679]>admin_create_item>Valletyh>
+07/01/2025 18:19:51>Valletyh [268477679]>admin_create_item>Valletyh> 9352 5
+07/01/2025 18:20:14>Valletyh [268477679]>admin_admin>Valletyh>
+07/01/2025 18:20:16>Valletyh [268477679]>admin_create_item>Valletyh>
+07/01/2025 18:20:22>Valletyh [268477679]>admin_create_item>Valletyh> 9353 5
+07/01/2025 18:34:05>Valletyh [268477679]>admin_admin>no-target>
+07/01/2025 18:34:08>Valletyh [268477679]>admin_create_item>no-target>
+07/01/2025 18:34:14>Valletyh [268477679]>admin_create_item>no-target> 8627 5
+07/01/2025 18:40:33>Valletyh [268477679]>admin_admin>no-target>
+07/01/2025 18:40:34>Valletyh [268477679]>admin_create_item>no-target>
+07/01/2025 18:40:39>Valletyh [268477679]>admin_create_item>no-target> 5592 5
+07/01/2025 18:40:45>Valletyh [268477679]>admin_admin>Valletyh>
+07/01/2025 18:40:47>Valletyh [268477679]>admin_create_item>Valletyh>
+07/01/2025 18:40:52>Valletyh [268477679]>admin_create_item>Valletyh> 6540 5
+07/01/2025 18:54:05>Valletyh [268477679]>admin_admin>Valletyh>
+07/01/2025 18:54:07>Valletyh [268477679]>admin_create_item>Valletyh>
+07/01/2025 18:54:12>Valletyh [268477679]>admin_create_item>Valletyh> 6540 5
+11/01/2025 12:53:58>Valletyh [268477679]>admin_admin>no-target>
+11/01/2025 12:54:00>Valletyh [268477679]>admin_superhaste>no-target> 4
+11/01/2025 12:55:25>Valletyh [268477679]>admin_admin>Keltir Ancião>
+11/01/2025 12:55:27>Valletyh [268477679]>admin_superhaste>Keltir Ancião> 0
+11/01/2025 12:55:59>Valletyh [268477679]>admin_admin>Keltir Barbudo>
+11/01/2025 12:59:59>Valletyh [268477679]>admin_create_item>Keltir Barbudo>
+11/01/2025 13:00:04>Valletyh [268477679]>admin_create_item>Keltir Barbudo> 5592 5
+11/01/2025 13:00:09>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:00:10>Valletyh [268477679]>admin_create_item>Valletyh>
+11/01/2025 13:00:16>Valletyh [268477679]>admin_create_item>Valletyh> 5592 5
+11/01/2025 13:00:18>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:00:19>Valletyh [268477679]>admin_create_item>Valletyh>
+11/01/2025 13:00:24>Valletyh [268477679]>admin_create_item>Valletyh> 5591 5
+11/01/2025 13:00:25>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:00:26>Valletyh [268477679]>admin_create_item>Valletyh>
+11/01/2025 13:00:33>Valletyh [268477679]>admin_create_item>Valletyh> 1539 5
+11/01/2025 13:01:06>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:01:08>Valletyh [268477679]>admin_create_item>Valletyh>
+11/01/2025 13:01:12>Valletyh [268477679]>admin_create_item>Valletyh> 1060
+11/01/2025 13:01:15>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:01:21>Valletyh [268477679]>admin_create_item>Valletyh>
+11/01/2025 13:01:24>Valletyh [268477679]>admin_create_item>Valletyh> 1061
+11/01/2025 13:01:26>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:02:22>Valletyh [268477679]>admin_admin>Keltir Barbudo>
+11/01/2025 13:02:24>Valletyh [268477679]>admin_create_item>Keltir Barbudo>
+11/01/2025 13:02:29>Valletyh [268477679]>admin_create_item>Keltir Barbudo> 1539
+11/01/2025 13:02:31>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:02:33>Valletyh [268477679]>admin_create_item>Valletyh>
+11/01/2025 13:02:36>Valletyh [268477679]>admin_create_item>Valletyh> 1539
+11/01/2025 13:03:22>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:03:23>Valletyh [268477679]>admin_create_item>Valletyh>
+11/01/2025 13:03:28>Valletyh [268477679]>admin_create_item>Valletyh> 728 1
+11/01/2025 13:06:09>Valletyh [268477679]>admin_admin>no-target>
+11/01/2025 13:06:11>Valletyh [268477679]>admin_create_item>no-target>
+11/01/2025 13:06:18>Valletyh [268477679]>admin_mass_create>Valletyh>
+11/01/2025 13:06:20>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:06:21>Valletyh [268477679]>admin_create_item>Valletyh>
+11/01/2025 13:06:26>Valletyh [268477679]>admin_create_item>Valletyh> 6036 1
+11/01/2025 13:08:06>Valletyh [268477679]>admin_admin>no-target>
+11/01/2025 13:08:07>Valletyh [268477679]>admin_move_to>no-target>
+11/01/2025 13:08:08>Valletyh [268477679]>admin_help>no-target> tele/towns.htm
+11/01/2025 13:08:09>Valletyh [268477679]>admin_help>no-target> tele/towns/giran.htm
+11/01/2025 13:08:10>Valletyh [268477679]>admin_move_to>no-target> 82698 148638 -3473
+11/01/2025 13:08:20>Valletyh [268477679]>admin_admin>no-target>
+11/01/2025 13:08:22>Valletyh [268477679]>admin_superhaste>no-target> 4
+11/01/2025 13:14:16>Valletyh [268477679]>admin_admin>Keira>
+11/01/2025 13:14:20>Valletyh [268477679]>admin_admin2>Valletyh>
+11/01/2025 13:17:11>Valletyh [268477679]>admin_admin>Jake>
+11/01/2025 13:17:11>Valletyh [268477679]>admin_move_to>Jake>
+11/01/2025 13:17:12>Valletyh [268477679]>admin_help>Jake> tele/towns.htm
+11/01/2025 13:17:15>Valletyh [268477679]>admin_help>Jake> tele/towns/ti_starting.htm
+11/01/2025 13:17:16>Valletyh [268477679]>admin_move_to>Jake> -82687 243157 -3734
+11/01/2025 13:21:03>Valletyh [268477679]>admin_admin>no-target>
+11/01/2025 13:26:53>Valletyh [268477679]>admin_admin>no-target>
+11/01/2025 13:26:54>Valletyh [268477679]>admin_move_to>no-target>
+11/01/2025 13:26:55>Valletyh [268477679]>admin_help>no-target> tele/towns.htm
+11/01/2025 13:26:56>Valletyh [268477679]>admin_help>no-target> tele/towns/giran.htm
+11/01/2025 13:26:57>Valletyh [268477679]>admin_move_to>no-target> 80385 147867 -3512
+11/01/2025 13:27:09>Valletyh [268477679]>admin_admin>Meridic>
+11/01/2025 13:27:10>Valletyh [268477679]>admin_create_item>Meridic>
+11/01/2025 13:27:58>Valletyh [268477679]>admin_create_item>Meridic> 9507
+11/01/2025 13:28:04>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:28:05>Valletyh [268477679]>admin_create_item>Valletyh>
+11/01/2025 13:28:10>Valletyh [268477679]>admin_create_item>Valletyh> 9507 1
+11/01/2025 13:29:23>Valletyh [268477679]>admin_admin>Meridic>
+11/01/2025 13:29:24>Valletyh [268477679]>admin_create_item>Meridic>
+11/01/2025 13:29:31>Valletyh [268477679]>admin_create_item>Meridic> 9511 1
+11/01/2025 13:29:36>Valletyh [268477679]>admin_admin>Valletyh>
+11/01/2025 13:29:37>Valletyh [268477679]>admin_create_item>Valletyh>
+11/01/2025 13:29:41>Valletyh [268477679]>admin_create_item>Valletyh> 9511 1

@@ -1,0 +1,78 @@
+24/08/2024 18:03:31>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:03:34>Elfanya [268478150]>admin_admin2>Elfanya>
+24/08/2024 18:03:35>Elfanya [268478150]>admin_show_characters>Elfanya> 0
+24/08/2024 18:03:36>Elfanya [268478150]>admin_character_info>Elfanya> Elfanya
+24/08/2024 18:03:38>Elfanya [268478150]>admin_setclass>Elfanya>
+24/08/2024 18:03:51>Elfanya [268478150]>admin_setclass>Elfanya> 102
+24/08/2024 18:03:54>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:03:55>Elfanya [268478150]>admin_admin2>Elfanya>
+24/08/2024 18:03:56>Elfanya [268478150]>admin_show_characters>Elfanya> 0
+24/08/2024 18:03:58>Elfanya [268478150]>admin_character_info>Elfanya> Elfanya
+24/08/2024 18:03:59>Elfanya [268478150]>admin_add_exp_sp_to_character>Elfanya>
+24/08/2024 18:04:02>Elfanya [268478150]>admin_set_level>Elfanya> 81
+24/08/2024 18:04:06>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:04:13>Elfanya [268478150]>admin_gmshop>Elfanya>
+24/08/2024 18:04:15>Elfanya [268478150]>admin_help>Elfanya> gmshop/sets.htm
+24/08/2024 18:04:18>Elfanya [268478150]>admin_buy>Elfanya> 9117
+24/08/2024 18:04:39>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:04:40>Elfanya [268478150]>admin_admin2>Elfanya>
+24/08/2024 18:04:41>Elfanya [268478150]>admin_show_characters>Elfanya> 0
+24/08/2024 18:04:41>Elfanya [268478150]>admin_character_info>Elfanya> Elfanya
+24/08/2024 18:04:42>Elfanya [268478150]>admin_show_skills>Elfanya>
+24/08/2024 18:04:45>Elfanya [268478150]>admin_remove_all_skills>Elfanya>
+24/08/2024 18:04:47>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:04:49>Elfanya [268478150]>admin_admin2>Elfanya>
+24/08/2024 18:04:50>Elfanya [268478150]>admin_show_characters>Elfanya> 0
+24/08/2024 18:04:50>Elfanya [268478150]>admin_character_info>Elfanya> Elfanya
+24/08/2024 18:04:51>Elfanya [268478150]>admin_show_skills>Elfanya>
+24/08/2024 18:04:54>Elfanya [268478150]>admin_reset_skills>Elfanya>
+24/08/2024 18:04:57>Elfanya [268478150]>admin_give_all_skills>Elfanya>
+24/08/2024 18:04:59>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:05:02>Elfanya [268478150]>admin_gmshop>Elfanya>
+24/08/2024 18:05:06>Elfanya [268478150]>admin_help>Elfanya> gmshop/Weapons.htm
+24/08/2024 18:05:07>Elfanya [268478150]>admin_help>Elfanya> gmshop/sgradew.htm
+24/08/2024 18:05:13>Elfanya [268478150]>admin_buy>Elfanya> 9049
+24/08/2024 18:05:47>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:05:49>Elfanya [268478150]>admin_gmshop>Elfanya>
+24/08/2024 18:05:52>Elfanya [268478150]>admin_help>Elfanya> gmshop/Jewels.htm
+24/08/2024 18:05:53>Elfanya [268478150]>admin_buy>Elfanya> 9300
+24/08/2024 18:06:11>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:06:15>Elfanya [268478150]>admin_gmshop>Elfanya>
+24/08/2024 18:06:17>Elfanya [268478150]>admin_help>Elfanya> gmshop/Jewels.htm
+24/08/2024 18:06:18>Elfanya [268478150]>admin_buy>Elfanya> 9300
+24/08/2024 18:06:21>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:06:22>Elfanya [268478150]>admin_gmshop>Elfanya>
+24/08/2024 18:06:23>Elfanya [268478150]>admin_buy>Elfanya> 9121
+24/08/2024 18:06:30>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:06:32>Elfanya [268478150]>admin_gmshop>Elfanya>
+24/08/2024 18:06:35>Elfanya [268478150]>admin_buy>Elfanya> 71032
+24/08/2024 18:12:40>Elfanya [268478150]>admin_admin>Keira>
+24/08/2024 18:12:42>Elfanya [268478150]>admin_create_item>Keira>
+24/08/2024 18:12:48>Elfanya [268478150]>admin_create_item>Elfanya> 9300 1
+24/08/2024 18:12:50>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:12:51>Elfanya [268478150]>admin_create_item>Elfanya>
+24/08/2024 18:12:56>Elfanya [268478150]>admin_create_item>Elfanya> 9301 1
+24/08/2024 18:12:58>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:12:58>Elfanya [268478150]>admin_create_item>Elfanya>
+24/08/2024 18:13:02>Elfanya [268478150]>admin_create_item>Elfanya> 9302 1
+24/08/2024 18:13:03>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:13:04>Elfanya [268478150]>admin_create_item>Elfanya>
+24/08/2024 18:13:08>Elfanya [268478150]>admin_create_item>Elfanya> 9303 1
+24/08/2024 18:14:01>Elfanya [268478150]>admin_admin>Jaradine>
+24/08/2024 18:14:13>Elfanya [268478150]>admin_admin3>Jaradine>
+24/08/2024 18:14:20>Elfanya [268478150]>admin_bighead>Jaradine>
+24/08/2024 18:14:23>Elfanya [268478150]>admin_admin>Jaradine>
+24/08/2024 18:14:25>Elfanya [268478150]>admin_admin3>Jaradine>
+24/08/2024 18:14:27>Elfanya [268478150]>admin_bighead>Jaradine>
+24/08/2024 18:14:30>Elfanya [268478150]>admin_admin>Jaradine>
+24/08/2024 18:14:32>Elfanya [268478150]>admin_admin3>Jaradine>
+24/08/2024 18:14:35>Elfanya [268478150]>admin_shrinkhead>Jaradine>
+24/08/2024 18:14:42>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:14:43>Elfanya [268478150]>admin_admin3>Elfanya>
+24/08/2024 18:14:44>Elfanya [268478150]>admin_shrinkhead>Elfanya>
+24/08/2024 18:17:02>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:17:05>Elfanya [268478150]>admin_gmshop>Elfanya>
+24/08/2024 18:17:07>Elfanya [268478150]>admin_buy>Elfanya> 71023
+24/08/2024 18:17:19>Elfanya [268478150]>admin_admin>Elfanya>
+24/08/2024 18:17:20>Elfanya [268478150]>admin_gmshop>Elfanya>
+24/08/2024 18:17:29>Elfanya [268478150]>admin_buy>Elfanya> 71031

@@ -1,0 +1,78 @@
+13/03/2024 17:35:14>Anais [268477711]>admin_admin>no-target>
+13/03/2024 17:35:15>Anais [268477711]>admin_superhaste>no-target> 4
+13/03/2024 17:37:14>Anais [268477711]>admin_admin>Orc Utuku Arqueiro>
+13/03/2024 17:37:19>Anais [268477711]>admin_gmshop>Anais>
+13/03/2024 17:37:21>Anais [268477711]>admin_buy>Anais> 3002
+13/03/2024 17:37:26>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:37:27>Anais [268477711]>admin_gmshop>Anais>
+13/03/2024 17:37:34>Anais [268477711]>admin_buy>Anais> 300529
+13/03/2024 17:37:41>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:37:42>Anais [268477711]>admin_gmshop>Anais>
+13/03/2024 17:37:59>Anais [268477711]>admin_buy>Anais> 3001
+13/03/2024 17:38:07>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:38:08>Anais [268477711]>admin_move_to>Anais>
+13/03/2024 17:38:23>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:38:25>Anais [268477711]>admin_gmshop>Anais>
+13/03/2024 17:38:35>Anais [268477711]>admin_buy>Anais> 71032
+13/03/2024 17:38:38>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:38:39>Anais [268477711]>admin_gmshop>Anais>
+13/03/2024 17:38:41>Anais [268477711]>admin_buy>Anais> 71023
+13/03/2024 17:38:51>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:38:52>Anais [268477711]>admin_gmshop>Anais>
+13/03/2024 17:38:56>Anais [268477711]>admin_buy>Anais> 9121
+13/03/2024 17:39:02>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:39:03>Anais [268477711]>admin_invul_menu_main>Anais>
+13/03/2024 17:39:05>Anais [268477711]>admin_invul_menu_main>Anais>
+13/03/2024 17:39:05>Anais [268477711]>admin_gmshop>Anais>
+13/03/2024 17:39:09>Anais [268477711]>admin_buy>Anais> 71027
+13/03/2024 17:39:13>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:39:14>Anais [268477711]>admin_gmshop>Anais>
+13/03/2024 17:39:20>Anais [268477711]>admin_buy>Anais> 1011
+13/03/2024 17:40:10>Anais [268477711]>admin_admin>Orc Utuku Arqueiro>
+13/03/2024 17:40:37>Anais [268477711]>admin_admin>no-target>
+13/03/2024 17:40:38>Anais [268477711]>admin_move_to>no-target>
+13/03/2024 17:40:41>Anais [268477711]>admin_help>no-target> tele/towns.htm
+13/03/2024 17:40:46>Anais [268477711]>admin_help>no-target> tele/towns/dwarf_starting.htm
+13/03/2024 17:40:48>Anais [268477711]>admin_move_to>no-target> 116005 -177377 -889
+13/03/2024 17:40:54>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:40:57>Anais [268477711]>admin_create_item>Anais>
+13/03/2024 17:41:01>Anais [268477711]>admin_create_coin>Anais> Adena 1000000
+13/03/2024 17:41:23>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:41:26>Anais [268477711]>admin_move_to>Anais>
+13/03/2024 17:41:28>Anais [268477711]>admin_help>Anais> tele/towns.htm
+13/03/2024 17:41:29>Anais [268477711]>admin_show_moves>Anais>
+13/03/2024 17:41:31>Anais [268477711]>admin_help>Anais> tele/other.htm
+13/03/2024 17:41:32>Anais [268477711]>admin_move_to>Anais> -113360 -244676 -15536
+13/03/2024 17:41:37>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:41:40>Anais [268477711]>admin_admin2>Anais>
+13/03/2024 17:41:44>Anais [268477711]>admin_show_characters>Anais> 0
+13/03/2024 17:41:44>Anais [268477711]>admin_character_info>Anais> Anais
+13/03/2024 17:41:46>Anais [268477711]>admin_setclass>Anais>
+13/03/2024 17:41:54>Anais [268477711]>admin_setclass>Anais> 117
+13/03/2024 17:41:57>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:41:59>Anais [268477711]>admin_admin2>Anais>
+13/03/2024 17:42:00>Anais [268477711]>admin_show_characters>Anais> 0
+13/03/2024 17:42:01>Anais [268477711]>admin_character_info>Anais> Anais
+13/03/2024 17:42:02>Anais [268477711]>admin_show_skills>Anais>
+13/03/2024 17:42:04>Anais [268477711]>admin_remove_all_skills>Anais>
+13/03/2024 17:42:05>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:42:06>Anais [268477711]>admin_admin2>Anais>
+13/03/2024 17:42:07>Anais [268477711]>admin_show_characters>Anais> 0
+13/03/2024 17:42:07>Anais [268477711]>admin_character_info>Anais> Anais
+13/03/2024 17:42:08>Anais [268477711]>admin_show_skills>Anais>
+13/03/2024 17:42:09>Anais [268477711]>admin_give_all_skills>Anais>
+13/03/2024 17:42:10>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:42:19>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:42:23>Anais [268477711]>admin_admin2>Anais>
+13/03/2024 17:42:24>Anais [268477711]>admin_show_characters>Anais> 0
+13/03/2024 17:42:25>Anais [268477711]>admin_character_info>Anais> Anais
+13/03/2024 17:42:26>Anais [268477711]>admin_add_exp_sp_to_character>Anais>
+13/03/2024 17:42:32>Anais [268477711]>admin_set_level>Anais> 81
+13/03/2024 17:42:59>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:43:00>Anais [268477711]>admin_gmshop>Anais>
+13/03/2024 17:43:03>Anais [268477711]>admin_help>Anais> gmshop/sets.htm
+13/03/2024 17:43:04>Anais [268477711]>admin_buy>Anais> 9500
+13/03/2024 17:43:25>Anais [268477711]>admin_admin>Anais>
+13/03/2024 17:43:26>Anais [268477711]>admin_gmshop>Anais>
+13/03/2024 17:43:28>Anais [268477711]>admin_help>Anais> gmshop/sets.htm
+13/03/2024 17:43:29>Anais [268477711]>admin_buy>Anais> 9500

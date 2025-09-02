@@ -1,0 +1,817 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5900" type="EtcItem" name="Álbum de Coleção de Moedas">
+		
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um álbum de coleção de moedas de alta qualidade feito de couro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5901" type="EtcItem" name="Oferenda de Sangue">
+		
+		<set name="icon" val="icon.etc_dragon_blood_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Sangue que pode ser obtido matando um Monstro de Oferenda. O número deste item determinará sua pontuação." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5902" type="EtcItem" name="Pergaminho da Magia Antiga">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pergaminho que contém magia antiga. Leve-o ao Teleportador Ziggurat." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5903" type="EtcItem" name="Urna de Cinzas Antiga">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma urna antiga que foi encontrada na Torre da Insolência. Leve-o para a Vidente Reva da Aden Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5904" type="EtcItem" name="Pedra de Mistura de Wesley">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pequena pedra preciosa que é dada por Wesley. Este item é necessário para usar uma urna de mistura." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5905" type="EtcItem" name="Pedra de Mistura do Mestre">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pedra preciosa que ativa a urna de mistura no porão da Ivory Tower." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5906" type="EtcItem" name="(Não Usado) Red Soul Crystal: Grau 11">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas. Grau 11. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5907" type="EtcItem" name="(Não Usado) Red Soul Crystal: Grau 12">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas. Grau 12. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5908" type="EtcItem" name="Cristal Vermelho da Alma: Grau 13">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal vermelho que absorve almas. Grau 13. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5909" type="EtcItem" name="(Não Usado) Green Soul Crystal: Grau 11">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas. Grau 11. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5910" type="EtcItem" name="(Não Usado) Green Soul Crystal: Grau 12">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas. Grau 12. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5911" type="EtcItem" name="Cristal Verde da Alma: Grau 13">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal verde que absorve almas. Grau 13. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5912" type="EtcItem" name="(Não Usado) Blue Soul Crystal: Grau 11">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas. Grau 11. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5913" type="EtcItem" name="(Não Usado) Blue Soul Crystal: Grau 12">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas. Grau 12. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5914" type="EtcItem" name="Cristal Azul da Alma: Grau 13">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um cristal azul que absorve almas. Grau 13. Uma vez saturado, confere habilidades especiais a uma arma. 26 MP é consumido cada vez que é usado." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="5915" type="EtcItem" name="Mapa do Tesouro do Pirata">
+		
+		<set name="icon" val="icon.etc_map_ivory_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um mapa que foi criado depois de juntar as peças do mapa encontradas na Alligator Island. Parece ter uma marca mostrando a localização do tesouro!" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="5916" type="EtcItem" name="Página do Livro de Feitiços">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pedaço de papel rasgado que parece ter sido arrancado de um livro de feitiços. Se você clicar duas vezes nele, poderá examiná-lo de perto." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5917" type="EtcItem" name="Livro de Feitiços de Kranvel: Capítulo do Fogo">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Grande Mago Livro de Feitiços de Kranvel: Capítulo do Fogo. Colete os Capítulos sobre Fogo, Água, Vento e Terra e leve todos para o Ancião Casian." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5918" type="EtcItem" name="Livro de Feitiços de Kranvel: Capítulo da Água">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Grande Mago Livro de Feitiços de Kranvel: Capítulo da Água. Colete os Capítulos sobre Fogo, Água, Vento e Terra e leve todos para o Ancião Casian." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5919" type="EtcItem" name="Livro de Feitiços de Kranvel: Capítulo do Vento">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Grande Mago Livro de Feitiços de Kranvel: Capítulo do Vento. Colete os Capítulos sobre Fogo, Água, Vento e Terra e leve todos para o Ancião Casian." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5920" type="EtcItem" name="Livro de Feitiços de Kranvel: Capítulo da Terra">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Grande Mago Livro de Feitiços de Kranvel: Capítulo da Terra. Colete os Capítulos sobre Fogo, Água, Vento e Terra e leve todos para o Ancião Casian." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5921" type="EtcItem" name="Pedaço de Papel Sem Valor">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pedaço de papel que tem rabiscos inúteis escritos nele." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5922" type="EtcItem" name="Projeto: Giants Golem 1">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte das plantas do golem da era dos Titãs. A primeira página de cinco páginas." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5923" type="EtcItem" name="Projeto: Giants Golem 2">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte das plantas do golem da era dos Titãs. A segunda página de cinco páginas." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5924" type="EtcItem" name="Projeto: Giants Golem 3">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte das plantas do golem da era dos Titãs. A terceira página de cinco páginas." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5925" type="EtcItem" name="Projeto: Giants Golem 4">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte das plantas do golem da era dos Titãs. A quarta página de cinco páginas." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5926" type="EtcItem" name="Projeto: Giants Golem 5">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte das plantas do golem da era dos Titãs. A quinta página de cinco páginas." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5927" type="EtcItem" name="Livro: Fundamentos da Magia dos Gigantes, Capítulo 1">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro sobre a magia dos gigantes da era dos Titãs, 1a capítulo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5928" type="EtcItem" name="Livro: Fundamentos da Magia dos Gigantes, Capítulo 2">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro sobre a magia dos gigantes da era dos Titãs, capítulo 2." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5929" type="EtcItem" name="Livro: Fundamentos da Magia dos Gigantes, Capítulo 3">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro sobre a magia dos gigantes da era dos Titãs, capítulo 3." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5930" type="EtcItem" name="Livro: Fundamentos da Magia dos Gigantes, Capítulo 4">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro sobre a magia dos gigantes da era dos Titãs, capítulo 4." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5931" type="EtcItem" name="Livro: Fundamentos da Magia dos Gigantes, Capítulo 5">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro sobre a magia dos gigantes da era dos Titãs, capítulo 5." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5932" type="EtcItem" name="Manual: Giants Architecture, Capítulo 1">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um manual de arquitetura dos gigantes da era dos Titãs, 1a capítulo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5933" type="EtcItem" name="Manual: Giants Architecture, Capítulo 2">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um manual de arquitetura dos gigantes da era dos Titãs, 2a capítulo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5934" type="EtcItem" name="Manual: Giants Architecture, Capítulo 3">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um manual de arquitetura dos gigantes da era dos Titãs, 3a capítulo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5935" type="EtcItem" name="Manual: Giants Architecture, Capítulo 4">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um manual de arquitetura dos gigantes da era dos Titãs, capítulo 4." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5936" type="EtcItem" name="Manual: Giants Architecture, Capítulo 5">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um manual arquitetônico dos gigantes da era dos Titãs, capítulo 5." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5937" type="EtcItem" name="Livro: Giants Medical Science, Capítulo 1">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro médico dos gigantes da era dos Titãs, 1a capítulo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5938" type="EtcItem" name="Livro: Giants Medical Science, Capítulo 2">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro médico dos gigantes da era dos Titãs, 2a capítulo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5939" type="EtcItem" name="Livro: Giants Medical Science, Capítulo 3">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro médico dos gigantes da era dos Titãs, capítulo 3." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5940" type="EtcItem" name="Livro: Giants Medical Science, Capítulo 4">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro médico dos gigantes da era dos Titãs, capítulo 4." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5941" type="EtcItem" name="Livro: Giants Medical Science, Capítulo 5">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro médico dos gigantes da era dos Titãs, capítulo 5." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5942" type="EtcItem" name="Carta de Amor do Gigante">
+		
+		<set name="icon" val="icon.etc_piece_of_report_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parece que até os gigantes costumavam ter uma vida amorosa." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5943" type="EtcItem" name="Rabisco dos Gigantes">
+		
+		<set name="icon" val="icon.etc_painting_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um quadro grosseiro desenhado por um pretenso pintor gigante." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5944" type="EtcItem" name="Pergaminho Antigo">
+		
+		<set name="icon" val="icon.etc_roll_of_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pedaço de pergaminho da era Titã. Se você clicar duas vezes nele, poderá ler o conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5945" type="EtcItem" name="Livro: Giants Science &amp; Technology, Capítulo 1">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma parte do livro de teoria que descreve a ciência e a tecnologia da era Titã. O primeiro de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5946" type="EtcItem" name="Livro: Giants Science &amp; Technology, Capítulo 2">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma parte do livro de teoria que descreve a ciência e a tecnologia da era Titã. O segundo de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5947" type="EtcItem" name="Livro: Giants Science &amp; Technology, Capítulo 3">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma parte do livro de teoria que descreve a ciência e a tecnologia da era Titã. O terceiro de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5948" type="EtcItem" name="Livro: Giants Science &amp; Technology, Capítulo 4">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma parte do livro de teoria que descreve a ciência e a tecnologia da era Titã. O quarto de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5949" type="EtcItem" name="Livro: Giants Science &amp; Technology, Capítulo 5">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma parte do livro de teoria que descreve a ciência e a tecnologia da era Titã. O quinto de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5950" type="EtcItem" name="Almanaque: Cultura Titã, Capítulo 1">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte do almanaque que contém informações sobre a cultura da era Titã. O primeiro de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5951" type="EtcItem" name="Almanaque: Cultura Titã, Capítulo 2">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte do almanaque que contém informações sobre a cultura da era Titã. O segundo de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5952" type="EtcItem" name="Almanaque: Cultura Titã, Capítulo 3">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte do almanaque que contém informações sobre a cultura da era Titã. O terceiro de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5953" type="EtcItem" name="Almanaque: Cultura Titã, Capítulo 4">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte do almanaque que contém informações sobre a cultura da era Titã. O quarto de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5954" type="EtcItem" name="Almanaque: Cultura Titã, Capítulo 5">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Parte do almanaque que contém informações sobre a cultura da era Titã. O quinto de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5955" type="EtcItem" name="Antigo Livro dos Titãs">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro da era Titã. Se você clicar duas vezes nele, poderá examinar seu conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5956" type="EtcItem" name="Vinho 15 Anos">
+		
+		<set name="icon" val="icon.etc_luxury_wine_a_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um presente de Harlan como sinal de gratidão. Tem 15 anos. Vinho de qualidade mediana." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="5957" type="EtcItem" name="Vinho 30 Anos">
+		
+		<set name="icon" val="icon.etc_luxury_wine_b_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um presente de Harlan como sinal de gratidão. Tem 30 anos. Vinho de alta qualidade." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="5958" type="EtcItem" name="Vinho 60 Anos">
+		
+		<set name="icon" val="icon.etc_luxury_wine_c_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um presente de Harlan como sinal de gratidão. Tem 60 anos. Vinho de excelente qualidade." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="5959" type="EtcItem" name="Receita de Sobremesa de Ritron">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma receita secreta para fazer sobremesa usando frutas ritron como ingrediente. Pode ser vendido em uma loja." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="40000" />
+	</item>
+	<item id="5960" type="EtcItem" name="Ritron Jelly">
+		
+		<set name="icon" val="icon.etc_cobol_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Deliciosa geléia feita de fruta ritron. Pode ser vendido em uma loja." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1920" />
+	</item>
+	<item id="5961" type="EtcItem" name="Basilisco Kail de Prata">
+		
+		<set name="icon" val="icon.etc_kyles_silver_basilisk_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda real" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="5962" type="EtcItem" name="Golem Kail de Ouro">
+		
+		<set name="icon" val="icon.etc_kyles_gold_golem_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda real" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="5963" type="EtcItem" name="Dragão Kail de Sangue">
+		
+		<set name="icon" val="icon.etc_kyles_blood_dragon_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Moeda real" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="5964" type="EtcItem" name="Medalha do Guardião do Armazém">
+		
+		<set name="icon" val="icon.etc_irongate_medal_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma medalha que é emitida pela Portão de Ferro Guild para Armazéms de acordo com sua produtividade. Se você os coletar, poderá usá-los para jogar bingo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="5965" type="EtcItem" name="Pergaminho em Branco">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro de feitiços que não contém nenhum poder mágico. Talvez possa ser útil se você lidar com o Mercador de Mammon?" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="5966" type="EtcItem" name="Antigo Papiro Vermelho">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho de papiro encontrado na Torre da Insolência. Se você clicar duas vezes nele, poderá ler seu conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5967" type="EtcItem" name="Antigo Papiro Azul">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho de papiro encontrado na Torre da Insolência. Se você clicar duas vezes nele, poderá ler seu conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5968" type="EtcItem" name="Antigo Papiro Negro">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho de papiro encontrado na Torre da Insolência. Se você clicar duas vezes nele, poderá ler seu conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5969" type="EtcItem" name="Antigo Papiro Branco">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho de papiro encontrado na Torre da Insolência. Se você clicar duas vezes nele, poderá ler seu conteúdo." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5970" type="EtcItem" name="Antiga Correntes">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma carta misteriosa encontrada na Torre da Insolência. Seu texto diz &quot;se você enviar esta carta para outras 10 pessoas, terá boa sorte!&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5971" type="EtcItem" name="Antigo Livro de Piadas">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma coleção de piadas de Galfredo Romer, um Palhaço Real." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5972" type="EtcItem" name="Revelação dos Selos: Capítulo da Avareza">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um registro antigo sobre os Sete Selos. O primeiro de sete capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5973" type="EtcItem" name="Revelação dos Selos: Capítulo da Gnose">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um registro antigo sobre os Sete Selos. O segundo de sete capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5974" type="EtcItem" name="Revelação dos Selos: Capítulo da Conflito">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um registro antigo sobre os Sete Selos. O terceiro de sete capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5975" type="EtcItem" name="Revelação dos Selos: Capítulo da Vingança">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um registro antigo sobre os Sete Selos. O quarto de sete capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5976" type="EtcItem" name="Revelação dos Selos: Capítulo do Despertar">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um registro antigo sobre os Sete Selos. O quinto de sete capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5977" type="EtcItem" name="Revelação dos Selos: Capítulo da Calamidade">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um registro antigo sobre os Sete Selos. O sexto de sete capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5978" type="EtcItem" name="Revelação dos Selos: Capítulo da Descida">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um registro antigo sobre os Sete Selos. O sétimo de sete capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5979" type="EtcItem" name="Épico Antigo, Capítulo 1">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma história de heróis escrita por antigos trovadores. O primeiro de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5980" type="EtcItem" name="Épico Antigo, Capítulo 2">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma história de heróis escrita por antigos trovadores. O segundo de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5981" type="EtcItem" name="Épico Antigo, Capítulo 3">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma história de heróis escrita por antigos trovadores. O terceiro de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5982" type="EtcItem" name="Épico Antigo, Capítulo 4">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma história de heróis escrita por antigos trovadores. O quarto de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5983" type="EtcItem" name="Épico Antigo, Capítulo 5">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma história de heróis escrita por antigos trovadores. O quinto de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5984" type="EtcItem" name="Genealogia Imperial 1">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A genealogia da família real Elmoreden. O primeiro de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5985" type="EtcItem" name="Genealogia Imperial 2">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A genealogia da família real Elmoreden. O segundo de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5986" type="EtcItem" name="Genealogia Imperial 3">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A genealogia da família real Elmoreden. O terceiro de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5987" type="EtcItem" name="Genealogia Imperial 4">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A genealogia da família real Elmoreden. O quarto de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5988" type="EtcItem" name="Genealogia Imperial 5">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A genealogia da família real Elmoreden. O quinto de cinco capítulos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5989" type="EtcItem" name="Projeto: Torre da Insolência, 1a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 1a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5990" type="EtcItem" name="Projeto: Torre da Insolência, 2a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 2a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5991" type="EtcItem" name="Projeto: Torre da Insolência, 3a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 3a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5992" type="EtcItem" name="Projeto: Torre da Insolência, 4a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 4a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5993" type="EtcItem" name="Projeto: Torre da Insolência, 5a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 5a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5994" type="EtcItem" name="Projeto: Torre da Insolência, 6a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 6a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5995" type="EtcItem" name="Projeto: Torre da Insolência, 7a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 7a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5996" type="EtcItem" name="Projeto: Torre da Insolência, 8a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 8a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5997" type="EtcItem" name="Projeto: Torre da Insolência, 9a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 9a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5998" type="EtcItem" name="Projeto: Torre da Insolência, 10a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 10a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="5999" type="EtcItem" name="Projeto: Torre da Insolência, 11a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 11a dos 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+</list>

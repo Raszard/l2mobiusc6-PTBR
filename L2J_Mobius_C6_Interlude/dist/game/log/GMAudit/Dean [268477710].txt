@@ -1,0 +1,978 @@
+12/07/2025 14:51:07>Dean [268477710]>admin_admin>no-target>
+12/07/2025 14:51:09>Dean [268477710]>admin_move_to>no-target>
+12/07/2025 14:51:10>Dean [268477710]>admin_help>no-target> tele/towns.htm
+12/07/2025 14:51:11>Dean [268477710]>admin_help>no-target> tele/towns/giran.htm
+12/07/2025 14:51:15>Dean [268477710]>admin_move_to>no-target> 80385 147867 -3512
+12/07/2025 17:28:00>Dean [268477710]>admin_admin>no-target>
+12/07/2025 17:28:09>Dean [268477710]>admin_move_to>no-target>
+12/07/2025 17:28:12>Dean [268477710]>admin_help>no-target> tele/other.htm
+12/07/2025 17:28:16>Dean [268477710]>admin_help>no-target> tele/others/talkingisland.htm
+12/07/2025 17:28:19>Dean [268477710]>admin_move_to>no-target> -73145 256520 -3126
+12/07/2025 17:28:30>Dean [268477710]>admin_admin>no-target>
+12/07/2025 17:28:31>Dean [268477710]>admin_superhaste>no-target> 4
+22/07/2025 20:54:38>Dean [268477710]>admin_admin>no-target>
+22/07/2025 21:00:47>Dean [268477710]>admin_admin>no-target>
+24/07/2025 19:49:17>Dean [268477710]>admin_admin>no-target>
+24/07/2025 19:49:18>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 19:49:19>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 19:49:20>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 19:49:21>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 19:49:59>Dean [268477710]>admin_admin>Miany>
+24/07/2025 19:50:01>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 20:09:49>Dean [268477710]>admin_admin>no-target>
+24/07/2025 20:09:50>Dean [268477710]>admin_superhaste>no-target> 4
+24/07/2025 20:09:54>Dean [268477710]>admin_admin>no-target>
+24/07/2025 20:09:54>Dean [268477710]>admin_admin>no-target>
+24/07/2025 20:34:13>Dean [268477710]>admin_admin>no-target>
+24/07/2025 20:34:14>Dean [268477710]>admin_move_to>no-target>
+24/07/2025 20:34:17>Dean [268477710]>admin_admin>no-target>
+24/07/2025 20:34:18>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 20:34:18>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 20:34:19>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 20:34:21>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 20:49:07>Dean [268477710]>admin_admin>Miany>
+24/07/2025 20:49:08>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 21:00:10>Dean [268477710]>admin_admin>no-target>
+24/07/2025 21:00:11>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 21:00:12>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 21:00:13>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 21:00:14>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 21:00:25>Dean [268477710]>admin_admin>Miany>
+24/07/2025 21:00:26>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 21:06:44>Dean [268477710]>admin_admin>no-target>
+24/07/2025 21:06:45>Dean [268477710]>admin_superhaste>no-target> 4
+24/07/2025 21:45:33>Dean [268477710]>admin_admin>no-target>
+24/07/2025 21:45:34>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 21:45:35>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 21:45:37>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 21:45:38>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 21:46:23>Dean [268477710]>admin_admin>Miany>
+24/07/2025 21:46:24>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 21:57:31>Dean [268477710]>admin_admin>Miany>
+24/07/2025 21:57:32>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 22:15:11>Dean [268477710]>admin_admin>no-target>
+24/07/2025 22:15:12>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 22:15:13>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 22:15:15>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 22:15:16>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 22:15:51>Dean [268477710]>admin_admin>Miany>
+24/07/2025 22:15:52>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 22:18:43>Dean [268477710]>admin_admin>Miany>
+24/07/2025 22:18:44>Dean [268477710]>admin_move_to>Miany>
+24/07/2025 22:18:45>Dean [268477710]>admin_help>Miany> tele/towns.htm
+24/07/2025 22:18:46>Dean [268477710]>admin_help>Miany> tele/towns/giran.htm
+24/07/2025 22:18:52>Dean [268477710]>admin_move_to>Miany> 82698 148638 -3473
+24/07/2025 22:19:03>Dean [268477710]>admin_admin>no-target>
+24/07/2025 22:19:04>Dean [268477710]>admin_move_to>no-target>
+24/07/2025 22:19:06>Dean [268477710]>admin_help>no-target> tele/towns.htm
+24/07/2025 22:19:06>Dean [268477710]>admin_help>no-target> tele/towns/giran.htm
+24/07/2025 22:19:08>Dean [268477710]>admin_move_to>no-target> 83102 150544 -3521
+24/07/2025 22:19:23>Dean [268477710]>admin_admin>Pepper>
+24/07/2025 22:19:24>Dean [268477710]>admin_gmshop>Pepper>
+24/07/2025 22:19:26>Dean [268477710]>admin_help>Pepper> gmshop/Dyes.htm
+24/07/2025 22:19:27>Dean [268477710]>admin_buy>Pepper> 9128
+24/07/2025 22:19:57>Dean [268477710]>admin_admin>Pepper>
+24/07/2025 22:19:58>Dean [268477710]>admin_admin2>Pepper>
+24/07/2025 22:20:00>Dean [268477710]>admin_show_characters>Pepper> 0
+24/07/2025 22:20:00>Dean [268477710]>admin_character_info>Pepper> Dean
+24/07/2025 22:20:02>Dean [268477710]>admin_setclass>Dean>
+24/07/2025 22:20:05>Dean [268477710]>admin_setclass>Dean> 93
+24/07/2025 22:20:08>Dean [268477710]>admin_admin>Dean>
+24/07/2025 22:20:09>Dean [268477710]>admin_admin2>Dean>
+24/07/2025 22:20:10>Dean [268477710]>admin_show_characters>Dean> 0
+24/07/2025 22:20:11>Dean [268477710]>admin_character_info>Dean> Dean
+24/07/2025 22:20:11>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+24/07/2025 22:20:16>Dean [268477710]>admin_set_level>Dean> 81
+24/07/2025 22:20:44>Dean [268477710]>admin_admin>Pepper>
+24/07/2025 22:20:45>Dean [268477710]>admin_create_item>Pepper>
+24/07/2025 22:20:46>Dean [268477710]>admin_admin>Pepper>
+24/07/2025 22:20:48>Dean [268477710]>admin_gmshop>Pepper>
+24/07/2025 22:20:49>Dean [268477710]>admin_help>Pepper> gmshop/Dyes.htm
+24/07/2025 22:20:50>Dean [268477710]>admin_buy>Pepper> 300526
+24/07/2025 22:21:54>Dean [268477710]>admin_admin>Pepper>
+24/07/2025 22:21:55>Dean [268477710]>admin_gmshop>Pepper>
+24/07/2025 22:22:09>Dean [268477710]>admin_help>Pepper> gmshop/Dyes.htm
+24/07/2025 22:22:11>Dean [268477710]>admin_buy>Pepper> 300526
+24/07/2025 22:22:27>Dean [268477710]>admin_admin>Pepper>
+24/07/2025 22:22:28>Dean [268477710]>admin_admin2>Pepper>
+24/07/2025 22:22:29>Dean [268477710]>admin_show_characters>Pepper> 0
+24/07/2025 22:22:30>Dean [268477710]>admin_character_info>Pepper> Dean
+24/07/2025 22:22:32>Dean [268477710]>admin_setclass>Dean>
+24/07/2025 22:47:58>Dean [268477710]>admin_admin>no-target>
+24/07/2025 22:48:00>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 22:48:00>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 22:48:02>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 22:48:04>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 22:49:22>Dean [268477710]>admin_admin>Miany>
+24/07/2025 22:49:23>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 22:56:20>Dean [268477710]>admin_admin>no-target>
+24/07/2025 22:56:21>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 22:56:22>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 22:56:24>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 22:56:25>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 22:56:28>Dean [268477710]>admin_admin>Miany>
+24/07/2025 22:57:17>Dean [268477710]>admin_admin4>Miany>
+24/07/2025 23:02:03>Dean [268477710]>admin_admin>Miany>
+24/07/2025 23:02:04>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 23:03:46>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:03:47>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 23:03:48>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 23:03:49>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 23:03:50>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 23:04:17>Dean [268477710]>admin_admin>Miany>
+24/07/2025 23:04:18>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 23:06:56>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:06:57>Dean [268477710]>admin_move_to>no-target>
+24/07/2025 23:06:58>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:06:59>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 23:06:59>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 23:07:00>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 23:07:01>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 23:07:41>Dean [268477710]>admin_admin>Miany>
+24/07/2025 23:07:42>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 23:09:18>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:09:20>Dean [268477710]>admin_move_to>no-target>
+24/07/2025 23:09:21>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:09:22>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 23:09:23>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 23:10:06>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 23:10:07>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 23:10:12>Dean [268477710]>admin_admin>Miany>
+24/07/2025 23:15:36>Dean [268477710]>admin_admin>Miany>
+24/07/2025 23:15:38>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 23:20:13>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:20:15>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 23:20:15>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 23:20:16>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 23:20:17>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 23:20:22>Dean [268477710]>admin_admin>Miany>
+24/07/2025 23:20:46>Dean [268477710]>admin_superhaste>Ente Corrompido> 4
+24/07/2025 23:24:05>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:24:05>Dean [268477710]>admin_move_to>no-target>
+24/07/2025 23:24:06>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:24:07>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 23:24:08>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 23:24:09>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 23:24:10>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 23:24:14>Dean [268477710]>admin_admin>Miany>
+24/07/2025 23:24:43>Dean [268477710]>admin_admin>Miany>
+24/07/2025 23:24:44>Dean [268477710]>admin_superhaste>Miany> 4
+24/07/2025 23:45:15>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:45:16>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 23:45:17>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 23:45:19>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 23:45:21>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 23:45:29>Dean [268477710]>admin_admin>Miany>
+24/07/2025 23:49:00>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:49:02>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 23:49:03>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 23:49:04>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 23:49:05>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+24/07/2025 23:58:33>Dean [268477710]>admin_admin>no-target>
+24/07/2025 23:58:34>Dean [268477710]>admin_admin2>no-target>
+24/07/2025 23:58:35>Dean [268477710]>admin_show_characters>no-target> 0
+24/07/2025 23:58:42>Dean [268477710]>admin_character_info>no-target> Miany
+24/07/2025 23:58:43>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+25/07/2025 0:11:02>Dean [268477710]>admin_admin>Miany>
+25/07/2025 0:11:03>Dean [268477710]>admin_superhaste>Miany> 4
+25/07/2025 19:30:04>Dean [268477710]>admin_admin>no-target>
+25/07/2025 19:30:05>Dean [268477710]>admin_move_to>no-target>
+25/07/2025 19:30:06>Dean [268477710]>admin_admin>no-target>
+25/07/2025 19:30:07>Dean [268477710]>admin_admin2>no-target>
+25/07/2025 19:30:08>Dean [268477710]>admin_show_characters>no-target> 0
+25/07/2025 19:30:10>Dean [268477710]>admin_character_info>no-target> Miany
+25/07/2025 19:30:11>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+25/07/2025 19:30:15>Dean [268477710]>admin_admin>Miany>
+25/07/2025 19:51:03>Dean [268477710]>admin_admin>no-target>
+25/07/2025 19:51:05>Dean [268477710]>admin_admin2>no-target>
+25/07/2025 19:51:05>Dean [268477710]>admin_show_characters>no-target> 0
+25/07/2025 19:51:06>Dean [268477710]>admin_character_info>no-target> Miany
+25/07/2025 19:51:08>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+25/07/2025 22:23:26>Dean [268477710]>admin_admin>no-target>
+25/07/2025 22:23:28>Dean [268477710]>admin_move_to>no-target>
+25/07/2025 22:23:29>Dean [268477710]>admin_admin>no-target>
+25/07/2025 22:23:31>Dean [268477710]>admin_move_to>no-target>
+25/07/2025 22:23:34>Dean [268477710]>admin_admin>no-target>
+25/07/2025 22:23:35>Dean [268477710]>admin_admin2>no-target>
+25/07/2025 22:23:36>Dean [268477710]>admin_show_characters>no-target> 0
+25/07/2025 22:23:37>Dean [268477710]>admin_character_info>no-target> Miany
+25/07/2025 22:23:38>Dean [268477710]>admin_goto_char_menu>Miany> Miany
+25/07/2025 22:23:43>Dean [268477710]>admin_admin>Miany>
+26/07/2025 0:46:33>Dean [268477710]>admin_admin>no-target>
+26/07/2025 0:46:35>Dean [268477710]>admin_admin2>no-target>
+26/07/2025 0:46:36>Dean [268477710]>admin_show_characters>no-target> 0
+26/07/2025 0:46:37>Dean [268477710]>admin_character_info>no-target> Liane
+26/07/2025 0:46:38>Dean [268477710]>admin_goto_char_menu>Liane> Liane
+26/07/2025 0:49:52>Dean [268477710]>admin_admin>no-target>
+26/07/2025 0:49:53>Dean [268477710]>admin_admin2>no-target>
+26/07/2025 0:49:54>Dean [268477710]>admin_show_characters>no-target> 0
+26/07/2025 0:49:55>Dean [268477710]>admin_character_info>no-target> Liane
+26/07/2025 0:49:57>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+26/07/2025 0:50:01>Dean [268477710]>admin_set_level>Liane> 10
+26/07/2025 0:50:11>Dean [268477710]>admin_admin>Liane>
+26/07/2025 0:50:31>Dean [268477710]>admin_admin2>Liane>
+26/07/2025 0:50:32>Dean [268477710]>admin_show_characters>Liane> 0
+26/07/2025 0:50:32>Dean [268477710]>admin_character_info>Liane> Liane
+26/07/2025 0:50:34>Dean [268477710]>admin_show_characters>Liane> 0
+26/07/2025 0:50:36>Dean [268477710]>admin_character_info>Liane> Liane
+26/07/2025 0:50:37>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+26/07/2025 0:50:42>Dean [268477710]>admin_set_level>Liane> 9
+26/07/2025 0:50:47>Dean [268477710]>admin_admin>Liane>
+26/07/2025 0:50:49>Dean [268477710]>admin_admin2>Liane>
+26/07/2025 0:50:49>Dean [268477710]>admin_show_characters>Liane> 0
+26/07/2025 0:50:50>Dean [268477710]>admin_character_info>Liane> Liane
+26/07/2025 0:50:51>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+26/07/2025 0:51:00>Dean [268477710]>admin_add_exp_sp>Liane> 99
+26/07/2025 0:51:13>Dean [268477710]>admin_add_exp_sp>Liane> 99 99
+26/07/2025 0:51:19>Dean [268477710]>admin_add_exp_sp>Liane> 5000 5000
+26/07/2025 0:51:26>Dean [268477710]>admin_add_exp_sp>Liane> 10000 10000
+26/07/2025 0:51:33>Dean [268477710]>admin_add_exp_sp>Liane> 5000 5000
+26/07/2025 0:52:02>Dean [268477710]>admin_set_level>Liane> 9
+26/07/2025 0:52:04>Dean [268477710]>admin_admin>Liane>
+26/07/2025 0:52:06>Dean [268477710]>admin_admin2>Liane>
+26/07/2025 0:52:07>Dean [268477710]>admin_show_characters>Liane> 0
+26/07/2025 0:52:08>Dean [268477710]>admin_character_info>Liane> Liane
+26/07/2025 0:52:09>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+26/07/2025 0:52:19>Dean [268477710]>admin_add_exp_sp>Liane> 80000 80000
+26/07/2025 0:52:33>Dean [268477710]>admin_set_level>Liane> 9
+26/07/2025 0:53:20>Dean [268477710]>admin_admin>Liane>
+26/07/2025 0:53:21>Dean [268477710]>admin_admin2>Liane>
+26/07/2025 0:53:22>Dean [268477710]>admin_show_characters>Liane> 0
+26/07/2025 0:53:22>Dean [268477710]>admin_character_info>Liane> Liane
+26/07/2025 0:53:24>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+26/07/2025 0:53:26>Dean [268477710]>admin_set_level>Liane> 1
+26/07/2025 0:53:32>Dean [268477710]>admin_admin>Liane>
+26/07/2025 0:53:33>Dean [268477710]>admin_admin4>Liane>
+26/07/2025 0:53:53>Dean [268477710]>admin_admin>Liane>
+26/07/2025 0:53:55>Dean [268477710]>admin_admin2>Liane>
+26/07/2025 0:53:57>Dean [268477710]>admin_show_characters>Liane> 0
+26/07/2025 0:53:58>Dean [268477710]>admin_character_info>Liane> Liane
+26/07/2025 0:53:59>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+26/07/2025 0:54:00>Dean [268477710]>admin_set_level>Liane> 2
+26/07/2025 0:54:02>Dean [268477710]>admin_admin>Liane>
+26/07/2025 0:54:03>Dean [268477710]>admin_admin2>Liane>
+26/07/2025 0:54:03>Dean [268477710]>admin_show_characters>Liane> 0
+26/07/2025 0:54:04>Dean [268477710]>admin_character_info>Liane> Liane
+26/07/2025 0:54:06>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+26/07/2025 0:54:07>Dean [268477710]>admin_set_level>Liane> 1
+26/07/2025 0:59:22>Dean [268477710]>admin_admin>Liane>
+26/07/2025 0:59:23>Dean [268477710]>admin_admin2>Liane>
+26/07/2025 0:59:24>Dean [268477710]>admin_show_characters>Liane> 0
+26/07/2025 0:59:25>Dean [268477710]>admin_character_info>Liane> Liane
+26/07/2025 0:59:27>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+26/07/2025 0:59:29>Dean [268477710]>admin_set_level>Liane> 1
+26/07/2025 1:01:21>Dean [268477710]>admin_admin>Liane>
+26/07/2025 1:01:22>Dean [268477710]>admin_admin2>Liane>
+26/07/2025 1:01:23>Dean [268477710]>admin_show_characters>Liane> 0
+26/07/2025 1:01:25>Dean [268477710]>admin_character_info>Liane> Liane
+26/07/2025 1:01:26>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+26/07/2025 1:01:29>Dean [268477710]>admin_set_level>Liane> 20
+26/07/2025 1:17:33>Dean [268477710]>admin_admin>Liane>
+26/07/2025 1:17:34>Dean [268477710]>admin_admin2>Liane>
+26/07/2025 1:17:37>Dean [268477710]>admin_show_characters>Liane> 0
+26/07/2025 1:17:37>Dean [268477710]>admin_character_info>Liane> Liane
+26/07/2025 1:17:38>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+26/07/2025 1:17:40>Dean [268477710]>admin_set_level>Liane> 1
+26/07/2025 15:21:54>Dean [268477710]>admin_admin>Dean>
+26/07/2025 15:21:55>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 15:21:56>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 15:21:57>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 15:21:58>Dean [268477710]>admin_setclass>Dean>
+26/07/2025 15:22:00>Dean [268477710]>admin_setclass>Dean> 0
+26/07/2025 15:22:01>Dean [268477710]>admin_admin>Dean>
+26/07/2025 15:22:02>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 15:22:03>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 15:22:04>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 15:22:07>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 15:22:09>Dean [268477710]>admin_remove_all_skills>Dean>
+26/07/2025 15:22:09>Dean [268477710]>admin_admin>Dean>
+26/07/2025 15:22:11>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 15:22:11>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 15:22:13>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 15:22:14>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 15:22:15>Dean [268477710]>admin_give_all_skills>Dean>
+26/07/2025 15:22:21>Dean [268477710]>admin_admin>Dean>
+26/07/2025 15:22:23>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 15:22:24>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 15:22:26>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 15:22:27>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 15:22:29>Dean [268477710]>admin_set_level>Dean> 1
+26/07/2025 15:22:43>Dean [268477710]>admin_admin>Gremlin>
+26/07/2025 15:22:45>Dean [268477710]>admin_admin2>Gremlin>
+26/07/2025 15:22:46>Dean [268477710]>admin_show_characters>Gremlin> 0
+26/07/2025 15:22:46>Dean [268477710]>admin_character_info>Gremlin> Dean
+26/07/2025 15:22:48>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 15:22:49>Dean [268477710]>admin_set_level>Dean> 5
+26/07/2025 15:23:06>Dean [268477710]>admin_admin>Gremlin>
+26/07/2025 15:23:08>Dean [268477710]>admin_admin2>Gremlin>
+26/07/2025 15:23:10>Dean [268477710]>admin_show_characters>no-target> 0
+26/07/2025 15:23:11>Dean [268477710]>admin_character_info>no-target> Dean
+26/07/2025 15:23:12>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 15:23:14>Dean [268477710]>admin_set_level>Dean> 5
+26/07/2025 15:23:16>Dean [268477710]>admin_admin>Dean>
+26/07/2025 15:23:19>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 15:23:20>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 15:23:21>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 15:23:22>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 15:23:25>Dean [268477710]>admin_set_level>Dean> 4
+26/07/2025 15:23:27>Dean [268477710]>admin_admin>Dean>
+26/07/2025 15:23:28>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 15:23:29>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 15:23:30>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 15:23:31>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 15:23:33>Dean [268477710]>admin_set_level>Dean> 5
+26/07/2025 15:23:44>Dean [268477710]>admin_admin>Dean>
+26/07/2025 15:23:45>Dean [268477710]>admin_create_item>Dean>
+26/07/2025 15:23:57>Dean [268477710]>admin_create_item>Dean> 9519 1
+26/07/2025 15:38:06>Dean [268477710]>admin_admin>Dean>
+26/07/2025 15:44:25>Dean [268477710]>admin_admin>Dean>
+26/07/2025 16:51:57>Dean [268477710]>admin_admin>no-target>
+26/07/2025 16:51:58>Dean [268477710]>admin_create_item>no-target>
+26/07/2025 16:52:02>Dean [268477710]>admin_create_item>no-target> 9519 5
+26/07/2025 16:52:35>Dean [268477710]>admin_admin>Dean>
+26/07/2025 17:39:21>Dean [268477710]>admin_admin>Dean>
+26/07/2025 17:39:24>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 17:39:25>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 17:39:26>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 17:39:29>Dean [268477710]>admin_setclass>Dean>
+26/07/2025 17:39:33>Dean [268477710]>admin_setclass>Dean> 93
+26/07/2025 17:39:37>Dean [268477710]>admin_admin>Dean>
+26/07/2025 17:39:37>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 17:39:38>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 17:39:39>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 17:39:42>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 17:39:45>Dean [268477710]>admin_set_level>Dean> 81
+26/07/2025 17:39:47>Dean [268477710]>admin_admin>Dean>
+26/07/2025 17:39:48>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 17:39:49>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 17:39:49>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 17:39:52>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 17:39:53>Dean [268477710]>admin_give_all_skills>Dean>
+26/07/2025 17:42:55>Dean [268477710]>admin_admin>Dean>
+26/07/2025 17:42:56>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 17:42:57>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 17:42:58>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 17:43:00>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 17:43:01>Dean [268477710]>admin_skill_list>Dean>
+26/07/2025 17:43:07>Dean [268477710]>admin_add_skill>Dean> 9010 1
+26/07/2025 17:46:02>Dean [268477710]>admin_admin>no-target>
+26/07/2025 17:46:05>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 17:46:06>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 17:46:06>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 17:46:08>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 17:46:09>Dean [268477710]>admin_skill_list>Dean>
+26/07/2025 17:46:14>Dean [268477710]>admin_add_skill>Dean> 9010 1
+26/07/2025 17:53:36>Dean [268477710]>admin_admin>Dean>
+26/07/2025 17:53:38>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 17:53:39>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 17:53:39>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 17:53:41>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 17:53:42>Dean [268477710]>admin_skill_list>Dean>
+26/07/2025 17:53:50>Dean [268477710]>admin_add_skill>Dean> 9007 1
+26/07/2025 17:56:29>Dean [268477710]>admin_admin>Dean>
+26/07/2025 17:56:30>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 17:56:31>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 17:56:32>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 17:56:34>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 17:56:34>Dean [268477710]>admin_skill_list>Dean>
+26/07/2025 17:56:39>Dean [268477710]>admin_add_skill>Dean> 9010 1
+26/07/2025 18:01:06>Dean [268477710]>admin_admin>no-target>
+26/07/2025 18:01:07>Dean [268477710]>admin_admin2>no-target>
+26/07/2025 18:01:08>Dean [268477710]>admin_show_characters>no-target> 0
+26/07/2025 18:01:08>Dean [268477710]>admin_character_info>no-target> Dean
+26/07/2025 18:01:10>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 18:01:11>Dean [268477710]>admin_skill_list>Dean>
+26/07/2025 18:01:14>Dean [268477710]>admin_add_skill>Dean> 9010 1
+26/07/2025 18:49:27>Dean [268477710]>admin_admin>no-target>
+26/07/2025 18:49:28>Dean [268477710]>admin_create_item>no-target>
+26/07/2025 18:49:34>Dean [268477710]>admin_create_item>no-target> 9519 5
+26/07/2025 19:06:08>Dean [268477710]>admin_admin>no-target>
+26/07/2025 19:06:10>Dean [268477710]>admin_create_item>no-target>
+26/07/2025 19:06:18>Dean [268477710]>admin_create_item>no-target> 9519 10
+26/07/2025 19:06:27>Dean [268477710]>admin_admin>Dean>
+26/07/2025 19:06:28>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 19:06:29>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 19:06:30>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 19:06:31>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 19:06:34>Dean [268477710]>admin_remove_all_skills>Dean>
+26/07/2025 19:06:37>Dean [268477710]>admin_admin>Dean>
+26/07/2025 19:06:38>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 19:06:39>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 19:06:40>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 19:06:49>Dean [268477710]>admin_admin>Gremlin>
+26/07/2025 19:06:51>Dean [268477710]>admin_admin2>Gremlin>
+26/07/2025 19:06:54>Dean [268477710]>admin_show_characters>Gremlin> 0
+26/07/2025 19:06:55>Dean [268477710]>admin_character_info>Gremlin> Dean
+26/07/2025 19:06:58>Dean [268477710]>admin_edit_character>Dean>
+26/07/2025 19:07:00>Dean [268477710]>admin_current_player>Dean>
+26/07/2025 19:07:00>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 19:07:02>Dean [268477710]>admin_give_all_skills>Dean>
+26/07/2025 19:42:27>Dean [268477710]>admin_admin>Dean>
+26/07/2025 19:42:28>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 19:42:29>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 19:42:29>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 19:42:32>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 19:42:33>Dean [268477710]>admin_skill_list>Dean>
+26/07/2025 19:42:36>Dean [268477710]>admin_add_skill>Dean> 9010 1
+26/07/2025 19:45:40>Dean [268477710]>admin_admin>Dean>
+26/07/2025 19:45:42>Dean [268477710]>admin_admin3>Dean>
+26/07/2025 19:45:43>Dean [268477710]>admin_admin4>Dean>
+26/07/2025 19:45:44>Dean [268477710]>admin_reload>Dean>
+26/07/2025 19:45:45>Dean [268477710]>admin_reload>Dean> skill
+26/07/2025 19:46:16>Dean [268477710]>admin_admin>Dean>
+26/07/2025 19:46:17>Dean [268477710]>admin_admin4>Dean>
+26/07/2025 19:46:18>Dean [268477710]>admin_reload>Dean>
+26/07/2025 19:46:19>Dean [268477710]>admin_reload>Dean> skill
+26/07/2025 19:52:21>Dean [268477710]>admin_admin>Dean>
+26/07/2025 19:52:22>Dean [268477710]>admin_admin4>Dean>
+26/07/2025 19:52:23>Dean [268477710]>admin_reload>Dean>
+26/07/2025 19:52:24>Dean [268477710]>admin_reload>Dean> skill
+26/07/2025 19:55:29>Dean [268477710]>admin_admin>Gremlin>
+26/07/2025 19:55:30>Dean [268477710]>admin_admin4>Gremlin>
+26/07/2025 19:55:31>Dean [268477710]>admin_reload>Gremlin>
+26/07/2025 19:55:32>Dean [268477710]>admin_reload>Gremlin> skill
+26/07/2025 20:07:55>Dean [268477710]>admin_admin>no-target>
+26/07/2025 20:07:57>Dean [268477710]>admin_admin2>no-target>
+26/07/2025 20:07:57>Dean [268477710]>admin_show_characters>no-target> 0
+26/07/2025 20:08:01>Dean [268477710]>admin_admin2>no-target>
+26/07/2025 20:08:02>Dean [268477710]>admin_admin>no-target>
+26/07/2025 20:08:03>Dean [268477710]>admin_create_item>no-target>
+26/07/2025 20:08:06>Dean [268477710]>admin_create_item>no-target> 9519 10
+26/07/2025 20:27:33>Dean [268477710]>admin_admin>no-target>
+26/07/2025 20:27:35>Dean [268477710]>admin_admin4>no-target>
+26/07/2025 20:27:36>Dean [268477710]>admin_reload>no-target>
+26/07/2025 20:27:38>Dean [268477710]>admin_reload>no-target> skill
+26/07/2025 20:30:37>Dean [268477710]>admin_admin>Dean>
+26/07/2025 20:30:39>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 20:30:40>Dean [268477710]>admin_admin>Dean>
+26/07/2025 20:30:43>Dean [268477710]>admin_kill_menu>Dean>
+26/07/2025 20:51:58>Dean [268477710]>admin_admin>no-target>
+26/07/2025 20:52:00>Dean [268477710]>admin_kill_menu>Dean>
+26/07/2025 20:53:32>Dean [268477710]>admin_admin>Dean>
+26/07/2025 20:53:34>Dean [268477710]>admin_kill_menu>Dean>
+26/07/2025 20:56:07>Dean [268477710]>admin_admin>Dean>
+26/07/2025 20:56:10>Dean [268477710]>admin_kill_menu>Dean>
+26/07/2025 20:56:55>Dean [268477710]>admin_admin>Dean>
+26/07/2025 20:56:56>Dean [268477710]>admin_kill_menu>Dean>
+26/07/2025 21:01:46>Dean [268477710]>admin_admin>Dean>
+26/07/2025 21:01:48>Dean [268477710]>admin_create_item>Dean>
+26/07/2025 21:01:53>Dean [268477710]>admin_create_item>Dean> 9519 100
+26/07/2025 21:01:58>Dean [268477710]>admin_admin>Dean>
+26/07/2025 21:02:00>Dean [268477710]>admin_kill_menu>Dean>
+26/07/2025 21:02:21>Dean [268477710]>admin_admin>no-target>
+26/07/2025 21:02:22>Dean [268477710]>admin_admin>no-target>
+26/07/2025 21:02:34>Dean [268477710]>admin_kill_menu>Dean>
+26/07/2025 21:03:51>Dean [268477710]>admin_admin>Gremlin>
+26/07/2025 21:03:54>Dean [268477710]>admin_admin2>Gremlin>
+26/07/2025 21:03:55>Dean [268477710]>admin_show_characters>Gremlin> 0
+26/07/2025 21:03:56>Dean [268477710]>admin_character_info>Gremlin> Dean
+26/07/2025 21:03:58>Dean [268477710]>admin_show_skills>Dean>
+26/07/2025 21:03:59>Dean [268477710]>admin_remove_all_skills>Dean>
+26/07/2025 21:04:00>Dean [268477710]>admin_admin>Dean>
+26/07/2025 21:04:03>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 21:04:03>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 21:04:04>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 21:04:05>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 21:04:08>Dean [268477710]>admin_set_level>Dean> 5
+26/07/2025 21:04:31>Dean [268477710]>admin_admin>Dean>
+26/07/2025 21:05:56>Dean [268477710]>admin_admin>no-target>
+26/07/2025 21:05:57>Dean [268477710]>admin_admin2>no-target>
+26/07/2025 21:05:58>Dean [268477710]>admin_show_characters>no-target> 0
+26/07/2025 21:05:58>Dean [268477710]>admin_character_info>no-target> Dean
+26/07/2025 21:06:04>Dean [268477710]>admin_edit_character>Dean>
+26/07/2025 21:06:06>Dean [268477710]>admin_current_player>Dean>
+26/07/2025 21:06:07>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 21:06:09>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 21:06:19>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 21:06:20>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 21:06:21>Dean [268477710]>admin_admin3>Dean>
+26/07/2025 21:06:27>Dean [268477710]>admin_para_menu>Dean>
+26/07/2025 21:06:29>Dean [268477710]>admin_unpara_menu>Dean>
+26/07/2025 21:06:30>Dean [268477710]>admin_para_all_menu>Dean>
+26/07/2025 21:06:33>Dean [268477710]>admin_unpara_all_menu>Dean>
+26/07/2025 21:06:34>Dean [268477710]>admin_abnormal_menu>Dean>
+26/07/2025 21:06:42>Dean [268477710]>admin_admin3>Dean>
+26/07/2025 21:11:45>Dean [268477710]>admin_admin>Dean>
+26/07/2025 21:11:46>Dean [268477710]>admin_admin4>Dean>
+26/07/2025 21:11:47>Dean [268477710]>admin_reload>Dean>
+26/07/2025 21:11:49>Dean [268477710]>admin_reload>Dean> skill
+26/07/2025 21:12:13>Dean [268477710]>admin_admin>Dean>
+26/07/2025 21:12:15>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 21:12:16>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 21:12:17>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 21:12:19>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 21:12:21>Dean [268477710]>admin_set_level>Dean> 4
+26/07/2025 21:12:23>Dean [268477710]>admin_admin>Dean>
+26/07/2025 21:12:25>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 21:12:26>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 21:12:27>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 21:12:28>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 21:12:30>Dean [268477710]>admin_set_level>Dean> 5
+26/07/2025 21:41:28>Dean [268477710]>admin_admin>Dean>
+26/07/2025 21:41:30>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 21:41:31>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 21:41:31>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 21:41:32>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 21:41:35>Dean [268477710]>admin_set_level>Dean> 4
+26/07/2025 21:41:35>Dean [268477710]>admin_admin>Dean>
+26/07/2025 21:41:36>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 21:41:37>Dean [268477710]>admin_show_characters>Dean> 0
+26/07/2025 21:41:38>Dean [268477710]>admin_character_info>Dean> Dean
+26/07/2025 21:41:39>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+26/07/2025 21:41:41>Dean [268477710]>admin_set_level>Dean> 5
+26/07/2025 21:41:43>Dean [268477710]>admin_admin>Dean>
+26/07/2025 21:41:45>Dean [268477710]>admin_admin2>Dean>
+26/07/2025 21:42:08>Dean [268477710]>admin_admin>Gremlin>
+26/07/2025 21:42:09>Dean [268477710]>admin_admin4>Gremlin>
+26/07/2025 21:42:10>Dean [268477710]>admin_reload>Gremlin>
+26/07/2025 21:42:11>Dean [268477710]>admin_reload>Gremlin> skill
+26/07/2025 21:47:00>Dean [268477710]>admin_admin>no-target>
+26/07/2025 21:47:03>Dean [268477710]>admin_move_to>no-target>
+26/07/2025 21:47:04>Dean [268477710]>admin_help>no-target> tele/towns.htm
+26/07/2025 21:47:05>Dean [268477710]>admin_help>no-target> tele/towns/giran.htm
+26/07/2025 21:47:07>Dean [268477710]>admin_move_to>no-target> 79768 146559 -3525
+26/07/2025 22:50:43>Dean [268477710]>admin_admin>Graham>
+26/07/2025 22:50:45>Dean [268477710]>admin_admin4>Graham>
+26/07/2025 22:50:45>Dean [268477710]>admin_cache_htm_rebuild>Graham>
+26/07/2025 22:52:00>Dean [268477710]>admin_admin>Graham>
+26/07/2025 22:52:01>Dean [268477710]>admin_admin4>Graham>
+26/07/2025 22:52:02>Dean [268477710]>admin_cache_htm_rebuild>Graham>
+27/07/2025 16:53:01>Dean [268477710]>admin_admin>no-target>
+27/07/2025 16:53:03>Dean [268477710]>admin_move_to>no-target>
+27/07/2025 16:53:04>Dean [268477710]>admin_help>no-target> tele/others/arenas.htm
+27/07/2025 16:53:06>Dean [268477710]>admin_move_to>no-target> 73890 142656 -3778
+27/07/2025 16:57:13>Dean [268477710]>admin_admin>no-target>
+27/07/2025 16:57:15>Dean [268477710]>admin_admin4>no-target>
+27/07/2025 16:57:17>Dean [268477710]>admin_reload>no-target>
+27/07/2025 16:58:30>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:06:11>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:06:51>Dean [268477710]>admin_admin>no-target>
+27/07/2025 17:06:53>Dean [268477710]>admin_move_to>no-target>
+27/07/2025 17:07:06>Dean [268477710]>admin_move_to>no-target> 83400 147600 -3400
+27/07/2025 17:07:22>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:09:03>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:09:23>Dean [268477710]>admin_admin>Roy, o Gato>
+27/07/2025 17:17:38>Dean [268477710]>admin_admin>no-target>
+27/07/2025 17:17:48>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:22:37>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:23:11>Dean [268477710]>admin_admin>no-target>
+27/07/2025 17:23:12>Dean [268477710]>admin_move_to>no-target>
+27/07/2025 17:23:13>Dean [268477710]>admin_help>no-target> tele/others/arenas.htm
+27/07/2025 17:23:14>Dean [268477710]>admin_move_to>no-target> 73890 142656 -3778
+27/07/2025 17:23:41>Dean [268477710]>admin_admin>no-target>
+27/07/2025 17:23:42>Dean [268477710]>admin_move_to>no-target>
+27/07/2025 17:23:42>Dean [268477710]>admin_help>no-target> tele/others/arenas.htm
+27/07/2025 17:23:44>Dean [268477710]>admin_move_to>no-target> 73890 142656 -3778
+27/07/2025 17:23:47>Dean [268477710]>admin_admin>no-target>
+27/07/2025 17:23:49>Dean [268477710]>admin_superhaste>no-target> 4
+27/07/2025 17:23:56>Dean [268477710]>admin_admin>no-target>
+27/07/2025 17:23:56>Dean [268477710]>admin_admin>no-target>
+27/07/2025 17:26:02>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:27:05>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:35:34>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:38:30>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:55:56>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:56:25>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 17:59:12>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 18:09:12>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 18:11:34>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 18:14:30>Dean [268477710]>admin_arena_start>no-target>
+27/07/2025 18:19:19>Dean [268477710]>admin_arena_start>no-target>
+29/07/2025 19:46:52>Dean [268477710]>admin_admin>no-target>
+29/07/2025 19:46:53>Dean [268477710]>admin_move_to>no-target>
+29/07/2025 19:46:55>Dean [268477710]>admin_admin>no-target>
+29/07/2025 19:46:55>Dean [268477710]>admin_admin2>no-target>
+29/07/2025 19:46:56>Dean [268477710]>admin_show_characters>no-target> 0
+29/07/2025 19:46:57>Dean [268477710]>admin_character_info>no-target> Liane
+29/07/2025 19:46:59>Dean [268477710]>admin_goto_char_menu>Liane> Liane
+29/07/2025 19:56:20>Dean [268477710]>admin_admin>Liane>
+29/07/2025 19:56:22>Dean [268477710]>admin_admin2>Liane>
+29/07/2025 19:56:23>Dean [268477710]>admin_show_characters>Liane> 0
+29/07/2025 19:56:24>Dean [268477710]>admin_character_info>Liane> Liane
+29/07/2025 19:56:25>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+29/07/2025 19:56:28>Dean [268477710]>admin_set_level>Liane> 4
+29/07/2025 19:56:56>Dean [268477710]>admin_admin>Liane>
+29/07/2025 19:56:56>Dean [268477710]>admin_superhaste>Liane> 4
+29/07/2025 19:57:26>Dean [268477710]>admin_admin>no-target>
+29/07/2025 19:57:27>Dean [268477710]>admin_admin2>no-target>
+29/07/2025 19:57:28>Dean [268477710]>admin_show_characters>no-target> 0
+29/07/2025 19:57:29>Dean [268477710]>admin_character_info>no-target> Liane
+29/07/2025 19:57:30>Dean [268477710]>admin_recall_char_menu>Liane> Liane
+29/07/2025 19:58:38>Dean [268477710]>admin_admin>Liane>
+29/07/2025 19:58:39>Dean [268477710]>admin_admin2>Liane>
+29/07/2025 19:58:40>Dean [268477710]>admin_show_characters>Liane> 0
+29/07/2025 19:58:41>Dean [268477710]>admin_character_info>Liane> Liane
+29/07/2025 19:58:42>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+29/07/2025 19:58:43>Dean [268477710]>admin_set_level>Liane> 1
+29/07/2025 19:59:47>Dean [268477710]>admin_admin>Liane>
+29/07/2025 19:59:48>Dean [268477710]>admin_move_to>Liane>
+29/07/2025 19:59:49>Dean [268477710]>admin_admin>Liane>
+29/07/2025 19:59:53>Dean [268477710]>admin_admin2>Liane>
+29/07/2025 19:59:53>Dean [268477710]>admin_show_characters>Liane> 0
+29/07/2025 19:59:55>Dean [268477710]>admin_character_info>Liane> Liane
+29/07/2025 19:59:56>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+29/07/2025 19:59:57>Dean [268477710]>admin_set_level>Liane> 1
+29/07/2025 20:02:08>Dean [268477710]>admin_admin>Liane>
+29/07/2025 20:02:09>Dean [268477710]>admin_admin2>Liane>
+29/07/2025 20:02:10>Dean [268477710]>admin_show_characters>Liane> 0
+29/07/2025 20:02:10>Dean [268477710]>admin_character_info>Liane> Liane
+29/07/2025 20:02:11>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+29/07/2025 20:02:12>Dean [268477710]>admin_set_level>Liane> 1
+29/07/2025 20:07:43>Dean [268477710]>admin_admin>Liane>
+29/07/2025 20:07:45>Dean [268477710]>admin_admin2>Liane>
+29/07/2025 20:07:46>Dean [268477710]>admin_show_characters>Liane> 0
+29/07/2025 20:07:47>Dean [268477710]>admin_character_info>Liane> Liane
+29/07/2025 20:07:49>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+29/07/2025 20:07:52>Dean [268477710]>admin_set_level>Liane> 1
+29/07/2025 22:08:51>Dean [268477710]>admin_admin>Keltir Barbudo>
+29/07/2025 22:08:52>Dean [268477710]>admin_move_to>Keltir Barbudo>
+29/07/2025 22:08:54>Dean [268477710]>admin_help>Keltir Barbudo> tele/other.htm
+29/07/2025 22:08:57>Dean [268477710]>admin_help>Keltir Barbudo> tele/others/wastelands.htm
+29/07/2025 22:08:58>Dean [268477710]>admin_move_to>Keltir Barbudo> -26111 173692 -4152
+29/07/2025 22:09:06>Dean [268477710]>admin_admin>no-target>
+29/07/2025 22:09:06>Dean [268477710]>admin_superhaste>no-target> 4
+29/07/2025 22:14:02>Dean [268477710]>admin_admin>no-target>
+30/07/2025 19:40:23>Dean [268477710]>admin_admin>no-target>
+30/07/2025 19:40:24>Dean [268477710]>admin_move_to>no-target>
+30/07/2025 19:40:26>Dean [268477710]>admin_help>no-target> tele/towns.htm
+30/07/2025 19:40:26>Dean [268477710]>admin_help>no-target> tele/towns/giran.htm
+30/07/2025 19:40:27>Dean [268477710]>admin_move_to>no-target> 82698 148638 -3473
+30/07/2025 19:40:35>Dean [268477710]>admin_admin>no-target>
+30/07/2025 19:40:36>Dean [268477710]>admin_superhaste>no-target> 4
+30/07/2025 20:41:18>Dean [268477710]>admin_admin>no-target>
+30/07/2025 20:41:19>Dean [268477710]>admin_admin2>no-target>
+30/07/2025 20:41:20>Dean [268477710]>admin_show_characters>no-target> 0
+30/07/2025 20:41:22>Dean [268477710]>admin_character_info>no-target> Liane
+30/07/2025 20:41:23>Dean [268477710]>admin_recall_char_menu>Liane> Liane
+30/07/2025 20:41:25>Dean [268477710]>admin_admin2>Liane>
+30/07/2025 20:41:33>Dean [268477710]>admin_admin>Liane>
+30/07/2025 20:41:34>Dean [268477710]>admin_create_item>Liane>
+30/07/2025 20:41:43>Dean [268477710]>admin_create_item>Liane> 9520 100
+09/08/2025 17:44:30>Dean [268477710]>admin_admin>no-target>
+09/08/2025 17:44:31>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 17:44:32>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 17:44:35>Dean [268477710]>admin_help>no-target> tele/towns/ti_starting.htm
+09/08/2025 17:44:37>Dean [268477710]>admin_move_to>no-target> -82687 243157 -3734
+09/08/2025 17:45:48>Dean [268477710]>admin_admin>no-target>
+09/08/2025 17:45:49>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 17:45:51>Dean [268477710]>admin_help>no-target> tele/other.htm
+09/08/2025 17:45:53>Dean [268477710]>admin_show_moves>no-target>
+09/08/2025 17:45:53>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 17:45:54>Dean [268477710]>admin_help>no-target> tele/towns/ti_starting.htm
+09/08/2025 17:46:01>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 17:46:02>Dean [268477710]>admin_show_moves>no-target>
+09/08/2025 17:46:05>Dean [268477710]>admin_help>no-target> tele/other.htm
+09/08/2025 17:46:08>Dean [268477710]>admin_help>no-target> tele/others/talkingisland.htm
+09/08/2025 17:46:11>Dean [268477710]>admin_move_to>no-target> -73145 256520 -3126
+09/08/2025 17:46:16>Dean [268477710]>admin_admin>no-target>
+09/08/2025 17:46:17>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 17:46:19>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 17:46:20>Dean [268477710]>admin_help>no-target> tele/towns/ti_starting.htm
+09/08/2025 17:46:21>Dean [268477710]>admin_move_to>no-target> -82687 243157 -3734
+09/08/2025 18:13:54>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:13:55>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 18:13:58>Dean [268477710]>admin_help>no-target> tele/other.htm
+09/08/2025 18:14:00>Dean [268477710]>admin_help>no-target> tele/others/talkingisland.htm
+09/08/2025 18:14:03>Dean [268477710]>admin_move_to>no-target> -73145 256520 -3126
+09/08/2025 18:14:24>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:14:25>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 18:14:27>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 18:14:29>Dean [268477710]>admin_help>no-target> tele/towns/ti_starting.htm
+09/08/2025 18:14:30>Dean [268477710]>admin_move_to>no-target> -82687 243157 -3734
+09/08/2025 18:14:54>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:14:55>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 18:14:57>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 18:14:58>Dean [268477710]>admin_help>no-target> tele/towns/ti_starting.htm
+09/08/2025 18:14:59>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 18:15:01>Dean [268477710]>admin_show_moves>no-target>
+09/08/2025 18:15:02>Dean [268477710]>admin_help>no-target> tele/other.htm
+09/08/2025 18:15:03>Dean [268477710]>admin_help>no-target> tele/others/talkingisland.htm
+09/08/2025 18:15:06>Dean [268477710]>admin_move_to>no-target> -73145 256520 -3126
+09/08/2025 18:15:12>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:15:12>Dean [268477710]>admin_superhaste>no-target> 4
+09/08/2025 18:22:11>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:22:12>Dean [268477710]>admin_admin4>no-target>
+09/08/2025 18:22:13>Dean [268477710]>admin_reload>no-target>
+09/08/2025 18:22:15>Dean [268477710]>admin_reload>no-target> configs
+09/08/2025 18:31:17>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:31:18>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 18:31:22>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 18:31:23>Dean [268477710]>admin_help>no-target> tele/towns/ti_starting.htm
+09/08/2025 18:31:24>Dean [268477710]>admin_move_to>no-target> -82687 243157 -3734
+09/08/2025 18:32:33>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:32:34>Dean [268477710]>admin_superhaste>no-target> 4
+09/08/2025 18:36:39>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:36:40>Dean [268477710]>admin_superhaste>no-target> 4
+09/08/2025 18:36:46>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:36:47>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 18:36:50>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 18:36:51>Dean [268477710]>admin_help>no-target> tele/towns/ti_starting.htm
+09/08/2025 18:36:52>Dean [268477710]>admin_move_to>no-target> -82687 243157 -3734
+09/08/2025 18:37:40>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:37:41>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 18:37:43>Dean [268477710]>admin_help>no-target> tele/other.htm
+09/08/2025 18:37:46>Dean [268477710]>admin_help>no-target> tele/others/talkingisland.htm
+09/08/2025 18:37:47>Dean [268477710]>admin_move_to>no-target> -99746 237538 -3572
+09/08/2025 18:50:00>Dean [268477710]>admin_admin>no-target>
+09/08/2025 18:50:01>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 18:50:02>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 18:50:03>Dean [268477710]>admin_help>no-target> tele/towns/ti_starting.htm
+09/08/2025 18:50:03>Dean [268477710]>admin_move_to>no-target> -82687 243157 -3734
+09/08/2025 19:01:01>Dean [268477710]>admin_admin>no-target>
+09/08/2025 19:01:02>Dean [268477710]>admin_superhaste>no-target> 4
+09/08/2025 19:04:48>Dean [268477710]>admin_admin>no-target>
+09/08/2025 19:04:49>Dean [268477710]>admin_superhaste>no-target> 4
+09/08/2025 19:05:51>Dean [268477710]>admin_admin>no-target>
+09/08/2025 19:06:06>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 19:06:09>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 19:06:10>Dean [268477710]>admin_show_moves>no-target>
+09/08/2025 19:06:10>Dean [268477710]>admin_help>no-target> tele/other.htm
+09/08/2025 19:06:13>Dean [268477710]>admin_help>no-target> tele/others/talkingisland.htm
+09/08/2025 19:06:14>Dean [268477710]>admin_move_to>no-target> -99746 237538 -3572
+09/08/2025 19:06:41>Dean [268477710]>admin_admin>no-target>
+09/08/2025 19:06:42>Dean [268477710]>admin_move_to>no-target>
+09/08/2025 19:06:43>Dean [268477710]>admin_help>no-target> tele/towns.htm
+09/08/2025 19:06:44>Dean [268477710]>admin_help>no-target> tele/towns/ti_starting.htm
+09/08/2025 19:06:45>Dean [268477710]>admin_move_to>no-target> -82687 243157 -3734
+23/08/2025 14:17:50>Dean [268477710]>admin_admin>Dean>
+23/08/2025 14:17:52>Dean [268477710]>admin_move_to>Dean>
+23/08/2025 14:17:53>Dean [268477710]>admin_admin>Dean>
+23/08/2025 14:17:53>Dean [268477710]>admin_admin2>Dean>
+23/08/2025 14:17:54>Dean [268477710]>admin_show_characters>Dean> 0
+23/08/2025 14:17:55>Dean [268477710]>admin_character_info>Dean> Dean
+23/08/2025 14:17:56>Dean [268477710]>admin_show_skills>Dean>
+23/08/2025 14:17:57>Dean [268477710]>admin_current_player>Dean>
+23/08/2025 14:17:58>Dean [268477710]>admin_setclass>Dean>
+23/08/2025 14:18:00>Dean [268477710]>admin_setclass>Dean> 93
+23/08/2025 14:18:05>Dean [268477710]>admin_admin>Dean>
+23/08/2025 14:18:07>Dean [268477710]>admin_admin3>Dean>
+23/08/2025 14:18:08>Dean [268477710]>admin_admin2>Dean>
+23/08/2025 14:18:09>Dean [268477710]>admin_show_characters>Dean> 0
+23/08/2025 14:18:11>Dean [268477710]>admin_character_info>Dean> Dean
+23/08/2025 14:18:12>Dean [268477710]>admin_add_exp_sp_to_character>Dean>
+23/08/2025 14:18:14>Dean [268477710]>admin_set_level>Dean> 81
+23/08/2025 14:18:31>Dean [268477710]>admin_admin>Dean>
+23/08/2025 14:18:33>Dean [268477710]>admin_admin2>Dean>
+23/08/2025 14:18:34>Dean [268477710]>admin_show_characters>Dean> 0
+23/08/2025 14:18:41>Dean [268477710]>admin_admin2>Keltir Barbudo>
+23/08/2025 14:18:57>Dean [268477710]>admin_show_characters>no-target> 0
+23/08/2025 14:18:58>Dean [268477710]>admin_character_info>no-target> Dean
+23/08/2025 14:19:00>Dean [268477710]>admin_show_skills>Dean>
+23/08/2025 14:19:01>Dean [268477710]>admin_current_player>Dean>
+23/08/2025 14:19:02>Dean [268477710]>admin_edit_character>Dean>
+23/08/2025 14:19:04>Dean [268477710]>admin_current_player>Dean>
+23/08/2025 14:19:05>Dean [268477710]>admin_show_skills>Dean>
+23/08/2025 14:19:07>Dean [268477710]>admin_give_all_skills>Dean>
+23/08/2025 14:27:53>Dean [268477710]>admin_admin>no-target>
+23/08/2025 14:27:59>Dean [268477710]>admin_superhaste>no-target> 4
+23/08/2025 14:28:57>Dean [268477710]>admin_admin>Lobo>
+23/08/2025 14:28:58>Dean [268477710]>admin_superhaste>Lobo> 0
+23/08/2025 15:20:38>Dean [268477710]>admin_admin>no-target>
+23/08/2025 16:15:20>Dean [268477710]>admin_admin>no-target>
+23/08/2025 16:15:22>Dean [268477710]>admin_gmshop>no-target>
+23/08/2025 16:15:34>Dean [268477710]>admin_help>no-target> gmshop/Weapons.htm
+23/08/2025 16:15:36>Dean [268477710]>admin_help>no-target> gmshop/nogradew.htm
+23/08/2025 16:15:37>Dean [268477710]>admin_buy>no-target> 9003
+23/08/2025 16:16:22>Dean [268477710]>admin_admin>no-target>
+23/08/2025 16:16:23>Dean [268477710]>admin_move_to>no-target>
+23/08/2025 16:16:26>Dean [268477710]>admin_help>no-target> tele/other.htm
+23/08/2025 16:16:31>Dean [268477710]>admin_help>no-target> tele/others/talkingisland.htm
+23/08/2025 16:16:35>Dean [268477710]>admin_move_to>no-target> -101294 212553 -3093
+24/08/2025 13:08:25>Dean [268477710]>admin_admin>no-target>
+24/08/2025 13:08:27>Dean [268477710]>admin_gmshop>no-target>
+24/08/2025 13:08:28>Dean [268477710]>admin_help>no-target> gmshop/Armors.htm
+24/08/2025 13:08:29>Dean [268477710]>admin_help>no-target> gmshop/sgradea.htm
+24/08/2025 13:08:31>Dean [268477710]>admin_help>no-target> gmshops.htm
+24/08/2025 13:08:32>Dean [268477710]>admin_help>no-target> gmshop/Weapons.htm
+24/08/2025 13:08:33>Dean [268477710]>admin_help>no-target> gmshop/sgradew.htm
+24/08/2025 13:08:36>Dean [268477710]>admin_buy>no-target> 9048
+24/08/2025 13:36:31>Dean [268477710]>admin_admin>Aranha Gigante>
+24/08/2025 13:36:33>Dean [268477710]>admin_gmshop>Aranha Gigante>
+24/08/2025 13:36:34>Dean [268477710]>admin_help>Aranha Gigante> gmshop/Weapons.htm
+24/08/2025 13:36:35>Dean [268477710]>admin_help>Aranha Gigante> gmshop/sgradew.htm
+24/08/2025 13:36:37>Dean [268477710]>admin_buy>Aranha Gigante> 9049
+28/08/2025 20:40:00>Dean [268477710]>admin_admin>no-target>
+28/08/2025 20:40:00>Dean [268477710]>admin_admin2>no-target>
+28/08/2025 20:40:01>Dean [268477710]>admin_show_characters>no-target> 0
+28/08/2025 20:40:02>Dean [268477710]>admin_character_info>no-target> Liane
+28/08/2025 20:40:05>Dean [268477710]>admin_recall_char_menu>Liane> Liane
+28/08/2025 20:40:07>Dean [268477710]>admin_admin2>Liane>
+28/08/2025 20:40:08>Dean [268477710]>admin_show_characters>Liane> 0
+28/08/2025 20:40:10>Dean [268477710]>admin_character_info>Liane> Liane
+28/08/2025 20:40:11>Dean [268477710]>admin_add_exp_sp_to_character>Liane>
+28/08/2025 20:40:14>Dean [268477710]>admin_set_level>Liane> 81
+28/08/2025 20:40:16>Dean [268477710]>admin_admin>Liane>
+28/08/2025 20:40:18>Dean [268477710]>admin_admin2>Liane>
+28/08/2025 20:40:19>Dean [268477710]>admin_show_characters>Liane> 0
+28/08/2025 20:40:20>Dean [268477710]>admin_character_info>Liane> Liane
+28/08/2025 20:40:21>Dean [268477710]>admin_setclass>Liane>
+28/08/2025 20:40:29>Dean [268477710]>admin_setclass>Liane> 97
+28/08/2025 20:41:06>Dean [268477710]>admin_admin>Liane>
+28/08/2025 20:41:07>Dean [268477710]>admin_admin2>Liane>
+28/08/2025 20:41:08>Dean [268477710]>admin_show_characters>Liane> 0
+28/08/2025 20:41:09>Dean [268477710]>admin_character_info>Liane> Liane
+28/08/2025 20:41:10>Dean [268477710]>admin_show_skills>Liane>
+28/08/2025 20:41:11>Dean [268477710]>admin_give_all_skills>Liane>
+28/08/2025 20:46:59>Dean [268477710]>admin_admin>Liane>
+28/08/2025 20:47:01>Dean [268477710]>admin_admin2>Liane>
+28/08/2025 20:47:01>Dean [268477710]>admin_show_characters>Liane> 0
+28/08/2025 20:47:03>Dean [268477710]>admin_character_info>Liane> Liane
+28/08/2025 20:47:05>Dean [268477710]>admin_edit_character>Liane>
+28/08/2025 20:47:08>Dean [268477710]>admin_changelvl>Liane> 100
+28/08/2025 22:37:05>Dean [268477710]>admin_admin>Dean>
+28/08/2025 22:37:06>Dean [268477710]>admin_admin2>Dean>
+28/08/2025 22:37:07>Dean [268477710]>admin_show_characters>Dean> 0
+28/08/2025 22:37:08>Dean [268477710]>admin_character_info>Dean> Dean
+28/08/2025 22:37:11>Dean [268477710]>admin_edit_character>Dean>
+28/08/2025 22:37:19>Dean [268477710]>admin_save_modifications>Dean> 1000
+28/08/2025 22:37:30>Dean [268477710]>admin_save_modifications>Dean> 1000
+28/08/2025 22:37:40>Dean [268477710]>admin_save_modifications>Dean> 10
+28/08/2025 22:37:44>Dean [268477710]>admin_save_modifications>Dean> 10
+28/08/2025 22:37:55>Dean [268477710]>admin_save_modifications>Dean> 1000 1000 1000
+28/08/2025 22:38:15>Dean [268477710]>admin_save_modifications>Dean> 20
+28/08/2025 22:38:26>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+28/08/2025 22:58:58>Dean [268477710]>admin_admin>Dean>
+28/08/2025 22:58:59>Dean [268477710]>admin_admin2>Dean>
+28/08/2025 22:59:00>Dean [268477710]>admin_show_characters>Dean> 0
+28/08/2025 22:59:00>Dean [268477710]>admin_character_info>Dean> Dean
+28/08/2025 22:59:02>Dean [268477710]>admin_edit_character>Dean>
+28/08/2025 22:59:11>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+28/08/2025 23:04:31>Dean [268477710]>admin_admin>Dean>
+28/08/2025 23:04:32>Dean [268477710]>admin_admin2>Dean>
+28/08/2025 23:04:32>Dean [268477710]>admin_show_characters>Dean> 0
+28/08/2025 23:04:33>Dean [268477710]>admin_character_info>Dean> Dean
+28/08/2025 23:04:35>Dean [268477710]>admin_edit_character>Dean>
+28/08/2025 23:04:42>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 1
+28/08/2025 23:12:17>Dean [268477710]>admin_admin>Dean>
+28/08/2025 23:12:18>Dean [268477710]>admin_admin2>Dean>
+28/08/2025 23:12:18>Dean [268477710]>admin_show_characters>Dean> 0
+28/08/2025 23:12:20>Dean [268477710]>admin_character_info>Dean> Dean
+28/08/2025 23:12:22>Dean [268477710]>admin_edit_character>Dean>
+28/08/2025 23:12:34>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+28/08/2025 23:28:27>Dean [268477710]>admin_admin>Dean>
+28/08/2025 23:28:28>Dean [268477710]>admin_admin2>Dean>
+28/08/2025 23:28:29>Dean [268477710]>admin_show_characters>Dean> 0
+28/08/2025 23:28:30>Dean [268477710]>admin_character_info>Dean> Dean
+28/08/2025 23:28:34>Dean [268477710]>admin_edit_character>Dean>
+28/08/2025 23:28:41>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+28/08/2025 23:42:33>Dean [268477710]>admin_admin>Dean>
+28/08/2025 23:43:00>Dean [268477710]>admin_admin2>Crasher>
+28/08/2025 23:43:00>Dean [268477710]>admin_show_characters>Crasher> 0
+28/08/2025 23:43:01>Dean [268477710]>admin_character_info>no-target> Dean
+28/08/2025 23:43:02>Dean [268477710]>admin_edit_character>Dean>
+28/08/2025 23:43:10>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+28/08/2025 23:50:33>Dean [268477710]>admin_admin>Dean>
+28/08/2025 23:50:34>Dean [268477710]>admin_admin2>Dean>
+28/08/2025 23:50:35>Dean [268477710]>admin_show_characters>Dean> 0
+28/08/2025 23:50:36>Dean [268477710]>admin_character_info>Dean> Dean
+28/08/2025 23:50:38>Dean [268477710]>admin_edit_character>Dean>
+28/08/2025 23:50:46>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+28/08/2025 23:56:19>Dean [268477710]>admin_admin>Dean>
+28/08/2025 23:56:21>Dean [268477710]>admin_admin2>Dean>
+28/08/2025 23:56:22>Dean [268477710]>admin_show_characters>Dean> 0
+28/08/2025 23:56:23>Dean [268477710]>admin_character_info>Dean> Dean
+28/08/2025 23:56:24>Dean [268477710]>admin_edit_character>Dean>
+28/08/2025 23:56:30>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+29/08/2025 0:01:40>Dean [268477710]>admin_edit_character>Liane>
+29/08/2025 0:01:46>Dean [268477710]>admin_save_modifications>Liane> 100 100 100 0 0 0
+29/08/2025 0:02:42>Dean [268477710]>admin_show_characters>no-target> 0
+29/08/2025 0:02:46>Dean [268477710]>admin_character_info>no-target> Dean
+29/08/2025 0:02:48>Dean [268477710]>admin_edit_character>Dean>
+29/08/2025 0:02:54>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+30/08/2025 15:11:19>Dean [268477710]>admin_admin>Liane>
+30/08/2025 15:11:20>Dean [268477710]>admin_admin2>Liane>
+30/08/2025 15:11:21>Dean [268477710]>admin_show_characters>Liane> 0
+30/08/2025 15:11:23>Dean [268477710]>admin_character_info>Liane> Dean
+30/08/2025 15:11:25>Dean [268477710]>admin_edit_character>Dean>
+30/08/2025 15:11:33>Dean [268477710]>admin_save_modifications>Dean> 100 110 100 0 0 0
+30/08/2025 15:19:38>Dean [268477710]>admin_admin>no-target>
+30/08/2025 15:19:39>Dean [268477710]>admin_admin3>no-target>
+30/08/2025 15:19:40>Dean [268477710]>admin_admin2>no-target>
+30/08/2025 15:19:40>Dean [268477710]>admin_show_characters>no-target> 0
+30/08/2025 15:19:41>Dean [268477710]>admin_character_info>no-target> Dean
+30/08/2025 15:19:47>Dean [268477710]>admin_edit_character>Dean>
+30/08/2025 15:19:55>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+30/08/2025 15:34:34>Dean [268477710]>admin_admin>Liane>
+30/08/2025 15:34:35>Dean [268477710]>admin_admin2>Liane>
+30/08/2025 15:34:36>Dean [268477710]>admin_show_characters>Liane> 0
+30/08/2025 15:34:37>Dean [268477710]>admin_character_info>Liane> Dean
+30/08/2025 15:34:39>Dean [268477710]>admin_edit_character>Dean>
+30/08/2025 15:34:46>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+30/08/2025 15:42:57>Dean [268477710]>admin_admin>Liane>
+30/08/2025 15:42:58>Dean [268477710]>admin_admin2>Liane>
+30/08/2025 15:42:59>Dean [268477710]>admin_show_characters>Liane> 0
+30/08/2025 15:42:59>Dean [268477710]>admin_character_info>Liane> Dean
+30/08/2025 15:43:01>Dean [268477710]>admin_edit_character>Dean>
+30/08/2025 15:43:07>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+30/08/2025 15:51:15>Dean [268477710]>admin_admin>Dean>
+30/08/2025 15:51:16>Dean [268477710]>admin_admin2>Dean>
+30/08/2025 15:51:17>Dean [268477710]>admin_show_characters>Dean> 0
+30/08/2025 15:51:18>Dean [268477710]>admin_character_info>Dean> Dean
+30/08/2025 15:51:20>Dean [268477710]>admin_edit_character>Dean>
+30/08/2025 15:51:27>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+30/08/2025 16:09:24>Dean [268477710]>admin_admin>Liane>
+30/08/2025 16:09:25>Dean [268477710]>admin_admin2>Liane>
+30/08/2025 16:09:26>Dean [268477710]>admin_show_characters>Liane> 0
+30/08/2025 16:09:26>Dean [268477710]>admin_character_info>Liane> Dean
+30/08/2025 16:09:28>Dean [268477710]>admin_edit_character>Dean>
+30/08/2025 16:09:33>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+30/08/2025 16:11:52>Dean [268477710]>admin_admin>Dean>
+30/08/2025 16:11:55>Dean [268477710]>admin_admin2>Dean>
+30/08/2025 16:11:57>Dean [268477710]>admin_show_characters>Dean> 0
+30/08/2025 16:11:58>Dean [268477710]>admin_character_info>Dean> Dean
+30/08/2025 16:11:59>Dean [268477710]>admin_edit_character>Dean>
+30/08/2025 16:12:04>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+30/08/2025 16:18:47>Dean [268477710]>admin_admin>Liane>
+30/08/2025 16:18:48>Dean [268477710]>admin_admin2>Liane>
+30/08/2025 16:18:49>Dean [268477710]>admin_show_characters>Liane> 0
+30/08/2025 16:18:50>Dean [268477710]>admin_character_info>Liane> Dean
+30/08/2025 16:18:51>Dean [268477710]>admin_edit_character>Dean>
+30/08/2025 16:18:56>Dean [268477710]>admin_save_modifications>Dean> 100 100 100 0 0 0
+30/08/2025 16:31:43>Dean [268477710]>admin_admin>Dean>
+30/08/2025 16:31:44>Dean [268477710]>admin_admin2>Dean>
+30/08/2025 16:31:45>Dean [268477710]>admin_show_characters>Dean> 0
+30/08/2025 16:31:46>Dean [268477710]>admin_character_info>Dean> Dean
+30/08/2025 16:31:47>Dean [268477710]>admin_setclass>Dean>
+30/08/2025 16:31:50>Dean [268477710]>admin_setclass>Dean> 117
+30/08/2025 16:32:01>Dean [268477710]>admin_admin>no-target>
+30/08/2025 16:32:01>Dean [268477710]>admin_admin2>no-target>
+30/08/2025 16:32:02>Dean [268477710]>admin_show_characters>no-target> 0
+30/08/2025 16:32:03>Dean [268477710]>admin_character_info>no-target> Dean
+30/08/2025 16:32:04>Dean [268477710]>admin_show_skills>Dean>
+30/08/2025 16:32:05>Dean [268477710]>admin_remove_all_skills>Dean>
+30/08/2025 16:32:06>Dean [268477710]>admin_admin>Dean>
+30/08/2025 16:32:07>Dean [268477710]>admin_admin2>Dean>
+30/08/2025 16:32:08>Dean [268477710]>admin_show_characters>Dean> 0
+30/08/2025 16:32:09>Dean [268477710]>admin_character_info>Dean> Dean
+30/08/2025 16:32:10>Dean [268477710]>admin_show_skills>Dean>
+30/08/2025 16:32:11>Dean [268477710]>admin_give_all_skills>Dean>
+30/08/2025 16:33:29>Dean [268477710]>admin_admin>Aranha de Garras>
+30/08/2025 16:33:30>Dean [268477710]>admin_gmshop>Aranha de Garras>
+30/08/2025 16:33:32>Dean [268477710]>admin_help>Aranha de Garras> gmshop/Weapons.htm
+30/08/2025 16:33:33>Dean [268477710]>admin_help>Aranha de Garras> gmshop/sgradew.htm
+30/08/2025 16:33:57>Dean [268477710]>admin_buy>Aranha Gigante> 9052
+31/08/2025 18:39:30>Dean [268477710]>admin_admin>no-target>
+31/08/2025 18:39:31>Dean [268477710]>admin_admin2>no-target>
+31/08/2025 18:39:32>Dean [268477710]>admin_show_characters>no-target> 0
+31/08/2025 18:39:32>Dean [268477710]>admin_character_info>no-target> Dean
+31/08/2025 18:39:34>Dean [268477710]>admin_show_skills>Dean>
+31/08/2025 18:39:36>Dean [268477710]>admin_current_player>Dean>
+31/08/2025 18:39:37>Dean [268477710]>admin_setclass>Dean>
+31/08/2025 18:39:41>Dean [268477710]>admin_setclass>Dean> 97
+31/08/2025 18:39:51>Dean [268477710]>admin_admin>no-target>
+31/08/2025 18:39:52>Dean [268477710]>admin_gmshop>no-target>
+31/08/2025 18:39:53>Dean [268477710]>admin_help>no-target> gmshop/Weapons.htm
+31/08/2025 18:39:54>Dean [268477710]>admin_help>no-target> gmshop/sgradew.htm
+31/08/2025 18:39:57>Dean [268477710]>admin_buy>no-target> 9052
+31/08/2025 18:40:10>Dean [268477710]>admin_admin>no-target>
+31/08/2025 18:40:11>Dean [268477710]>admin_admin2>no-target>
+31/08/2025 18:40:12>Dean [268477710]>admin_show_characters>no-target> 0
+31/08/2025 18:40:12>Dean [268477710]>admin_character_info>no-target> Dean
+31/08/2025 18:40:14>Dean [268477710]>admin_show_skills>Dean>
+31/08/2025 18:40:14>Dean [268477710]>admin_remove_all_skills>Dean>
+31/08/2025 18:40:18>Dean [268477710]>admin_admin>Dean>
+31/08/2025 18:40:19>Dean [268477710]>admin_admin2>Dean>
+31/08/2025 18:40:20>Dean [268477710]>admin_show_characters>Dean> 0
+31/08/2025 18:40:20>Dean [268477710]>admin_character_info>Dean> Dean
+31/08/2025 18:40:22>Dean [268477710]>admin_show_skills>Dean>
+31/08/2025 18:40:23>Dean [268477710]>admin_give_all_skills>Dean>

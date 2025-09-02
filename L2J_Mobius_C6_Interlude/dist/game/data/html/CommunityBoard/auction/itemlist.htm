@@ -1,0 +1,258 @@
+<html><body>
+<br>
+<center>
+<table border=0 cellspacing=4 cellpadding=4 bgcolor=000000 width=610>
+	<tr>
+		<td align=left valign=top>
+			<button value="Início" action="bypass _bbsauction_back" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+		</td>     
+		<td align=center width=65>
+			Total: <font color="LEVEL">%vdn%</font>
+		</td>
+		<td align=right valign=top>
+			<button value="Vender" action="bypass _bbsauction_myitems 1 - 1 - 0" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+		</td>
+	</tr>
+</table>
+<br>
+<table width=610>
+	<tr>
+		<td width=150 align=left>
+			Procurar por itens
+		</td>
+		<td width=400 align=left>
+			Itens á venda
+		</td>
+	</tr>
+</table>
+<table border=0 cellspacing=2 cellpadding=2 bgcolor=000000 width=600>
+	<tr>
+		<td>
+		</td>
+		<td width=150 height=390>
+			<table>
+				<tr>
+					<td align=center>
+						<multiedit var="srch" width=150 height=15><br>
+						<button value="Procurar" action="bypass _bbsauction_auction 1 - $srch - 10" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+						<br>
+						Categoria
+						<br>
+						<button value="Tudo" action="bypass _bbsauction_auction 1 - *null* - 10" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+						<table>
+							<tr>
+								<td align=center valign=top>
+									<button value="Armas" action="bypass _bbsauction_auction 1 - *null* - 0" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+									<button value="Acessórios" action="bypass _bbsauction_auction 1 - *null* - 2" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+								<td>
+									<button value="Armaduras" action="bypass _bbsauction_auction 1 - *null* - 1" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"> 
+									<button value="Moedas" action="bypass _bbsauction_auction 1 - *null* - 4" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+							<tr>
+								<td align=center valign=top>
+									<button value="Outros" action="bypass _bbsauction_auction 1 - *null* - 5" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+								<td>
+									<button value="Itens Pets" action="bypass _bbsauction_auction 1 - *null* - 6" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+						</table>
+						<br>
+						<br>
+						<br>
+						<table width=150 bgcolor=000000>
+							<tr>
+								<td align=left valign=top height=37>
+									<img src="icon.etc_adena_i00" width=32 height=32>
+								</td>     
+								<td align=right>
+									<font color="LEVEL">%adena%</font>
+								</td>
+							</tr>
+							<tr>
+								<td align=left valign=top height=37>
+									<img src="IconsCustom.etc_ev_kalie_token" width=32 height=32>
+								</td>     
+								<td align=right>
+									 <font color="LEVEL">%kali%</font>
+								</td>
+							</tr>
+							<tr>
+								<td align=left valign=top height=37>
+									<img src="IconsCustom.prime_coin" width=32 height=32>
+								</td>     
+								<td align=right>
+									<font color="LEVEL">%pres%</font>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td width=460 height=390>
+			<table>
+				<tr>
+					<td>
+						<table bgcolor=000000>
+							<tr>
+								<td align=center valign=top>
+									<img src="%icon1%" width=32 height=32 align=center>
+								</td>
+								<td width=340>
+									%itemName1%
+									<br1> %cost1%
+								</td>
+								<td width=70>
+									<img src="L2UI.SquareBlank" width="1" height="5">
+									<button value="Comprar" action="%buy1%" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+						</table>
+						<table>
+							<tr>
+								<td align=center valign=top>
+									<img src="%icon2%" width=32 height=32 align=center>
+								</td>
+								<td width=340>
+									%itemName2%
+									<br1> %cost2%
+								</td>	     
+								<td width=70>
+									<img src="L2UI.SquareBlank" width="1" height="5">
+									<button value="Comprar" action="%buy2%" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+						</table>
+						<table bgcolor=000000>
+							<tr>
+								<td align=center valign=top>
+									<img src="%icon3%" width=32 height=32 align=center>
+								</td>
+							<td width=340>
+								%itemName3%
+								<br1> %cost3%
+							</td>
+								<td width=70>
+									<img src="L2UI.SquareBlank" width="1" height="5">
+									<button value="Comprar" action="%buy3%" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+						</table>
+						<table>
+							<tr>
+							<td align=center valign=top>
+								<img src="%icon4%" width=32 height=32 align=center>
+							</td>
+							<td width=340>
+								%itemName4%
+								<br1> %cost4%
+							</td>
+								<td width=70>
+									<img src="L2UI.SquareBlank" width="1" height="5">
+									<button value="Comprar" action="%buy4%" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+						</table>
+						<table bgcolor=000000>
+							<tr>
+								<td align=center valign=top>
+									<img src="%icon5%" width=32 height=32 align=center>
+								</td>
+								<td width=340>
+									%itemName5%
+									<br1> %cost5%
+								</td>
+								<td width=70>
+									<img src="L2UI.SquareBlank" width="1" height="5">
+									<button value="Comprar" action="%buy5%" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+						</table>
+						<table>
+							<tr>
+								<td align=center valign=top>
+									<img src="%icon6%" width=32 height=32 align=center>
+								</td>
+								<td width=340>
+									%itemName6%
+									<br1> %cost6%
+								</td>
+								<td width=70>
+									<img src="L2UI.SquareBlank" width="1" height="5">
+									<button value="Comprar" action="%buy6%" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+						</table>
+						<table bgcolor=000000>
+							<tr>
+								<td align=center valign=top>
+									<img src="%icon7%" width=32 height=32 align=center>
+								</td>
+								<td width=340>
+									%itemName7%
+									<br1> %cost7%
+								</td>
+								<td width=70>
+									<img src="L2UI.SquareBlank" width="1" height="5">
+									<button value="Comprar" action="%buy7%" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+						</table>
+						<table>
+							<tr>
+								<td align=center valign=top>
+									<img src="%icon8%" width=32 height=32 align=center>
+								</td>
+								<td width=340>
+									%itemName8%
+									<br1> %cost8%
+								</td>
+								<td width=70>
+									<img src="L2UI.SquareBlank" width="1" height="5">
+									<button value="Comprar" action="%buy8%" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+						</table>
+						<table bgcolor=000000>
+							<tr>
+								<td align=center valign=top>
+									<img src="%icon9%" width=32 height=32 align=center>
+								</td>
+								<td width=340>
+									%itemName9%
+									<br1> %cost9%
+								</td>
+								<td width=70>
+									<img src="L2UI.SquareBlank" width="1" height="5">
+									<button value="Comprar" action="%buy9%" width=65 height=21 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+								</td>
+							</tr>
+						</table>
+						<center>
+						<table align=center>
+							<tr>
+								<td align=center valign=bottom>
+									%prev%
+									<img src="L2UI.SquareBlank" width=80 height=1>
+								</td>
+								<td align=center>
+									%pages%		
+								</td>
+								<td align=center valign=bottom>
+									<img src="L2UI.SquareBlank" width=80 height=1>
+									%next%
+								</td>
+							</tr>
+						</table>
+						</center>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+</center>
+</body></html>

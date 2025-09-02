@@ -1,0 +1,38 @@
+27/04/2024 7:36:17>Orquilda [268477690]>admin_admin>no-target>
+27/04/2024 7:36:19>Orquilda [268477690]>admin_move_to>no-target>
+27/04/2024 7:36:21>Orquilda [268477690]>admin_help>no-target> tele/locations/interlude.htm
+27/04/2024 7:36:23>Orquilda [268477690]>admin_help>no-target> teleports.htm
+27/04/2024 7:36:23>Orquilda [268477690]>admin_help>no-target> tele/locations/c5.htm
+27/04/2024 7:36:24>Orquilda [268477690]>admin_show_moves>no-target>
+27/04/2024 7:36:25>Orquilda [268477690]>admin_help>no-target> tele/other.htm
+27/04/2024 7:36:28>Orquilda [268477690]>admin_show_moves>no-target>
+27/04/2024 7:36:30>Orquilda [268477690]>admin_help>no-target> tele/others/arenas.htm
+27/04/2024 7:36:31>Orquilda [268477690]>admin_help>no-target> teleports.htm
+27/04/2024 7:36:32>Orquilda [268477690]>admin_help>no-target> tele/towns.htm
+27/04/2024 7:36:34>Orquilda [268477690]>admin_help>no-target> tele/towns/elven_starting.htm
+27/04/2024 7:36:36>Orquilda [268477690]>admin_move_to>no-target> 45873 49288 -3064
+27/04/2024 7:37:15>Orquilda [268477690]>admin_admin>no-target>
+27/04/2024 7:37:16>Orquilda [268477690]>admin_superhaste>no-target> 4
+27/04/2024 7:38:03>Orquilda [268477690]>admin_admin>Orquilda>
+27/04/2024 7:38:04>Orquilda [268477690]>admin_admin2>Orquilda>
+27/04/2024 7:38:05>Orquilda [268477690]>admin_show_characters>Orquilda> 0
+27/04/2024 7:38:06>Orquilda [268477690]>admin_character_info>Orquilda> Orquilda
+27/04/2024 7:38:07>Orquilda [268477690]>admin_setclass>Orquilda>
+27/04/2024 7:38:13>Orquilda [268477690]>admin_setclass>Orquilda> 0
+27/04/2024 7:38:23>Orquilda [268477690]>admin_admin>Orquilda>
+27/04/2024 7:38:24>Orquilda [268477690]>admin_admin3>Orquilda>
+27/04/2024 7:38:25>Orquilda [268477690]>admin_admin2>Orquilda>
+27/04/2024 7:38:28>Orquilda [268477690]>admin_show_characters>Orquilda> 0
+27/04/2024 7:38:28>Orquilda [268477690]>admin_character_info>Orquilda> Orquilda
+27/04/2024 7:38:31>Orquilda [268477690]>admin_add_exp_sp_to_character>Orquilda>
+27/04/2024 7:38:33>Orquilda [268477690]>admin_set_level>Orquilda> 5
+27/04/2024 7:38:46>Orquilda [268477690]>admin_admin>Orquilda>
+27/04/2024 7:39:34>Orquilda [268477690]>admin_admin>Orquilda>
+27/04/2024 7:39:35>Orquilda [268477690]>admin_admin4>Orquilda>
+27/04/2024 7:39:36>Orquilda [268477690]>admin_admin4>Orquilda>
+27/04/2024 7:39:37>Orquilda [268477690]>admin_admin>Orquilda>
+27/04/2024 7:39:40>Orquilda [268477690]>admin_admin2>Orquilda>
+27/04/2024 7:39:40>Orquilda [268477690]>admin_show_characters>Orquilda> 0
+27/04/2024 7:39:41>Orquilda [268477690]>admin_character_info>Orquilda> Orquilda
+27/04/2024 7:39:42>Orquilda [268477690]>admin_setclass>Orquilda>
+27/04/2024 7:39:47>Orquilda [268477690]>admin_setclass>Orquilda> 44

@@ -1,0 +1,13 @@
+<html><body>
+<font color="LEVEL"> Você pode criar até %max_schemes% esquemas</font>. Está claro para você?<br1>
+Se não, leia até entender! Não posso pagar idiotas...<br>
+Pode registar um novo regime preenchendo este formulário, aqui!<center><table width=220>
+<tr>
+<td width="140"><edit var="name" width=140 height=15></td>
+<td width="60"><button value="Create" action="bypass -h npc_%objectId%_createscheme $name" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td>
+</tr>
+</table></center><br>
+Aqui estão listados seus esquemas e suas taxas.<br>
+%esquemas%<br>
+<a action="bypass -h npc_%objectId%_menu">Voltar</a>
+</body></html>

@@ -1,0 +1,44 @@
+<html><body><center>Informações sobre os Clãs que fazem lances em leilões</center>
+<img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=1 height=3>
+<table width=280 border=0>
+<tr><td width=14><font color="a2a0a2">Nome</font></td>
+<td width=140><font color="b09979">%AGIT_NAME% </font></td></tr>
+<tr><td><font color="a2a0a2">Clã que Possui </font></td>
+<td><font color="b09979">%OWNER_PLEDGE_NAME% </font></td></tr>
+<tr><td><font color="a2a0a2">líder do Clã </font></td>
+<td><font color="b09979">%OWNER_PLEDGE_MASTER% </font></td></tr>
+<tr><td><font color="a2a0a2">Tamanho</font></td>
+<td><font color="b09979">%AGIT_SIZE% Classificação </font>(nota)</td></tr>
+<tr><td><font color="a2a0a2">Taxa de aluguel </font></td>
+<td><font color="b09979">%AGIT_LEASE% </font>Adena<font color="LEVEL"> /semana </font></td></tr>
+<tr><td><font color="a2a0a2">Localização </font></td>
+<td>%AGIT_LOCATION%</td></tr>
+</table>
+<img src="L2UI.SquareGray" width=270 height=1> <img src="L2UI.SquareBlank" width=1 height=3>
+<table width=280 border=0>
+<tr><td width=140><font color="a2a0a2">Leilão Termina em </font></td>
+<td width=140><font color="b09979">%AGIT_AUCTION_END% </font></td></tr>
+<tr><td><font color="a2a0a2">Tempo restante </font></td>
+<td><font color="b09979">%AGIT_AUCTION_REMAIN% </font></td></tr>
+<tr><td><font color="a2a0a2">Preço mínimo de lance </font></td>
+<td><font color="b09979">%AGIT_AUCTION_MINBID% </font>Adena</td></tr>
+<tr><td><font color="ccc0cc">Preço de oferta </font></td>
+<td><font color="aaccff">%AGIT_AUCTION_MYBID% </font>Adena</td></tr>
+</table>
+<table width=280 border=0 bgcolor=333333>
+<tr><td width=280>%AGIT_AUCTION_DESC%</td></tr>
+</table>
+<img src="L2UI.SquareBlank"width=270 height=10> <img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=270 height=5>
+<table width=270 border=0>
+<tr>
+<td width=130></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_cancelBid" value="Cancelar" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_bidlist" value="Ofertas" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+</tr>
+<tr>
+<td width=130></td>
+<td width=70 align=center><button action="%AGIT_LINK_BACK%" value="Voltar" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_rebid" value="Ofertar" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+</tr>
+</table>
+</body></html>

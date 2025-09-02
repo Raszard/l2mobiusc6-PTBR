@@ -1,0 +1,702 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6200" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6201" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6202" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6203" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6204" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Mago/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6205" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6206" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6207" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6208" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6209" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Wizard/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6210" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6211" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6212" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6213" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6214" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6215" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6216" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6217" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6218" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6219" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Wizard/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6220" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6221" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6222" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6223" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6224" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6225" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6226" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6227" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6228" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6229" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Assistente/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6230" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6231" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6232" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6233" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6234" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6235" type="EtcItem" name="Bilhete do Recruta (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6236" type="EtcItem" name="Bilhete do Recruta (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6237" type="EtcItem" name="Bilhete do Recruta (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6238" type="EtcItem" name="Bilhete do Recruta (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6239" type="EtcItem" name="Bilhete do Recruta (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Assistente/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6240" type="EtcItem" name="Bilhete do Recruta (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Sword/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6241" type="EtcItem" name="Bilhete do Recruta (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Spear/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6242" type="EtcItem" name="Bilhete do Recruta (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6243" type="EtcItem" name="Bilhete do Recruta (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6244" type="EtcItem" name="Bilhete do Recruta (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6245" type="EtcItem" name="Bilhete do Recruta (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6246" type="EtcItem" name="Bilhete do Recruta (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6247" type="EtcItem" name="Bilhete do Recruta (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6248" type="EtcItem" name="Bilhete do Recruta (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6249" type="EtcItem" name="Bilhete do Recruta (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Wizard/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6250" type="EtcItem" name="Bilhete do Recruta (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6251" type="EtcItem" name="Bilhete do Recruta (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6252" type="EtcItem" name="Bilhete do Recruta (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6253" type="EtcItem" name="Bilhete do Recruta (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6254" type="EtcItem" name="Bilhete do Recruta (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6255" type="EtcItem" name="Bilhete do Recruta (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6256" type="EtcItem" name="Bilhete do Recruta (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6257" type="EtcItem" name="Bilhete do Recruta (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6258" type="EtcItem" name="Bilhete do Recruta (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6259" type="EtcItem" name="Bilhete do Recruta (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Mago/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6260" type="EtcItem" name="Bilhete do Recruta (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6261" type="EtcItem" name="Bilhete do Recruta (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6262" type="EtcItem" name="Bilhete do Recruta (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6263" type="EtcItem" name="Bilhete do Recruta (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6264" type="EtcItem" name="Bilhete do Recruta (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Mago/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6265" type="EtcItem" name="Bilhete do Recruta (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6266" type="EtcItem" name="Bilhete do Recruta (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6267" type="EtcItem" name="Bilhete do Recruta (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6268" type="EtcItem" name="Bilhete do Recruta (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6269" type="EtcItem" name="Bilhete do Recruta (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Wizard/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6270" type="EtcItem" name="Bilhete do Recruta (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6271" type="EtcItem" name="Bilhete do Recruta (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6272" type="EtcItem" name="Bilhete do Recruta (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6273" type="EtcItem" name="Bilhete do Recruta (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6274" type="EtcItem" name="Bilhete do Recruta (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6275" type="EtcItem" name="Bilhete do Recruta (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6276" type="EtcItem" name="Bilhete do Recruta (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6277" type="EtcItem" name="Bilhete do Recruta (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6278" type="EtcItem" name="Bilhete do Recruta (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6279" type="EtcItem" name="Bilhete do Recruta (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Wizard/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6280" type="EtcItem" name="Bilhete do Recruta (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6281" type="EtcItem" name="Bilhete do Recruta (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6282" type="EtcItem" name="Bilhete do Recruta (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6283" type="EtcItem" name="Bilhete do Recruta (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6284" type="EtcItem" name="Bilhete do Recruta (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6285" type="EtcItem" name="Bilhete do Recruta (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6286" type="EtcItem" name="Bilhete do Recruta (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6287" type="EtcItem" name="Bilhete do Recruta (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6288" type="EtcItem" name="Bilhete do Recruta (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6289" type="EtcItem" name="Bilhete do Recruta (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Assistente/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6290" type="EtcItem" name="Bilhete do Recruta (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6291" type="EtcItem" name="Bilhete do Recruta (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6292" type="EtcItem" name="Bilhete do Recruta (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6293" type="EtcItem" name="Bilhete do Recruta (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6294" type="EtcItem" name="Bilhete do Recruta (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6295" type="EtcItem" name="Bilhete do Nephilim Guerreiro">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Sword/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6296" type="EtcItem" name="Bilhete do Nephilim Xãma">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6297" type="EtcItem" name="Bilhete do Nephilim Guerreiro">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6298" type="EtcItem" name="Bilhete do Nephilim Xãma">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6299" type="EtcItem" name="Bilhete do Nephilim Guerreiro">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+</list>

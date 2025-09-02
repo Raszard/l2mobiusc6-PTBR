@@ -1,0 +1,723 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6000" type="EtcItem" name="Projeto: Torre da Insolência, 12a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 12a dos 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6001" type="EtcItem" name="Projeto: Torre da Insolência, 13a Andar">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um projeto elaborado pelos arquitetos da Torre da Insolência. Esta é a planta do 13a de 13 andares." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6002" type="EtcItem" name="Porcelana Antiga">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma porcelana da era de um antigo império encontrada na Torre da Insolência. Ainda não foi avaliado por especialistas em antiguidades." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8000" />
+	</item>
+	<item id="6003" type="EtcItem" name="Porcelana Antiga: Excelente">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma porcelana da época de um antigo império. Considerado de porcelana &quot;excelente&quot; da mais alta qualidade." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6004" type="EtcItem" name="Porcelana Antiga: Alta Qualidade">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma porcelana da época de um antigo império. Considerado de porcelana de &quot;alta qualidade&quot;." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8000" />
+	</item>
+	<item id="6005" type="EtcItem" name="Porcelana Antiga: Baixa Qualidade">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma porcelana da época de um antigo império. Considerado de porcelana de &quot;grau baixo&quot;." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="6006" type="EtcItem" name="Porcelana Antiga: Qualidade Mais Baixa">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma porcelana da época de um antigo império. Considerado de porcelana de &quot;grau mais baixo&quot;." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="6007" type="EtcItem" name="Bolsa de Reagentes">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma bolsa que contém um reagente alquímico. Clique duas vezes para confirmar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6008" type="EtcItem" name="Bolsa de Reagentes">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma bolsa que contém um reagente alquímico. Clique duas vezes para confirmar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6009" type="EtcItem" name="Bolsa de Reagentes">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma bolsa que contém um reagente alquímico. Clique duas vezes para confirmar o conteúdo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6010" type="EtcItem" name="Caixa de Reagente">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma pequena caixa contendo um reagente alquímico." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6011" type="EtcItem" name="Sangue de Wyrm">
+		
+		<set name="icon" val="icon.etc_reagent_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para misturar reagentes alquímicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6012" type="EtcItem" name="Pedra de Lava">
+		
+		<set name="icon" val="icon.etc_inf_ore_high_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para misturar reagentes alquímicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6013" type="EtcItem" name="Fragmento de Pedra da Lua">
+		
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para misturar reagentes alquímicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6014" type="EtcItem" name="Pedaço de Osso Podre">
+		
+		<set name="icon" val="icon.etc_piece_bone_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para misturar reagentes alquímicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6015" type="EtcItem" name="Sangue de Demônio">
+		
+		<set name="icon" val="icon.etc_reagent_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para misturar reagentes alquímicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6016" type="EtcItem" name="Minério de Infernium">
+		
+		<set name="icon" val="icon.etc_inf_ore_least_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para misturar reagentes alquímicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6017" type="EtcItem" name="Raiz de Sangue">
+		
+		<set name="icon" val="icon.etc_ginseng_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para misturar reagentes alquímicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6018" type="EtcItem" name="Cinza Vulcanica">
+		
+		<set name="icon" val="icon.etc_powder_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para misturar reagentes alquímicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="6019" type="EtcItem" name="Mercúrio">
+		
+		<set name="icon" val="icon.etc_reagent_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para misturar reagentes alquímicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6020" type="EtcItem" name="Enxofre">
+		
+		<set name="icon" val="icon.etc_powder_orange_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Usado para misturar reagentes alquímicos." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6021" type="EtcItem" name="Dracoplasma">
+		
+		<set name="icon" val="icon.etc_dragons_blood_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de Baixo Grau" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6022" type="EtcItem" name="Pó de Magma">
+		
+		<set name="icon" val="icon.etc_powder_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de Baixo Grau" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6023" type="EtcItem" name="Poeira Lunar">
+		
+		<set name="icon" val="icon.etc_powder_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de Baixo Grau" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6024" type="EtcItem" name="Necroplasma">
+		
+		<set name="icon" val="icon.etc_potion_purpel_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de Baixo Grau" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6025" type="EtcItem" name="Demonplasma">
+		
+		<set name="icon" val="icon.etc_potion_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de Baixo Grau" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2500" />
+	</item>
+	<item id="6026" type="EtcItem" name="Pó Infernal">
+		
+		<set name="icon" val="icon.etc_powder_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de Baixo Grau" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6027" type="EtcItem" name="Essência Dracônica">
+		
+		<set name="icon" val="icon.etc_dragon_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de alto grau" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6028" type="EtcItem" name="Essência de Fogo">
+		
+		<set name="icon" val="icon.etc_dragons_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de alto grau" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2500" />
+	</item>
+	<item id="6029" type="EtcItem" name="Lunargente">
+		
+		<set name="icon" val="icon.etc_mithril_ore_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de alto grau" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2500" />
+	</item>
+	<item id="6030" type="EtcItem" name="Óleo da Meia-Noite">
+		
+		<set name="icon" val="icon.etc_dragons_blood_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de alto grau" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6031" type="EtcItem" name="Essência Demoníaca">
+		
+		<set name="icon" val="icon.etc_dragons_blood_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de alto grau" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2500" />
+	</item>
+	<item id="6032" type="EtcItem" name="Óleo do Abismo">
+		
+		<set name="icon" val="icon.etc_dragons_blood_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de alto grau" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6033" type="EtcItem" name="Óleo de Fogo Infernal">
+		
+		<set name="icon" val="icon.etc_luxury_wine_b_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de grau mais alto" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6034" type="EtcItem" name="Óleo do Pesadelo">
+		
+		<set name="icon" val="icon.etc_luxury_wine_c_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Reagente de grau mais alto" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="6035" type="EtcItem" name="Poção Mágica de Aceleração">
+		
+		<set name="icon" val="icon.etc_potion_of_acumen2_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Melhora a velocidade de Conjuração. Efeito de Perspicácia 2." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2400" />
+	</item>
+	<item id="6036" type="EtcItem" name="Poção Mágica de Aceleração Superior">
+		
+		<set name="icon" val="icon.etc_potion_of_acumen3_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Melhora a velocidade de Conjuração. Efeito de Perspicácia 3." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7200" />
+	</item>
+	<item id="6037" type="EtcItem" name="Pergaminho do Despertar">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Se você usá-lo em um alvo que está dormindo, o alvo acordará." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="120" />
+	</item>
+	<item id="6038" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Espada/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6039" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Lança/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6040" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Arco/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6041" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Clérigo/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6042" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Assistente/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6043" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Sword/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6044" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Spear/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6045" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Arco/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6046" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Clérigo/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6047" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Wizard/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6048" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6049" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6050" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6051" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Espada/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6052" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Lança/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6053" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Arco/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6054" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Clérigo/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6055" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Wizard/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6056" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Espada/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6057" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Lança/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6058" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Arco/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6059" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Clérigo/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6060" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Wizard/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6061" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6062" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6063" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6064" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Espada/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6065" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Lança/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6066" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Arco/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6067" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Clérigo/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6068" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Mago/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6069" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Espada/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6070" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Lança/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6071" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Arco/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6072" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Clérigo/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6073" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Mago/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6074" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6075" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6076" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6077" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Espada/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6078" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Lança/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6079" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Arco/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6080" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Clérigo/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6081" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Wizard/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6082" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Espada/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6083" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Lança/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6084" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Arco/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6085" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Clérigo/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6086" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Wizard/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6087" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6088" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6089" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6090" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Espada/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6091" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Lança/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6092" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Arco/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6093" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Clérigo/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6094" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Wizard/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6095" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Espada/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6096" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Lança/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6097" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Arco/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6098" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Clérigo/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6099" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Wizard/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+</list>

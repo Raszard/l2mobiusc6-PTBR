@@ -1,0 +1,697 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6100" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6101" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6102" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6103" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6104" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6105" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Espada/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6106" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Lança/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6107" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Arco/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6108" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Clérigo/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6109" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Assistente/Estático. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6110" type="EtcItem" name="Bilhete do Mercenário Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Espada/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6111" type="EtcItem" name="Bilhete do Mercenário Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Lança/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6112" type="EtcItem" name="Bilhete do Mercenário Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Arco/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6113" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Clérigo/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6114" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Wizard/Móvel. O selo da contenda não pode ser usado para colocar um mercenário quando estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6115" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6116" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6117" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6118" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6119" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Assistente/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6120" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Sword/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6121" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Spear/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6122" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6123" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6124" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6125" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6126" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6127" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6128" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6129" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Wizard/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6130" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6131" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6132" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6133" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6134" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6135" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6136" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6137" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6138" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6139" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Mago/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6140" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6141" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6142" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6143" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6144" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Mago/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6145" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6146" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6147" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6148" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6149" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Wizard/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6150" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6151" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6152" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6153" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6154" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Oren/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6155" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6156" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6157" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6158" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6159" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Wizard/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6160" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6161" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6162" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6163" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6164" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Aden/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6165" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6166" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6167" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6168" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6169" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Assistente/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6170" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6171" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6172" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6173" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6174" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Senhores do Amanhecer." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6175" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Espada/Estático. Pode ser usado para colocar um mercenário quando o selo da contenda estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6176" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Lança/Estático. Pode ser usado para colocar um mercenário quando o selo da contenda estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6177" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Arco/Estático. Pode ser usado para colocar um mercenário quando o selo da contenda estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6178" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Clérigo/Estático. Pode ser usado para colocar um mercenário quando o selo da contenda estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6179" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Assistente/Estático. Pode ser usado para colocar um mercenário quando o selo da contenda estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6180" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Sword/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6181" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Spear/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6182" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6183" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6184" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Gludio/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6185" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6186" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6187" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6188" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6189" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Wizard/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6190" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Espada/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6191" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Lança/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6192" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Arco/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6193" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Clérigo/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6194" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Dion/Wizard/Móvel. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6195" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Espada/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6196" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Lança/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6197" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Arco/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6198" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Clérigo/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6199" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Giran/Mago/Estático. Só pode ser usado para colocar um mercenário quando o selo da luta estiver em posse dos Revolucionários do Crepúsculo." />
+		<set name="consume_type" val="stackable" />
+	</item>
+</list>

@@ -1,0 +1,894 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6400" type="EtcItem" name="Distintivo de Hiena">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A insígnia que indica que o grau de coletor de eventos de seu portador é &quot;hiena&quot;. Sem este distintivo, não se pode provar sua nota." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6401" type="EtcItem" name="Distintivo de Raposa">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A insígnia que indica que o grau de coletor de eventos de seu portador é &quot;raposa&quot;. Sem este distintivo, não se pode provar sua nota." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6402" type="EtcItem" name="Distintivo de Lobo">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A insígnia que indica que o grau de coletor de eventos de seu portador é &quot;lobo&quot;. Sem este distintivo, não se pode provar sua nota." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="6403" type="EtcItem" name="Estilhaço Estelar">
+		
+		<set name="icon" val="icon.etc_fairy_fire_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Starlight Festival Event - Um presente do céu. Quando é lançado, cria uma pequena explosão. Pode ser usado como ingrediente para fazer outros tipos de fogos de artifício." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6404" type="EtcItem" name="Pólvora">
+		
+		<set name="icon" val="icon.etc_powder_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Evento Starlight Festival - Pó preto. Um ingrediente usado para fazer fogos de artifício maiores." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6405" type="EtcItem" name="Magnésio">
+		
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Starlight Festival Event - Um composto químico que gera um flash poderoso quando aceso. É necessário fazer grandes fogos de artifício." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6406" type="EtcItem" name="Fogos de Artifício">
+		
+		<set name="icon" val="icon.etc_small_ultra_bomb_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Starlight Festival Event - Um dispositivo explosivo que ilumina o céu de forma brilhante." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6407" type="EtcItem" name="Grandes Fogos de Artifícios">
+		
+		<set name="icon" val="icon.etc_ultra_bomb_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Starlight Festival Event - Um grande dispositivo explosivo que se inflama para iluminar o céu." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6408" type="Armor" name="Roupa Formal">
+		
+		<set name="icon" val="icon.armor_t2000_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="O traje formal aparece como vestido de noiva para as personagens femininas e como smoking para as personagens masculinas." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1000" />
+		<set name="price" val="5000000" />
+		<for>
+			<add stat="pDef" order="0x10" val="0" />
+			<add stat="maxHp" order="0x40" val="0">
+				<and>
+					<using slotitem="2414;6" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="6409" type="EtcItem" name="Torneio de Batalha de 2006 - Poção CP">
+		
+		<set name="icon" val="icon.etc_cp_potion_i01" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Restaura CP em 200." />
+		<set name="weight" val="500" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6410" type="EtcItem" name="Torneio de Batalha de 2006 - Poção de Cura Rápida">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que restaura HP rapidamente. No entanto, seus efeitos não duram." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6411" type="EtcItem" name="Peixe Verde Pequeno Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="138" />
+	</item>
+	<item id="6412" type="EtcItem" name="Peixe Verde Pequeno Feio">
+		
+		<set name="icon" val="icon.etc_angler_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="141" />
+	</item>
+	<item id="6413" type="EtcItem" name="Peixe Verde Pequeno Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="153" />
+	</item>
+	<item id="6414" type="EtcItem" name="Peixe Verde Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="167" />
+	</item>
+	<item id="6415" type="EtcItem" name="Peixe Verde Feio">
+		
+		<set name="icon" val="icon.etc_angler_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="187" />
+	</item>
+	<item id="6416" type="EtcItem" name="Peixe Verde Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="208" />
+	</item>
+	<item id="6417" type="EtcItem" name="Peixe Verde Grande Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6418" type="EtcItem" name="Peixe Verde Grande Feio">
+		
+		<set name="icon" val="icon.etc_angler_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="248" />
+	</item>
+	<item id="6419" type="EtcItem" name="Peixe Verde Grande Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="265" />
+	</item>
+	<item id="6420" type="EtcItem" name="Peixe Ágil de Jade Pequeno">
+		
+		<set name="icon" val="icon.etc_tuna_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="285" />
+	</item>
+	<item id="6421" type="EtcItem" name="Peixe Jade Pequeno Feio">
+		
+		<set name="icon" val="icon.etc_angler_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="295" />
+	</item>
+	<item id="6422" type="EtcItem" name="Peixe Jade Pequeno Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="310" />
+	</item>
+	<item id="6423" type="EtcItem" name="Peixe Jade Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="325" />
+	</item>
+	<item id="6424" type="EtcItem" name="Peixe Jade Feio">
+		
+		<set name="icon" val="icon.etc_angler_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="340" />
+	</item>
+	<item id="6425" type="EtcItem" name="Peixe Jade Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="355" />
+	</item>
+	<item id="6426" type="EtcItem" name="Peixe Jade Grande Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="365" />
+	</item>
+	<item id="6427" type="EtcItem" name="Peixe Jade Grande Feio">
+		
+		<set name="icon" val="icon.etc_angler_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="375" />
+	</item>
+	<item id="6428" type="EtcItem" name="Peixe Jade Grande Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="385" />
+	</item>
+	<item id="6429" type="EtcItem" name="Peixe Azul Pequeno Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="395" />
+	</item>
+	<item id="6430" type="EtcItem" name="Peixe Azul Pequeno Feio">
+		
+		<set name="icon" val="icon.etc_angler_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="6431" type="EtcItem" name="Peixe Azul Pequeno Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="410" />
+	</item>
+	<item id="6432" type="EtcItem" name="Peixe Azul Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="415" />
+	</item>
+	<item id="6433" type="EtcItem" name="Peixe Azul Feio">
+		
+		<set name="icon" val="icon.etc_angler_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="418" />
+	</item>
+	<item id="6434" type="EtcItem" name="Peixe Azul Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="420" />
+	</item>
+	<item id="6435" type="EtcItem" name="Peixe Azul Grande Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="425" />
+	</item>
+	<item id="6436" type="EtcItem" name="Peixe Azul Grande Feio">
+		
+		<set name="icon" val="icon.etc_angler_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="431" />
+	</item>
+	<item id="6437" type="EtcItem" name="Peixe Azul Grande Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="435" />
+	</item>
+	<item id="6438" type="EtcItem" name="Peixe Amarelo Pequeno Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="442" />
+	</item>
+	<item id="6439" type="EtcItem" name="Peixe Amarelo Pequeno Feio">
+		
+		<set name="icon" val="icon.etc_angler_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="447" />
+	</item>
+	<item id="6440" type="EtcItem" name="Peixe Amarelo Pequeno Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="452" />
+	</item>
+	<item id="6441" type="EtcItem" name="Peixe Amarelo Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540" />
+	</item>
+	<item id="6442" type="EtcItem" name="Peixe Amarelo Feio">
+		
+		<set name="icon" val="icon.etc_angler_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="553" />
+	</item>
+	<item id="6443" type="EtcItem" name="Peixe Amarelo Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="568" />
+	</item>
+	<item id="6444" type="EtcItem" name="Peixe Amarelo Grande Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="580" />
+	</item>
+	<item id="6445" type="EtcItem" name="Peixe Amarelo Grande Feio">
+		
+		<set name="icon" val="icon.etc_angler_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="594" />
+	</item>
+	<item id="6446" type="EtcItem" name="Peixe Amarelo Grande Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="608" />
+	</item>
+	<item id="6447" type="EtcItem" name="Peixe Laranja Pequeno Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="622" />
+	</item>
+	<item id="6448" type="EtcItem" name="Peixe Laranja Pequeno Feio">
+		
+		<set name="icon" val="icon.etc_angler_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="635" />
+	</item>
+	<item id="6449" type="EtcItem" name="Peixe Laranja Pequeno Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="649" />
+	</item>
+	<item id="6450" type="EtcItem" name="Peixe Laranja Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="663" />
+	</item>
+	<item id="6451" type="EtcItem" name="Peixe Laranja Feio">
+		
+		<set name="icon" val="icon.etc_angler_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="776" />
+	</item>
+	<item id="6452" type="EtcItem" name="Peixe Laranja Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6453" type="EtcItem" name="Peixe Laranja Grande Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="816" />
+	</item>
+	<item id="6454" type="EtcItem" name="Peixe Laranja Grande Feio">
+		
+		<set name="icon" val="icon.etc_angler_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="840" />
+	</item>
+	<item id="6455" type="EtcItem" name="Peixe Laranja Grande Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="858" />
+	</item>
+	<item id="6456" type="EtcItem" name="Peixe Roxo Pequeno Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="875" />
+	</item>
+	<item id="6457" type="EtcItem" name="Peixe Roxo Pequenos Feio">
+		
+		<set name="icon" val="icon.etc_angler_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="893" />
+	</item>
+	<item id="6458" type="EtcItem" name="Peixe Roxo Pequeno Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="910" />
+	</item>
+	<item id="6459" type="EtcItem" name="Peixe Roxo Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="930" />
+	</item>
+	<item id="6460" type="EtcItem" name="Peixe Roxo Feio">
+		
+		<set name="icon" val="icon.etc_angler_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="948" />
+	</item>
+	<item id="6461" type="EtcItem" name="Peixe Roxo Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1090" />
+	</item>
+	<item id="6462" type="EtcItem" name="Peixe Roxo Grande Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1111" />
+	</item>
+	<item id="6463" type="EtcItem" name="Peixe Roxo Grande Feio">
+		
+		<set name="icon" val="icon.etc_angler_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1133" />
+	</item>
+	<item id="6464" type="EtcItem" name="Peixe Roxo Grande Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1157" />
+	</item>
+	<item id="6465" type="EtcItem" name="Peixe Vermelho Pequeno Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1277" />
+	</item>
+	<item id="6466" type="EtcItem" name="Peixe Vermelho Pequeno Feio">
+		
+		<set name="icon" val="icon.etc_angler_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1301" />
+	</item>
+	<item id="6467" type="EtcItem" name="Peixe Vermelho Pequeno Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1326" />
+	</item>
+	<item id="6468" type="EtcItem" name="Peixe Vermelho Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1351" />
+	</item>
+	<item id="6469" type="EtcItem" name="Peixe Vermelho Feio">
+		
+		<set name="icon" val="icon.etc_angler_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1376" />
+	</item>
+	<item id="6470" type="EtcItem" name="Peixe Vermelho Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1402" />
+	</item>
+	<item id="6471" type="EtcItem" name="Peixe Vermelho Grande Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1577" />
+	</item>
+	<item id="6472" type="EtcItem" name="Peixe Vermelho Grande E Feio">
+		
+		<set name="icon" val="icon.etc_angler_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1608" />
+	</item>
+	<item id="6473" type="EtcItem" name="Peixe Vermelho Grande Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1715" />
+	</item>
+	<item id="6474" type="EtcItem" name="Peixe Branco Pequeno Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1747" />
+	</item>
+	<item id="6475" type="EtcItem" name="Peixe Branco Pequeno Feios">
+		
+		<set name="icon" val="icon.etc_angler_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1781" />
+	</item>
+	<item id="6476" type="EtcItem" name="Peixe Branco Gordo Pequeno">
+		
+		<set name="icon" val="icon.etc_bream_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1814" />
+	</item>
+	<item id="6477" type="EtcItem" name="Peixe Branco Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1849" />
+	</item>
+	<item id="6478" type="EtcItem" name="Peixe Branco Feio">
+		
+		<set name="icon" val="icon.etc_angler_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1887" />
+	</item>
+	<item id="6479" type="EtcItem" name="Peixe Branco Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1923" />
+	</item>
+	<item id="6480" type="EtcItem" name="Peixe Branco Grande Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1961" />
+	</item>
+	<item id="6481" type="EtcItem" name="Peixe Branco Grande Feio">
+		
+		<set name="icon" val="icon.etc_angler_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="6482" type="EtcItem" name="Peixe Branco Grande Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2039" />
+	</item>
+	<item id="6483" type="EtcItem" name="Peixe Preto Pequeno Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6484" type="EtcItem" name="Peixe Preto Pequeno Feio">
+		
+		<set name="icon" val="icon.etc_angler_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6485" type="EtcItem" name="Peixe Preto Pequeno Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6486" type="EtcItem" name="Peixe Preto Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2309" />
+	</item>
+	<item id="6487" type="EtcItem" name="Peixe Preto Feio">
+		
+		<set name="icon" val="icon.etc_angler_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2357" />
+	</item>
+	<item id="6488" type="EtcItem" name="Peixe Preto Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6489" type="EtcItem" name="Peixe Preto Grande Ágil">
+		
+		<set name="icon" val="icon.etc_tuna_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6490" type="EtcItem" name="Peixe Preto Grande Feio">
+		
+		<set name="icon" val="icon.etc_angler_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2502" />
+	</item>
+	<item id="6491" type="EtcItem" name="Peixe Preto Grande Gordo">
+		
+		<set name="icon" val="icon.etc_bream_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente para fabricação geral." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6492" type="EtcItem" name="Baú do Tesouro Verde Pequeno">
+		
+		<set name="icon" val="icon.etc_treasure_box_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para ver a alteração." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="153" />
+	</item>
+	<item id="6493" type="EtcItem" name="Baú do Tesouro Verde">
+		
+		<set name="icon" val="icon.etc_treasure_box_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para ver a alteração." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="208" />
+	</item>
+	<item id="6494" type="EtcItem" name="Baú do Tesouro Verde Grande">
+		
+		<set name="icon" val="icon.etc_treasure_box_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para ver a alteração." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="265" />
+	</item>
+	<item id="6495" type="EtcItem" name="Baú do Tesouro Jade Pequeno">
+		
+		<set name="icon" val="icon.etc_treasure_box_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para ver a alteração." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="285" />
+	</item>
+	<item id="6496" type="EtcItem" name="Baú do Tesouro Jade">
+		
+		<set name="icon" val="icon.etc_treasure_box_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para ver a alteração." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="315" />
+	</item>
+	<item id="6497" type="EtcItem" name="Baú do Tesouro Jade Grande">
+		
+		<set name="icon" val="icon.etc_treasure_box_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para ver a alteração." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="345" />
+	</item>
+	<item id="6498" type="EtcItem" name="Baú do Tesouro Azul Pequeno">
+		
+		<set name="icon" val="icon.etc_treasure_box_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para ver a alteração." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="395" />
+	</item>
+	<item id="6499" type="EtcItem" name="Baú do Tesouro Azul">
+		
+		<set name="icon" val="icon.etc_treasure_box_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para ver a alteração." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="419" />
+	</item>
+</list>

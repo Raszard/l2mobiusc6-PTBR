@@ -1,0 +1,1140 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1100" type="Armor" name="Manto de Algodão">
+		
+		<set name="icon" val="icon.armor_t50_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Uma túnica feita de algodão resistente." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="2120" />
+		<set name="p_def" val="21" />
+		<set name="mp_bonus" val="38" />
+		<set name="price" val="2430" />
+		<for>
+			<add val="21" order="0x10" stat="pDef" />
+			<add val="38" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="1101" type="Armor" name="Manto de Devoção">
+		<set name="icon" val="icon.armor_t55_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="2090" />
+		<set name="p_def" val="30" />
+		<set name="mp_bonus" val="67" />
+		<set name="price" val="20300" />
+		<for>
+			<add stat="pDef" order="0x10" val="30" />
+			<add val="67" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="1102" type="Armor" name="Manto de Magia">
+		
+		<set name="icon" val="icon.armor_t58_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Uma túnica, confortavelmente desenhada para magos." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="2080" />
+		<set name="p_def" val="34" />
+		<set name="mp_bonus" val="86" />
+		<set name="price" val="36900" />
+		<for>
+			<add val="34" order="0x10" stat="pDef" />
+			<add val="86" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="1103" type="Armor" name="Calça de Algodão">
+		
+		<set name="icon" val="icon.armor_t50_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Um par de calças feitas de algodão resistente." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1060" />
+		<set name="p_def" val="13" />
+		<set name="mp_bonus" val="23" />
+		<set name="price" val="1520" />
+		<for>
+			<add val="13" order="0x10" stat="pDef" />
+			<add val="23" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="1104" type="Armor" name="Calça de Devoção">
+		
+		<set name="icon" val="icon.armor_t55_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Parte do conjunto de devoção." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1040" />
+		<set name="p_def" val="19" />
+		<set name="mp_bonus" val="42" />
+		<set name="price" val="12700" />
+		<for>
+			<add val="19" order="0x10" stat="pDef" />
+			<add val="42" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="1105" type="Armor" name="Calça de Magia">
+		
+		<set name="icon" val="icon.armor_t58_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Um par de calças, confortavelmente projetado para magos." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="1030" />
+		<set name="p_def" val="21" />
+		<set name="mp_bonus" val="54" />
+		<set name="price" val="23000" />
+		<for>
+			<add val="21" order="0x10" stat="pDef" />
+			<add val="54" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="1106" type="EtcItem" name="Carta de Norman">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Resumo financeiro do primeiro semestre da guilda Portão de Ferro: balanço e demonstração de lucros e perdas da guilda da região de Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1107" type="EtcItem" name="Fragmento de Osso">
+		
+		<set name="icon" val="icon.etc_piece_bone_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Fragmentos de ossos dos esqueletos mortos-vivos. Colete dez deles e volte para Mestre Harne." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1108" type="EtcItem" name="Carta de Arbon">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1109" type="EtcItem" name="Carta de Roien">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1110" type="EtcItem" name="Fragmento de Osso">
+		<set name="icon" val="icon.item_normal05" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1111" type="EtcItem" name="Minério de Adamantita">
+		<set name="icon" val="icon.item_normal49" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1112" type="EtcItem" name="Folha da Árvore Mãe">
+		<set name="icon" val="icon.etc_leaf_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1113" type="EtcItem" name="Sangue de Mitraell">
+		<set name="icon" val="icon.item_canuse48" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1114" type="EtcItem" name="Amuleto Orc">
+		
+		<set name="icon" val="icon.etc_feather_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto possuído por Kaboo Orcs para fins mágicos. Leve-o para o Sentinela Rayen." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1115" type="EtcItem" name="Colar de Orc">
+		
+		<set name="icon" val="icon.accessary_necklace_of_anguish_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar de osso possuído por lutadores Kaboo Orc para fins mágicos. Leve-o para o Sentinela Rayen." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1116" type="EtcItem" name="Amuleto Orc">
+		
+		<set name="icon" val="icon.etc_feather_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto que os Orcs balor possuem para propósitos mágicos. Leve isso para a Sentinela Kayleen." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1117" type="EtcItem" name="Colar de Orc">
+		
+		<set name="icon" val="icon.accessary_necklace_of_anguish_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar de osso que os lutadores balor Orc carregam para propósitos mágicos. Leve isso para a Sentinela Kayleen." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1118" type="EtcItem" name="Bolsa de Esporos">
+		
+		<set name="icon" val="icon.etc_pouch_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um saco contendo esporos de pólen. Dê 10 sacos de esporos para Herbiel." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1119" type="Armor" name="Luvas Curtas de Couro">
+		<set name="icon" val="icon.armor_t04_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="660" />
+		<set name="p_def" val="11" />
+		<set name="price" val="607" />
+		<for>
+			<add val="11" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="1120" type="Armor" name="Mão Pa'Agrian">
+		<set name="icon" val="icon.armor_short_leather_gloves_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1600" />
+		<set name="crystal_type" val="c" />
+		<set name="p_def" val="34" />
+		<set name="price" val="161000" />
+		<set name="crystal_count" val="64" />
+		<for>
+			<add val="34" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="1121" type="Armor" name="Sapatos do Aprendiz">
+		<set name="icon" val="icon.armor_t01_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1320" />
+		<set name="p_def" val="8" />
+		<set name="price" val="7" />
+		<for>
+			<add val="8" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="1122" type="Armor" name="Sapatos de Algodão">
+		<set name="icon" val="icon.armor_t50_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1320" />
+		<set name="p_def" val="11" />
+		<set name="price" val="607" />
+		<for>
+			<add val="11" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="1123" type="Armor" name="Botas Azuis de Camurça">
+		<set name="icon" val="icon.armor_t18_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1300" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="22" />
+		<set name="price" val="33300" />
+		<set name="crystal_count" val="60" />
+		<for>
+			<add val="22" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="1124" type="Armor" name="Botas do Poder">
+		<set name="icon" val="icon.armor_t40_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1250" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="27" />
+		<set name="price" val="74700" />
+		<set name="crystal_count" val="135" />
+		<for>
+			<add val="27" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="1125" type="Armor" name="Botas de Assalto">
+		<set name="icon" val="icon.armor_t44_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1240" />
+		<set name="crystal_type" val="d" />
+		<set name="p_def" val="29" />
+		<set name="price" val="97800" />
+		<set name="crystal_count" val="177" />
+		<for>
+			<add val="29" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="1126" type="Armor" name="Botas Carmesim">
+		<set name="icon" val="icon.armor_t57_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1210" />
+		<set name="crystal_type" val="c" />
+		<set name="p_def" val="34" />
+		<set name="price" val="161000" />
+		<set name="crystal_count" val="64" />
+		<for>
+			<add val="34" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="1127" type="Armor" name="Botas Esquecidas">
+		<set name="icon" val="icon.armor_iron_boots_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="4000" />
+		<set name="crystal_type" val="c" />
+		<set name="p_def" val="36" />
+		<set name="price" val="245000" />
+		<set name="crystal_count" val="98" />
+		<for>
+			<add val="36" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="1128" type="Armor" name="Botas de Adamantita">
+		<set name="icon" val="icon.armor_iron_boots_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="4000" />
+		<set name="crystal_type" val="c" />
+		<set name="p_def" val="39" />
+		<set name="price" val="358000" />
+		<set name="crystal_count" val="143" />
+		<for>
+			<add val="39" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="1129" type="Armor" name="Sapatos de Couro Bruto">
+		<set name="icon" val="icon.armor_t04_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1320" />
+		<set name="p_def" val="11" />
+		<set name="price" val="607" />
+		<for>
+			<add val="11" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="1130" type="EtcItem" name="Medicina de Cobendell">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um remédio para febre inventado pelo Mestre Cobendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1131" type="EtcItem" name="Medicina de Cobendell">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um remédio para febre inventado pelo Mestre Cobendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1132" type="EtcItem" name="Medicina de Cobendell">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um remédio para febre inventado pelo Mestre Cobendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1133" type="EtcItem" name="Medicina de Cobendell">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um remédio para febre inventado pelo Mestre Cobendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1134" type="EtcItem" name="Medicina de Cobendell">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um remédio para febre inventado pelo Mestre Cobendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1135" type="EtcItem" name="Varinha Espiritual">
+		
+		<set name="icon" val="icon.weapon_club_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A varinha onde o espírito dos espelhos está preso. Prenda todos os três espíritos dos espelhos na varinha e leve-a ao Grande Mestre Gallint." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1136" type="EtcItem" name="Varinha Espiritual">
+		
+		<set name="icon" val="icon.weapon_club_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A varinha onde o espírito dos espelhos está preso. Prenda todos os três espíritos dos espelhos na varinha e leve-a ao Grande Mestre Gallint." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1137" type="EtcItem" name="Varinha Espiritual">
+		
+		<set name="icon" val="icon.weapon_club_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A varinha onde o espírito dos espelhos está preso. Prenda todos os três espíritos dos espelhos na varinha e leve-a ao Grande Mestre Gallint." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1138" type="EtcItem" name="Carta de Auron">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta escrita pelo Mestre Auron. Leve isso para Comerciante Simplon na Town of Gludio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1139" type="EtcItem" name="Marca da Guilda do Guerreiro">
+		
+		<set name="icon" val="icon.etc_badge_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca que mostra que o jogador é membro da Warrior Guild. Leve isso para as Ruínas da Agonia e mate os esqueletos rastreadores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1140" type="EtcItem" name="Espada de Bronze Enferrujada">
+		
+		<set name="icon" val="icon.weapon_broad_sword_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma velha espada de bronze usada por esqueletos rastreadores. Colete dez e entregue-os ao Comerciante Simplon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1141" type="EtcItem" name="Espada de Bronze Enferrujada">
+		
+		<set name="icon" val="icon.weapon_broad_sword_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma velha e enferrujada espada de bronze dada pelo Comerciante Simplon, que disse que era uma 'Espada do Julgamento'. Leve-a ao Mestre Auron." />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="1142" type="Weapon" name="Espada de Bronze Enferrujada">
+		
+		<set name="icon" val="icon.weapon_broad_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Uma velha e enferrujada espada de bronze chamada de 'Espada do Julgamento'. Use isso para caçar aranhas venenosas e rastreadores de aracnídeos." />
+		<set name="weight" val="1400" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="18" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="21" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="18" order="0x08" stat="pAtk" />
+			<set val="21" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1143" type="EtcItem" name="Carta de Simplon">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta escrita pelo Comerciante Simplon. Leve isso para o Mestre Auron." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1144" type="EtcItem" name="Perna da Aranha Venenosa">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma perna cortada de uma Aranha Venenosa morta ou um Aracnídeo Rastreador. Colete vinte deles e leve para o Mestre Auron." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1145" type="EtcItem" name="Medalhão do Guerreiro">
+		
+		<set name="icon" val="icon.accessary_earing_of_protection_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pegue este medalhão e vá até o Grão-Mestre da Warrior Guild para mudar sua classe para Warrior." />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="1146" type="Armor" name="Camisa do Escudeiro">
+		<set name="icon" val="icon.armor_t01_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="3301" />
+		<set name="p_def" val="33" />
+		<set name="price" val="26" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="33" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="1147" type="Armor" name="Calça do Escudeiro">
+		<set name="icon" val="icon.armor_t01_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1750" />
+		<set name="p_def" val="20" />
+		<set name="price" val="6" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="20" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="1148" type="Armor" name="Capacete de Couro Duro">
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="640" />
+		<set name="p_def" val="26" />
+		<set name="price" val="18400" />
+		<for>
+			<add val="26" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="1149" type="Armor" name="Diadema Brilhante">
+		<set name="icon" val="icon.armor_circlet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="600" />
+		<set name="crystal_type" val="c" />
+		<set name="p_def" val="54" />
+		<set name="price" val="368000" />
+		<set name="crystal_count" val="147" />
+		<for>
+			<add val="54" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="1150" type="EtcItem" name="Livro de Feitiços: Golpe do Vento">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Wind Strike." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="50" />
+	</item>
+	<item id="1151" type="EtcItem" name="Livro de Feitiços: Autocura">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Self Heal." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="50" />
+	</item>
+	<item id="1152" type="EtcItem" name="Livro de Feitiços: Curar">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Heal. Usado por Human Mystics, Elven Mystics e Dark Mystics." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="100" />
+	</item>
+	<item id="1153" type="EtcItem" name="Carta de Jenna">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta da Sentinela Jenna para o Mestre Harant." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1154" type="EtcItem" name="Lâmina Sentinela">
+		
+		<set name="icon" val="icon.weapon_bastard_sword_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma espada de adamantite recém-distribuída para sentinelas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1155" type="EtcItem" name="Lâmina Sentinela">
+		
+		<set name="icon" val="icon.weapon_bastard_sword_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma espada de adamantite recém-distribuída para sentinelas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1156" type="EtcItem" name="Lâmina Sentinela">
+		
+		<set name="icon" val="icon.weapon_bastard_sword_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma espada de adamantite recém-distribuída para sentinelas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1157" type="EtcItem" name="Antiga Espada de Bronze">
+		
+		<set name="icon" val="icon.weapon_crimson_sword_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma espada de bronze usada no passado por sentinelas. Recupere isso e leve para a Sentry Jenna." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1158" type="EtcItem" name="Fragmento de Osso">
+		
+		<set name="icon" val="icon.etc_piece_bone_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento de osso obtido dos esqueletos mortos-vivos. Reúna 10 fragmentos de ossos e 3 crânios de elfos e leve-os para Unoren." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1159" type="EtcItem" name="Crânio de Elfo">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O crânio de um elfo morto-vivo. Reúna 10 fragmentos de ossos e 3 crânios de elfos e leve-os para Unoren." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1160" type="EtcItem" name="Pedra Rúnica Sombria">
+		
+		<set name="icon" val="icon.etc_bead_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Reúna 13 Pedras Rúnicas Sombrias e leve-os para a Sentinela Nelsya." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1161" type="EtcItem" name="Espada do Ritual">
+		
+		<set name="icon" val="icon.weapon_flamberge_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve esta espada ao Grão-Mestre da Guilda dos Lutadores para mudar sua classe para Cavaleiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1162" type="EtcItem" name="Moeda dos Senhores">
+		
+		<set name="icon" val="icon.etc_coins_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma moeda de ouro gravada com a marca do senhor de Gludio. Reúna três ou mais deles para encerrar o Julgamento do Escudeiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1163" type="EtcItem" name="Moeda dos Senhores">
+		
+		<set name="icon" val="icon.etc_coins_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma moeda de ouro gravada com a marca do senhor de Gludio. Reúna três ou mais deles para encerrar o Julgamento do Escudeiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1164" type="EtcItem" name="Moeda dos Senhores">
+		
+		<set name="icon" val="icon.etc_coins_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma moeda de ouro gravada com a marca do senhor de Gludio. Reúna três ou mais deles para encerrar o Julgamento do Escudeiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1165" type="EtcItem" name="Moeda dos Senhores">
+		
+		<set name="icon" val="icon.etc_coins_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma moeda de ouro gravada com a marca do senhor de Gludio. Reúna três ou mais deles para encerrar o Julgamento do Escudeiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1166" type="EtcItem" name="Moeda dos Senhores">
+		
+		<set name="icon" val="icon.etc_coins_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma moeda de ouro gravada com a marca do senhor de Gludio. Reúna três ou mais deles para encerrar o Julgamento do Escudeiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1167" type="EtcItem" name="Moeda dos Senhores">
+		
+		<set name="icon" val="icon.etc_coins_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma moeda de ouro gravada com a marca do senhor de Gludio. Reúna três ou mais deles para encerrar o Julgamento do Escudeiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1168" type="EtcItem" name="1a Insígnia do Guarda Gludio">
+		
+		<set name="icon" val="icon.etc_badge_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca que comprova a filiação à guarda. Como o capitão Bathia pediu, cace invasores bugbear." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1169" type="EtcItem" name="Colar Bugbear">
+		
+		<set name="icon" val="icon.etc_totem_necklace_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar usado por bugbears para fins de encantamento. Colete dez deles e visite o Capitão Bathia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1170" type="EtcItem" name="Primeiro Distintivo do Templo de Einhasad">
+		
+		<set name="icon" val="icon.accessary_earing_of_holy_spirit_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Como o Sumo Sacerdote Raimund pediu, vá para as Ruínas do Desespero, derrote os espíritos dos sacerdotes que partiram e colete 12 crucifixos Einhasad." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1171" type="EtcItem" name="Crucifixo de Einhasad">
+		
+		<set name="icon" val="icon.accessary_necklace_of_knowledge_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um símbolo sagrado de Einhasad, a deusa da luz. Colete 12 deles e vá até o Sumo Sacerdote Raimund." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1172" type="EtcItem" name="2a Insígnia do Guarda Gludio">
+		
+		<set name="icon" val="icon.etc_badge_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A marca que distingue os membros da guarda. Como o capitão Bezique pediu, cace aranhas gigantes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1173" type="EtcItem" name="Perna de Aranha Venenosa">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma perna decepada de uma aranha venenosa morta. Colete vinte deles e vá até o Capitão Bezique." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1174" type="EtcItem" name="2a Distintivo do Templo de Einhasad">
+		
+		<set name="icon" val="icon.accessary_earing_of_holy_spirit_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Como o Sumo Sacerdote Levian pediu, mate Langk Homem Lagarto e colete a prova." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1175" type="EtcItem" name="Totem do Homem-Lagarto">
+		
+		<set name="icon" val="icon.etc_totem_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pequena escultura que os Homem Lagarto Langk carregam consigo. Colete vinte deles e leve-os para a Alta Sacerdotisa Levian." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1176" type="EtcItem" name="3a Insígnia do Guarda Gludio">
+		
+		<set name="icon" val="icon.etc_badge_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca que comprova a filiação à guarda. Como o capitão Gilbert pediu, cace aranhas gigantes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1177" type="EtcItem" name="Casca de Aranha Gigante">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A casca de uma aranha gigante que você descascou. Colete vinte deles e leve-os ao Capitão Gilbert." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1178" type="EtcItem" name="Insígnia do 3a Templo de Einhasad">
+		
+		<set name="icon" val="icon.accessary_earing_of_holy_spirit_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Conforme solicitado pelo Sumo Sacerdote Biotina, cace os horrores silenciosos nas Ruínas Élficas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1179" type="EtcItem" name="Crânio do Horror Silencioso">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O crânio de um elfo morto há muito tempo. Colete 10 e leve-os ao Sumo Sacerdote Biotina." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1180" type="EtcItem" name="Carta de Bezique">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta do capitão Bezique a Neti. Encontre Neti na vila de Gludin e entregue a carta a ela." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1181" type="Weapon" name="Arco de Neti">
+		
+		<set name="icon" val="icon.weapon_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Um arco favorito usado por Neti, que já foi um caçador de tesouros. Use-o ao caçar os esqueletos e spartoi das Ruínas da Agonia para coletar pedaços de ossos." />
+		<set name="weight" val="1850" />
+		<set name="soulshots" val="7" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="45" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="2" />
+		<set name="m_dam" val="16" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="45" order="0x08" stat="pAtk" />
+			<set val="16" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1182" type="Weapon" name="Adaga de Neti">
+		
+		<set name="icon" val="icon.weapon_knife_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Neti usou esta adaga quando era uma Caçadora de Tesouros. Use-o ao caçar os esqueletos e spartoi das Ruínas da Agonia para coletar pedaços de ossos." />
+		<set name="weight" val="1000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="19" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="16" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="19" order="0x08" stat="pAtk" />
+			<set val="16" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="1183" type="EtcItem" name="Ossos de Spartoi">
+		
+		<set name="icon" val="icon.etc_piece_bone_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pedaços de ossos mortos-vivos. Colete 10 e leve-os para Neti." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1184" type="EtcItem" name="Ferradura de Luz">
+		
+		<set name="icon" val="icon.accessary_red_cresent_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma prova que você recebeu após passar no teste do Neti. Você deve levá-lo ao capitão Bezique." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1185" type="EtcItem" name="Lista dos Mais Procurados">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Está escrito que quem acabar com os bandidos do Olho de Gato e recuperar os bens roubados será recompensado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1186" type="EtcItem" name="Joias Roubadas">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma boa quantidade de joias que os bandidos do Olho de Gato roubaram. Você deve levá-los ao capitão Bezique." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1187" type="EtcItem" name="Tomos Roubados">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um tomo raro que os bandidos do Olho de Gato roubaram. Você deve levá-lo ao capitão Bezique." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1188" type="EtcItem" name="Anel Roubado">
+		
+		<set name="icon" val="icon.accessary_ring_of_grace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar caro que os bandidos do Olho de Gato roubaram. Você deve levá-lo de volta ao capitão Bezique." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1189" type="EtcItem" name="Colar Roubado">
+		
+		<set name="icon" val="icon.accessary_necklace_of_blessing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar caro que os bandidos do Olho de Gato roubaram. Você deve levá-lo ao capitão Bezique." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1190" type="EtcItem" name="Recomendação de Bezique">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve este medalhão para os Grão-Mestres da Fighter Guild para mudar sua classe para Rogue." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1191" type="EtcItem" name="1a Carta de Ordem">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um certificado de coleção de livros proibidos dado pelo Sacerdote Zigaunt. Carregue isso e colete todos os livros proibidos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1192" type="EtcItem" name="2a Carta de Ordem">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um certificado que comprove que você representa o corpo religioso. Este certificado é dado pelo Sacerdote Zigaunt. Leve isto ao Lionel para um acordo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1193" type="EtcItem" name="Livro de Lionel">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O último livro de Lioniel. Entregue este livro ao Grande Mestre Gallint na Escola de Magia Einhovant." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1194" type="EtcItem" name="Livro de Vivyan">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro proibido que Simplon vendeu para Vivyan. Colete cinco livros proibidos e leve-os ao Sacerdote Zigaunt." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1195" type="EtcItem" name="Livro de Simplon">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O resto dos livros proibidos de Simplon. Colete 5 livros proibidos e leve-os ao Priest Zigaunt." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1196" type="EtcItem" name="Livro de Praga">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro proibido que Simplon vendeu para Praga. Colete 5 livros proibidos e leve-os ao Priest Zigaunt." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1197" type="EtcItem" name="Certificado de Gallint">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um certificado que Gallint dá para a guarda de livros proibidos. Dê a Lionel e receba convênio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1198" type="EtcItem" name="Pingente de Mãe">
+		
+		<set name="icon" val="icon.accessary_blessed_earing_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O pingente de sua mãe que o Guarda Praga perdeu nas ruínas. Leve isso para o Guard Praga e receba um livro proibido." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="1199" type="EtcItem" name="Colar de Mãe">
+		
+		<set name="icon" val="icon.accessary_blessed_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma corrente de colar onde costumava pendurar um pingente. Recupere o pingente dos zumbis nas Ruínas da Agonia para completá-lo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

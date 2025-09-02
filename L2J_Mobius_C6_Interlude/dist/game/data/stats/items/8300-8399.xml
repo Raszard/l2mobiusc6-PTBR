@@ -1,0 +1,899 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="8300" type="EtcItem" name="Receita: Mestre Infernal (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Mestre Infernal só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="8301" type="EtcItem" name="Receita: Espada do Sacerdote (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar uma Espada de Sacerdote só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="28000" />
+	</item>
+	<item id="8302" type="EtcItem" name="Receita: Espada da Névoa Mágica (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar uma Espada de Névoa Mágica só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="28000" />
+	</item>
+	<item id="8303" type="EtcItem" name="Receita: Espada Misteriosa (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar uma Espada Misteriosa só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8304" type="EtcItem" name="Receita: Espada Eclíptica (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar uma Espada Eclíptica só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8305" type="EtcItem" name="Receita: Lágrima do Mago (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para Tears of a Wizard só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="8306" type="EtcItem" name="Receita: Lágrima do Mago (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para Tears of a Wizard só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="8307" type="EtcItem" name="Receita: Priest Mace (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar uma Maça Sacerdote só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="28000" />
+	</item>
+	<item id="8308" type="EtcItem" name="Receita: Machado Eclíptico (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Machado Eclíptico só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="8309" type="EtcItem" name="Receita: Spell Breaker (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Spell Breaker só pode ser usada por Anões e Requer Criar Item - Habilidade Nível 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="173600" />
+	</item>
+	<item id="8310" type="EtcItem" name="Receita: Spell Breaker (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Spell Breaker só pode ser usada por Anões e Requer Criar Item - Habilidade Nível 6. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="173600" />
+	</item>
+	<item id="8311" type="EtcItem" name="Receita: Ossos de Kaim Vanul (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar a arma conhecida como Ossos de Kaim Vanul só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="8312" type="EtcItem" name="Receita: Ossos de Kaim Vanul (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar a arma conhecida como Ossos de Kaim Vanul só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="8313" type="EtcItem" name="Receita: Olho Espiritual (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para o Olho Espiritual só pode ser usada por Anões e requer um Item de Criação - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="8314" type="EtcItem" name="Receita: Olho Espiritual (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para o Olho Espiritual só pode ser usada por Anões e requer um Item de Criação - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="8315" type="EtcItem" name="Receita: Crânio de Dragão Flamejante (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Flaming Dragon Skull só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="8316" type="EtcItem" name="Receita: Crânio de Dragão Flamejante (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Flaming Dragon Skull só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="8317" type="EtcItem" name="Receita: Titan Hammer (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Titan Hammer só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="28000" />
+	</item>
+	<item id="8318" type="EtcItem" name="Receita: Martelo Anão (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Martelo Anão só pode ser usada por Anões e requer Create Item - Skill Level 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="8319" type="EtcItem" name="Receita: Chifre de Karik (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Chifre de Karik só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8320" type="EtcItem" name="Receita: Martelo Destruidor (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Martelo do Destruidor só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+	<item id="8321" type="EtcItem" name="Receita: Martelo de Tempestade de Gelo (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Martelo de Tempestade só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="173600" />
+	</item>
+	<item id="8322" type="EtcItem" name="Receita: Martelo de Tempestade de Gelo (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Martelo de Tempestade só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="173600" />
+	</item>
+	<item id="8323" type="EtcItem" name="Receita: Star Buster (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Star Buster só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8324" type="EtcItem" name="Receita: Star Buster (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Star Buster só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8325" type="EtcItem" name="Receita: Triturador da Perdição (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Triturador da Perdição só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="8326" type="EtcItem" name="Receita: Triturador da Perdição (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Triturador da Perdição só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="540000" />
+	</item>
+	<item id="8327" type="EtcItem" name="Lâmina de Espada de Aço">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos anões para fazer espadas de aço. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="11912" />
+	</item>
+	<item id="8328" type="EtcItem" name="Lâmina da Espada Titã">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer Espadas Titãs. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20950" />
+	</item>
+	<item id="8329" type="EtcItem" name="Lâmina da Espada Pa'Agriana">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos anões para fazer espadas pa'agrianas. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="38420" />
+	</item>
+	<item id="8330" type="EtcItem" name="Lâmina da Espada do Guardião">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer as Espadas do Guardião. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45769" />
+	</item>
+	<item id="8331" type="EtcItem" name="Lâmina do Mestre Infernal">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer um Mestre Infernal. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="58615" />
+	</item>
+	<item id="8332" type="EtcItem" name="Lâmina da Espada Sacerdote">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado por Anões para fazer Espadas de Sacerdote, pode ser vendido em qualquer loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12037" />
+	</item>
+	<item id="8333" type="EtcItem" name="Espada da Lâmina de Névoa Mágica">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer Espadas de Névoa Mágica. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20300" />
+	</item>
+	<item id="8334" type="EtcItem" name="Lâmina da Espada Misteriosa">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer Espadas Misteriosas. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25187" />
+	</item>
+	<item id="8335" type="EtcItem" name="Lâmina da Espada Eclíptica">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer Espadas do Eclipse. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="43890" />
+	</item>
+	<item id="8336" type="EtcItem" name="Lâmina da Lágrima do Mago">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos anões para fazer uma Lágrima de Mago. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45692" />
+	</item>
+	<item id="8337" type="EtcItem" name="Sacerdote Cabeça de Maça">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos anões para fazer maças sacerdotais. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8338" type="EtcItem" name="Machado da Cabeça do Eclipse">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer um Machado Eclíptico. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="41636" />
+	</item>
+	<item id="8339" type="EtcItem" name="Cabeça do Disjuntor de Feitiço">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer Spell Breakers. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="34950" />
+	</item>
+	<item id="8340" type="EtcItem" name="Cabeça de Ossos de Kaim Vanul">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos anões para fazer a arma conhecida como Ossos de Kaim Vanul. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45769" />
+	</item>
+	<item id="8341" type="EtcItem" name="Pedaço do Olho Espiritual">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer o Olho Espiritual. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="59384" />
+	</item>
+	<item id="8342" type="EtcItem" name="Peça de Crânio de Dragão Flamejante">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos anões para fazer uma Caveira de Dragão Flamejante. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72914" />
+	</item>
+	<item id="8343" type="EtcItem" name="Peça Martelo Titã">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer Martelos Titânicos. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="19757" />
+	</item>
+	<item id="8344" type="EtcItem" name="Pedaço de Martelo Anão">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado por anões para fazer Martelo Anão, pode ser vendido em qualquer loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8345" type="EtcItem" name="Chifre de Karik">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos anões para fazer chifres de Karik. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8346" type="EtcItem" name="Pedaço de Martelo de Destruidor">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer os Martelos do Destruidor. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="59308" />
+	</item>
+	<item id="8347" type="EtcItem" name="Cabeça de Martelo de Tempestade de Gelo">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos Anões para fazer Martelos de Tempestade de Gelo. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="38867" />
+	</item>
+	<item id="8348" type="EtcItem" name="Cabeça Destruidora de Estrelas">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material vital usado pelos anões para fazer Star Busters. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="45846" />
+	</item>
+	<item id="8349" type="EtcItem" name="Cabeça Trituradora">
+		
+		<set name="icon" val="icon.etc_squares_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="O ingrediente essencial necessário para fazer um Red Triturador da Perdição. Pode ser vendido em uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="72929" />
+	</item>
+	<item id="8350" type="Weapon" name="Chrono Maracas">
+		
+		<set name="icon" val="icon.weapon_chrono_maracas_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Lembrança da Crônica V!" />
+		<set name="crystallizable" val="true" />
+		<set name="p_dam" val="1" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="1" />
+		<set name="dropable" val="false" />
+		<for>
+			<set val="1" order="0x08" stat="pAtk" />
+			<set val="1" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8351" type="EtcItem" name="Escamas de Peixe de Cor Preta">
+		
+		<set name="icon" val="icon.etc_gludio_fish_scale_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Leve esta escama de peixe de alta qualidade a um membro da Guilda dos Pescadores para trocá-la por um item ou vendê-la em uma loja normal." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="900" />
+	</item>
+	<item id="8352" type="EtcItem" name="Escamas de Peixe de Cor Vermelha">
+		
+		<set name="icon" val="icon.etc_dion_fish_scale_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Leve esta escama de peixe de alta qualidade a um membro da Guilda dos Pescadores para trocá-la por um item ou vendê-la em uma loja normal." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="700" />
+	</item>
+	<item id="8353" type="EtcItem" name="Escamas de Peixe de Cor Verde">
+		
+		<set name="icon" val="icon.etc_giran_fish_scale_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Leve esta escama de peixe de alta qualidade a um membro da Guilda dos Pescadores para trocá-la por um item ou vendê-la em uma loja normal." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="8354" type="EtcItem" name="Escamas de Peixe de Cor Amarela">
+		
+		<set name="icon" val="icon.etc_oren_fish_scale_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Leve esta escama de peixe de alta qualidade a um membro da Guilda dos Pescadores para trocá-la por um item ou vendê-la em uma loja normal." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="8355" type="EtcItem" name="Escamas de Peixe de Cor Azul">
+		
+		<set name="icon" val="icon.etc_aden_fish_scale_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Leve esta escama de peixe de alta qualidade a um membro da Guilda dos Pescadores para trocá-la por um item ou vendê-la em uma loja normal." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="8356" type="EtcItem" name="Escamas de Peixe de Cor Branca">
+		
+		<set name="icon" val="icon.etc_innadrile_fish_scale_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Leve esta escama de peixe de alta qualidade a um membro da Guilda dos Pescadores para trocá-la por um item ou vendê-la em uma loja normal." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="800" />
+	</item>
+	<item id="8357" type="EtcItem" name="Escamas de Peixe Cor de Laranja">
+		
+		<set name="icon" val="icon.etc_godad_fish_scale_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Leve esta escama de peixe de alta qualidade a um membro da Guilda dos Pescadores para trocá-la por um item ou vendê-la em uma loja normal." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="8358" type="EtcItem" name="Escamas de Peixe de Cor Roxa">
+		
+		<set name="icon" val="icon.etc_rune_fish_scale_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Leve esta escama de peixe de alta qualidade a um membro da Guilda dos Pescadores para trocá-la por um item ou vendê-la em uma loja normal." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="600" />
+	</item>
+	<item id="8359" type="EtcItem" name="Escamas de Peixe Cor de Jade">
+		
+		<set name="icon" val="icon.etc_schuttgart_fish_scale_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Leve esta escama de peixe de alta qualidade a um membro da Guilda dos Pescadores para trocá-la por um item ou vendê-la em uma loja normal." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="8360" type="EtcItem" name="Caixa do Aventureiro - Acessório C">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra a caixa para obter acessórios Grau C em uma determinada taxa." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8361" type="EtcItem" name="Caixa do Aventureiro - Acessório B">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra a caixa para obter acessórios de grau B em uma determinada taxa." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8362" type="EtcItem" name="Caixa do Aventureiro - Acessório de Cabelo">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abra a caixa para obter os acessórios Raider Dragon a uma certa taxa." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8363" type="EtcItem" name="Caixa do Aventureiro - Berço da Criação">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Abra a caixa para obter o Berço da Criação a uma certa taxa." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8364" type="EtcItem" name="Receita: Chapéu de Festa (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para fazer um chapéu de festa pode ser usada por todas as raças. Requer nível 6 de Habilidade Comum para Criar Item. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400000" />
+	</item>
+	<item id="8365" type="EtcItem" name="Receita: Chapéu de Festa (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para fazer um chapéu de festa pode ser usada por todas as raças. Requer nível 6 de Habilidade Comum para Criar Item. A taxa de sucesso é de 70%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400000" />
+	</item>
+	<item id="8366" type="EtcItem" name="Receita: Chapéu de Penas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fazer um chapéu de penas pode ser usada por todas as raças. Requer nível 6 de Habilidade Comum para Criar Item. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400000" />
+	</item>
+	<item id="8367" type="EtcItem" name="Receita: Chapéu de Penas (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fazer um chapéu de penas pode ser usada por todas as raças. Requer nível 6 de Habilidade Comum para Criar Item. A taxa de sucesso é de 70%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400000" />
+	</item>
+	<item id="8368" type="EtcItem" name="Receita: Óculos de Artesão (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fazer Óculos de Artesão pode ser usada por todas as raças. Requer nível 6 de Habilidade Comum para Criar Item. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400000" />
+	</item>
+	<item id="8369" type="EtcItem" name="Receita: Óculos de Artesão (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fazer Óculos de Artesão pode ser usada por todas as raças. Requer nível 6 de Habilidade Comum para Criar Item. A taxa de sucesso é de 70%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400000" />
+	</item>
+	<item id="8370" type="EtcItem" name="Receita: Chifre Vermelho da Vitória (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Para todas as tribos. Receita para fazer Red Devil Horns. Requer nível 4 de habilidade Criar Item Comum. 100% de chance de sucesso." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8371" type="EtcItem" name="Receita: Asinhas de Anjo (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fazer uma asa de anjo pode ser usada por todas as raças. Requer nível 4 de habilidade Criar Item Comum. 100% de chance de sucesso." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="8372" type="EtcItem" name="Receita: Fadas Antenas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fazer Fairy Antennae pode ser usada por todas as raças. Requer nível 4 de habilidade Criar Item Comum. 100% de chance de sucesso." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="8373" type="EtcItem" name="Tecido Para Chapéu de Festa">
+		
+		<set name="icon" val="icon.etc_leather_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para fazer um chapéu de festa. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="8374" type="EtcItem" name="Tecido de Chapéu de Penas">
+		
+		<set name="icon" val="icon.etc_leather_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material chave para fazer um chapéu de penas. Disponível em qualquer loja." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="8375" type="EtcItem" name="Tecido Para Óculos de Artesão">
+		
+		<set name="icon" val="icon.etc_leather_yellow_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado para fazer óculos de artesão, também pode ser vendido em qualquer loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="8376" type="EtcItem" name="Fragmento Chifre Vermelho da Vitória">
+		
+		<set name="icon" val="icon.etc_broken_crystal_red_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="O principal ingrediente necessário para fazer um chifre de diabo vermelho. Pode ser vendido a uma loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8377" type="EtcItem" name="Pedaço Asas de Anjo">
+		
+		<set name="icon" val="icon.etc_broken_crystal_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado pelos anões para fazer uma pequena asa de anjo, também pode ser vendido em qualquer loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="8378" type="EtcItem" name="Peça de Antena de Fada">
+		
+		<set name="icon" val="icon.etc_broken_crystal_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado pelos anões para fazer antenas de fadas, também pode ser vendido em qualquer loja regular." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="8379" type="EtcItem" name="Pergaminho de Petrificação">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Petrifica temporariamente o alvo." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8380" type="EtcItem" name="Livro de Feitiços: Traição">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de feitiços para aprender trair. Usado por Warlocks, Elemental Summoners e Phantom Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6250" />
+	</item>
+	<item id="8381" type="EtcItem" name="Livro de Feitiços: Maldição em Massa do Medo">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mass Curse Fear. Usado por Necromantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8382" type="EtcItem" name="Livro de Feitiços: Mass Curse Gloom">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mass Curse Gloom. Usado por Necromantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8383" type="EtcItem" name="Livro de Feitiços: Rendição em Massa ao Fogo">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="O livro de feitiços precisava aprender a rendição em massa ao fogo. Usado por Warlocks." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8384" type="EtcItem" name="Livro de Feitiços: Rendição em Massa à Água">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="O livro de feitiços precisava aprender a rendição em massa à água. Usado por invocadores elementais." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8385" type="EtcItem" name="Livro de Feitiços: Rendição em Massa ao Vento">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="O livro de feitiços precisava aprender a rendição em massa ao vento. Usado por Phantom Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8386" type="EtcItem" name="Livro de Feitiços: Disrupção Arcana">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Arcane Disruption. Usado por Warlocks." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6250" />
+	</item>
+	<item id="8387" type="EtcItem" name="Livro de Feitiços: Convocar Ossos Amaldiçoados">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Cursed Bones. Usado por Necromantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="7200" />
+	</item>
+	<item id="8388" type="EtcItem" name="Livro de Feitiços: Poder Superior">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Great Might. Usado pelos Profetas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8389" type="EtcItem" name="Livro de Feitiços: Escudo Superior">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Greater Shield. Usado pelos Profetas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8390" type="EtcItem" name="Amuleto: Canto de Guerra">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Warcryers precisam disso para usar War Chant." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8391" type="EtcItem" name="Amuleto: Canto da Terra">
+		
+		<set name="icon" val="icon.etc_orcish_talisman_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Warcryers precisam disso para usar Earth Chant." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8392" type="EtcItem" name="Livro de Feitiços: Resistência Sagrada">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Holy Resistance. Usado por profetas e anciãos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8393" type="EtcItem" name="Livro de Feitiços: Resistência Profana">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Unholy Resistance. Usado por profetas e anciãos élficos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8394" type="EtcItem" name="Livro de Feitiços: Transe">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Trance. Usado por bispos e anciãos élficos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6250" />
+	</item>
+	<item id="8395" type="EtcItem" name="Livro de Feitiços: Apagar">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Erase. Usado por Bispos, Profetas, Elven Elders e Shillien Elders." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6250" />
+	</item>
+	<item id="8396" type="EtcItem" name="Livro de Feitiços: Contra-Explosão Mágica">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Magical Backfire. Usado pelos Bispos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6250" />
+	</item>
+	<item id="8397" type="EtcItem" name="Livro de Feitiços: Clareza">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Clareza. Usado por Elven Elders." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="8398" type="EtcItem" name="Livro de Feitiços: Queima de Mana">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Queima de Mana. Usado por Bispos, Profetas, Elven Elders e Shillien Elders." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6250" />
+	</item>
+	<item id="8399" type="EtcItem" name="Livro de Feitiços: Tempestade de Mana">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Mana Storm. Usado pelos Bispos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+</list>

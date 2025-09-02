@@ -1,0 +1,89 @@
+04/03/2024 18:26:26>Miany [268477736]>admin_admin>no-target>
+04/03/2024 18:26:28>Miany [268477736]>admin_gmshop>no-target>
+04/03/2024 18:26:30>Miany [268477736]>admin_buy>no-target> 3001
+04/03/2024 18:29:31>Miany [268477736]>admin_admin>no-target>
+04/03/2024 18:29:32>Miany [268477736]>admin_gmshop>no-target>
+04/03/2024 18:29:33>Miany [268477736]>admin_buy>no-target> 3001
+04/03/2024 18:32:21>Miany [268477736]>admin_admin>no-target>
+04/03/2024 18:32:22>Miany [268477736]>admin_gmshop>no-target>
+04/03/2024 18:32:23>Miany [268477736]>admin_buy>no-target> 3001
+04/03/2024 18:32:54>Miany [268477736]>admin_admin>no-target>
+04/03/2024 18:32:55>Miany [268477736]>admin_gmshop>no-target>
+04/03/2024 18:32:56>Miany [268477736]>admin_buy>no-target> 3001
+04/03/2024 18:33:16>Miany [268477736]>admin_admin>no-target>
+04/03/2024 18:33:17>Miany [268477736]>admin_gmshop>no-target>
+04/03/2024 18:33:18>Miany [268477736]>admin_buy>no-target> 3001
+04/03/2024 18:54:41>Miany [268477736]>admin_admin>no-target>
+04/03/2024 18:54:41>Miany [268477736]>admin_admin4>no-target>
+04/03/2024 18:54:43>Miany [268477736]>admin_reload>no-target>
+04/03/2024 18:54:44>Miany [268477736]>admin_reload>no-target> item
+04/03/2024 19:06:58>Miany [268477736]>admin_admin>no-target>
+04/03/2024 19:07:02>Miany [268477736]>admin_admin4>no-target>
+04/03/2024 19:07:03>Miany [268477736]>admin_reload>no-target>
+04/03/2024 19:07:04>Miany [268477736]>admin_reload>no-target> item
+04/03/2024 19:08:43>Miany [268477736]>admin_admin>no-target>
+04/03/2024 19:08:45>Miany [268477736]>admin_admin4>no-target>
+04/03/2024 19:08:45>Miany [268477736]>admin_reload>no-target>
+04/03/2024 19:08:47>Miany [268477736]>admin_reload>no-target> skill
+04/03/2024 19:58:05>Miany [268477736]>admin_admin>no-target>
+04/03/2024 19:58:06>Miany [268477736]>admin_gmshop>no-target>
+04/03/2024 19:58:06>Miany [268477736]>admin_buy>no-target> 3001
+04/03/2024 19:59:54>Miany [268477736]>admin_admin>no-target>
+04/03/2024 19:59:54>Miany [268477736]>admin_gmshop>no-target>
+04/03/2024 19:59:55>Miany [268477736]>admin_buy>no-target> 3001
+04/03/2024 20:02:30>Miany [268477736]>admin_admin>no-target>
+04/03/2024 20:02:31>Miany [268477736]>admin_admin4>no-target>
+04/03/2024 20:02:32>Miany [268477736]>admin_reload>no-target>
+04/03/2024 20:02:34>Miany [268477736]>admin_reload>no-target> skill
+04/03/2024 20:09:47>Miany [268477736]>admin_admin>no-target>
+04/03/2024 20:09:49>Miany [268477736]>admin_admin4>no-target>
+04/03/2024 20:09:50>Miany [268477736]>admin_reload>no-target>
+04/03/2024 20:09:51>Miany [268477736]>admin_reload>no-target> skill
+04/03/2024 20:13:17>Miany [268477736]>admin_admin>no-target>
+04/03/2024 20:13:18>Miany [268477736]>admin_admin4>no-target>
+04/03/2024 20:13:19>Miany [268477736]>admin_reload>no-target>
+04/03/2024 20:13:20>Miany [268477736]>admin_reload>no-target> skill
+05/03/2024 18:11:36>Miany [268477736]>admin_kill>Orc Tunath Guerreiro>
+05/03/2024 18:19:34>Miany [268477736]>admin_admin>no-target>
+05/03/2024 18:19:35>Miany [268477736]>admin_admin4>no-target>
+05/03/2024 18:19:36>Miany [268477736]>admin_reload>no-target>
+05/03/2024 18:19:37>Miany [268477736]>admin_reload>no-target> skill
+05/03/2024 18:32:34>Miany [268477736]>admin_admin>Orc Tunath Guerreiro>
+05/03/2024 18:32:39>Miany [268477736]>admin_recall_npc>Orc Tunath Guerreiro>
+05/03/2024 18:43:30>Miany [268477736]>admin_admin>no-target>
+05/03/2024 18:43:32>Miany [268477736]>admin_create_item>no-target>
+05/03/2024 18:43:48>Miany [268477736]>admin_create_item>no-target> 9352 10
+05/03/2024 18:44:43>Miany [268477736]>admin_show_droplist>Orc Tunath Guerreiro> 20362
+05/03/2024 20:55:45>Miany [268477736]>admin_show_droplist>Aranha Gigante> 20103
+05/03/2024 21:25:38>Miany [268477736]>admin_admin>Metty>
+05/03/2024 21:38:20>Miany [268477736]>admin_admin>Jake>
+05/03/2024 21:38:23>Miany [268477736]>admin_res>Jake>
+05/03/2024 21:38:48>Miany [268477736]>admin_admin>Jake>
+05/03/2024 21:38:50>Miany [268477736]>admin_fullfood>Jake>
+05/03/2024 21:39:43>Miany [268477736]>admin_admin>Jake>
+05/03/2024 21:39:44>Miany [268477736]>admin_res>Jake>
+05/03/2024 21:39:45>Miany [268477736]>admin_admin>Jake>
+05/03/2024 21:39:46>Miany [268477736]>admin_fullfood>Jake>
+05/03/2024 21:39:47>Miany [268477736]>admin_admin>Jake>
+05/03/2024 21:39:47>Miany [268477736]>admin_heal>Jake>
+10/03/2024 14:00:14>Miany [268477736]>admin_admin>Richlin>
+10/03/2024 14:00:15>Miany [268477736]>admin_superhaste>Richlin> 4
+10/03/2024 14:02:11>Miany [268477736]>admin_admin>Toruku>
+10/03/2024 14:09:29>Miany [268477736]>admin_admin>Jake>
+10/03/2024 14:09:31>Miany [268477736]>admin_heal>Jake>
+10/03/2024 14:09:41>Miany [268477736]>admin_admin>Jake>
+10/03/2024 14:09:44>Miany [268477736]>admin_heal>Jake>
+10/03/2024 14:10:03>Miany [268477736]>admin_admin>Jake>
+10/03/2024 14:10:05>Miany [268477736]>admin_res>Jake>
+10/03/2024 14:10:07>Miany [268477736]>admin_admin>Jake>
+10/03/2024 14:10:08>Miany [268477736]>admin_heal>Jake>
+10/03/2024 14:10:09>Miany [268477736]>admin_admin>Jake>
+10/03/2024 14:10:10>Miany [268477736]>admin_fullfood>Jake>
+10/03/2024 14:10:16>Miany [268477736]>admin_admin>Jake>
+10/03/2024 14:10:18>Miany [268477736]>admin_fullfood>Jake>
+10/03/2024 14:10:21>Miany [268477736]>admin_admin>Jake>
+10/03/2024 14:10:21>Miany [268477736]>admin_fullfood>Jake>
+10/03/2024 14:16:30>Miany [268477736]>admin_admin>no-target>
+10/03/2024 14:16:31>Miany [268477736]>admin_admin4>no-target>
+10/03/2024 14:16:32>Miany [268477736]>admin_cache_htm_rebuild>no-target>
+10/03/2024 15:16:27>Miany [268477736]>admin_admin>Homem Lagarto Langk Batedor>

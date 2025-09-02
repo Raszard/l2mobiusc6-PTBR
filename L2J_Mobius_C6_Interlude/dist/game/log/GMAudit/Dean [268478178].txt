@@ -1,0 +1,6 @@
+11/09/2024 13:00:00>Dean [268478178]>admin_admin>Dean>
+11/09/2024 13:00:02>Dean [268478178]>admin_admin2>Dean>
+11/09/2024 13:00:04>Dean [268478178]>admin_show_characters>Dean> 0
+11/09/2024 13:00:06>Dean [268478178]>admin_character_info>Dean> Dean
+11/09/2024 13:00:07>Dean [268478178]>admin_add_exp_sp_to_character>Dean>
+11/09/2024 13:00:10>Dean [268478178]>admin_set_level>Dean> 3

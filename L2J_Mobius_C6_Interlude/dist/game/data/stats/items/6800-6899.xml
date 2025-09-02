@@ -1,0 +1,907 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6800" type="EtcItem" name="Bilhete do Mercenário Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Clérigo/Móvel. Postar impossível quando Seal of Strife é propriedade de Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6801" type="EtcItem" name="Bilhete do Mercenário Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Wizard/Móvel. Postar impossível quando Seal of Strife é propriedade de Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6802" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Estático. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6803" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Lança/Estático. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6804" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Arco/Estático. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6805" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Clérigo/Estático. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6806" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Mago/Estático. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6807" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Móvel. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6808" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Lança/Móvel. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6809" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Arco/Móvel. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6810" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Clérigo/Móvel. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6811" type="EtcItem" name="Bilhete do Mercenário Alvorecer (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Wizard/Móvel. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6812" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Estático. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6813" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Lança/Estático. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6814" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Arco/Estático. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6815" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Clérigo/Estático. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6816" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Mago/Estático. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6817" type="EtcItem" name="Bilhete do Recruta Maior (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Móvel. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6818" type="EtcItem" name="Bilhete do Recruta Maior (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Lança/Móvel. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6819" type="EtcItem" name="Bilhete do Recruta Maior (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Arco/Móvel. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6820" type="EtcItem" name="Bilhete do Recruta Maior (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Clérigo/Móvel. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6821" type="EtcItem" name="Bilhete do Recruta Maior (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Wizard/Móvel. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6822" type="EtcItem" name="Bilhete do Recruta (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Estático. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6823" type="EtcItem" name="Bilhete do Recruta (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Lança/Estático. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6824" type="EtcItem" name="Bilhete do Recruta (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Arco/Estático. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6825" type="EtcItem" name="Bilhete do Recruta (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Clérigo/Estático. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6826" type="EtcItem" name="Bilhete do Recruta (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Mago/Estático. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6827" type="EtcItem" name="Bilhete do Recruta (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Móvel. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6828" type="EtcItem" name="Bilhete do Recruta (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Lança/Móvel. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6829" type="EtcItem" name="Bilhete do Recruta (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Arco/Móvel. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6830" type="EtcItem" name="Bilhete do Recruta (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Clérigo/Móvel. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6831" type="EtcItem" name="Bilhete do Recruta (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Wizard/Móvel. Pub. possível quando Seal of Strife pertence a Dusk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6832" type="EtcItem" name="Nephilim Warrior Posting Ticket (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Espada/Móvel. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6833" type="EtcItem" name="Nephilim Xãma Posting Ticket (Wizard/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Goddard/Wizard/Móvel. Pub. possível quando Seal of Strife é de propriedade de Dawn." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6834" type="Armor" name="Diadema de Innadril">
+		
+		<set name="icon" val="icon.accessory_pledge_cap1_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Diadema do Narciso. Pode ser usado pelo senhor do Castelo de Innadril e membros do clã, mas não por aliados. Permite o uso de Habilidades Residenciais quando equipado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3633" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6835" type="Armor" name="Diadema de Dion">
+		
+		<set name="icon" val="icon.accessory_pledge_cap1_i02" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Diadema da Tocha. Pode ser usado pelo senhor do Castelo de Dion e membros do clã, mas não por aliados. Permite o uso de Habilidades Residenciais quando equipado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3633" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6836" type="Armor" name="Diadema de Goddard">
+		
+		<set name="icon" val="icon.accessory_pledge_cap1_i03" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Diadema do Escudo. Pode ser usado pelo senhor do Castelo de Goddard e membros do clã, mas não por aliados. Permite o uso de Habilidades Residenciais quando equipado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3633" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6837" type="Armor" name="Diadema de Oren">
+		
+		<set name="icon" val="icon.accessory_pledge_cap1_i04" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Diadema da Torre. Pode ser usado pelo senhor do Castelo de Oren e membros do clã, mas não por aliados. Permite o uso de Habilidades Residenciais quando equipado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3633" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6838" type="Armor" name="Diadema de Gludio">
+		
+		<set name="icon" val="icon.accessory_pledge_cap1_i05" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Diadema de Três Espadas. Pode ser usado pelo senhor do Castelo de Gludio e membros do clã, mas não por aliados. Permite o uso de Habilidades Residenciais quando equipado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3633" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6839" type="Armor" name="Diadema de Giran">
+		
+		<set name="icon" val="icon.accessory_pledge_cap1_i06" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Diadema do Cruzado. Pode ser usado pelo senhor do Castelo de Giran e membros do clã, mas não por aliados. Permite o uso de Habilidades Residenciais quando equipado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3633" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6840" type="Armor" name="Diadema de Aden">
+		
+		<set name="icon" val="icon.accessory_pledge_cap2_i07" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Diadema do Leão. Pode ser usado pelo senhor do Castelo de Aden e membros do clã, mas não por aliados. Permite o uso de Habilidades Residenciais quando equipado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3633" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6841" type="Armor" name="Coroa do Lorde">
+		
+		<set name="icon" val="icon.accessory_crown_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Acessório de cabelo da coroa do Senhor. Permite o uso de Habilidades Residenciais quando equipado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<set name="item_skill_id" val="3632" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6842" type="Armor" name="Asas do Destino Circlet">
+		
+		<set name="icon" val="icon.accessory_hero_cap_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Acessório de cabelo usado exclusivamente por Heróis." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6843" type="Armor" name="Orelha de Gato">
+		
+		<set name="icon" val="icon.accessory_cat_ear_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Acessório de cabelo em forma de orelha de gato" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6844" type="Armor" name="Alfinete de Cabelo Feminino">
+		
+		<set name="icon" val="icon.accessory_hairpin_i00" />
+		<set name="bodypart" val="hair" />
+		<set name="desc" val="Acessório de cabelo exclusivo para mulheres" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6845" type="Armor" name="Tapa-Olho de Pirata">
+		
+		<set name="icon" val="icon.accessory_eye_bandage_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Acessório tapa-olho" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6846" type="Armor" name="Monóculo">
+		
+		<set name="icon" val="icon.accessory_glasses_i00" />
+		<set name="bodypart" val="face" />
+		<set name="desc" val="Monóculo accessory with attached ring" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="6847" type="EtcItem" name="Receita: Brinco Tateossiano Selado (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para brincos tateossianos selados. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 70%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="74000" />
+	</item>
+	<item id="6848" type="EtcItem" name="Receita: Brinco Tateossiano Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para brincos tateossianos selados. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="74000" />
+	</item>
+	<item id="6849" type="EtcItem" name="Receita: Anel Tateossiano Selado (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Anel Tateossiano Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 70%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="49400" />
+	</item>
+	<item id="6850" type="EtcItem" name="Receita: Anel Tateossiano Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Anel Tateossiano Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="49400" />
+	</item>
+	<item id="6851" type="EtcItem" name="Receita: Colar Tateossiano Selado (70%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Colar Tateossiano Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 70%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="98800" />
+	</item>
+	<item id="6852" type="EtcItem" name="Receita: Colar Tateossiano Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Colar Tateossiano Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="98800" />
+	</item>
+	<item id="6853" type="EtcItem" name="Receita: Peitoral do Cruzado Imperial Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Peitoral do Cruzado Imperial Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="286000" />
+	</item>
+	<item id="6854" type="EtcItem" name="Receita: Peitoral do Cruzado Imperial Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Peitoral do Cruzado Imperial Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="286000" />
+	</item>
+	<item id="6855" type="EtcItem" name="Receita: Botas Cruzado Imperial Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Cruzado Imperial Seladas. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="179200" />
+	</item>
+	<item id="6856" type="EtcItem" name="Receita: Botas Cruzado Imperial Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Cruzado Imperial Seladas. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="179200" />
+	</item>
+	<item id="6857" type="EtcItem" name="Receita: Manoplas do Cruzado Imperial Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Manoplas do Cruzado Imperial Seladas. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6858" type="EtcItem" name="Receita: Manoplas do Cruzado Imperial Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Manoplas do Cruzado Imperial Seladas. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6859" type="EtcItem" name="Receita: Botas dos Cruzado Imperial Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Bota do Cruzado Imperial Selada. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6860" type="EtcItem" name="Receita: Calça do Cruzado Imperial Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Bota do Cruzado Imperial Selada. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6861" type="EtcItem" name="Receita: Escudo do Cruzado Imperial Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Escudo do Cruzado Imperial Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75200" />
+	</item>
+	<item id="6862" type="EtcItem" name="Receita: Escudo do Cruzado Imperial Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Escudo do Cruzado Imperial Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75200" />
+	</item>
+	<item id="6863" type="EtcItem" name="Receita: Capacete Cruzado Imperial Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Capacete Cruzado Imperial Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="107400" />
+	</item>
+	<item id="6864" type="EtcItem" name="Receita: Capacete Cruzado Imperial Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Capacete Cruzado Imperial Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="107400" />
+	</item>
+	<item id="6865" type="EtcItem" name="Receita: Armadura Dracônica de Couro Selada (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Armadura Dracônica de Couro Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="348000" />
+	</item>
+	<item id="6866" type="EtcItem" name="Receita: Armadura Dracônica de Couro Selada (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Armadura Dracônica de Couro Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="348000" />
+	</item>
+	<item id="6867" type="EtcItem" name="Receita: Luvas Dracônica de Couro Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas Dracônica de Couro Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6868" type="EtcItem" name="Receita: Luvas Dracônica de Couro Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas Dracônica de Couro Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6869" type="EtcItem" name="Receita: Botas Dracônica de Couro Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Dracônica de Couro Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6870" type="EtcItem" name="Receita: Botas Dracônica de Couro Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Dracônica de Couro Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6871" type="EtcItem" name="Receita: Capacete Dracônico de Couro Selado (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Capacete Dracônico de Couro Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="107400" />
+	</item>
+	<item id="6872" type="EtcItem" name="Receita: Capacete Dracônico de Couro Selado (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Capacete Dracônico de Couro Selado. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="107400" />
+	</item>
+	<item id="6873" type="EtcItem" name="Receita: Manto dos Arcanos Maiores Selados (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Manto dos Arcanos Maiores Selados. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="348000" />
+	</item>
+	<item id="6874" type="EtcItem" name="Receita: Manto dos Arcanos Maiores Selados (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Manto dos Arcanos Maiores Selados. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="348000" />
+	</item>
+	<item id="6875" type="EtcItem" name="Receita: Luvas Seladas dos Arcanos Maiores (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas Seladas dos Arcanos Maiores. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6876" type="EtcItem" name="Receita: Luvas Seladas dos Arcanos Maiores (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas Seladas dos Arcanos Maiores. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6877" type="EtcItem" name="Receita: Botas dos Arcanos Maiores Seladas (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Seladas dos Arcanos Maiores. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6878" type="EtcItem" name="Receita: Botas dos Arcanos Maiores Seladas (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Seladas dos Arcanos Maiores. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71600" />
+	</item>
+	<item id="6879" type="EtcItem" name="Receita: Diadema dos Arcanos Maiores Selados (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Diadema dos Arcanos Maiores Selados. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="107400" />
+	</item>
+	<item id="6880" type="EtcItem" name="Receita: Diadema dos Arcanos Maiores Selados (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Diadema dos Arcanos Maiores Selados. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="107400" />
+	</item>
+	<item id="6881" type="EtcItem" name="Receita: Lâmina Esquecida (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Lâmina Esquecida. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6882" type="EtcItem" name="Receita: Lâmina Esquecida (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Lâmina Esquecida. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6883" type="EtcItem" name="Receita: Machado de Batalha de Basalto (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Basalt Battlehammer. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6884" type="EtcItem" name="Receita: Machado de Batalha de Basalto (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Basalt Battlehammer. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6885" type="EtcItem" name="Receita: Cajado Imperial (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Cajado Imperial. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6886" type="EtcItem" name="Receita: Cajado Imperial (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Cajado Imperial. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6887" type="EtcItem" name="Receita: Matador de Anjos (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Matador de Anjos. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6888" type="EtcItem" name="Receita: Matador de Anjos (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Matador de Anjos. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6889" type="EtcItem" name="Receita: Arco Brilhante (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Arco Brilhante. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6890" type="EtcItem" name="Receita: Arco Brilhante (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Arco Brilhante. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6891" type="EtcItem" name="Receita: Machado Caçador de Dragões (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Machado de Caçador de Dragões. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6892" type="EtcItem" name="Receita: Machado Caçador de Dragões (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Machado de Caçador de Dragões. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6893" type="EtcItem" name="Receita: Lança Santa (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Lança Santa. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6894" type="EtcItem" name="Receita: Lança Santa (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Lança Santa. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6895" type="EtcItem" name="Receita: Punhos Demoníacos (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Punhos Demoníacos. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6896" type="EtcItem" name="Receita: Punhos Demoníacos (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Punhos Demoníacos. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6897" type="EtcItem" name="Receita: Divisor de Céus (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Divisor de Céus. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6898" type="EtcItem" name="Receita: Divisor de Céus (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Divisor de Céus. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6899" type="EtcItem" name="Receita: Maça Arcana (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Maça Arcana. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+</list>

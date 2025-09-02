@@ -1,0 +1,987 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3000" type="EtcItem" name="Receita: Escudo de Correntes Anão">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Escudo de Correntes Anão. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3120" />
+	</item>
+	<item id="3001" type="EtcItem" name="Receita: Botas Casca de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Casca de Couro. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3220" />
+	</item>
+	<item id="3002" type="EtcItem" name="Receita: Luvas de Correntes dos Anões">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas de Correntes dos Anões. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3220" />
+	</item>
+	<item id="3003" type="EtcItem" name="Receita: Luvas de Foca">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas de Foca. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3220" />
+	</item>
+	<item id="3004" type="EtcItem" name="Receita: Luvas Casca de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Casca de Couro. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="3220" />
+	</item>
+	<item id="3005" type="EtcItem" name="Receita: Botas do Demônio">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas do Demônio. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4900" />
+	</item>
+	<item id="3006" type="EtcItem" name="Receita: Luvas do Demônio">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas do Demônio. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4900" />
+	</item>
+	<item id="3007" type="EtcItem" name="Receita: Botas Theca de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Botas Theca de Couro. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5500" />
+	</item>
+	<item id="3008" type="EtcItem" name="Receita: Luvas Theca de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para as Luvas Theca de Couro. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5500" />
+	</item>
+	<item id="3009" type="EtcItem" name="Receita: Botas Compostas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Compostas. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4900" />
+	</item>
+	<item id="3010" type="EtcItem" name="Receita: Capacete Composto">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Capacete Composto. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7360" />
+	</item>
+	<item id="3011" type="EtcItem" name="Receita: Botas Divinas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Divinas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7160" />
+	</item>
+	<item id="3012" type="EtcItem" name="Receita: Capacete Completo de Placas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um capacete Capacete Completo de Placas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10720" />
+	</item>
+	<item id="3013" type="EtcItem" name="Receita: Botas Drake de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Drake de Couro. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7160" />
+	</item>
+	<item id="3014" type="EtcItem" name="Receita: Botas Completas de Placas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Botas Completas de Placas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7160" />
+	</item>
+	<item id="3015" type="EtcItem" name="Receita: Luvas Drake de Couro">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas Drake de Couro. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7160" />
+	</item>
+	<item id="3016" type="EtcItem" name="Receita: Manoplas Completas de Placas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Manoplas Completas de Placas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7160" />
+	</item>
+	<item id="3017" type="EtcItem" name="Receita: Luvas Divinas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para Luvas Divinas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7160" />
+	</item>
+	<item id="3018" type="EtcItem" name="Receita: Luvas Abençoadas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita das Luvas Abençoadas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7160" />
+	</item>
+	<item id="3019" type="EtcItem" name="Receita: Escudo Completo de Placas">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Escudo Completo de Placas. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7500" />
+	</item>
+	<item id="3020" type="EtcItem" name="Receita: Espada Longa Élfica">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Espada Longa Élfica. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="36000" />
+	</item>
+	<item id="3021" type="EtcItem" name="Receita: Martelo de Guerra dos Anões">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Martelo de Guerra dos Anões. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="3022" type="EtcItem" name="Receita: Maça Yaksa">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Maça Yaksa. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="122600" />
+	</item>
+	<item id="3023" type="EtcItem" name="Receita: Chave Titã">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para a missão. Necessário para fazer uma Chave Titã. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3024" type="EtcItem" name="Receita: Anel do Viajante">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para a missão. Necessário para fazer um Journeyman Ring. Requer Criar Item - Nível de Habilidade 1. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3025" type="EtcItem" name="Receita: Pérola de Âmbar">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para a missão. Necessário para fazer uma Pérola de Âmbar. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3026" type="Weapon" name="Lança de Talin">
+		
+		<set name="icon" val="icon.weapon_short_spear_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Use esta lança para desferir o golpe final no unicórnio de Eva." />
+		<set name="weight" val="800" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="24" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="24" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="3027" type="Weapon" name="Espada do Cavaleiro Velho">
+		
+		<set name="icon" val="icon.weapon_brandish_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Use esta espada para desferir o golpe final no espírito de Senhor Herodes." />
+		<set name="weight" val="2100" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="29" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="29" order="0x08" stat="pAtk" />
+			<set val="17" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="3028" type="Weapon" name="Arco da Lua Crescente">
+		
+		<set name="icon" val="icon.weapon_short_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Use este arco para desferir o golpe final no Comandante Kadesh." />
+		<set name="weight" val="600" />
+		<set name="soulshots" val="6" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="34" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="2" />
+		<set name="m_dam" val="12" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="34" order="0x08" stat="pAtk" />
+			<set val="12" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="3029" type="Weapon" name="Espada da Ligação">
+		
+		<set name="icon" val="icon.weapon_gladius_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Use esta espada para desferir o golpe final em Zeruel." />
+		<set name="weight" val="1200" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="17" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="12" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="17" order="0x08" stat="pAtk" />
+			<set val="12" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="3030" type="EtcItem" name="Chave do Titã">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma chave especial que abre a Caixa do Titã" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3031" type="EtcItem" name="Minério Espiritual">
+		
+		<set name="icon" val="icon.etc_stone_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um material usado pelos Anões na fabricação de itens. Pode ser vendido em qualquer loja." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="3032" type="EtcItem" name="Receita: Spiritshot D">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Spiritshot Grau D. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="3033" type="EtcItem" name="Receita: Spiritshot C">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Spiritshot Grau C. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="60000" />
+	</item>
+	<item id="3034" type="EtcItem" name="Receita: Spiritshot B">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Spiritshot Grade B. Requer Create Item - Skill Level 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="3035" type="EtcItem" name="Receita: Spiritshot A">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Spiritshot Grade A. Requer Create Item - Skill Level 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="3036" type="EtcItem" name="Receita: Spiritshot S">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Spiritshot Grade S. Requer Create Item - Skill Level 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="450000" />
+	</item>
+	<item id="3037" type="EtcItem" name="Carta de Kakan">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta de resposta de Kakan para Sla. Colete três cartas de resposta dos discípulos de Sla e entregue-as a Sla." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3038" type="EtcItem" name="Projeto: Invocar Golem Mecânico">
+		
+		<set name="icon" val="icon.etc_plan_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Blueprint precisava aprender a técnica Summon Mechanic Golem. Usado por artesãos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1550" />
+	</item>
+	<item id="3039" type="EtcItem" name="Livro de Feitiços: Evocar Tempestade Cúbica">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Storm Cubic. Usado por Cavaleiros do Templo e Warlocks." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3040" type="EtcItem" name="Livro de Feitiços: Evocar Cúbico Vampírico">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Vampiric Cubic. Usado por Shillien Knights." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3700" />
+	</item>
+	<item id="3041" type="EtcItem" name="Livro de Feitiços: Evocar Cúbico Fantasma">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Phantom Cubic. Usado por Shillien Knights e Phantom Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3042" type="EtcItem" name="Livro de Feitiços: Life Scavenge">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Life Scavenge. Usado pelos Vingadores Sombrios." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3043" type="EtcItem" name="Livro de Feitiços: Golpe Sagrado">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Holy Strike. Usado por paladinos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4250" />
+	</item>
+	<item id="3044" type="EtcItem" name="Livro de Feitiços: Terror">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Horror. Usado pelos Vingadores Sombrios." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4250" />
+	</item>
+	<item id="3045" type="EtcItem" name="Livro de Feitiços: Evocar Vida Cúbica">
+		
+		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Life Cubic. Usado por Temple Knights e Elemental Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3700" />
+	</item>
+	<item id="3046" type="EtcItem" name="Livro de Feitiços: Sacrifício">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Sacrifício. Usado por paladinos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="5400" />
+	</item>
+	<item id="3047" type="EtcItem" name="Livro de Feitiços: Vontade de Ferro">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Iron Will. Usado por Paladinos e Vingadores Sombrios." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3700" />
+	</item>
+	<item id="3048" type="EtcItem" name="Livro de Feitiços: Refletir Dano">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Reflect Damage. Usado pelos Vingadores Sombrios." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3049" type="EtcItem" name="Livro de Feitiços: Peste Cadáver">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Corpse Plague. Usado por Dark Avengers e Shillien Knights." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4250" />
+	</item>
+	<item id="3050" type="EtcItem" name="Livro de Feitiços: Hex">
+		
+		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Hex. Usado por Shillien Knights, Bladedancers, Abyss Walkers e Phantom Rangers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3051" type="EtcItem" name="Livro de Feitiços: Barreira Espiritual">
+		
+		<set name="icon" val="icon.etc_spell_books_efighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Spirit Barrier. Usado por Temple Knights, Sword Singers, Planeswalkers e Silver Rangers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3052" type="EtcItem" name="Livro de Feitiços: Isquiotibiais">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Hamstring. Usado pelos Vingadores Sombrios." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3700" />
+	</item>
+	<item id="3053" type="EtcItem" name="Livro de Feitiços: Bênção Sagrada">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender a Bênção Sagrada. Usado por paladinos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3054" type="EtcItem" name="Livro de Feitiços: Evocar Viper Cubic">
+		
+		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Viper Cubic. Usado por Shillien Knights." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4800" />
+	</item>
+	<item id="3055" type="EtcItem" name="Livro de Feitiços: Ataque Relâmpago">
+		
+		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Levening Strike. Usado por Shillien Knights." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="6750" />
+	</item>
+	<item id="3056" type="EtcItem" name="Livro de Feitiços: Invocar Pantera das Trevas">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Summon Dark Panther. Usado pelos Vingadores Sombrios." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3057" type="EtcItem" name="Livro de Feitiços: Invocar Homem Reanimado">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="O livro de feitiços precisava aprender a invocar o homem reanimado. Usado por Necromantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3058" type="EtcItem" name="Livro de Feitiços: Invocar Homem Corrompido">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="O Livro de Feitiços precisava aprender a Summon Corrupted Man. Usado por Necromantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3059" type="EtcItem" name="Livro de Feitiços: Corpse Burst">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Corpse Burst. Usado por Necromantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4600" />
+	</item>
+	<item id="3060" type="EtcItem" name="Livro de Feitiços: Esquecer">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Esquecer. Usado por Necromantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3061" type="EtcItem" name="Livro de Feitiços: Amaldiçoar A Discórdia">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Curse Discord. Usado por Necromantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3062" type="EtcItem" name="Livro de Feitiços: Amaldiçoar O Medo">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços precisava aprender o feitiço Curse Fear. Usado por Necromancers, Spellsingers, Spellhowlers e Sorcerers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3063" type="EtcItem" name="Livro de Feitiços: Âncora">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Anchor. Usado por Necromantes." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3064" type="EtcItem" name="Livro de Feitiços: Silêncio">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Silêncio. Usado por Necromancers e Spellhowlers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3065" type="EtcItem" name="Livro de Feitiços: Espinho da Morte">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços precisava aprender Death Spike. Usado por Necromancers e Spellhowlers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3066" type="EtcItem" name="Livro de Feitiços: Amaldiçoar Link da Morte">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Curse Death Link. Usado por Necromancers e Spellhowlers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="5400" />
+	</item>
+	<item id="3067" type="EtcItem" name="Livro de Feitiços: Garra Vampírica">
+		
+		<set name="icon" val="icon.etc_spell_books_black_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Vampiric Claw. Usado por Necromancers e Spellhowlers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3068" type="EtcItem" name="Livro de Feitiços: Vitalizar">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Vitalize. Usado por bispos e anciãos élficos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4600" />
+	</item>
+	<item id="3069" type="EtcItem" name="Livro de Feitiços: Repouso">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Repouso. Usado pelos Bispos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3070" type="EtcItem" name="Livro de Feitiços: Segure Mortos-Vivos">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Hold Undead. Usado pelos Bispos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4600" />
+	</item>
+	<item id="3071" type="EtcItem" name="Livro de Feitiços: Réquiem">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Requiem. Usado pelos Bispos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3072" type="EtcItem" name="Livro de Feitiços: Purificar">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Purificar. Usado por bispos e anciãos Shillien." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3073" type="EtcItem" name="Livro de Feitiços: Poder do Céu">
+		
+		<set name="icon" val="icon.etc_spell_books_white_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Might of Heaven. Usado por bispos e anciãos élficos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3074" type="EtcItem" name="Livro de Feitiços: Renda-se ao Vento">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Rendição ao Vento. Usado por Sorcerers e Spellhowlers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3075" type="EtcItem" name="Livro de Feitiços: Círculo Flamejante">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Blazing Circle. Usado por feiticeiros e feiticeiras." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3076" type="EtcItem" name="Livro de Feitiços: Proeminência">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Prominence. Usado por feiticeiros e feiticeiras." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3077" type="EtcItem" name="Livro de Feitiços: Pele Flamejante">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Blazing Skin. Usado por feiticeiros e feiticeiras." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3078" type="EtcItem" name="Livro de Feitiços: Decadência">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Decay. Usado por feiticeiros e feiticeiras." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4600" />
+	</item>
+	<item id="3079" type="EtcItem" name="Livro de Feitiços: Cancelar">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Cancelar. Usado por feiticeiros e feiticeiras." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4600" />
+	</item>
+	<item id="3080" type="EtcItem" name="Livro de Feitiços: Nuvem Adormecida">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Sleeping Cloud. Usado por Sorcerers, SOrceresses e Spellsingers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3081" type="EtcItem" name="Livro de Feitiços: Aura Flare">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Aura Flare. Usado por Sorcerers, SOrceresses e Spellsingers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3082" type="EtcItem" name="Livro de Feitiços: Renda-se à Água">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Rendição à Água. Usado por Spellsingers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3083" type="EtcItem" name="Livro de Feitiços: Parede de Gelo">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Frost Wall. Usado por Spellsingers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="5400" />
+	</item>
+	<item id="3084" type="EtcItem" name="Livro de Feitiços: Grilhão Congelante">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços precisava aprender Freezing Shackle. Usado por Spellsingers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3085" type="EtcItem" name="Livro de Feitiços: Hidro Explosão">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Hidro Explosão. Usado por Spellsingers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3086" type="EtcItem" name="Livro de Feitiços: Frost Bolt">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Frost Bolt. Usado por Spellsingers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3087" type="EtcItem" name="Livro de Feitiços: Adaga de Gelo">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Ice Dagger. Usado por Spellsingers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3088" type="EtcItem" name="Livro de Feitiços: Pele Congelante">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Freezing Skin. Usado por Spellsingers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3089" type="EtcItem" name="Livro de Feitiços: Tempestade">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Tempest. Usado por Spellhowlers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="4600" />
+	</item>
+	<item id="3090" type="EtcItem" name="Livro de Feitiços: Furacão">
+		
+		<set name="icon" val="icon.etc_spell_books_element_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Hurricane. Usado por Spellhowlers." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3091" type="EtcItem" name="Livro de Feitiços: Escudo Mágico do Servo">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Servitor Magic Shield. Usado por Warlocks, Elemental Summoners e Phantom Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3092" type="EtcItem" name="Livro de Feitiços: Escudo Físico Servo">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Servitor Physical Shield. Usado por Warlocks, Elemental Summoners e Phantom Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3093" type="EtcItem" name="Livro de Feitiços: Aceleração do Servo">
+		
+		<set name="icon" val="icon.etc_spell_books_summon_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Servitor Pressa. Usado por Warlocks, Elemental Summoners e Phantom Summoners." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3094" type="EtcItem" name="Livro de Feitiços: Vigor">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Invigor. Usado pelos Profetas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3095" type="EtcItem" name="Livro de Feitiços: Barreira Mágica">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Magic Barrier. Usado pelos Profetas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3096" type="EtcItem" name="Livro de Feitiços: Corpo Abençoado">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender o Corpo Abençoado. Usado pelos Profetas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3097" type="EtcItem" name="Livro de Feitiços: Alma Abençoada">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="O livro de feitiços necessário para aprender a Alma Abençoada. Usado pelos Profetas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+	<item id="3098" type="EtcItem" name="Livro de Feitiços: Retorno">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Return. Usado por profetas e anciãos élficos." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3200" />
+	</item>
+	<item id="3099" type="EtcItem" name="Livro de Feitiços: Pressa">
+		
+		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
+		<set name="item_type" val="spellbook" />
+		<set name="desc" val="Livro de Feitiços necessário para aprender Pressa. Usado pelos Profetas." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="3850" />
+	</item>
+</list>

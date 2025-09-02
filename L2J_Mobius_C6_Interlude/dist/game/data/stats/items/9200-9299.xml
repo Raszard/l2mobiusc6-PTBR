@@ -1,0 +1,115 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="9200" type="Armor" name="Chapéu Jester - Fogo de Artifício">
+		
+		<set name="icon" val="icon.accessory_jester_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu bobo festivo do tipo sombra com 2 pontos. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9201" type="Armor" name="Chapéu do Mago - Fogo de Artifício">
+		
+		<set name="icon" val="icon.accessory_magic_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um chapéu de mago do tipo sombra com aba larga e ponta dobrada. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9202" type="Armor" name="Chapéu Elegante - Fogo de Artifício">
+		
+		<set name="icon" val="icon.accessory_dandy_cap_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo tipo sombra com viseira. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9203" type="Armor" name="Chapeau Romântico - Fogo de Artifício">
+		
+		<set name="icon" val="icon.accessory_romantic_chaperon_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo do tipo sombra adornado com penas. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9204" type="Armor" name="Diadema de Ferro - Fogo de Artifício">
+		
+		<set name="icon" val="icon.accessory_iron_circlet_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo tipo sombra feito de ferro. Usa 2 slots de acessórios de cabelo. Um acessório de cabelo de evento que confere um efeito mágico. Este item não pode ser trocado, descartado ou vendido." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="duration" val="300" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9205" type="EtcItem" name="Chave do Baú do Alquimista">
+		
+		<set name="icon" val="icon.etc_old_key_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma chave para abrir o Baú do Tesouro de um Alquimista. Para uso apenas em eventos" />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9206" type="EtcItem" name="Poção de Cura Superior (Evento)">
+		
+		<set name="icon" val="icon.etc_reagent_white_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que restaura HP rapidamente. Seu efeito dura 15 segundos. Projetado para uso apenas em eventos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9207" type="EtcItem" name="Poção de Cura Rápida (Evento)">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que restaura HP rapidamente. Seu efeito é temporário. Projetado para uso apenas em eventos." />
+		<set name="weight" val="5" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="9208" type="Armor" name="Máscara Fantasma (Evento)">
+		
+		<set name="icon" val="icon.accessary_mask_of_chaotic_i00" />
+		<set name="bodypart" val="dhair" />
+		<set name="desc" val="Um acessório de cabelo emplumado. Este item não pode ser trocado ou descartado." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="0" order="0x10" stat="pDef" />
+		</for>
+	</item>
+</list>

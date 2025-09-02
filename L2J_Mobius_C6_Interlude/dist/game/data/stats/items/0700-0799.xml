@@ -1,0 +1,1054 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="700" type="EtcItem" name="Amuleto Hobgoblin">
+		
+		<set name="icon" val="icon.item_normal05" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O amuleto de um hobgoblin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="701" type="EtcItem" name="Suco de Fungo">
+		
+		<set name="icon" val="icon.item_canuse28" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O suco de um fungo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="702" type="EtcItem" name="Pele de Lobo">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Reúna quarenta peles de lobo e leve-as ao Mercador Leitor da loja de armas e armaduras." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="703" type="EtcItem" name="Saco de Veneno">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Sacos de veneno obtidos da aranha gigante morta. Leve isto ao Sacerdote Yohanes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="704" type="EtcItem" name="Remédio Para Febre">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um remédio preparado pelo Sacerdote Yohanes para os alunos que estão com febre. Leve isso para Elias." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="705" type="EtcItem" name="Amuleto de Orc">
+		
+		<set name="icon" val="icon.item_normal48" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto de pena Orc." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="706" type="EtcItem" name="Garra do Basilisco">
+		
+		<set name="icon" val="icon.item_normal141" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A garra de um basilisco." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="707" type="EtcItem" name="Bolsa de Esporos">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um saco obtido do fungo esporo. Reúna 10 deles e leve-os ao Comerciante Vollodos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="708" type="EtcItem" name="Faixa de Cabeça de Sílfide">
+		
+		<set name="icon" val="icon.item_system03" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A Faixa de Cabeça de Sílfide" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="709" type="EtcItem" name="Camisa de Couro">
+		<set name="icon" val="icon.armor_leather_shirt_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="400" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="710" type="EtcItem" name="Camisa de Couro Duro">
+		<set name="icon" val="icon.armor_leather_shirt_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="400" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="711" type="EtcItem" name="Peça Peitoral de Osso">
+		<set name="icon" val="icon.armor_mithril_banded_mail_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="800" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="712" type="EtcItem" name="Armadura de Meia Placas">
+		<set name="icon" val="icon.armor_dwarven_scale_mail_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="1200" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="713" type="EtcItem" name="Calça de Couro">
+		<set name="icon" val="icon.armor_squires_pants_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="250" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="714" type="EtcItem" name="Calça de Couro Duro">
+		<set name="icon" val="icon.armor_leather_pants_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="715" type="EtcItem" name="Botas de Osso">
+		<set name="icon" val="icon.armor_mithril_banded_gaiters_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="500" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="716" type="EtcItem" name="Botas">
+		<set name="icon" val="icon.armor_dwarven_scale_mail_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="800" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="717" type="EtcItem" name="Luvas de Couro">
+		<set name="icon" val="icon.armor_gauntlet_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="718" type="EtcItem" name="Luvas de Couro Duro">
+		<set name="icon" val="icon.armor_gauntlet_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="719" type="EtcItem" name="Luvas de Couro Artesanal">
+		<set name="icon" val="icon.armor_gauntlet_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="720" type="EtcItem" name="Luvas Reforçadas">
+		<set name="icon" val="icon.armor_gauntlet_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="200" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="721" type="EtcItem" name="Botas de Couro">
+		<set name="icon" val="icon.armor_iron_boots_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="722" type="EtcItem" name="Botas de Couro Duro">
+		<set name="icon" val="icon.armor_iron_boots_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="723" type="EtcItem" name="Botas de Couro Artesanal">
+		<set name="icon" val="icon.armor_feet99" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="200" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="724" type="EtcItem" name="Botas Reforçadas">
+		<set name="icon" val="icon.armor_iron_boots_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="250" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="725" type="EtcItem" name="Droga de Cura">
+		
+		<set name="icon" val="icon.etc_potion_red_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um remédio mágico e líquido que restaura HP por um certo período de tempo." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="726" type="EtcItem" name="Droga de Mana">
+		
+		<set name="icon" val="icon.etc_potion_blue_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um remédio mágico e líquido que restaura MP por um certo período de tempo." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="80" />
+	</item>
+	<item id="727" type="EtcItem" name="Poção de Cura">
+		
+		<set name="icon" val="icon.etc_potion_red_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um remédio mágico e líquido que restaura HP por um certo período de tempo." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="80" />
+	</item>
+	<item id="728" type="EtcItem" name="Poção de Mana">
+		
+		<set name="icon" val="icon.etc_potion_blue_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um remédio mágico e líquido que restaura MP por um certo período de tempo." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="729" type="EtcItem" name="Pergaminho: Encantar Arma (Grau A)">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i04" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta o Atq.F de armas de grau A, como espadas/uma mão, contusões/uma mão, adagas, lanças e etc. Aumentarão em 4. O Atq.F de espada/duas mãos, contusões/duas mãos, espadas duplas e soqueira aumentarão em 5 e arcos em 8. Todas as Armas de Atq.M Aumentarão em 3. Apartir de +4, os bônus adicionados para Atq.F/Atq.M são dobrados. Pode ser encantado com segurança até +3." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1800000" />
+	</item>
+	<item id="730" type="EtcItem" name="Pergaminho: Encantar Armadura (Grau A)">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i04" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Def.F de armadura ou acessórios de grau A em 1, Apartir de +4, a Def.F Aumentarão em 3. Pode ser encantado com segurança até +3. A armadura do tipo peça única pode ser encantada com segurança até +4." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="240000" />
+	</item>
+	<item id="731" type="EtcItem" name="Pergaminho de Cristal: Encantar Arma (Grau A)">
+		
+		<set name="icon" val="IconsCustom.scroll_of_unidentify_wp_a" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que fortalece uma arma de grau A." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="240000" />
+	</item>
+	<item id="732" type="EtcItem" name="Pergaminho de Cristal: Encantar Armadura (Grau A)">
+		
+		<set name="icon" val="IconsCustom.scroll_of_unidentify_am_a" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que fortalece uma armadura de grau A." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="240000" />
+	</item>
+	<item id="733" type="EtcItem" name="Poção do Esforço">
+		
+		<set name="icon" val="icon.etc_lesser_potion_yellow_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um remédio mágico e líquido que aumenta a força de vontade." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="734" type="EtcItem" name="Poção da Pressa">
+		
+		<set name="icon" val="icon.etc_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que aumenta a velocidade de movimento" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="735" type="EtcItem" name="Poção da Alacridade">
+		
+		<set name="icon" val="icon.etc_reagent_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção mágica que aumenta a velocidade de ataque" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2400" />
+	</item>
+	<item id="736" type="EtcItem" name="Pergaminho de Fuga">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que o teleporta para a aldeia mais próxima." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="737" type="EtcItem" name="Pergaminho de Ressurreição">
+		
+		<set name="icon" val="icon.etc_scroll_of_resurrection_i00" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que ressuscita uma pessoa morta." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="738" type="Weapon" name="Espada da Solidariedade">
+		
+		<set name="icon" val="icon.weapon_long_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Uma espada de bronze trabalhada há muito tempo em memória da união entre os humanos e os elfos." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="12" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="9" />
+		<set name="price" val="18500" />
+		<for>
+			<set val="12" order="0x08" stat="pAtk" />
+			<set val="9" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="739" type="EtcItem" name="Cabo da Espada Quebrada">
+		
+		<set name="icon" val="icon.weapon_small_sword_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A parte do cabo da espada da solidariedade. Leve isso para o Ferreiro Alltran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="740" type="EtcItem" name="Parte Inferior da Lâmina Quebrada">
+		
+		<set name="icon" val="icon.weapon_great_sword_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve isso e a parte superior da lâmina para o Ferreiro Alltran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="741" type="EtcItem" name="Parte Superior da Lâmina Quebrada">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Leve isso e a parte inferior da lâmina para o ferreiro Alltran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="742" type="EtcItem" name="Nota de Altran">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta solicitando o cabo da espada de Roien. Leve isso para o Grão-Mestre Roien do Centro de Treinamento de Cedric." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="743" type="Weapon" name="Espada da Sentinela">
+		
+		<set name="icon" val="icon.weapon_broad_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Uma lâmina de aço emitida para aqueles lutadores que foram reconhecidos como protetores da floresta." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="14" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="11" />
+		<set name="price" val="33600" />
+		<for>
+			<set val="14" order="0x08" stat="pAtk" />
+			<set val="11" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="744" type="Weapon" name="Cajado da Sentinela">
+		
+		<set name="icon" val="icon.weapon_cedar_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Um cajado emitido para aqueles mágicos que foram reconhecidos como protetores da floresta." />
+		<set name="weight" val="1800" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="13" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="14" />
+		<set name="price" val="33600" />
+		<for>
+			<set val="13" order="0x08" stat="pAtk" />
+			<set val="14" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="745" type="EtcItem" name="Medicina Cobendell">
+		<set name="icon" val="icon.item_normal40" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="746" type="EtcItem" name="Lista de Alberius">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Entregue o remédio para Sentinel Berros, Sentinel Veltress, Sentinel Rayen e Sentinel Gartrandell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="747" type="Weapon" name="Varinha do Adepto">
+		
+		<set name="icon" val="icon.weapon_apprentices_wand_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="A varinha presenteada aos que terminaram seus estudos na escola de magia." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="11" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="13" />
+		<set name="price" val="25500" />
+		<for>
+			<set val="11" order="0x08" stat="pAtk" />
+			<set val="13" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="748" type="Weapon" name="Varinha de Carvalho de Gallint">
+		
+		<set name="icon" val="icon.weapon_club_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Uma varinha de carvalho encantada pelo feitiço de Gallint. Isso irá capturar e selar os espíritos dos espelhos." />
+		<set name="weight" val="1350" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="10" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="10" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="10" order="0x08" stat="pAtk" />
+			<set val="10" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="749" type="Weapon" name="0">
+		<set name="icon" val="icon.weapon_apprentices_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="100" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="21" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="32" />
+		<set name="price" val="35800" />
+		<set name="crystal_count" val="5" />
+		<set name="dropable" val="false" />
+		<for>
+			<set val="21" order="0x08" stat="pAtk" />
+			<set val="32" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="750" type="EtcItem" name="Cristal de Parentesco">
+		<set name="icon" val="icon.item_normal45" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="751" type="EtcItem" name="Cristal de Parentesco Rachado">
+		<set name="icon" val="icon.item_canuse07" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="752" type="EtcItem" name="Amuleto Orc">
+		
+		<set name="icon" val="icon.etc_feather_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um amuleto que os Orcs carregam para propósitos mágicos. Leve isto ao Capitão Gilbert." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="753" type="EtcItem" name="Broche Folha de Prata">
+		<set name="icon" val="icon.item_normal12" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="754" type="Weapon" name="Funcionários Red Sunset">
+		
+		<set name="icon" val="icon.weapon_cedar_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Um cajado usado por guerreiros pertencentes ao clã Red Sunset." />
+		<set name="weight" val="1700" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="13" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="13" />
+		<set name="price" val="25500" />
+		<for>
+			<set val="13" order="0x08" stat="pAtk" />
+			<set val="13" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="755" type="EtcItem" name="Carta de Colleen">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="756" type="EtcItem" name="Raiz de Mandrágora">
+		<set name="icon" val="icon.item_normal17" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="757" type="EtcItem" name="Essência de Mandrágora">
+		<set name="icon" val="icon.item_canuse28" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="758" type="EtcItem" name="Recibo de Colleen">
+		<set name="icon" val="icon.item_normal50" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="759" type="EtcItem" name="Espada Rúnica Gravada">
+		<set name="icon" val="icon.weapon_1hs21" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="760" type="EtcItem" name="Espada Macabra">
+		<set name="icon" val="icon.weapon_1hs20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="761" type="EtcItem" name="Espada Thanatos">
+		<set name="icon" val="icon.weapon_2hs02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="762" type="EtcItem" name="Lasca de Osso Cinzento">
+		<set name="icon" val="icon.item_normal05" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="763" type="EtcItem" name="Carta de Ester">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="764" type="EtcItem" name="Carta de Arbon">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="765" type="EtcItem" name="Lista de Conspiradores">
+		<set name="icon" val="icon.item_canuse15" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="766" type="EtcItem" name="Sinete de Sabrin">
+		<set name="icon" val="icon.armor_finger02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="767" type="EtcItem" name="Pergaminho Selado">
+		<set name="icon" val="icon.item_canuse15" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="768" type="EtcItem" name="Chave de Oyen">
+		<set name="icon" val="icon.item_normal26" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="769" type="EtcItem" name="Caveira do Ricardo">
+		<set name="icon" val="icon.armor_head15" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="770" type="EtcItem" name="Escudo de Honra">
+		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="771" type="EtcItem" name="Crânio de Saythus">
+		<set name="icon" val="icon.item_normal05" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="772" type="EtcItem" name="Crânio de Trayer">
+		<set name="icon" val="icon.item_normal05" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="773" type="EtcItem" name="Crânio de Falimar">
+		<set name="icon" val="icon.item_normal05" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="774" type="EtcItem" name="Espada de Honra Caída">
+		<set name="icon" val="icon.weapon_1hs04" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="775" type="EtcItem" name="Espada de Honra">
+		<set name="icon" val="icon.weapon_1hs05" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="776" type="EtcItem" name="Espada Sem Nome">
+		<set name="icon" val="icon.weapon_1hs23" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="777" type="EtcItem" name="Espada de Gelo Negro">
+		<set name="icon" val="icon.weapon_1hs11" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="778" type="EtcItem" name="Carta de Arodin">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="779" type="EtcItem" name="Anel de Sabrin">
+		<set name="icon" val="icon.armor_finger01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="780" type="EtcItem" name="Carta de Arbon">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="781" type="EtcItem" name="Colar de Madclaw">
+		<set name="icon" val="icon.armor_neck02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="782" type="EtcItem" name="Carta de Alex">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="783" type="EtcItem" name="Recibo de Alex">
+		<set name="icon" val="icon.item_normal50" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="784" type="EtcItem" name="Adaga de Vidro">
+		<set name="icon" val="icon.weapon_ss02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="785" type="EtcItem" name="Adaga de Vidro Quebrado">
+		<set name="icon" val="icon.weapon_ss03" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="786" type="EtcItem" name="Adaga da Guarda Sombria">
+		<set name="icon" val="icon.weapon_ss04" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="787" type="EtcItem" name="Chave de Coroli">
+		<set name="icon" val="icon.item_normal26" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="788" type="EtcItem" name="Colar de Ônix Meia-Noite">
+		<set name="icon" val="icon.armor_neck01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="789" type="EtcItem" name="Música: Sussurro do Luar">
+		<set name="icon" val="icon.item_canuse34" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="790" type="EtcItem" name="Sangue de Aço Kris">
+		<set name="icon" val="icon.weapon_ss09" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="791" type="EtcItem" name="Crânio de Karlun">
+		<set name="icon" val="icon.armor_head15" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="792" type="EtcItem" name="Osso da Costela de Karlun">
+		<set name="icon" val="icon.item_normal05" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="793" type="EtcItem" name="Osso da Coxa de Karlun">
+		<set name="icon" val="icon.item_normal05" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="794" type="EtcItem" name="Urna de Freixo do Santo">
+		<set name="icon" val="icon.item_normal40" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="795" type="EtcItem" name="Maça de Athebaldt">
+		<set name="icon" val="icon.weapon_mace13" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="796" type="EtcItem" name="Carta de Roien">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta na qual Roien resumiu as informações históricas relacionadas à espada da solidariedade. Leve isso para o ferreiro Alltran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="797" type="EtcItem" name="Carta de Manoel">
+		<set name="icon" val="icon.item_normal06" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="798" type="EtcItem" name="Carta de Varan">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="799" type="EtcItem" name="Carta de Groot">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

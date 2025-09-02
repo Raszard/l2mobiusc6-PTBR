@@ -1,0 +1,24 @@
+ago. 31, 2025 6:28:01 PM org.l2jmobius.gameserver.data.sql.OfflineTraderTable restoreOfflineTraders
+ADVERTÊNCIA: OfflineTraderTable: Error while loading offline traders: 
+java.sql.SQLSyntaxErrorException: (conn=2649) Table 'l2jmobiusc6.character_offline_trade' doesn't exist
+	at org.mariadb.jdbc.internal.util.exceptions.ExceptionFactory.createException(ExceptionFactory.java:62)
+	at org.mariadb.jdbc.internal.util.exceptions.ExceptionFactory.create(ExceptionFactory.java:158)
+	at org.mariadb.jdbc.MariaDbStatement.executeExceptionEpilogue(MariaDbStatement.java:266)
+	at org.mariadb.jdbc.MariaDbStatement.executeInternal(MariaDbStatement.java:366)
+	at org.mariadb.jdbc.MariaDbStatement.executeQuery(MariaDbStatement.java:615)
+	at org.l2jmobius.gameserver.data.sql.OfflineTraderTable.restoreOfflineTraders(OfflineTraderTable.java:172)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:426)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:506)
+Caused by: org.mariadb.jdbc.internal.util.exceptions.MariaDbSqlException: Table 'l2jmobiusc6.character_offline_trade' doesn't exist
+	at org.mariadb.jdbc.internal.util.exceptions.MariaDbSqlException.of(MariaDbSqlException.java:34)
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.exceptionWithQuery(AbstractQueryProtocol.java:194)
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.executeQuery(AbstractQueryProtocol.java:262)
+	at org.mariadb.jdbc.MariaDbStatement.executeInternal(MariaDbStatement.java:360)
+	... 4 more
+Caused by: java.sql.SQLException: Table 'l2jmobiusc6.character_offline_trade' doesn't exist
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.readErrorPacket(AbstractQueryProtocol.java:1695)
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.readPacket(AbstractQueryProtocol.java:1557)
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.getResult(AbstractQueryProtocol.java:1520)
+	at org.mariadb.jdbc.internal.protocol.AbstractQueryProtocol.executeQuery(AbstractQueryProtocol.java:256)
+	... 5 more
+

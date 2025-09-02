@@ -1,0 +1,11 @@
+10/07/2023 19:59:01>Charllote [268477658]>admin_admin>Andreza>
+10/07/2023 19:59:02>Charllote [268477658]>admin_admin4>Andreza>
+10/07/2023 19:59:03>Charllote [268477658]>admin_admin>Andreza>
+10/07/2023 19:59:05>Charllote [268477658]>admin_create_item>Andreza>
+10/07/2023 19:59:12>Charllote [268477658]>admin_create_item>Andreza> 9504 10
+10/07/2023 19:59:15>Charllote [268477658]>admin_admin>Charllote>
+10/07/2023 19:59:16>Charllote [268477658]>admin_create_item>Charllote>
+10/07/2023 19:59:23>Charllote [268477658]>admin_mass_create>Charllote>
+10/07/2023 19:59:29>Charllote [268477658]>admin_admin>Charllote>
+10/07/2023 19:59:30>Charllote [268477658]>admin_create_item>Charllote>
+10/07/2023 19:59:37>Charllote [268477658]>admin_create_item>Charllote> 9504 10

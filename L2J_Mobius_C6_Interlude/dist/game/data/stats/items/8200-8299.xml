@@ -1,0 +1,1079 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="8200" type="EtcItem" name="Poção do Pescador - Branca">
+		
+		<set name="icon" val="icon.etc_oblivion_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Diminui o nível de habilidade de pesca, esta poção permite pegar um peixe branco (nível 22 ~ 24 peixes). Se usar uma poção maior que sua habilidade de pesca, a poção não terá efeito." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8201" type="EtcItem" name="Poção do Pescador - Preto">
+		
+		<set name="icon" val="icon.etc_oblivion_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Diminui o nível de habilidade de pesca, esta poção permite pegar um peixe verde (nível de 25 a 27 peixes). Se usar uma poção maior que sua habilidade de pesca, a poção não terá efeito." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8202" type="EtcItem" name="Poção de Pesca">
+		
+		<set name="icon" val="icon.etc_oblivion_black_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Restaura o nível de maestria de pesca de um jogador, que foi reduzido pela Poção do Pescador, de volta ao nível anterior." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8203" type="Weapon" name="Monster Only (Venom Sword)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8204" type="Weapon" name="Monster Only (Seguidor de Frintezza Calibur)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8205" type="Weapon" name="Monster Only (Heretic Priest Sickle)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1920" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8206" type="Weapon" name="Monster Only (Espada do Sacerdote Herege)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2080" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8207" type="Weapon" name="Monster Only (Heretic Private Axe)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8208" type="Weapon" name="Monster Only (Heretic Private Staff)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8209" type="Weapon" name="Monster Only (Lidia Von Helmann Sword)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8210" type="Weapon" name="Monster Only (Monk Warrior Shield)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="4800" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="230" />
+		<set name="shield_def_rate" val="20" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="230" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+		</for>
+	</item>
+	<item id="8211" type="Weapon" name="Monster Only (Monk Warrior Sword)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8212" type="Weapon" name="Monster Only (Solina Brother Mace)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1570" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8213" type="Weapon" name="Monster Only (Solina Father Mace)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1570" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8214" type="Weapon" name="Monster Only (Solina Priest Pole)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1920" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8215" type="Weapon" name="Monster Only (Zombie Enlisted Man Sword)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2090" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="00" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8216" type="Weapon" name="Monster Only (Zombie Enlisted Man Claw)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1350" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8217" type="Weapon" name="Monster Only (Zombie Gateguard Spear)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8218" type="Weapon" name="Monster Only (Zombie Laborer Axe)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1570" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8219" type="Weapon" name="Monster Only (Zombie Laborer Sword)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8220" type="Weapon" name="Monster Only (Apóstolo Graal Bow)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1950" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="1" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8221" type="Weapon" name="Monster Only (Apostle Grail Spear)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1920" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8222" type="Weapon" name="Monster Only (Seguidor de Frintezza Tran Calibur)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="8223" type="EtcItem" name="Semente: Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ela dará o fruto do Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8224" type="EtcItem" name="Semente: Codran Grande">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ela produzirá o fruto do Codran Grande. Para obter melhores resultados, um personagem de nível 56-66 deve plantá-lo em um monstro de nível 56-66." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75" />
+	</item>
+	<item id="8225" type="EtcItem" name="Semente: Codran do Deserto">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ela dará o fruto do Codran do Deserto. Para obter melhores resultados, um personagem de nível 59-69 deve plantá-lo em um monstro de nível 59-69." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="8226" type="EtcItem" name="Semente: Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="8227" type="EtcItem" name="Semente: Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="8228" type="EtcItem" name="Semente: Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="8229" type="EtcItem" name="Semente: Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto do Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="8230" type="EtcItem" name="Semente: Alternativo Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ela dará o fruto do Alternativo Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8231" type="EtcItem" name="Semente: Alternativo Codran Grande">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ela dará o fruto do Codran Grande Alternativo. Para obter melhores resultados, um personagem de nível 56-66 deve plantá-lo em um monstro de nível 56-66." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="75" />
+	</item>
+	<item id="8232" type="EtcItem" name="Semente: Alternativo Codran do Deserto">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ela dará o fruto do Codran do Deserto Alternativo. Para obter melhores resultados, um personagem de nível 59-69 deve plantá-lo em um monstro de nível 59-69." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="8233" type="EtcItem" name="Semente: Alternativa Coba Azul">
+		
+		<set name="icon" val="icon.etc_blue_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Alternativa Coba Azul. Para obter melhores resultados, um personagem de nível 62-72 deve plantá-lo em um monstro de nível 62-72." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+	</item>
+	<item id="8234" type="EtcItem" name="Semente: Alternativa Coba Vermelha">
+		
+		<set name="icon" val="icon.etc_red_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Alternativa Coba Vermelha. Para obter melhores resultados, um personagem de nível 65-75 deve plantá-lo em um monstro de nível 65-75." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="8235" type="EtcItem" name="Semente: Alternativa Coba Dourada">
+		
+		<set name="icon" val="icon.etc_golden_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ele dará o fruto da Alternativa Coba Dourada. Para obter melhores resultados, um personagem de nível 68-78 deve plantá-lo em um monstro de nível 68-78." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="650" />
+	</item>
+	<item id="8236" type="EtcItem" name="Semente: Alternativa Coba do Deserto">
+		
+		<set name="icon" val="icon.etc_desert_coba_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Rune e ela produzirá o fruto da Alternativa Coba do Deserto. Para melhores resultados, um personagem de nível 71-81 deve plantá-lo em um monstro de nível 71-81." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="750" />
+	</item>
+	<item id="8237" type="EtcItem" name="Semente: Coda das Trevas">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro nas proximidades de Schuttgart e ela dará o fruto da Coda das Trevas. Para a melhor chance de sucesso, deve ser plantado por um personagem cujo nível esteja entre 5-15 em um monstro cujo nível esteja entre 5-15." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="8238" type="EtcItem" name="Semente: Coda Vermelha">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro nas proximidades de Schuttgart e ela dará o fruto da Coda Vermelha. Para a melhor chance de sucesso, deve ser plantado por um personagem cujo nível esteja entre 8-18 em um monstro cujo nível esteja entre 8-18." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="8239" type="EtcItem" name="Semente: Coda Fria">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto da Coda Fria. Para obter melhores resultados, um personagem de nível 11-21 deve plantá-lo em um monstro de nível 11-21." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="8240" type="EtcItem" name="Semente: Coda Azul">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro nas proximidades de Schuttgart e ela dará o fruto da Coda Azul. Para a melhor chance de sucesso, deve ser plantado por um personagem cujo nível esteja entre 14-24 em um monstro cujo nível esteja entre 14-24." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="8241" type="EtcItem" name="Semente: Coda Dourada">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro nas proximidades de Schuttgart e ela dará o fruto da Coda Dourada. Para a melhor chance de sucesso, deve ser plantado por um personagem cujo nível esteja entre 17-27 em um monstro cujo nível esteja entre 17-27." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="8242" type="EtcItem" name="Semente: Coda Alaúde ">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro nas proximidades de Schuttgart e ela dará o fruto da Coda Alaúde. Para a melhor chance de sucesso, deve ser plantado por um personagem cujo nível esteja entre 20-30 em um monstro cujo nível esteja entre 20-30." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30" />
+	</item>
+	<item id="8243" type="EtcItem" name="Semente: Coda do Deserto">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro nas proximidades de Schuttgart e ela dará o fruto da Coda do Deserto. Para a melhor chance de sucesso, deve ser plantado por um personagem cujo nível esteja entre 23-33 em um monstro cujo nível esteja entre 23-33." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="8244" type="EtcItem" name="Semente: Cobol Vermelho">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Cobol Vermelho. Para obter melhores resultados, um personagem de nível 26-36 deve plantá-lo em um monstro de nível 26-36." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="8245" type="EtcItem" name="Semente: Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="8246" type="EtcItem" name="Semente: Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8247" type="EtcItem" name="Semente: Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8248" type="EtcItem" name="Semente: Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8249" type="EtcItem" name="Semente: Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela produzirá o fruto do Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8250" type="EtcItem" name="Semente: Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela produzirá o fruto do Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="8251" type="EtcItem" name="Semente: Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Codran do Mar. Para melhores resultados, um personagem de nível 45-55 deve plantá-lo em um monstro de nível 45-55." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8252" type="EtcItem" name="Semente: Codran Frio">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Codran Frio. Para obter melhores resultados, um personagem de nível 47-57 deve plantá-lo em um monstro de nível 47-57." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="8253" type="EtcItem" name="Semente: Codran Azul">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Codran Azul. Para obter melhores resultados, um personagem de nível 50-60 deve plantá-lo em um monstro de nível 50-60." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8254" type="EtcItem" name="Semente: Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8255" type="EtcItem" name="Semente: Alternativa Coda das Trevas">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto da Alternativa Coda das Trevas. Para melhores resultados, um personagem de nível 5-15 deve plantá-lo em um monstro de nível 5-15." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="8256" type="EtcItem" name="Semente: Alternativa Coda Vermelha">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto da Alternativa Coda Vermelha. Para obter melhores resultados, um personagem de nível 8-18 deve plantá-lo em um monstro de nível 8-18." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="8257" type="EtcItem" name="Semente: Alternativa Coda Fria">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto da Alternativa Coda Fria. Para obter melhores resultados, um personagem de nível 11-21 deve plantá-lo em um monstro de nível 11-21." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5" />
+	</item>
+	<item id="8258" type="EtcItem" name="Semente: Alternativa Coda Azul">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto da Alternativa Coda Azul. Para melhores resultados, um personagem de nível 14-24 deve plantá-lo em um monstro de nível 14-24." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10" />
+	</item>
+	<item id="8259" type="EtcItem" name="Semente: Alternativa Coda Dourada">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto da Alternativa Coda Dourada. Para obter melhores resultados, um personagem de nível 17-27 deve plantá-lo em um monstro de nível 17-27." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="8260" type="EtcItem" name="Semente: Alternativa Coda Alaúde">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto da Alternativa Coda Alaúde. Para obter melhores resultados, um personagem de nível 20-30 deve plantá-lo em um monstro de nível 20-30." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="30" />
+	</item>
+	<item id="8261" type="EtcItem" name="Semente: Alternativa Coda do Deserto">
+		
+		<set name="icon" val="icon.etc_coda_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto da Alternativa Coda do Deserto. Para obter melhores resultados, um personagem de nível 23-33 deve plantá-lo em um monstro de nível 23-33." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="8262" type="EtcItem" name="Semente: Alternativo Cobol Vermelho">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativo Cobol Vermelho. Para obter melhores resultados, um personagem de nível 26-36 deve plantá-lo em um monstro de nível 26-36." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="20" />
+	</item>
+	<item id="8263" type="EtcItem" name="Semente: Alternativo Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativa Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="8264" type="EtcItem" name="Semente: Alternativo Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativo Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8265" type="EtcItem" name="Semente: Alternativo Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativa Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8266" type="EtcItem" name="Semente: Alternativo Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativo Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8267" type="EtcItem" name="Semente: Alternativo Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativo Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="8268" type="EtcItem" name="Semente: Alternativo Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativo Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="8269" type="EtcItem" name="Semente: Alternativo Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativo Codran do Mar. Para melhores resultados, um personagem de nível 45-55 deve plantá-lo em um monstro de nível 45-55." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8270" type="EtcItem" name="Semente: Alternativa Codran Frio">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativa Codran Frio. Para obter melhores resultados, um personagem de nível 47-57 deve plantá-lo em um monstro de nível 47-57." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="8271" type="EtcItem" name="Semente: Alternativo Codran Azul">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativo Codran Azul. Para obter melhores resultados, um personagem de nível 50-60 deve plantá-lo em um monstro de nível 50-60." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8272" type="EtcItem" name="Semente: Alternativo Codran Duplo">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Schuttgart e ela dará o fruto do Alternativo Codran Duplo. Para melhores resultados, um personagem de nível 53-63 deve plantá-lo em um monstro de nível 53-63." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="8273" type="EtcItem" name="Chave da Antecâmara">
+		
+		<set name="icon" val="icon.etc_old_key_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre a porta para uma das Ante-salas dentro do Pagan`s Temple." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8274" type="EtcItem" name="Chave da Capela">
+		
+		<set name="icon" val="icon.etc_old_key_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre a porta da capela no Pagan`s Temple." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8275" type="EtcItem" name="Chave da Escuridão">
+		
+		<set name="icon" val="icon.etc_old_key_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A chave que abre a Porta das Trevas localizada no altar dentro do Pagan`s Temple." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8276" type="EtcItem" name="Escamas de Sekina">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A escala obtida ao derrotar Sekina, a Bruxa de Malruk." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8277" type="EtcItem" name="Escamas de Themis">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Obtenha esta balança derrotando a rainha Palibati Themis." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8278" type="EtcItem" name="Estilhaço Vermelhão">
+		
+		<set name="icon" val="icon.etc_bark_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Detritos obtidos ao derrotar Vermilion, a Árvore de Sangue." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8279" type="EtcItem" name="Núcleo de Hekaton Prime">
+		
+		<set name="icon" val="icon.etc_bead_silver_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Núcleo obtido ao derrotar Hekaton Prime" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8280" type="EtcItem" name="Estilhaço Tiphon">
+		
+		<set name="icon" val="icon.etc_gargoyle_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Detritos obtidos ao derrotar Tiphon, Gargoyle Lord." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8281" type="EtcItem" name="Núcleo de Glik">
+		
+		<set name="icon" val="icon.etc_bead_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Núcleo obtido ao derrotar Glaki, o último gigante menor." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8282" type="EtcItem" name="Presa de Rahha">
+		
+		<set name="icon" val="icon.etc_fang_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Presas obtidas ao derrotar Rahha." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8283" type="EtcItem" name="Picada de Abelha Venenosa Gigante">
+		
+		<set name="icon" val="icon.etc_sting_a_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Evidência de que um monstro foi destruído para a segurança da Strip Mine. Leve-o ao Armazém Norman em Gludin Village." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8284" type="EtcItem" name="Joia Nublada">
+		
+		<set name="icon" val="icon.etc_oriharukon_ore_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Evidência de que um monstro foi destruído para a segurança da Strip Mine. Leve-o ao Armazém Norman em Gludin Village." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8285" type="EtcItem" name="Garra do Jovem Araneid">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Evidência de que um monstro foi destruído para a segurança da Strip Mine. Leve-o ao Armazém Norman em Gludin Village." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8286" type="EtcItem" name="Suspiro de Fada">
+		
+		<set name="icon" val="icon.etc_dragons_blood_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O último suspiro da louca Fada do Vento. Leve-o para Galatea, Invocador da Gludin Village, para estudar o equilíbrio do poder espiritual." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8287" type="EtcItem" name="Pedra Estrela">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A Pedra da Estrela que escapou da caixa." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8288" type="EtcItem" name="Carta da Yumi">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta de Yumi para Newyear, o Ferreiro Chefe." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8289" type="EtcItem" name="Pedra da Estrela">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="The Pedra da Estrela that Yumi asked you to find e bring back." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8290" type="EtcItem" name="Flor de Pavel">
+		
+		<set name="icon" val="icon.etc_flower_i02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A estranha flor de Atlanta." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8291" type="EtcItem" name="Coração de Atlanta">
+		
+		<set name="icon" val="icon.etc_inf_ore_medium_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pedra encontrada onde Atlanta foi vista pela última vez. Deve ser dado a Wendy." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8292" type="EtcItem" name="Colar da Wendy">
+		
+		<set name="icon" val="icon.accessary_necklace_of_devotion_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O colar que se tornou o último presente de Wendy. Não é poderoso, mas tem grande significado histórico." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8293" type="EtcItem" name="Licença de Instrutor">
+		
+		<set name="icon" val="icon.etc_paper_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Mark precisava participar de uma Guerra do Clan Hall." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="8294" type="EtcItem" name="Receita: Espada de Aço (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar uma Espada de Aço só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8180" />
+	</item>
+	<item id="8295" type="EtcItem" name="Receita: Titan Sword (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar uma Espada do Titã só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 3. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="28000" />
+	</item>
+	<item id="8296" type="EtcItem" name="Receita: Espada Pa'Agrian (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar uma Espada do Titã só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="86000" />
+	</item>
+	<item id="8297" type="EtcItem" name="Receita: Espada do Guardião (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar uma Espada Guardiã só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="8298" type="EtcItem" name="Receita: Espada do Guardião (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para a Espada do Guardião. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="262000" />
+	</item>
+	<item id="8299" type="EtcItem" name="Receita: Mestre Infernal (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta fórmula para fabricar um Mestre Infernal só pode ser usada por Anões e Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="366000" />
+	</item>
+</list>

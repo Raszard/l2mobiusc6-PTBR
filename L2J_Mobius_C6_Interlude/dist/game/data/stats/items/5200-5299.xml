@@ -1,0 +1,1077 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5200" type="EtcItem" name="Chave do Baú - Grau 5">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 30 com uma taxa de sucesso de 60%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="5201" type="EtcItem" name="Chave do Baú - Grau 4">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 40 com uma taxa de sucesso de 60%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="5202" type="EtcItem" name="Chave do Baú - Grau 3">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de tesouro de nível 50 com uma taxa de sucesso de 60%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="5203" type="EtcItem" name="Chave do Baú - Grau 2">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de nível 60 com uma taxa de sucesso de 60%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="5204" type="EtcItem" name="Chave do Baú - Grau 1">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Abre um baú de nível 70 com uma taxa de sucesso de 60%. ao abrir um baú de tesouro de nível superior, a taxa de sucesso diminuirá." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="5205" type="EtcItem" name="Bilhete do Mercenário (Espada/Estático)">
+		
+		<set name="icon" val="icon.mticket_sword_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Espada/Estático" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5206" type="EtcItem" name="Bilhete do Mercenário (Lança/Estático)">
+		
+		<set name="icon" val="icon.mticket_pole_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Lança/Estático" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5207" type="EtcItem" name="Bilhete do Mercenário (Arco/Estático)">
+		
+		<set name="icon" val="icon.mticket_bow_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Arco/Estático" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5208" type="EtcItem" name="Bilhete do Mercenário (Clérigo/Estático)">
+		
+		<set name="icon" val="icon.mticket_cleric_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Clérigo/Estático" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5209" type="EtcItem" name="Bilhete do Mercenário (Assistente/Estático)">
+		
+		<set name="icon" val="icon.mticket_wizard_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Wizard/Estático" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5210" type="EtcItem" name="Bilhete do Mercenário (Espada/Móvel)">
+		
+		<set name="icon" val="icon.mticket_sword_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Espada/Móvel" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5211" type="EtcItem" name="Bilhete do Mercenário (Lança/Móvel)">
+		
+		<set name="icon" val="icon.mticket_pole_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Lança/Móvel" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5212" type="EtcItem" name="Bilhete do Mercenário (Arco/Móvel)">
+		
+		<set name="icon" val="icon.mticket_bow_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/arco/móvel" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5213" type="EtcItem" name="Bilhete do Mercenário (Clérigo/Móvel)">
+		
+		<set name="icon" val="icon.mticket_cleric_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Clérigo/Móvel" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5214" type="EtcItem" name="Bilhete do Mercenário (Assistente/Móvel)">
+		
+		<set name="icon" val="icon.mticket_wizard_move_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Wizard/Móvel" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5215" type="EtcItem" name="Bilhete do Mercenário (Teleporter1)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Teletransportador/Castelo Interior, Guarda" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5216" type="Armor" name="Armadura de Lobo Nível 75">
+		<set name="icon" val="icon.etc_pet_armor_i02" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="71" />
+		<set name="m_def" val="58" />
+		<set name="price" val="938705" />
+		<for>
+			<add val="71" order="0x10" stat="pDef" />
+			<add val="58" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="5217" type="Weapon" name="Arma do Lobo Nível 75">
+		<set name="icon" val="icon.etc_pet_arms_i02" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="" />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="194" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pet" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="277" />
+		<set name="m_dam" val="136" />
+		<set name="price" val="61084" />
+		<for>
+			<add val="194" order="0x10" stat="pAtk" />
+			<add val="136" order="0x10" stat="mAtk" />
+			<set val="80" order="0x08" stat="rCrit" />
+			<set val="304" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="5218" type="EtcItem" name="Bilhete do Mercenário (Teleporter2)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Teletransportador/Castelo Externo, Guardião" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5219" type="EtcItem" name="Bilhete do Mercenário (Teleporter3)">
+		
+		<set name="icon" val="icon.mticket_teleporter_fix_i00" />
+		<set name="item_type" val="castle_guard" />
+		<set name="desc" val="Innadril/Teletransportador/Castelo Interior, Castelo Exterior" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5220" type="EtcItem" name="Endurecedor de Metal">
+		
+		<set name="icon" val="icon.etc_plate_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente usado pelos Anões. Ele é projetado especificamente para ser usado para criar itens de grau C. Disponível em lojas em geral." />
+		<set name="weight" val="2" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="5221" type="EtcItem" name="Semente: Cobol Frio">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Cobol Frio. Para obter melhores resultados, um personagem de nível 29-39 deve plantá-lo em um monstro de nível 29-39." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="25" />
+	</item>
+	<item id="5222" type="EtcItem" name="Semente: Cobol Azul">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Cobol Azul. Para obter melhores resultados, um personagem de nível 32-42 deve plantá-lo em um monstro de nível 32-42." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5223" type="EtcItem" name="Semente: Cobol Espinhento">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Cobol Espinhento. Para obter melhores resultados, um personagem de nível 35-45 deve plantá-lo em um monstro de nível 35-45." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5224" type="EtcItem" name="Semente: Cobol Dourado">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Cobol Dourado. Para obter melhores resultados, um personagem de nível 38-48 deve plantá-lo em um monstro de nível 38-48." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5225" type="EtcItem" name="Semente: Cobol Grande">
+		
+		<set name="icon" val="icon.etc_cobol_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Cobol Grande. Para melhores resultados, um personagem de nível 41-51 deve plantá-lo em um monstro de nível 41-51." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5226" type="EtcItem" name="Semente: Codran Vermelho">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Codran Vermelho. Para obter melhores resultados, um personagem de nível 44-54 deve plantá-lo em um monstro de nível 44-54." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="40" />
+	</item>
+	<item id="5227" type="EtcItem" name="Semente: Codran do Mar">
+		
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="seed" />
+		<set name="desc" val="Plante esta semente em um monstro na área de Innadril e ela dará o fruto do Codran do Mar. Para melhores resultados, um personagem de nível 45-55 deve plantá-lo em um monstro de nível 45-55." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="5228" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5229" type="EtcItem" name="Lixo">
+		<set name="icon" val="icon.etc_codran_seed_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5230" type="EtcItem" name="Receita: Flecha de Mithril (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Flecha de Mithril. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="80000" />
+	</item>
+	<item id="5231" type="EtcItem" name="Receita: Endurecedor de Metal (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um endurecedor de metal. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2800" />
+	</item>
+	<item id="5232" type="EtcItem" name="Tecido Branco">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um grande pedaço de pano branco dado pelo Magistrada Hanellin. Mate Guardian Angels e Seal Angels e molhe o pano com o sangue deles." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5233" type="Weapon" name="Keshanberk*Keshanberk">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Vel. Atq. aumentará 8%. Inflige dano adicional ao alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2080" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="259" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="price" val="18300000" />
+		<set name="crystal_count" val="1464" />
+		<for>
+			<set val="259" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<mul val="1.08" order="0x30" stat="pAtkSpd">
+				<and>
+					<using slotitem="5233;14;4" />
+				</and>
+			</mul>
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="5234" type="EtcItem" name="Poção Misteriosa">
+		
+		<set name="icon" val="icon.etc_lesser_potion_clear_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="A lenda diz que se você beber esta poção sua cabeça crescerá! Acredite se quiser!" />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="5235" type="EtcItem" name="Poção Troca Rosto - A">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda a aparência facial para o Tipo A. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5236" type="EtcItem" name="Poção Troca Rosto - B">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda a aparência facial para o Tipo B. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5237" type="EtcItem" name="Poção Troca Rosto - C">
+		
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda a aparência facial para o Tipo C. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5238" type="EtcItem" name="Poção Tintura - A">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda a cor do cabelo para o Tipo A. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5239" type="EtcItem" name="Poção Tintura - B">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda a cor do cabelo para o Tipo B. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5240" type="EtcItem" name="Poção Tintura - C">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda a cor do cabelo para Tipo C. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5241" type="EtcItem" name="Poção Tintura - D">
+		
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda a cor do cabelo para o Tipo D. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5242" type="EtcItem" name="Poção Estilo de Cabelo - A">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda o estilo de cabelo para o Tipo A. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5243" type="EtcItem" name="Poção Estilo de Cabelo - B">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda o estilo de cabelo para o Tipo B. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5244" type="EtcItem" name="Poção Estilo de Cabelo - C">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda o estilo de cabelo para o Tipo C. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5245" type="EtcItem" name="Poção Estilo de Cabelo - D">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda o estilo de cabelo para o Tipo D. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5246" type="EtcItem" name="Poção Estilo de Cabelo - E">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda o estilo de cabelo para o Tipo E. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5247" type="EtcItem" name="Poção Estilo de Cabelo - F">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda o estilo de cabelo para o Tipo F. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5248" type="EtcItem" name="Poção Estilo de Cabelo - G">
+		
+		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Uma poção de beleza que muda o estilo de cabelo para o Tipo G. Pode ser usada por personagens masculinos ou femininos. Os resultados podem ser vistos na tela de criação de personagem." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="24000" />
+	</item>
+	<item id="5249" type="EtcItem" name="Item Comemorativo: Primeiro Aniversário do Serviço Lineage II">
+		
+		<set name="icon" val="icon.etc_l2_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Após o término do evento, este item é trocado por um item real através de sorteio." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="5250" type="EtcItem" name="Pacote Compactado de Soulshots Superior: Sem Grau">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de soulshots compactados. Após o uso, transforma-se em 1000 soulshots sem grau." />
+		<set name="weight" val="600" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="7700" />
+	</item>
+	<item id="5251" type="EtcItem" name="Pacote Compactado de Soulshots Superior: Grau D">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de soulshots compactados. Após o uso, transforma-se em 1000 soulshots de grau D." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="11000" />
+	</item>
+	<item id="5252" type="EtcItem" name="Pacote Compactado de Soulshots Superior: Grau C">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de soulshots compactados. Após o uso, transforma-se em 1000 soulshots de grau C." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="16500" />
+	</item>
+	<item id="5253" type="EtcItem" name="Pacote Compactado de Soulshots Superior: Grau B">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de soulshots compactados. Após o uso, transforma-se em 1000 soulshots de grau B." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="55000" />
+	</item>
+	<item id="5254" type="EtcItem" name="Pacote Compactado de Soulshots Superior: Grau A">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de soulshots compactados. Após o uso, transforma-se em 1000 soulshots de grau A." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="88000" />
+	</item>
+	<item id="5255" type="EtcItem" name="Pacote Compactado de Soulshots Superior: Grau S">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de soulshots compactados. Após o uso, transforma-se em 1000 soulshots de grau S." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="120000" />
+	</item>
+	<item id="5256" type="EtcItem" name="Pacote Compactado de Spiritshots Superior: Sem Grau">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots compactados. Após o uso, transforma-se em 1000 spiritshots sem grau." />
+		<set name="weight" val="750" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="16500" />
+	</item>
+	<item id="5257" type="EtcItem" name="Pacote Compactado de Spiritshots Superior: Grau D">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots compactados. Após o uso, transforma-se em 1000 spiritshots de grau D." />
+		<set name="weight" val="750" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="19800" />
+	</item>
+	<item id="5258" type="EtcItem" name="Pacote Compactado de Spiritshots Superior: Grau C">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots compactados. Após o uso, transforma-se em 1000 spiritshots de grau C." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="38500" />
+	</item>
+	<item id="5259" type="EtcItem" name="Pacote Compactado de Spiritshots Superior: Grau B">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots compactados. Após o uso, transforma-se em 1000 spiritshots de grau B." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="110000" />
+	</item>
+	<item id="5260" type="EtcItem" name="Pacote Compactado de Spiritshots Superior: Grau A">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots compactados. Após o uso, transforma-se em 1000 spiritshots de grau A." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="132000" />
+	</item>
+	<item id="5261" type="EtcItem" name="Pacote Compactado de Spiritshots Superior: Grau S">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots compactados. Após o uso, transforma-se em 1000 spiritshots de grau S." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="180000" />
+	</item>
+	<item id="5262" type="EtcItem" name="Pacote Compactado de Spiritshots Superior Abençoados: Sem Grau">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots abençoados compactados. Após o uso, transforma-se em 1000 spiritshots abençoados sem grau." />
+		<set name="weight" val="750" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="38500" />
+	</item>
+	<item id="5263" type="EtcItem" name="Pacote Compactado de Spiritshots Superior Abençoados: Grau D">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots abençoados compactados. Após o uso, transforma-se em 1000 spiritshots abençoados de grau D." />
+		<set name="weight" val="750" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="49500" />
+	</item>
+	<item id="5264" type="EtcItem" name="Pacote Compactado de Spiritshots Superior Abençoados: Grau C">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots abençoados compactados. Após o uso, transforma-se em 1000 spiritshots abençoados de grau C." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="99000" />
+	</item>
+	<item id="5265" type="EtcItem" name="Pacote Compactado de Spiritshots Superior Abençoados: Grau B">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots abençoados compactados. Após o uso, transforma-se em 1000 spiritshots abençoados de grau B." />
+		<set name="weight" val="450" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="269500" />
+	</item>
+	<item id="5266" type="EtcItem" name="Pacote Compactado de Spiritshots Superior Abençoados: Grau A">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots abençoados compactados. Após o uso, transforma-se em 1000 spiritshots abençoados de grau A." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="319000" />
+	</item>
+	<item id="5267" type="EtcItem" name="Pacote Compactado de Spiritshots Superior Abençoados: Grau S">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="shot" />
+		<set name="desc" val="Um pequeno pacote de spiritshots abençoados compactados. Após o uso, transforma-se em 1000 spiritshots abençoados de grau S." />
+		<set name="weight" val="300" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="419000" />
+	</item>
+	<item id="5268" type="EtcItem" name="Receita: Pacote Compactado de Soulshots Superior (D) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Soulshots Superior: Grau D. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="5269" type="EtcItem" name="Receita: Pacote Compactado de Soulshots Superior (C) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Soulshots Superior: Grau C. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="60000" />
+	</item>
+	<item id="5270" type="EtcItem" name="Receita: Pacote Compactado de Soulshots Superior (B) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Soulshots Superior: Grau B. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="5271" type="EtcItem" name="Receita: Pacote Compactado de Soulshots Superior (A) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Soulshots Superior: Grau A. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="5272" type="EtcItem" name="Receita: Pacote Compactado de Soulshots Superior (S) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Soulshots Superior: Grau S. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250000" />
+	</item>
+	<item id="5273" type="EtcItem" name="Receita: Pacote Compactado de Spiritshots Superior (D) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots Superior: Grau D. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="5274" type="EtcItem" name="Receita: Pacote Compactado de Spiritshots Superior (C) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots Superior: Grau C. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="60000" />
+	</item>
+	<item id="5275" type="EtcItem" name="Receita: Pacote Compactado de Spiritshots Superior (B) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots Superior: Grau B. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="5276" type="EtcItem" name="Receita: Pacote Compactado de Spiritshots Superior (A) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots Superior: Grau A. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="150000" />
+	</item>
+	<item id="5277" type="EtcItem" name="Receita: Pacote Compactado de Spiritshots Superior (S) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots Superior: Grau S. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250000" />
+	</item>
+	<item id="5278" type="EtcItem" name="Receita: Pacote Compactado de Spiritshots Superior Abençoados (D) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots Superior Abençoados: Grau D. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="8000" />
+	</item>
+	<item id="5279" type="EtcItem" name="Receita: Pacote Compactado de Spiritshots Superior Abençoados (C) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots Superior Abençoados: Grau C. Requer Criar Item - Nível de Habilidade 4. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="80000" />
+	</item>
+	<item id="5280" type="EtcItem" name="Receita: Pacote Compactado de Spiritshots Superior Abençoados (B) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots Superior Abençoados: Grau B. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="130000" />
+	</item>
+	<item id="5281" type="EtcItem" name="Receita: Pacote Compactado de Spiritshots Superior Abençoados (A) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_violet_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots Superior Abençoados: Grau A. Requer Criar Item - Nível de Habilidade 7. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="170000" />
+	</item>
+	<item id="5282" type="EtcItem" name="Receita: Pacote Compactado de Spiritshots Superior Abençoados (S) (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para o Pacote Compactado de Spiritshots Superior Abençoados: Grau S. Requer Criar Item - Nível de Habilidade 8. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="285000" />
+	</item>
+	<item id="5283" type="EtcItem" name="Bolo de Arroz">
+		
+		<set name="icon" val="icon.etc_mochi_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Um bolo de arroz que restaura o HP e o MP." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="5284" type="Weapon" name="Zweihander">
+		<set name="icon" val="icon.weapon_zweihander_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1530" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="38" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="21" />
+		<set name="price" val="244000" />
+		<for>
+			<set val="38" order="0x08" stat="pAtk" />
+			<set val="21" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5285" type="Weapon" name="Espada Pesada">
+		<set name="icon" val="icon.weapon_heavy_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1520" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="d" />
+		<set name="p_dam" val="49" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="26" />
+		<set name="price" val="409000" />
+		<set name="crystal_count" val="743" />
+		<for>
+			<set val="49" order="0x08" stat="pAtk" />
+			<set val="26" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5286" type="Weapon" name="Lâmina Berserker">
+		
+		<set name="icon" val="icon.weapon_berserker_blade_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Concede uma das seguintes funções: Foco, Dano Crítico ou Pressa." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="190" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="83" />
+		<set name="price" val="6130000" />
+		<set name="crystal_count" val="2452" />
+		<for>
+			<set val="190" order="0x08" stat="pAtk" />
+			<set val="83" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="5287" type="Armor" name="Peitoral de Cristal Negro Selado">
+		
+		<set name="icon" val="icon.armor_t74_u_i02" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Peitoral de Cristal Escuro Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="7700" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="171" />
+		<set name="price" val="4630000" />
+		<set name="crystal_count" val="370" />
+		<for>
+			<add val="171" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5288" type="Armor" name="Calça de Cristal Escuro Seladas">
+		
+		<set name="icon" val="icon.armor_t74_l_i02" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Calça de Cristal Escuro Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="3320" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="107" />
+		<set name="price" val="2890000" />
+		<set name="crystal_count" val="231" />
+		<for>
+			<add val="107" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5289" type="Armor" name="Capacete de Cristal Negro Selado">
+		
+		<set name="icon" val="icon.armor_helmet_i02" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Capacete de Cristal Negro Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="570" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="69" />
+		<set name="price" val="1740000" />
+		<set name="crystal_count" val="139" />
+		<for>
+			<add val="69" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5290" type="Armor" name="Luvas de Cristal Negro Seladas">
+		
+		<set name="icon" val="icon.armor_t74_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luvas de Cristal Negro Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5291" type="Armor" name="Botas de Cristal Escuro Seladas">
+		
+		<set name="icon" val="icon.armor_t74_b_i02" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas de Cristal Escuro Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1110" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5292" type="Weapon" name="Escudo de Cristal Negro Selado">
+		
+		<set name="icon" val="icon.shield_dark_crystal_shield_i02" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Escudo de Cristal Negro Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1190" />
+		<set name="crystal_type" val="a" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="243" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="1220000" />
+		<set name="crystal_count" val="97" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="243" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="sDef" />
+		</for>
+	</item>
+	<item id="5293" type="Armor" name="Armadura Tallum de Placas Selada">
+		
+		<set name="icon" val="icon.armor_t77_ul_i02" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Armadura Tallum de Placas Selada. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="9780" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="278" />
+		<set name="price" val="6770000" />
+		<set name="crystal_count" val="541" />
+		<for>
+			<add val="278" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5294" type="Armor" name="Capacete de Tallum Selado">
+		
+		<set name="icon" val="icon.armor_helmet_i02" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Capacete de Tallum Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="570" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="69" />
+		<set name="price" val="1740000" />
+		<set name="crystal_count" val="139" />
+		<for>
+			<add val="69" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5295" type="Armor" name="Luvas de Tallum Seladas">
+		
+		<set name="icon" val="icon.armor_t77_g_i02" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luvas de Tallum Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5296" type="Armor" name="Botas de Tallum Seladas">
+		
+		<set name="icon" val="icon.armor_t77_b_i02" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Botas de Tallum Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="1130" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="46" />
+		<set name="price" val="1160000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5297" type="Armor" name="Armadura de Cristal Escuro de Couro Selado">
+		
+		<set name="icon" val="icon.armor_t75_u_i02" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Armadura de Cristal Escuro de Couro Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="4300" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="128" />
+		<set name="price" val="3470000" />
+		<set name="crystal_count" val="277" />
+		<for>
+			<add val="128" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5298" type="Armor" name="Calça de Cristal Escuro Selado">
+		
+		<set name="icon" val="icon.armor_t75_l_i02" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Calça de Cristal Escuro Selado. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1480" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="80" />
+		<set name="price" val="2170000" />
+		<set name="crystal_count" val="173" />
+		<for>
+			<add val="80" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="5299" type="Armor" name="Luvas do Submundo Seladas">
+		
+		<set name="icon" val="icon.armor_t40_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Luvas do Submundo Seladas. Seu selo pode ser quebrado com a ajuda do Ferreiro de Mamom." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="580" />
+		<set name="crystal_type" val="a" />
+		<set name="p_def" val="45" />
+		<set name="price" val="1070000" />
+		<set name="crystal_count" val="92" />
+		<for>
+			<add val="45" order="0x10" stat="pDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+</list>

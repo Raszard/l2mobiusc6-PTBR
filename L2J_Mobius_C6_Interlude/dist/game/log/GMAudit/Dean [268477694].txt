@@ -1,0 +1,1046 @@
+07/03/2025 22:00:38>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:00:40>Dean [268477694]>admin_superhaste>no-target> 4
+07/03/2025 22:00:41>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:06:47>Dean [268477694]>admin_admin>Darin>
+07/03/2025 22:06:48>Dean [268477694]>admin_move_to>Darin>
+07/03/2025 22:06:49>Dean [268477694]>admin_help>Darin> tele/castles.htm
+07/03/2025 22:06:50>Dean [268477694]>admin_show_moves>Darin>
+07/03/2025 22:06:51>Dean [268477694]>admin_help>Darin> tele/towns.htm
+07/03/2025 22:06:52>Dean [268477694]>admin_help>Darin> tele/towns/giran.htm
+07/03/2025 22:06:53>Dean [268477694]>admin_move_to>Darin> 82698 148638 -3473
+07/03/2025 22:07:14>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:07:16>Dean [268477694]>admin_move_to>no-target>
+07/03/2025 22:07:18>Dean [268477694]>admin_help>no-target> tele/towns.htm
+07/03/2025 22:07:23>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+07/03/2025 22:07:33>Dean [268477694]>admin_move_to>no-target> 83102 150544 -3521
+07/03/2025 22:07:45>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:07:46>Dean [268477694]>admin_move_to>no-target>
+07/03/2025 22:07:48>Dean [268477694]>admin_help>no-target> tele/towns.htm
+07/03/2025 22:07:48>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+07/03/2025 22:07:55>Dean [268477694]>admin_move_to>no-target> 79711 145488 -3499
+07/03/2025 22:08:18>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:08:20>Dean [268477694]>admin_move_to>no-target>
+07/03/2025 22:08:22>Dean [268477694]>admin_help>no-target> tele/towns.htm
+07/03/2025 22:08:23>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+07/03/2025 22:08:25>Dean [268477694]>admin_move_to>no-target> 79768 146559 -3525
+07/03/2025 22:08:29>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:08:30>Dean [268477694]>admin_move_to>no-target>
+07/03/2025 22:08:31>Dean [268477694]>admin_help>no-target> tele/towns.htm
+07/03/2025 22:08:31>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+07/03/2025 22:08:33>Dean [268477694]>admin_move_to>no-target> 80385 147867 -3512
+07/03/2025 22:15:47>Dean [268477694]>admin_admin>Meridic>
+07/03/2025 22:15:48>Dean [268477694]>admin_move_to>Meridic>
+07/03/2025 22:15:50>Dean [268477694]>admin_help>Meridic> tele/towns.htm
+07/03/2025 22:15:51>Dean [268477694]>admin_show_moves>Meridic>
+07/03/2025 22:15:53>Dean [268477694]>admin_help>Meridic> tele/other.htm
+07/03/2025 22:16:01>Dean [268477694]>admin_help>Meridic> tele/others/goodies.htm
+07/03/2025 22:16:02>Dean [268477694]>admin_move_to>Meridic> -11029 -185526 -10936
+07/03/2025 22:16:30>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:16:31>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:16:34>Dean [268477694]>admin_spawn_once>no-target> 84001
+07/03/2025 22:18:16>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:18:17>Dean [268477694]>admin_set_menu>no-target>
+07/03/2025 22:18:19>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:18:20>Dean [268477694]>admin_move_to>no-target>
+07/03/2025 22:18:20>Dean [268477694]>admin_help>no-target> tele/towns.htm
+07/03/2025 22:18:21>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+07/03/2025 22:18:22>Dean [268477694]>admin_move_to>no-target> 82698 148638 -3473
+07/03/2025 22:20:01>Dean [268477694]>admin_admin>Jake>
+07/03/2025 22:20:04>Dean [268477694]>admin_create_item>Jake>
+07/03/2025 22:20:12>Dean [268477694]>admin_create_coin>Dean> Adena 1000000
+07/03/2025 22:31:23>Dean [268477694]>admin_admin>Jake>
+07/03/2025 22:31:25>Dean [268477694]>admin_admin3>Jake>
+07/03/2025 22:31:25>Dean [268477694]>admin_admin2>Jake>
+07/03/2025 22:31:26>Dean [268477694]>admin_show_characters>Jake> 0
+07/03/2025 22:31:27>Dean [268477694]>admin_character_info>Jake> Humanio
+07/03/2025 22:31:32>Dean [268477694]>admin_recall_char_menu>Humanio> Humanio
+07/03/2025 22:31:37>Dean [268477694]>admin_admin2>Humanio>
+07/03/2025 22:31:38>Dean [268477694]>admin_admin2>Humanio>
+07/03/2025 22:31:40>Dean [268477694]>admin_admin>Humanio>
+07/03/2025 22:31:41>Dean [268477694]>admin_create_item>Humanio>
+07/03/2025 22:31:47>Dean [268477694]>admin_create_coin>Humanio> Adena 1000000
+07/03/2025 22:32:17>Dean [268477694]>admin_admin>Dean>
+07/03/2025 22:32:18>Dean [268477694]>admin_create_item>Dean>
+07/03/2025 22:32:22>Dean [268477694]>admin_create_coin>Dean> Adena 1000000
+07/03/2025 22:40:44>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:40:47>Dean [268477694]>admin_move_to>no-target>
+07/03/2025 22:40:48>Dean [268477694]>admin_help>no-target> tele/towns.htm
+07/03/2025 22:40:48>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+07/03/2025 22:40:49>Dean [268477694]>admin_move_to>no-target> 82698 148638 -3473
+07/03/2025 22:42:12>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:42:13>Dean [268477694]>admin_move_to>no-target>
+07/03/2025 22:42:16>Dean [268477694]>admin_help>no-target> tele/locations/c5.htm
+07/03/2025 22:42:18>Dean [268477694]>admin_move_to>no-target> 123743 -75032 -2902
+07/03/2025 22:43:43>Dean [268477694]>admin_show_droplist>Buscador Silencioso> 22126
+07/03/2025 22:48:16>Dean [268477694]>admin_admin>Irmão Solina>
+07/03/2025 22:48:18>Dean [268477694]>admin_move_to>Irmão Solina>
+07/03/2025 22:48:19>Dean [268477694]>admin_help>Irmão Solina> tele/other.htm
+07/03/2025 22:48:21>Dean [268477694]>admin_help>Irmão Solina> tele/others/goodies.htm
+07/03/2025 22:48:22>Dean [268477694]>admin_move_to>Irmão Solina> -11029 -185526 -10936
+07/03/2025 22:48:29>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:48:32>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:48:50>Dean [268477694]>admin_spawn_monster>no-target> 84005
+07/03/2025 22:48:53>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:48:55>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:48:59>Dean [268477694]>admin_spawn_monster>no-target> 84006
+07/03/2025 22:49:05>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:49:07>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:49:11>Dean [268477694]>admin_spawn_monster>no-target> 84005
+07/03/2025 22:49:14>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:49:15>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:49:19>Dean [268477694]>admin_spawn_monster>no-target> 84005
+07/03/2025 22:49:31>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:49:32>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:49:35>Dean [268477694]>admin_spawn_monster>no-target> 84006
+07/03/2025 22:49:46>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:49:47>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:49:51>Dean [268477694]>admin_spawn_monster>no-target> 84006
+07/03/2025 22:50:15>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:50:17>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:50:20>Dean [268477694]>admin_spawn_monster>no-target> 84005
+07/03/2025 22:50:22>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:50:23>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:50:26>Dean [268477694]>admin_spawn_monster>no-target> 84006
+07/03/2025 22:50:29>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:50:31>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:50:34>Dean [268477694]>admin_spawn_monster>no-target> 84005
+07/03/2025 22:50:37>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:50:38>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:50:41>Dean [268477694]>admin_spawn_monster>no-target> 84006
+07/03/2025 22:51:04>Dean [268477694]>admin_admin>Praga de Glio>
+07/03/2025 22:51:07>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:51:11>Dean [268477694]>admin_spawn_monster>no-target> 84005
+07/03/2025 22:51:17>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:51:18>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:51:21>Dean [268477694]>admin_spawn_monster>no-target> 84006
+07/03/2025 22:51:49>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:51:50>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:51:57>Dean [268477694]>admin_spawn_monster>no-target> 84005
+07/03/2025 22:52:00>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:52:00>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:52:03>Dean [268477694]>admin_spawn_monster>no-target> 84006
+07/03/2025 22:52:05>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:52:06>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:52:10>Dean [268477694]>admin_spawn_monster>no-target> 84005
+07/03/2025 22:52:12>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:52:13>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:52:16>Dean [268477694]>admin_spawn_monster>no-target> 84006
+07/03/2025 22:52:25>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:52:25>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:52:29>Dean [268477694]>admin_spawn_monster>no-target> 84005
+07/03/2025 22:52:33>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:52:34>Dean [268477694]>admin_spawn_monster>no-target>
+07/03/2025 22:52:38>Dean [268477694]>admin_spawn_monster>no-target> 84006
+07/03/2025 22:54:15>Dean [268477694]>admin_admin>no-target>
+07/03/2025 22:54:16>Dean [268477694]>admin_move_to>no-target>
+07/03/2025 22:54:17>Dean [268477694]>admin_help>no-target> tele/towns.htm
+07/03/2025 22:54:18>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+07/03/2025 22:54:19>Dean [268477694]>admin_move_to>no-target> 82698 148638 -3473
+08/03/2025 15:44:07>Dean [268477694]>admin_admin>no-target>
+08/03/2025 15:44:09>Dean [268477694]>admin_move_to>no-target>
+08/03/2025 15:44:11>Dean [268477694]>admin_help>no-target> tele/other.htm
+08/03/2025 15:44:14>Dean [268477694]>admin_help>no-target> tele/others/goodies.htm
+08/03/2025 15:44:14>Dean [268477694]>admin_move_to>no-target> -11029 -185526 -10936
+08/03/2025 15:44:30>Dean [268477694]>admin_edit_npc>Buscador Corrompido> 84006
+08/03/2025 15:44:56>Dean [268477694]>admin_admin>Buscador Corrompido>
+08/03/2025 15:44:57>Dean [268477694]>admin_superhaste>Buscador Corrompido> 4
+08/03/2025 15:46:12>Dean [268477694]>admin_admin>Dean>
+08/03/2025 15:46:13>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 15:46:14>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 15:46:16>Dean [268477694]>admin_character_info>Dean> Dean
+08/03/2025 15:46:18>Dean [268477694]>admin_setclass>Dean>
+08/03/2025 15:46:20>Dean [268477694]>admin_setclass>Dean> 93
+08/03/2025 15:46:22>Dean [268477694]>admin_admin>Dean>
+08/03/2025 15:46:24>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 15:46:24>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 15:46:25>Dean [268477694]>admin_character_info>Dean> Dean
+08/03/2025 15:46:27>Dean [268477694]>admin_show_skills>Dean>
+08/03/2025 15:46:29>Dean [268477694]>admin_give_all_skills>Dean>
+08/03/2025 15:46:34>Dean [268477694]>admin_admin>Dean>
+08/03/2025 15:46:35>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 15:46:36>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 15:46:37>Dean [268477694]>admin_character_info>Dean> Dean
+08/03/2025 15:46:38>Dean [268477694]>admin_show_skills>Dean>
+08/03/2025 15:46:44>Dean [268477694]>admin_give_all_skills>Dean>
+08/03/2025 15:46:55>Dean [268477694]>admin_admin>Dean>
+08/03/2025 15:46:57>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 15:46:57>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 15:46:58>Dean [268477694]>admin_character_info>Dean> Dean
+08/03/2025 15:46:59>Dean [268477694]>admin_show_skills>Dean>
+08/03/2025 15:47:04>Dean [268477694]>admin_remove_all_skills>Dean>
+08/03/2025 15:47:06>Dean [268477694]>admin_admin>Dean>
+08/03/2025 15:47:07>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 15:47:08>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 15:47:09>Dean [268477694]>admin_character_info>Dean> Dean
+08/03/2025 15:47:10>Dean [268477694]>admin_show_skills>Dean>
+08/03/2025 15:47:11>Dean [268477694]>admin_give_all_skills>Dean>
+08/03/2025 15:47:22>Dean [268477694]>admin_admin>Dean>
+08/03/2025 15:47:24>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 15:47:24>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 15:47:25>Dean [268477694]>admin_character_info>Dean> Dean
+08/03/2025 15:47:27>Dean [268477694]>admin_add_exp_sp_to_character>Dean>
+08/03/2025 15:47:30>Dean [268477694]>admin_set_level>Dean> 81
+08/03/2025 15:47:35>Dean [268477694]>admin_admin>Dean>
+08/03/2025 15:47:36>Dean [268477694]>admin_admin3>Dean>
+08/03/2025 15:47:37>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 15:47:38>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 15:47:39>Dean [268477694]>admin_character_info>Dean> Dean
+08/03/2025 15:47:41>Dean [268477694]>admin_show_skills>Dean>
+08/03/2025 15:47:42>Dean [268477694]>admin_remove_all_skills>Dean>
+08/03/2025 15:47:44>Dean [268477694]>admin_admin>Dean>
+08/03/2025 15:47:45>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 15:47:46>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 15:47:47>Dean [268477694]>admin_character_info>Dean> Dean
+08/03/2025 15:47:48>Dean [268477694]>admin_add_exp_sp_to_character>Dean>
+08/03/2025 15:47:49>Dean [268477694]>admin_current_player>Dean>
+08/03/2025 15:47:49>Dean [268477694]>admin_show_skills>Dean>
+08/03/2025 15:47:50>Dean [268477694]>admin_give_all_skills>Dean>
+08/03/2025 16:13:28>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:13:29>Dean [268477694]>admin_admin2>no-target>
+08/03/2025 16:13:31>Dean [268477694]>admin_admin4>no-target>
+08/03/2025 16:13:32>Dean [268477694]>admin_reload>no-target>
+08/03/2025 16:13:40>Dean [268477694]>admin_reload>no-target> tradelist
+08/03/2025 16:13:43>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:13:44>Dean [268477694]>admin_admin2>no-target>
+08/03/2025 16:13:45>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:13:47>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 16:13:48>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+08/03/2025 16:13:49>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+08/03/2025 16:13:50>Dean [268477694]>admin_buy>no-target> 9501
+08/03/2025 16:15:09>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:15:11>Dean [268477694]>admin_admin4>no-target>
+08/03/2025 16:15:12>Dean [268477694]>admin_reload>no-target>
+08/03/2025 16:15:14>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:15:15>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 16:15:16>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+08/03/2025 16:15:17>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+08/03/2025 16:15:17>Dean [268477694]>admin_buy>no-target> 9501
+08/03/2025 16:16:54>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:16:55>Dean [268477694]>admin_admin4>no-target>
+08/03/2025 16:16:55>Dean [268477694]>admin_reload>no-target>
+08/03/2025 16:16:57>Dean [268477694]>admin_reload>no-target> tradelist
+08/03/2025 16:16:59>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:17:00>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 16:17:01>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+08/03/2025 16:17:02>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+08/03/2025 16:17:04>Dean [268477694]>admin_buy>no-target> 9501
+08/03/2025 16:18:03>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:18:05>Dean [268477694]>admin_admin4>no-target>
+08/03/2025 16:18:06>Dean [268477694]>admin_admin3>no-target>
+08/03/2025 16:18:07>Dean [268477694]>admin_admin4>no-target>
+08/03/2025 16:18:07>Dean [268477694]>admin_admin2>no-target>
+08/03/2025 16:18:08>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:18:09>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 16:18:10>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+08/03/2025 16:18:11>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+08/03/2025 16:18:12>Dean [268477694]>admin_buy>no-target> 9501
+08/03/2025 16:20:14>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:20:15>Dean [268477694]>admin_admin4>no-target>
+08/03/2025 16:20:16>Dean [268477694]>admin_reload>no-target>
+08/03/2025 16:20:18>Dean [268477694]>admin_reload>no-target> tradelist
+08/03/2025 16:20:20>Dean [268477694]>admin_admin2>no-target>
+08/03/2025 16:20:21>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:20:22>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 16:20:24>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+08/03/2025 16:20:25>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+08/03/2025 16:20:26>Dean [268477694]>admin_buy>no-target> 9501
+08/03/2025 16:21:08>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:21:10>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 16:21:11>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+08/03/2025 16:21:12>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+08/03/2025 16:21:13>Dean [268477694]>admin_buy>no-target> 9501
+08/03/2025 16:27:06>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:27:07>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 16:27:09>Dean [268477694]>admin_help>no-target> gmshop/sets.htm
+08/03/2025 16:27:10>Dean [268477694]>admin_buy>no-target> 9502
+08/03/2025 16:27:26>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:27:28>Dean [268477694]>admin_invul_menu_main>no-target>
+08/03/2025 16:27:30>Dean [268477694]>admin_superhaste>no-target> 4
+08/03/2025 16:28:11>Dean [268477694]>admin_admin>Glio, Deus da Praga>
+08/03/2025 16:28:14>Dean [268477694]>admin_gmshop>Glio, Deus da Praga>
+08/03/2025 16:28:18>Dean [268477694]>admin_buy>Glio, Deus da Praga> 300511
+08/03/2025 16:28:37>Dean [268477694]>admin_admin>Dean>
+08/03/2025 16:28:41>Dean [268477694]>admin_enchant>Dean>
+08/03/2025 16:28:45>Dean [268477694]>admin_setew>Dean> 16
+08/03/2025 16:28:58>Dean [268477694]>admin_admin>Glio, Deus da Praga>
+08/03/2025 16:29:00>Dean [268477694]>admin_admin>Glio, Deus da Praga>
+08/03/2025 16:29:02>Dean [268477694]>admin_invul_menu_main>Glio, Deus da Praga>
+08/03/2025 16:29:35>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:29:36>Dean [268477694]>admin_superhaste>no-target> 4
+08/03/2025 16:29:53>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:29:54>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 16:29:58>Dean [268477694]>admin_buy>no-target> 1011
+08/03/2025 16:30:39>Dean [268477694]>admin_admin>Irmão Corrompido>
+08/03/2025 16:30:40>Dean [268477694]>admin_superhaste>Irmão Corrompido> 0
+08/03/2025 16:50:02>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:50:03>Dean [268477694]>admin_move_to>no-target>
+08/03/2025 16:50:05>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:50:06>Dean [268477694]>admin_admin4>no-target>
+08/03/2025 16:50:07>Dean [268477694]>admin_admin2>no-target>
+08/03/2025 16:50:08>Dean [268477694]>admin_show_characters>no-target> 0
+08/03/2025 16:50:10>Dean [268477694]>admin_character_info>no-target> Humanio
+08/03/2025 16:50:13>Dean [268477694]>admin_goto_char_menu>no-target> Humanio
+08/03/2025 16:50:43>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:50:45>Dean [268477694]>admin_admin4>Dean>
+08/03/2025 16:50:47>Dean [268477694]>admin_admin3>Dean>
+08/03/2025 16:50:50>Dean [268477694]>admin_abnormal_menu>Dean>
+08/03/2025 16:50:58>Dean [268477694]>admin_abnormal_menu>Dean> 1000
+08/03/2025 16:51:00>Dean [268477694]>admin_abnormal_menu>Dean> 10000
+08/03/2025 16:51:04>Dean [268477694]>admin_abnormal_menu>Dean> 4
+08/03/2025 16:51:05>Dean [268477694]>admin_abnormal_menu>Dean> 8
+08/03/2025 16:51:13>Dean [268477694]>admin_abnormal_menu>Dean> 40000
+08/03/2025 16:51:14>Dean [268477694]>admin_abnormal_menu>Dean> 40000
+08/03/2025 16:51:15>Dean [268477694]>admin_abnormal_menu>Dean> 80000
+08/03/2025 16:51:16>Dean [268477694]>admin_abnormal_menu>Dean> 80000
+08/03/2025 16:51:17>Dean [268477694]>admin_abnormal_menu>Dean> 8
+08/03/2025 16:51:18>Dean [268477694]>admin_abnormal_menu>Dean> 4
+08/03/2025 16:51:20>Dean [268477694]>admin_abnormal_menu>Dean> 100000
+08/03/2025 16:51:21>Dean [268477694]>admin_abnormal_menu>Dean> 100000
+08/03/2025 16:51:22>Dean [268477694]>admin_abnormal_menu>Dean> 100000
+08/03/2025 16:51:23>Dean [268477694]>admin_abnormal_menu>Dean> 100000
+08/03/2025 16:51:24>Dean [268477694]>admin_abnormal_menu>Dean> 100000
+08/03/2025 16:51:25>Dean [268477694]>admin_abnormal_menu>Dean> 100000
+08/03/2025 16:51:29>Dean [268477694]>admin_admin3>Dean>
+08/03/2025 16:51:36>Dean [268477694]>admin_unpara_all_menu>Dean>
+08/03/2025 16:51:37>Dean [268477694]>admin_para_all_menu>Dean>
+08/03/2025 16:51:41>Dean [268477694]>admin_unpara_all_menu>Dean>
+08/03/2025 16:51:42>Dean [268477694]>admin_para_all_menu>Dean>
+08/03/2025 16:51:44>Dean [268477694]>admin_unpara_menu>Dean>
+08/03/2025 16:51:45>Dean [268477694]>admin_para_menu>Dean>
+08/03/2025 16:51:46>Dean [268477694]>admin_para_menu>Dean>
+08/03/2025 16:51:49>Dean [268477694]>admin_effect_menu>Dean>
+08/03/2025 16:51:51>Dean [268477694]>admin_social_menu>Dean>
+08/03/2025 16:51:54>Dean [268477694]>admin_social_menu>Dean> 1
+08/03/2025 16:51:55>Dean [268477694]>admin_social_menu>Dean> 2
+08/03/2025 16:51:56>Dean [268477694]>admin_social_menu>Dean> 3
+08/03/2025 16:51:57>Dean [268477694]>admin_social_menu>Dean> 4
+08/03/2025 16:51:57>Dean [268477694]>admin_social_menu>Dean> 8
+08/03/2025 16:51:58>Dean [268477694]>admin_social_menu>Dean> 7
+08/03/2025 16:51:58>Dean [268477694]>admin_social_menu>Dean> 6
+08/03/2025 16:51:59>Dean [268477694]>admin_social_menu>Dean> 5
+08/03/2025 16:52:00>Dean [268477694]>admin_social_menu>Dean> 2
+08/03/2025 16:52:04>Dean [268477694]>admin_social_menu>Dean> 1
+08/03/2025 16:52:07>Dean [268477694]>admin_social_menu>Dean> 8
+08/03/2025 16:52:07>Dean [268477694]>admin_social_menu>Dean> 3
+08/03/2025 16:52:45>Dean [268477694]>admin_admin>no-target>
+08/03/2025 16:52:46>Dean [268477694]>admin_invis_menu_main>no-target>
+08/03/2025 17:07:58>Dean [268477694]>admin_admin>no-target>
+08/03/2025 17:08:00>Dean [268477694]>admin_invis_menu_main>no-target>
+08/03/2025 17:21:36>Dean [268477694]>admin_admin>Humanio>
+08/03/2025 17:21:39>Dean [268477694]>admin_res>Humanio>
+08/03/2025 17:26:26>Dean [268477694]>admin_admin>Dean>
+08/03/2025 17:26:29>Dean [268477694]>admin_kill_menu>Dean>
+08/03/2025 17:37:09>Dean [268477694]>admin_admin>Humanio>
+08/03/2025 17:37:10>Dean [268477694]>admin_move_to>Humanio>
+08/03/2025 17:37:12>Dean [268477694]>admin_help>Humanio> tele/other.htm
+08/03/2025 17:37:14>Dean [268477694]>admin_show_moves>Humanio>
+08/03/2025 17:37:16>Dean [268477694]>admin_help>Humanio> tele/locations/c4.htm
+08/03/2025 17:37:18>Dean [268477694]>admin_help>Humanio> tele/other.htm
+08/03/2025 17:37:20>Dean [268477694]>admin_show_moves>Humanio>
+08/03/2025 17:37:21>Dean [268477694]>admin_help>Humanio> tele/locations/c5.htm
+08/03/2025 17:37:22>Dean [268477694]>admin_move_to>Humanio> 123743 -75032 -2902
+08/03/2025 17:37:28>Dean [268477694]>admin_admin>no-target>
+08/03/2025 17:37:29>Dean [268477694]>admin_admin2>no-target>
+08/03/2025 17:37:30>Dean [268477694]>admin_show_characters>no-target> 0
+08/03/2025 17:37:31>Dean [268477694]>admin_character_info>no-target> Humanio
+08/03/2025 17:37:32>Dean [268477694]>admin_recall_char_menu>Humanio> Humanio
+08/03/2025 17:44:50>Dean [268477694]>admin_admin>Humanio>
+08/03/2025 17:44:52>Dean [268477694]>admin_res>Humanio>
+08/03/2025 17:52:42>Dean [268477694]>admin_admin>Dean>
+08/03/2025 17:52:43>Dean [268477694]>admin_admin3>Dean>
+08/03/2025 17:52:43>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 17:52:44>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 17:52:45>Dean [268477694]>admin_character_info>Dean> Humanio
+08/03/2025 17:52:48>Dean [268477694]>admin_add_exp_sp_to_character>Humanio>
+08/03/2025 17:52:49>Dean [268477694]>admin_current_player>Humanio>
+08/03/2025 17:52:51>Dean [268477694]>admin_setclass>Humanio>
+08/03/2025 17:52:52>Dean [268477694]>admin_setclass>Humanio> 92
+08/03/2025 17:52:53>Dean [268477694]>admin_admin>Humanio>
+08/03/2025 17:52:55>Dean [268477694]>admin_admin2>Humanio>
+08/03/2025 17:52:56>Dean [268477694]>admin_show_characters>Humanio> 0
+08/03/2025 17:52:57>Dean [268477694]>admin_character_info>Humanio> Humanio
+08/03/2025 17:52:59>Dean [268477694]>admin_add_exp_sp_to_character>Humanio>
+08/03/2025 17:53:02>Dean [268477694]>admin_set_level>Humanio> 81
+08/03/2025 17:53:04>Dean [268477694]>admin_admin>Humanio>
+08/03/2025 17:53:05>Dean [268477694]>admin_admin2>Humanio>
+08/03/2025 17:53:07>Dean [268477694]>admin_show_characters>Humanio> 0
+08/03/2025 17:53:08>Dean [268477694]>admin_character_info>Humanio> Humanio
+08/03/2025 17:53:09>Dean [268477694]>admin_show_skills>Humanio>
+08/03/2025 17:53:10>Dean [268477694]>admin_give_all_skills>Humanio>
+08/03/2025 18:43:43>Dean [268477694]>admin_admin>no-target>
+08/03/2025 18:43:52>Dean [268477694]>admin_admin2>no-target>
+08/03/2025 18:43:54>Dean [268477694]>admin_show_characters>no-target> 0
+08/03/2025 18:43:56>Dean [268477694]>admin_character_info>no-target> Dean
+08/03/2025 18:43:57>Dean [268477694]>admin_show_skills>Dean>
+08/03/2025 18:44:02>Dean [268477694]>admin_current_player>Dean>
+08/03/2025 19:05:55>Dean [268477694]>admin_admin>no-target>
+08/03/2025 19:05:58>Dean [268477694]>admin_admin>no-target>
+08/03/2025 19:06:00>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 19:06:06>Dean [268477694]>admin_help>no-target> gmshop/SpellBooks.htm
+08/03/2025 19:06:08>Dean [268477694]>admin_buy>no-target> 9150
+08/03/2025 19:06:14>Dean [268477694]>admin_admin>no-target>
+08/03/2025 19:06:17>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 19:06:31>Dean [268477694]>admin_buy>no-target> 3002
+08/03/2025 19:06:57>Dean [268477694]>admin_admin>no-target>
+08/03/2025 19:06:59>Dean [268477694]>admin_gmshop>no-target>
+08/03/2025 19:07:00>Dean [268477694]>admin_admin>no-target>
+08/03/2025 19:07:04>Dean [268477694]>admin_enchant>Dean>
+08/03/2025 19:07:06>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:07:08>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 19:07:09>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 19:07:10>Dean [268477694]>admin_character_info>Dean> Dean
+08/03/2025 19:07:11>Dean [268477694]>admin_show_skills>Dean>
+08/03/2025 19:07:14>Dean [268477694]>admin_current_player>Dean>
+08/03/2025 19:07:17>Dean [268477694]>admin_edit_character>Dean>
+08/03/2025 19:07:20>Dean [268477694]>admin_setclass>Dean>
+08/03/2025 19:07:21>Dean [268477694]>admin_current_player>Dean>
+08/03/2025 19:07:24>Dean [268477694]>admin_show_characters>Dean> 0
+08/03/2025 19:07:25>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 19:07:33>Dean [268477694]>admin_admin3>Dean>
+08/03/2025 19:07:34>Dean [268477694]>admin_admin2>Dean>
+08/03/2025 19:07:36>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:07:51>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:07:59>Dean [268477694]>admin_help>Dean> gmshop/SpellBooks.htm
+08/03/2025 19:08:01>Dean [268477694]>admin_buy>Dean> 9123
+08/03/2025 19:08:05>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:08:06>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:08:13>Dean [268477694]>admin_buy>Dean> 2012
+08/03/2025 19:08:16>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:08:17>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:08:21>Dean [268477694]>admin_buy>Dean> 71027
+08/03/2025 19:08:24>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:08:25>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:08:32>Dean [268477694]>admin_buy>Dean> 300529
+08/03/2025 19:08:38>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:08:42>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:09:24>Dean [268477694]>admin_buy>Dean> 3002
+08/03/2025 19:09:26>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:09:27>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:09:29>Dean [268477694]>admin_buy>Dean> 3001
+08/03/2025 19:09:31>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:09:32>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:09:34>Dean [268477694]>admin_buy>Dean> 300537
+08/03/2025 19:09:52>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:09:56>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:10:11>Dean [268477694]>admin_help>Dean> gmshop/SpellBooks.htm
+08/03/2025 19:10:14>Dean [268477694]>admin_buy>Dean> 9150
+08/03/2025 19:10:19>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:10:20>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:10:21>Dean [268477694]>admin_help>Dean> gmshop/SpellBooks.htm
+08/03/2025 19:10:23>Dean [268477694]>admin_buy>Dean> 9123
+08/03/2025 19:10:26>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:10:28>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:10:30>Dean [268477694]>admin_help>Dean> gmshop/SpellBooks.htm
+08/03/2025 19:10:31>Dean [268477694]>admin_buy>Dean> 300525
+08/03/2025 19:10:34>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:10:36>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:10:46>Dean [268477694]>admin_buy>Dean> 300543
+08/03/2025 19:10:48>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:10:49>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:11:13>Dean [268477694]>admin_buy>Dean> 300533
+08/03/2025 19:11:24>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:11:27>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:11:30>Dean [268477694]>admin_help>Dean> gmshop/materials.htm
+08/03/2025 19:11:31>Dean [268477694]>admin_buy>Dean> 300531
+08/03/2025 19:11:34>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:11:35>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:11:37>Dean [268477694]>admin_buy>Dean> 300534
+08/03/2025 19:11:40>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:11:41>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:11:46>Dean [268477694]>admin_help>Dean> gmshop/QuestItems.htm
+08/03/2025 19:11:48>Dean [268477694]>admin_buy>Dean> 9148
+08/03/2025 19:11:55>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:11:57>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:11:59>Dean [268477694]>admin_help>Dean> gmshop/materials.htm
+08/03/2025 19:12:00>Dean [268477694]>admin_buy>Dean> 300510
+08/03/2025 19:12:03>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:12:04>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:12:05>Dean [268477694]>admin_help>Dean> gmshop/SpellBooks.htm
+08/03/2025 19:12:06>Dean [268477694]>admin_help>Dean> gmshops.htm
+08/03/2025 19:12:07>Dean [268477694]>admin_help>Dean> gmshop/QuestItems.htm
+08/03/2025 19:12:09>Dean [268477694]>admin_buy>Dean> 300542
+08/03/2025 19:12:13>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:12:15>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:12:22>Dean [268477694]>admin_buy>Dean> 300533
+08/03/2025 19:12:23>Dean [268477694]>admin_admin>Dean>
+08/03/2025 19:12:24>Dean [268477694]>admin_gmshop>Dean>
+08/03/2025 19:12:36>Dean [268477694]>admin_buy>Dean> 2012
+09/03/2025 1:42:13>Dean [268477694]>admin_admin>no-target>
+09/03/2025 1:42:14>Dean [268477694]>admin_admin4>no-target>
+09/03/2025 1:42:15>Dean [268477694]>admin_reload>no-target>
+09/03/2025 1:42:17>Dean [268477694]>admin_reload>no-target> skill
+09/03/2025 1:46:42>Dean [268477694]>admin_admin>Buscador Silencioso>
+09/03/2025 1:46:44>Dean [268477694]>admin_move_to>Buscador Silencioso>
+09/03/2025 1:46:44>Dean [268477694]>admin_help>Buscador Silencioso> tele/towns.htm
+09/03/2025 1:46:45>Dean [268477694]>admin_help>Buscador Silencioso> tele/towns/giran.htm
+09/03/2025 1:46:46>Dean [268477694]>admin_move_to>Buscador Silencioso> 82698 148638 -3473
+09/03/2025 1:59:30>Dean [268477694]>admin_admin>Dean>
+09/03/2025 1:59:33>Dean [268477694]>admin_admin2>Dean>
+09/03/2025 1:59:34>Dean [268477694]>admin_show_characters>Dean> 0
+09/03/2025 1:59:35>Dean [268477694]>admin_character_info>Dean> Dean
+09/03/2025 1:59:38>Dean [268477694]>admin_edit_character>Dean>
+09/03/2025 1:59:54>Dean [268477694]>admin_current_player>Dean>
+09/03/2025 2:00:01>Dean [268477694]>admin_find_account>Dean> Dean
+09/03/2025 2:00:08>Dean [268477694]>admin_admin>Dean>
+09/03/2025 2:00:10>Dean [268477694]>admin_admin3>Dean>
+09/03/2025 2:00:11>Dean [268477694]>admin_admin2>Dean>
+09/03/2025 2:00:13>Dean [268477694]>admin_admin>Dean>
+09/03/2025 2:00:20>Dean [268477694]>admin_admin4>Dean>
+09/03/2025 2:00:22>Dean [268477694]>admin_admin3>Dean>
+09/03/2025 2:00:23>Dean [268477694]>admin_admin2>Dean>
+09/03/2025 2:00:27>Dean [268477694]>admin_show_characters>Dean> 0
+09/03/2025 2:00:30>Dean [268477694]>admin_admin2>Dean>
+09/03/2025 2:00:30>Dean [268477694]>admin_char_manage>Dean>
+09/03/2025 2:00:39>Dean [268477694]>admin_admin>Dean>
+09/03/2025 2:00:42>Dean [268477694]>admin_move_to>Dean>
+09/03/2025 2:00:45>Dean [268477694]>admin_help>Dean> tele/other.htm
+09/03/2025 2:00:54>Dean [268477694]>admin_help>Dean> tele/others/talkingisland.htm
+09/03/2025 2:00:56>Dean [268477694]>admin_move_to>Dean> 48736 248463 -6162
+09/03/2025 2:01:03>Dean [268477694]>admin_admin>no-target>
+09/03/2025 2:01:04>Dean [268477694]>admin_superhaste>no-target> 4
+09/03/2025 2:01:39>Dean [268477694]>admin_admin>Lobisomem Relíquia>
+09/03/2025 2:01:41>Dean [268477694]>admin_move_to>Lobisomem Relíquia>
+09/03/2025 2:01:42>Dean [268477694]>admin_help>Lobisomem Relíquia> tele/other.htm
+09/03/2025 2:01:45>Dean [268477694]>admin_show_moves>Lobisomem Relíquia>
+09/03/2025 2:01:46>Dean [268477694]>admin_help>Lobisomem Relíquia> tele/locations/c5.htm
+09/03/2025 2:01:48>Dean [268477694]>admin_move_to>Lobisomem Relíquia> 123743 -75032 -2902
+09/03/2025 2:04:52>Dean [268477694]>admin_admin>Buscador Silencioso>
+09/03/2025 2:05:16>Dean [268477694]>admin_admin>no-target>
+09/03/2025 2:05:17>Dean [268477694]>admin_move_to>no-target>
+09/03/2025 2:05:20>Dean [268477694]>admin_help>no-target> tele/towns.htm
+09/03/2025 2:05:21>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+09/03/2025 2:05:22>Dean [268477694]>admin_move_to>no-target> 82698 148638 -3473
+09/03/2025 2:05:33>Dean [268477694]>admin_admin>no-target>
+09/03/2025 2:05:35>Dean [268477694]>admin_move_to>no-target>
+09/03/2025 2:05:46>Dean [268477694]>admin_admin>no-target>
+09/03/2025 14:51:12>Dean [268477694]>admin_admin>no-target>
+09/03/2025 14:51:12>Dean [268477694]>admin_admin3>no-target>
+09/03/2025 14:51:13>Dean [268477694]>admin_admin2>no-target>
+09/03/2025 14:51:14>Dean [268477694]>admin_show_characters>no-target> 0
+09/03/2025 14:51:15>Dean [268477694]>admin_character_info>no-target> Dean
+09/03/2025 14:51:16>Dean [268477694]>admin_show_skills>Dean>
+09/03/2025 14:51:18>Dean [268477694]>admin_remove_all_skills>Dean>
+09/03/2025 14:51:23>Dean [268477694]>admin_admin>Dean>
+09/03/2025 14:51:24>Dean [268477694]>admin_superhaste>Dean> 4
+09/03/2025 14:52:37>Dean [268477694]>admin_admin>Dean>
+09/03/2025 14:52:41>Dean [268477694]>admin_admin2>Dean>
+09/03/2025 14:52:42>Dean [268477694]>admin_show_characters>Dean> 0
+09/03/2025 14:52:43>Dean [268477694]>admin_character_info>Dean> Dean
+09/03/2025 14:52:44>Dean [268477694]>admin_edit_character>Dean>
+09/03/2025 14:52:49>Dean [268477694]>admin_current_player>Dean>
+09/03/2025 14:52:52>Dean [268477694]>admin_edit_character>Dean>
+09/03/2025 14:52:53>Dean [268477694]>admin_current_player>Dean>
+09/03/2025 14:52:55>Dean [268477694]>admin_add_exp_sp_to_character>Dean>
+09/03/2025 14:53:00>Dean [268477694]>admin_add_exp_sp>Dean> 500000000
+09/03/2025 14:53:14>Dean [268477694]>admin_add_exp_sp>Dean> 1 1000000000
+09/03/2025 15:04:33>Dean [268477694]>admin_admin>Genwitter>
+09/03/2025 15:04:34>Dean [268477694]>admin_create_item>Genwitter>
+09/03/2025 15:04:45>Dean [268477694]>admin_create_item>Genwitter> 8618 1
+09/03/2025 15:04:49>Dean [268477694]>admin_admin>Dean>
+09/03/2025 15:04:50>Dean [268477694]>admin_create_item>Dean>
+09/03/2025 15:04:55>Dean [268477694]>admin_create_item>Dean> 8618 1
+09/03/2025 15:05:50>Dean [268477694]>admin_admin>Dean>
+09/03/2025 15:05:54>Dean [268477694]>admin_admin>Dean>
+09/03/2025 15:05:58>Dean [268477694]>admin_admin2>Dean>
+09/03/2025 15:05:59>Dean [268477694]>admin_show_characters>Dean> 0
+09/03/2025 15:06:00>Dean [268477694]>admin_character_info>Dean> Dean
+09/03/2025 15:06:06>Dean [268477694]>admin_show_skills>Dean>
+09/03/2025 15:06:07>Dean [268477694]>admin_remove_all_skills>Dean>
+09/03/2025 15:06:09>Dean [268477694]>admin_admin>Dean>
+09/03/2025 15:06:11>Dean [268477694]>admin_admin2>Dean>
+09/03/2025 15:06:13>Dean [268477694]>admin_show_characters>Dean> 0
+09/03/2025 15:06:14>Dean [268477694]>admin_character_info>Dean> Dean
+09/03/2025 15:06:15>Dean [268477694]>admin_setclass>Dean>
+09/03/2025 15:06:18>Dean [268477694]>admin_setclass>Dean> 92
+09/03/2025 15:08:57>Dean [268477694]>admin_admin>Genwitter>
+09/03/2025 15:15:40>Dean [268477694]>admin_admin>Rosheria>
+09/03/2025 15:15:41>Dean [268477694]>admin_admin3>Rosheria>
+09/03/2025 15:15:42>Dean [268477694]>admin_admin2>Rosheria>
+09/03/2025 15:15:43>Dean [268477694]>admin_show_characters>Rosheria> 0
+09/03/2025 15:15:43>Dean [268477694]>admin_character_info>Rosheria> Dean
+09/03/2025 15:15:45>Dean [268477694]>admin_setclass>Dean>
+09/03/2025 15:16:00>Dean [268477694]>admin_setclass>Dean> 90
+09/03/2025 15:16:03>Dean [268477694]>admin_admin>Dean>
+09/03/2025 15:16:04>Dean [268477694]>admin_admin2>Dean>
+09/03/2025 15:16:05>Dean [268477694]>admin_show_characters>Dean> 0
+09/03/2025 15:16:06>Dean [268477694]>admin_character_info>Dean> Dean
+09/03/2025 15:16:07>Dean [268477694]>admin_show_skills>Dean>
+09/03/2025 15:16:09>Dean [268477694]>admin_remove_all_skills>Dean>
+12/03/2025 19:01:47>Dean [268477694]>admin_admin>Macken>
+12/03/2025 19:01:58>Dean [268477694]>admin_admin2>Macken>
+12/03/2025 19:01:59>Dean [268477694]>admin_show_characters>Macken> 0
+12/03/2025 19:02:00>Dean [268477694]>admin_character_info>Macken> Dean
+12/03/2025 19:02:03>Dean [268477694]>admin_setclass>Dean>
+12/03/2025 19:02:05>Dean [268477694]>admin_setclass>Dean> 93
+12/03/2025 19:02:09>Dean [268477694]>admin_admin>Dean>
+12/03/2025 19:02:10>Dean [268477694]>admin_admin2>Dean>
+12/03/2025 19:02:10>Dean [268477694]>admin_admin3>Dean>
+12/03/2025 19:02:11>Dean [268477694]>admin_admin4>Dean>
+12/03/2025 19:02:12>Dean [268477694]>admin_admin2>Dean>
+12/03/2025 19:02:13>Dean [268477694]>admin_show_characters>Dean> 0
+12/03/2025 19:02:14>Dean [268477694]>admin_character_info>Dean> Dean
+12/03/2025 19:02:16>Dean [268477694]>admin_show_skills>Dean>
+12/03/2025 19:02:17>Dean [268477694]>admin_remove_all_skills>Dean>
+12/03/2025 19:02:19>Dean [268477694]>admin_admin>Dean>
+12/03/2025 19:02:21>Dean [268477694]>admin_admin2>Dean>
+12/03/2025 19:02:22>Dean [268477694]>admin_show_characters>Dean> 0
+12/03/2025 19:02:23>Dean [268477694]>admin_character_info>Dean> Dean
+12/03/2025 19:02:25>Dean [268477694]>admin_show_skills>Dean>
+12/03/2025 19:02:27>Dean [268477694]>admin_give_all_skills>Dean>
+12/03/2025 19:02:30>Dean [268477694]>admin_admin>Dean>
+12/03/2025 19:02:31>Dean [268477694]>admin_admin>Dean>
+12/03/2025 19:02:33>Dean [268477694]>admin_admin2>Dean>
+12/03/2025 19:02:55>Dean [268477694]>admin_admin>Dean>
+12/03/2025 19:03:05>Dean [268477694]>admin_admin>Dean>
+12/03/2025 19:37:16>Dean [268477694]>admin_admin>no-target>
+12/03/2025 19:37:17>Dean [268477694]>admin_admin2>no-target>
+19/04/2025 12:08:03>Dean [268477694]>admin_admin>no-target>
+19/04/2025 12:08:07>Dean [268477694]>admin_gmshop>no-target>
+19/04/2025 12:08:09>Dean [268477694]>admin_help>no-target> gmshop/sets.htm
+19/04/2025 12:08:12>Dean [268477694]>admin_buy>no-target> 9117
+19/04/2025 12:08:19>Dean [268477694]>admin_admin>no-target>
+19/04/2025 12:08:21>Dean [268477694]>admin_gmshop>no-target>
+19/04/2025 12:08:22>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+19/04/2025 12:08:23>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+19/04/2025 12:08:28>Dean [268477694]>admin_buy>no-target> 9048
+19/04/2025 12:08:40>Dean [268477694]>admin_admin>no-target>
+19/04/2025 12:08:45>Dean [268477694]>admin_admin>no-target>
+19/04/2025 12:08:47>Dean [268477694]>admin_gmshop>no-target>
+19/04/2025 12:08:49>Dean [268477694]>admin_help>no-target> gmshop/Jewels.htm
+19/04/2025 12:08:50>Dean [268477694]>admin_buy>no-target> 9300
+19/04/2025 12:09:45>Dean [268477694]>admin_admin>no-target>
+19/04/2025 12:09:47>Dean [268477694]>admin_admin2>no-target>
+19/04/2025 12:09:48>Dean [268477694]>admin_show_characters>no-target> 0
+19/04/2025 12:09:49>Dean [268477694]>admin_character_info>no-target> Humanio
+19/04/2025 12:09:51>Dean [268477694]>admin_recall_char_menu>Humanio> Humanio
+19/04/2025 12:12:50>Dean [268477694]>admin_admin>Jake>
+19/04/2025 12:12:51>Dean [268477694]>admin_superhaste>Jake> 4
+19/04/2025 12:18:57>Dean [268477694]>admin_admin>no-target>
+19/04/2025 12:18:58>Dean [268477694]>admin_superhaste>no-target> 4
+19/04/2025 12:19:30>Dean [268477694]>admin_admin>Humanio>
+19/04/2025 12:19:31>Dean [268477694]>admin_create_item>Humanio>
+19/04/2025 12:19:37>Dean [268477694]>admin_admin>Humanio>
+19/04/2025 12:31:06>Dean [268477694]>admin_admin>Jake>
+19/04/2025 12:31:09>Dean [268477694]>admin_move_to>Jake>
+19/04/2025 12:31:11>Dean [268477694]>admin_help>Jake> tele/other.htm
+19/04/2025 12:31:13>Dean [268477694]>admin_help>Jake> tele/others/goodies.htm
+19/04/2025 12:31:14>Dean [268477694]>admin_move_to>Jake> -11029 -185526 -10936
+19/04/2025 12:31:31>Dean [268477694]>admin_admin>no-target>
+19/04/2025 12:31:32>Dean [268477694]>admin_superhaste>no-target> 4
+19/04/2025 12:45:27>Dean [268477694]>admin_admin>no-target>
+19/04/2025 12:45:28>Dean [268477694]>admin_superhaste>no-target> 4
+19/04/2025 12:45:30>Dean [268477694]>admin_admin>Dean>
+19/04/2025 12:45:35>Dean [268477694]>admin_invul_menu_main>Dean>
+19/04/2025 12:52:21>Dean [268477694]>admin_admin>no-target>
+19/04/2025 12:52:23>Dean [268477694]>admin_gmshop>no-target>
+19/04/2025 12:52:24>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+19/04/2025 12:52:25>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+19/04/2025 12:52:26>Dean [268477694]>admin_buy>no-target> 9501
+19/04/2025 12:56:15>Dean [268477694]>admin_admin>no-target>
+19/04/2025 12:56:16>Dean [268477694]>admin_superhaste>no-target> 4
+19/04/2025 14:36:48>Dean [268477694]>admin_admin>Jake>
+19/04/2025 14:36:50>Dean [268477694]>admin_gmshop>Jake>
+19/04/2025 14:36:51>Dean [268477694]>admin_help>Jake> gmshop/sets.htm
+19/04/2025 14:36:52>Dean [268477694]>admin_buy>Jake> 9502
+19/04/2025 14:37:08>Dean [268477694]>admin_admin>Jake>
+19/04/2025 14:37:09>Dean [268477694]>admin_gmshop>Jake>
+19/04/2025 14:37:10>Dean [268477694]>admin_help>Jake> gmshop/sets.htm
+19/04/2025 14:37:12>Dean [268477694]>admin_buy>Jake> 9117
+19/04/2025 14:40:55>Dean [268477694]>admin_admin>Dean>
+19/04/2025 14:40:56>Dean [268477694]>admin_gmshop>Dean>
+19/04/2025 14:40:57>Dean [268477694]>admin_help>Dean> gmshop/Weapons.htm
+19/04/2025 14:40:59>Dean [268477694]>admin_help>Dean> gmshop/sgradew.htm
+19/04/2025 14:41:00>Dean [268477694]>admin_buy>Dean> 9501
+28/06/2025 14:21:46>Dean [268477694]>admin_admin>no-target>
+28/06/2025 14:22:09>Dean [268477694]>admin_admin>no-target>
+28/06/2025 14:22:10>Dean [268477694]>admin_move_to>no-target>
+28/06/2025 14:22:11>Dean [268477694]>admin_help>no-target> tele/towns.htm
+28/06/2025 14:22:13>Dean [268477694]>admin_help>no-target> tele/towns/goddard.htm
+28/06/2025 14:22:14>Dean [268477694]>admin_move_to>no-target> 147725 -56517 -2780
+28/06/2025 14:28:14>Dean [268477694]>admin_admin>no-target>
+28/06/2025 14:28:15>Dean [268477694]>admin_admin4>no-target>
+28/06/2025 14:28:17>Dean [268477694]>admin_reload>no-target>
+28/06/2025 14:28:18>Dean [268477694]>admin_reload>no-target> npc
+28/06/2025 14:28:21>Dean [268477694]>admin_admin>no-target>
+28/06/2025 14:28:22>Dean [268477694]>admin_spawn_monster>no-target>
+28/06/2025 14:28:33>Dean [268477694]>admin_spawn_monster>no-target> 84008
+28/06/2025 14:28:44>Dean [268477694]>admin_delete>Airton>
+28/06/2025 14:28:56>Dean [268477694]>admin_admin>no-target>
+28/06/2025 14:28:57>Dean [268477694]>admin_spawn_monster>no-target>
+28/06/2025 14:29:01>Dean [268477694]>admin_spawn_monster>no-target> 84008
+28/06/2025 14:29:06>Dean [268477694]>admin_delete>Airton>
+28/06/2025 14:29:20>Dean [268477694]>admin_admin>no-target>
+28/06/2025 14:29:21>Dean [268477694]>admin_spawn_monster>no-target>
+28/06/2025 14:29:24>Dean [268477694]>admin_spawn_monster>no-target> 84008
+28/06/2025 14:29:33>Dean [268477694]>admin_delete>Airton>
+28/06/2025 14:29:49>Dean [268477694]>admin_admin>no-target>
+28/06/2025 14:29:51>Dean [268477694]>admin_spawn_monster>no-target>
+28/06/2025 14:29:54>Dean [268477694]>admin_spawn_monster>no-target> 84004
+28/06/2025 14:30:00>Dean [268477694]>admin_delete>Michaelle>
+28/06/2025 14:30:01>Dean [268477694]>admin_admin>no-target>
+28/06/2025 14:30:02>Dean [268477694]>admin_spawn_monster>no-target>
+28/06/2025 14:30:05>Dean [268477694]>admin_spawn_monster>no-target> 84008
+28/06/2025 14:30:11>Dean [268477694]>admin_delete>Airton>
+28/06/2025 14:30:21>Dean [268477694]>admin_admin>no-target>
+28/06/2025 14:30:22>Dean [268477694]>admin_spawn_monster>no-target>
+28/06/2025 14:30:24>Dean [268477694]>admin_spawn_monster>no-target> 84008
+28/06/2025 15:57:11>Dean [268477694]>admin_admin>no-target>
+28/06/2025 15:57:12>Dean [268477694]>admin_admin4>no-target>
+28/06/2025 15:57:13>Dean [268477694]>admin_reload>no-target>
+28/06/2025 15:57:15>Dean [268477694]>admin_reload>no-target> item
+28/06/2025 15:57:20>Dean [268477694]>admin_admin>no-target>
+28/06/2025 15:57:21>Dean [268477694]>admin_create_item>no-target>
+28/06/2025 15:57:42>Dean [268477694]>admin_create_item>no-target> 9513 1
+28/06/2025 19:07:15>Dean [268477694]>admin_admin>no-target>
+28/06/2025 19:07:16>Dean [268477694]>admin_admin>no-target>
+28/06/2025 19:35:08>Dean [268477694]>admin_admin>no-target>
+28/06/2025 19:36:09>Dean [268477694]>admin_admin2>no-target>
+28/06/2025 19:36:09>Dean [268477694]>admin_admin3>no-target>
+28/06/2025 19:36:10>Dean [268477694]>admin_admin4>no-target>
+28/06/2025 19:38:30>Dean [268477694]>admin_delete>Airton>
+28/06/2025 19:38:41>Dean [268477694]>admin_admin>no-target>
+28/06/2025 19:38:42>Dean [268477694]>admin_spawn_monster>no-target>
+28/06/2025 19:38:46>Dean [268477694]>admin_spawn_monster>no-target> 84007
+28/06/2025 19:38:51>Dean [268477694]>admin_admin>no-target>
+28/06/2025 19:38:52>Dean [268477694]>admin_admin4>no-target>
+28/06/2025 19:38:53>Dean [268477694]>admin_reload>no-target>
+28/06/2025 19:38:54>Dean [268477694]>admin_reload>no-target> npc
+28/06/2025 19:38:56>Dean [268477694]>admin_admin>no-target>
+28/06/2025 19:38:56>Dean [268477694]>admin_spawn_monster>no-target>
+28/06/2025 19:38:59>Dean [268477694]>admin_spawn_monster>no-target> 84007
+28/06/2025 19:46:04>Dean [268477694]>admin_admin>no-target>
+28/06/2025 19:46:05>Dean [268477694]>admin_admin4>no-target>
+28/06/2025 19:46:06>Dean [268477694]>admin_reload>no-target>
+28/06/2025 19:46:07>Dean [268477694]>admin_reload>no-target> npc
+28/06/2025 19:46:39>Dean [268477694]>admin_delete>Airton>
+28/06/2025 19:46:48>Dean [268477694]>admin_admin>no-target>
+28/06/2025 19:46:49>Dean [268477694]>admin_spawn_monster>no-target>
+28/06/2025 19:46:51>Dean [268477694]>admin_spawn_monster>no-target> 84007
+28/06/2025 19:47:17>Dean [268477694]>admin_admin>no-target>
+28/06/2025 19:47:20>Dean [268477694]>admin_admin4>no-target>
+28/06/2025 19:47:21>Dean [268477694]>admin_reload>no-target>
+28/06/2025 19:47:23>Dean [268477694]>admin_reload>no-target> npc
+28/06/2025 20:24:13>Dean [268477694]>admin_admin>no-target>
+28/06/2025 20:24:14>Dean [268477694]>admin_create_item>no-target>
+28/06/2025 20:24:17>Dean [268477694]>admin_create_item>no-target> 9503 1
+28/06/2025 20:26:13>Dean [268477694]>admin_admin>Dean>
+28/06/2025 20:30:35>Dean [268477694]>admin_admin>Dean>
+28/06/2025 20:30:38>Dean [268477694]>admin_gmshop>Dean>
+28/06/2025 20:30:40>Dean [268477694]>admin_help>Dean> gmshop/sets.htm
+28/06/2025 20:30:43>Dean [268477694]>admin_buy>Dean> 9115
+28/06/2025 21:00:19>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:06:13>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:06:14>Dean [268477694]>admin_admin4>Airton>
+28/06/2025 21:06:15>Dean [268477694]>admin_cache_htm_rebuild>Airton>
+28/06/2025 21:10:41>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:10:44>Dean [268477694]>admin_admin4>Airton>
+28/06/2025 21:10:45>Dean [268477694]>admin_cache_htm_rebuild>Airton>
+28/06/2025 21:14:45>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:14:46>Dean [268477694]>admin_admin4>Airton>
+28/06/2025 21:14:47>Dean [268477694]>admin_cache_htm_rebuild>Airton>
+28/06/2025 21:15:00>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:15:01>Dean [268477694]>admin_admin4>Airton>
+28/06/2025 21:15:02>Dean [268477694]>admin_cache_htm_rebuild>Airton>
+28/06/2025 21:15:31>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:15:32>Dean [268477694]>admin_admin4>Airton>
+28/06/2025 21:15:34>Dean [268477694]>admin_reload>Airton>
+28/06/2025 21:15:35>Dean [268477694]>admin_reload>Airton> multisell
+28/06/2025 21:15:39>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:15:40>Dean [268477694]>admin_admin4>Airton>
+28/06/2025 21:15:41>Dean [268477694]>admin_cache_htm_rebuild>Airton>
+28/06/2025 21:19:34>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:19:36>Dean [268477694]>admin_admin4>Airton>
+28/06/2025 21:19:37>Dean [268477694]>admin_reload>Airton>
+28/06/2025 21:19:38>Dean [268477694]>admin_reload>Airton> multisell
+28/06/2025 21:23:50>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:23:52>Dean [268477694]>admin_admin4>Airton>
+28/06/2025 21:23:53>Dean [268477694]>admin_reload>Airton>
+28/06/2025 21:23:54>Dean [268477694]>admin_reload>Airton> multisell
+28/06/2025 21:24:24>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:24:25>Dean [268477694]>admin_gmshop>Airton>
+28/06/2025 21:24:27>Dean [268477694]>admin_help>Airton> gmshop/sets.htm
+28/06/2025 21:24:29>Dean [268477694]>admin_buy>Airton> 9117
+28/06/2025 21:24:35>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:24:40>Dean [268477694]>admin_enchant>Airton>
+28/06/2025 21:24:51>Dean [268477694]>admin_setec>Airton> 10
+28/06/2025 21:24:58>Dean [268477694]>admin_setec>Dean> 10
+28/06/2025 21:25:21>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:25:23>Dean [268477694]>admin_create_item>Airton>
+28/06/2025 21:25:34>Dean [268477694]>admin_create_item>Airton> 9513 10
+28/06/2025 21:25:37>Dean [268477694]>admin_admin>Dean>
+28/06/2025 21:25:38>Dean [268477694]>admin_create_item>Dean>
+28/06/2025 21:25:43>Dean [268477694]>admin_create_item>Dean> 9513 10
+28/06/2025 21:27:17>Dean [268477694]>admin_admin>Airton>
+28/06/2025 21:27:18>Dean [268477694]>admin_admin4>Airton>
+28/06/2025 21:27:21>Dean [268477694]>admin_reload>Airton>
+28/06/2025 21:27:21>Dean [268477694]>admin_reload>Airton> multisell
+29/06/2025 15:25:36>Dean [268477694]>admin_admin>no-target>
+29/06/2025 15:25:37>Dean [268477694]>admin_admin4>no-target>
+29/06/2025 15:25:38>Dean [268477694]>admin_cache_htm_rebuild>no-target>
+29/06/2025 15:25:39>Dean [268477694]>admin_admin>no-target>
+29/06/2025 15:25:40>Dean [268477694]>admin_create_item>no-target>
+29/06/2025 15:25:41>Dean [268477694]>admin_admin>no-target>
+29/06/2025 15:25:41>Dean [268477694]>admin_admin4>no-target>
+29/06/2025 15:25:42>Dean [268477694]>admin_reload>no-target>
+29/06/2025 15:25:43>Dean [268477694]>admin_reload>no-target> multisell
+29/06/2025 15:25:56>Dean [268477694]>admin_admin>Meridic>
+29/06/2025 15:25:57>Dean [268477694]>admin_admin4>Meridic>
+29/06/2025 15:25:58>Dean [268477694]>admin_reload>Meridic>
+29/06/2025 15:25:59>Dean [268477694]>admin_reload>Meridic> item
+29/06/2025 15:26:01>Dean [268477694]>admin_reload>Meridic> multisell
+29/06/2025 16:11:28>Dean [268477694]>admin_admin>no-target>
+29/06/2025 16:11:29>Dean [268477694]>admin_admin4>no-target>
+29/06/2025 16:11:30>Dean [268477694]>admin_cache_htm_rebuild>no-target>
+29/06/2025 16:11:31>Dean [268477694]>admin_admin>no-target>
+29/06/2025 16:11:33>Dean [268477694]>admin_admin4>no-target>
+29/06/2025 16:11:33>Dean [268477694]>admin_reload>no-target>
+29/06/2025 16:11:34>Dean [268477694]>admin_reload>no-target> multisell
+29/06/2025 16:11:38>Dean [268477694]>admin_reload>no-target> item
+29/06/2025 16:18:34>Dean [268477694]>admin_admin>Olsun>
+29/06/2025 16:45:56>Dean [268477694]>admin_admin>Jake>
+29/06/2025 16:45:58>Dean [268477694]>admin_admin4>Jake>
+29/06/2025 16:45:58>Dean [268477694]>admin_reload>Jake>
+29/06/2025 16:46:06>Dean [268477694]>admin_reload>Jake> tradelist
+29/06/2025 16:47:05>Dean [268477694]>admin_admin>no-target>
+29/06/2025 16:47:06>Dean [268477694]>admin_create_item>no-target>
+29/06/2025 16:47:16>Dean [268477694]>admin_create_item>no-target> 9514 100
+29/06/2025 17:00:12>Dean [268477694]>admin_admin>Patrulha>
+29/06/2025 17:00:13>Dean [268477694]>admin_superhaste>Patrulha> 4
+29/06/2025 17:37:48>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:37:50>Dean [268477694]>admin_create_item>no-target>
+29/06/2025 17:37:51>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:37:52>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:37:57>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:37:58>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:38:01>Dean [268477694]>admin_buy>no-target> 9045
+29/06/2025 17:41:24>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:41:25>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:41:27>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:41:28>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:41:29>Dean [268477694]>admin_buy>no-target> 9048
+29/06/2025 17:41:56>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:41:57>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:42:00>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:42:01>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:42:08>Dean [268477694]>admin_buy>no-target> 9053
+29/06/2025 17:42:38>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:43:49>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:43:51>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:43:52>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:43:53>Dean [268477694]>admin_buy>no-target> 9501
+29/06/2025 17:45:11>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:45:14>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:45:15>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:45:16>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:45:21>Dean [268477694]>admin_buy>no-target> 9047
+29/06/2025 17:46:05>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:46:06>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:46:08>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:46:09>Dean [268477694]>admin_help>no-target> gmshops.htm
+29/06/2025 17:46:10>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:46:10>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:46:11>Dean [268477694]>admin_buy>no-target> 9501
+29/06/2025 17:48:30>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:48:32>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:48:34>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:48:35>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:48:37>Dean [268477694]>admin_buy>no-target> 9045
+29/06/2025 17:51:27>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:51:28>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:51:30>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:51:31>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:51:32>Dean [268477694]>admin_buy>no-target> 9501
+29/06/2025 17:53:10>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:53:12>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:53:14>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:53:15>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:53:22>Dean [268477694]>admin_buy>no-target> 9045
+29/06/2025 17:53:33>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:54:02>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:54:03>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:54:04>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:54:05>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:54:10>Dean [268477694]>admin_buy>no-target> 9051
+29/06/2025 17:54:14>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:54:15>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:54:16>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:54:17>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:54:19>Dean [268477694]>admin_buy>no-target> 9046
+29/06/2025 17:54:23>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:54:24>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:54:26>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:54:27>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:54:30>Dean [268477694]>admin_buy>no-target> 9052
+29/06/2025 17:56:33>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:56:34>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:56:35>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:56:36>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:56:38>Dean [268477694]>admin_buy>no-target> 9053
+29/06/2025 17:58:24>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:58:25>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:58:26>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:58:27>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:58:28>Dean [268477694]>admin_buy>no-target> 9049
+29/06/2025 17:58:54>Dean [268477694]>admin_admin>no-target>
+29/06/2025 17:58:56>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 17:58:56>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 17:58:57>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 17:59:03>Dean [268477694]>admin_buy>no-target> 9053
+29/06/2025 18:00:10>Dean [268477694]>admin_admin>no-target>
+29/06/2025 18:00:11>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 18:00:13>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 18:00:14>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 18:00:14>Dean [268477694]>admin_buy>no-target> 9501
+29/06/2025 18:01:04>Dean [268477694]>admin_admin>no-target>
+29/06/2025 18:01:05>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 18:01:06>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 18:01:07>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 18:01:09>Dean [268477694]>admin_buy>no-target> 9051
+29/06/2025 18:03:14>Dean [268477694]>admin_admin>no-target>
+29/06/2025 18:03:15>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 18:03:16>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 18:03:19>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 18:03:21>Dean [268477694]>admin_buy>no-target> 9046
+29/06/2025 18:04:24>Dean [268477694]>admin_admin>no-target>
+29/06/2025 18:04:25>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 18:04:26>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 18:04:27>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 18:04:28>Dean [268477694]>admin_buy>no-target> 9501
+29/06/2025 18:08:38>Dean [268477694]>admin_admin>no-target>
+29/06/2025 18:08:39>Dean [268477694]>admin_gmshop>no-target>
+29/06/2025 18:08:41>Dean [268477694]>admin_help>no-target> gmshop/Weapons.htm
+29/06/2025 18:08:42>Dean [268477694]>admin_help>no-target> gmshop/sgradew.htm
+29/06/2025 18:08:43>Dean [268477694]>admin_buy>no-target> 9047
+29/06/2025 18:10:58>Dean [268477694]>admin_admin>no-target>
+29/06/2025 18:10:59>Dean [268477694]>admin_superhaste>no-target> 4
+29/06/2025 18:11:28>Dean [268477694]>admin_edit_npc>Airton> 84007
+29/06/2025 18:11:33>Dean [268477694]>admin_admin>Airton>
+29/06/2025 18:11:37>Dean [268477694]>admin_admin4>Airton>
+29/06/2025 18:11:40>Dean [268477694]>admin_admin3>Airton>
+29/06/2025 18:11:41>Dean [268477694]>admin_admin2>Airton>
+29/06/2025 18:11:52>Dean [268477694]>admin_mammon_find>Airton> 2
+29/06/2025 18:12:00>Dean [268477694]>admin_admin>Airton>
+29/06/2025 18:12:02>Dean [268477694]>admin_admin2>Airton>
+29/06/2025 18:12:14>Dean [268477694]>admin_admin>Airton>
+29/06/2025 18:12:17>Dean [268477694]>admin_admin2>Airton>
+29/06/2025 18:12:20>Dean [268477694]>admin_admin>Airton>
+29/06/2025 18:12:26>Dean [268477694]>admin_admin4>Airton>
+29/06/2025 18:12:40>Dean [268477694]>admin_reload>Airton>
+29/06/2025 18:12:42>Dean [268477694]>admin_reload>Airton> multisell
+29/06/2025 18:12:48>Dean [268477694]>admin_admin2>Airton>
+29/06/2025 18:12:48>Dean [268477694]>admin_admin>Airton>
+29/06/2025 18:13:49>Dean [268477694]>admin_admin4>no-target>
+29/06/2025 18:13:50>Dean [268477694]>admin_reload>no-target>
+29/06/2025 18:13:51>Dean [268477694]>admin_admin4>no-target>
+29/06/2025 18:13:52>Dean [268477694]>admin_cache_htm_rebuild>no-target>
+29/06/2025 19:02:12>Dean [268477694]>admin_admin>no-target>
+29/06/2025 19:02:12>Dean [268477694]>admin_admin>no-target>
+29/06/2025 19:02:14>Dean [268477694]>admin_admin4>no-target>
+29/06/2025 19:02:16>Dean [268477694]>admin_admin2>Dean>
+29/06/2025 19:02:17>Dean [268477694]>admin_show_characters>Dean> 0
+29/06/2025 19:02:18>Dean [268477694]>admin_character_info>Dean> Dean
+29/06/2025 19:02:26>Dean [268477694]>admin_setclass>Dean>
+29/06/2025 19:02:40>Dean [268477694]>admin_current_player>Dean>
+29/06/2025 19:02:45>Dean [268477694]>admin_show_characters>Dean> 0
+29/06/2025 19:02:46>Dean [268477694]>admin_admin2>Dean>
+29/06/2025 19:02:49>Dean [268477694]>admin_show_characters>Dean> 0
+29/06/2025 19:02:49>Dean [268477694]>admin_character_info>Dean> Dean
+29/06/2025 19:02:56>Dean [268477694]>admin_edit_character>Dean>
+29/06/2025 19:02:59>Dean [268477694]>admin_setsex>Dean>
+03/07/2025 21:56:10>Dean [268477694]>admin_admin>no-target>
+03/07/2025 21:56:11>Dean [268477694]>admin_admin>no-target>
+03/07/2025 21:56:12>Dean [268477694]>admin_create_item>no-target>
+03/07/2025 21:56:36>Dean [268477694]>admin_create_item>no-target> 9507 1
+03/07/2025 22:09:53>Dean [268477694]>admin_admin>no-target>
+03/07/2025 22:09:55>Dean [268477694]>admin_admin2>no-target>
+03/07/2025 22:09:56>Dean [268477694]>admin_show_characters>no-target> 0
+03/07/2025 22:09:57>Dean [268477694]>admin_character_info>no-target> Dean
+03/07/2025 22:09:59>Dean [268477694]>admin_setclass>Dean>
+03/07/2025 22:10:10>Dean [268477694]>admin_setclass>Dean> 101
+03/07/2025 22:11:13>Dean [268477694]>admin_admin>no-target>
+03/07/2025 22:11:16>Dean [268477694]>admin_create_item>no-target>
+03/07/2025 22:11:17>Dean [268477694]>admin_admin>no-target>
+03/07/2025 22:11:18>Dean [268477694]>admin_gmshop>no-target>
+03/07/2025 22:11:20>Dean [268477694]>admin_buy>no-target> 9121
+03/07/2025 22:11:43>Dean [268477694]>admin_admin>no-target>
+03/07/2025 22:11:43>Dean [268477694]>admin_gmshop>no-target>
+03/07/2025 22:11:45>Dean [268477694]>admin_buy>no-target> 9121
+03/07/2025 22:11:50>Dean [268477694]>admin_admin>no-target>
+03/07/2025 22:11:51>Dean [268477694]>admin_gmshop>no-target>
+03/07/2025 22:11:55>Dean [268477694]>admin_buy>no-target> 71023
+03/07/2025 22:13:25>Dean [268477694]>admin_admin>no-target>
+03/07/2025 22:13:26>Dean [268477694]>admin_gmshop>no-target>
+03/07/2025 22:13:34>Dean [268477694]>admin_buy>no-target> 9121
+06/07/2025 14:45:57>Dean [268477694]>admin_admin>no-target>
+06/07/2025 14:45:59>Dean [268477694]>admin_move_to>no-target>
+06/07/2025 14:46:00>Dean [268477694]>admin_help>no-target> tele/towns.htm
+06/07/2025 14:46:00>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+06/07/2025 14:46:02>Dean [268477694]>admin_move_to>no-target> 77528 148183 -3596
+06/07/2025 14:46:24>Dean [268477694]>admin_admin>no-target>
+06/07/2025 14:46:26>Dean [268477694]>admin_move_to>no-target>
+06/07/2025 14:46:27>Dean [268477694]>admin_help>no-target> tele/towns.htm
+06/07/2025 14:46:28>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+06/07/2025 14:46:34>Dean [268477694]>admin_move_to>no-target> 83096 146659 -3469
+06/07/2025 14:51:38>Dean [268477694]>admin_admin>Dorya>
+06/07/2025 14:51:39>Dean [268477694]>admin_admin4>Dorya>
+06/07/2025 14:51:40>Dean [268477694]>admin_cache_htm_rebuild>Dorya>
+06/07/2025 14:52:31>Dean [268477694]>admin_admin>Dorya>
+06/07/2025 14:52:33>Dean [268477694]>admin_admin4>Dorya>
+06/07/2025 14:52:33>Dean [268477694]>admin_cache_htm_rebuild>Dorya>
+06/07/2025 14:58:47>Dean [268477694]>admin_admin>Yven>
+06/07/2025 14:58:48>Dean [268477694]>admin_create_item>Yven>
+06/07/2025 14:58:53>Dean [268477694]>admin_create_item>Yven> 9507 1
+06/07/2025 14:58:56>Dean [268477694]>admin_admin>Dean>
+06/07/2025 14:58:57>Dean [268477694]>admin_create_item>Dean>
+06/07/2025 14:59:02>Dean [268477694]>admin_create_item>Dean> 9507 1
+06/07/2025 15:01:33>Dean [268477694]>admin_admin>Dean>
+06/07/2025 15:01:34>Dean [268477694]>admin_admin2>Dean>
+06/07/2025 15:01:35>Dean [268477694]>admin_show_characters>Dean> 0
+06/07/2025 15:01:36>Dean [268477694]>admin_character_info>Dean> Dean
+06/07/2025 15:01:38>Dean [268477694]>admin_show_skills>Dean>
+06/07/2025 15:01:39>Dean [268477694]>admin_remove_all_skills>Dean>
+06/07/2025 15:01:41>Dean [268477694]>admin_admin>Dean>
+06/07/2025 15:01:43>Dean [268477694]>admin_admin2>Dean>
+06/07/2025 15:01:44>Dean [268477694]>admin_show_characters>Dean> 0
+06/07/2025 15:01:45>Dean [268477694]>admin_character_info>Dean> Dean
+06/07/2025 15:01:46>Dean [268477694]>admin_show_skills>Dean>
+06/07/2025 15:01:50>Dean [268477694]>admin_give_all_skills>Dean>
+06/07/2025 18:27:26>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:27:28>Dean [268477694]>admin_superhaste>no-target> 4
+06/07/2025 18:27:47>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:27:49>Dean [268477694]>admin_ride_wyvern>no-target>
+06/07/2025 18:28:04>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:28:05>Dean [268477694]>admin_superhaste>no-target> 0
+06/07/2025 18:28:18>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:28:21>Dean [268477694]>admin_ride_wyvern>no-target>
+06/07/2025 18:28:24>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:28:25>Dean [268477694]>admin_ride_wyvern>no-target>
+06/07/2025 18:28:26>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:28:27>Dean [268477694]>admin_ride_strider>no-target>
+06/07/2025 18:28:28>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:28:51>Dean [268477694]>admin_ride_wyvern>no-target>
+06/07/2025 18:28:54>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:28:55>Dean [268477694]>admin_ride_wyvern>no-target>
+06/07/2025 18:28:56>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:28:58>Dean [268477694]>admin_ride_strider>no-target>
+06/07/2025 18:29:09>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:29:23>Dean [268477694]>admin_admin4>no-target>
+06/07/2025 18:29:24>Dean [268477694]>admin_admin3>no-target>
+06/07/2025 18:29:25>Dean [268477694]>admin_admin2>no-target>
+06/07/2025 18:29:27>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:29:58>Dean [268477694]>admin_admin2>no-target>
+06/07/2025 18:30:02>Dean [268477694]>admin_show_characters>no-target> 0
+06/07/2025 18:30:03>Dean [268477694]>admin_character_info>no-target> Dean
+06/07/2025 18:30:08>Dean [268477694]>admin_show_characters>Dean> 0
+06/07/2025 18:30:09>Dean [268477694]>admin_admin2>Dean>
+06/07/2025 18:30:10>Dean [268477694]>admin_admin4>Dean>
+06/07/2025 18:30:14>Dean [268477694]>admin_admin3>Dean>
+06/07/2025 18:30:46>Dean [268477694]>admin_admin>no-target>
+06/07/2025 18:30:47>Dean [268477694]>admin_ride_strider>no-target>
+08/07/2025 20:04:01>Dean [268477694]>admin_admin>no-target>
+08/07/2025 20:04:03>Dean [268477694]>admin_gmshop>no-target>
+08/07/2025 20:16:21>Dean [268477694]>admin_admin>no-target>
+08/07/2025 20:16:22>Dean [268477694]>admin_move_to>no-target>
+08/07/2025 20:16:23>Dean [268477694]>admin_help>no-target> tele/towns.htm
+08/07/2025 20:16:24>Dean [268477694]>admin_help>no-target> tele/towns/giran.htm
+08/07/2025 20:16:25>Dean [268477694]>admin_move_to>no-target> 82698 148638 -3473

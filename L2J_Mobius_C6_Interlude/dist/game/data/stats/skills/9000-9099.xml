@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="9001" levels="99" name="INT">
+		<table name="#lvl">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99</table>
+		<set name="target" val="SELF" />
+		<set name="skillType" val="LUCK" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		
+		<set name="canLearn" val="" />
+		<for>
+			<add order="0x10" stat="INT" val="#lvl" />
+		</for>
+	</skill>
+	<skill id="9002" levels="99" name="WIT">
+		<table name="#lvl">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99</table>
+		<set name="target" val="SELF" />
+		<set name="skillType" val="LUCK" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		
+		<set name="canLearn" val="" />
+		<for>
+			<add order="0x10" stat="WIT" val="#lvl" />
+		</for>
+	</skill>
+	<skill id="9003" levels="99" name="MEN">
+		<table name="#lvl">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99</table>
+		<set name="target" val="SELF" />
+		<set name="skillType" val="LUCK" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		
+		<set name="canLearn" val="" />
+		<for>
+			<add order="0x10" stat="MEN" val="#lvl" />
+		</for>
+	</skill>
+	<skill id="9004" levels="99" name="CON">
+		<table name="#lvl">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99</table>
+		<set name="target" val="SELF" />
+		<set name="skillType" val="LUCK" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		
+		<set name="canLearn" val="" />
+		<for>
+			<add order="0x10" stat="CON" val="#lvl" />
+		</for>
+	</skill>
+	<skill id="9005" levels="99" name="DEX">
+		<table name="#lvl">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99</table>
+		<set name="target" val="SELF" />
+		<set name="skillType" val="LUCK" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		
+		<set name="canLearn" val="" />
+		<for>
+			<add order="0x10" stat="DEX" val="#lvl" />
+		</for>
+	</skill>
+	<skill id="9006" levels="99" name="STR">
+		<table name="#lvl">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99</table>
+		<set name="target" val="SELF" />
+		<set name="skillType" val="LUCK" />
+		<set name="operateType" val="PASSIVE" />
+		<set name="castRange" val="-1" />
+		<set name="effectRange" val="-1" />
+		
+		<set name="canLearn" val="" />
+		<for>
+			<add order="0x10" stat="STR" val="#lvl" />
+		</for>
+	</skill>
+	<skill id="9007" levels="1" name="Poção de Mana Inferior">
+		<set name="target" val="SELF" />
+		<set name="skillType" val="MPHOT" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="reuseDelay" val="10000" />
+		<set name="buffDuration" val="15000" />
+		<set name="isPotion" val="true" />
+		<for>
+			<effect count="7" name="ManaHealOverTime" time="2" val="16" stackOrder="8" stackType="MpRecover" />
+		</for>
+	</skill>
+	<skill id="9008" levels="1" name="Poção de Mana Superior">
+		<set name="target" val="SELF" />
+		<set name="skillType" val="MPHOT" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="reuseDelay" val="10000" />
+		<set name="buffDuration" val="15000" />
+		<set name="isPotion" val="true" />
+		<for>
+			<effect count="7" name="ManaHealOverTime" time="2" val="100" stackOrder="50" stackType="MpRecover" />
+		</for>
+	</skill>
+	<skill id="9009" levels="1" name="Poção de Mana">
+		<set name="power" val="1" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="MPHOT" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="reuseDelay" val="10000" />
+		<set name="buffDuration" val="15000" />
+		<set name="isPotion" val="true" />
+		<for>
+			<effect count="7" name="ManaHealOverTime" time="2" val="48" stackOrder="2" stackType="MpRecover" />
+		</for>
+	</skill>
+	<skill id="9010" levels="1" name="XP-SP Boost">
+		<set name="power" val="1" />
+		<set name="target" val="SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="ACTIVE" />
+		<set name="castRange" val="-1" />
+		<for>
+			<effect name="Buff" count="1" time="3600" val="0" stackOrder="1" stackType="expBuff">
+				<mul order="0x30" stat="xpGain" val="1.5"/>
+			</effect>
+		</for>
+	</skill>
+</list>

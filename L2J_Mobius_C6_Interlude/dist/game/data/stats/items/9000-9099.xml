@@ -1,0 +1,2087 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="9000" type="Weapon" name="Item Sombrio: Portador da Tempestade*Portador da Tempestade">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Portador da Tempestade*Portador da Tempestade. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="780" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="175" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="78" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="175" order="0x08" stat="pAtk" />
+			<set val="78" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9001" type="Weapon" name="Item Sombrio: Espada Grande">
+		
+		<set name="icon" val="icon.weapon_great_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Espada Grande. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="650" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9002" type="Weapon" name="Item Sombrio: Machado de Guerra Pesado">
+		
+		<set name="icon" val="icon.weapon_heavy_war_axe_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Machado de Guerra Pesado. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="540" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="175" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="91" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="175" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9003" type="Weapon" name="Item Sombrio: Cajado dos Espíritos">
+		
+		<set name="icon" val="icon.weapon_sprites_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Cajado dos Espíritos. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="320" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="170" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="122" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="170" order="0x08" stat="pAtk" />
+			<set val="122" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9004" type="Weapon" name="Item Sombrio: Keshanberk">
+		
+		<set name="icon" val="icon.weapon_kshanberk_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Keshanberk. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="460" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="175" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="91" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="175" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9005" type="Weapon" name="Item Sombrio: Espada de Valhalla">
+		
+		<set name="icon" val="icon.weapon_sword_of_valhalla_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de uma Espada de Valhalla. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="140" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="122" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="140" order="0x08" stat="pAtk" />
+			<set val="122" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9006" type="Weapon" name="Item Sombrio: Kris">
+		
+		<set name="icon" val="icon.weapon_kris_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Kris. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="330" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="153" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="91" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="153" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9007" type="Weapon" name="Item Sombrio: Unha do Arthro">
+		
+		<set name="icon" val="icon.weapon_arthro_nail_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Unha do Arthro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="480" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9008" type="Weapon" name="Item Sombrio: Arco Longo do Elfo Sombrio">
+		
+		<set name="icon" val="icon.weapon_dark_elven_long_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Dark Elven Long Bow. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="580" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="397" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="227" />
+		<set name="mp_consume" val="8" />
+		<set name="m_dam" val="100" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="397" order="0x08" stat="pAtk" />
+			<set val="100" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="227" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9009" type="Weapon" name="Item Sombrio: Espada da Ilusão*Espada da Ilusão">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de uma Espada da Ilusão*Espada da Ilusão. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="720" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9010" type="Weapon" name="Item Sombrio: Grande Machado">
+		
+		<set name="icon" val="icon.weapon_great_axe_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Grande Machado. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="650" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="175" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="175" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+		</for>
+	</item>
+	<item id="9011" type="Weapon" name="Item Sombrio: Tallum Blade">
+		
+		<set name="icon" val="icon.weapon_tallum_blade_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Tallum Blade. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="450" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="107" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9012" type="Weapon" name="Item Sombrio: Alabarda">
+		
+		<set name="icon" val="icon.weapon_halbard_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de uma alabarda. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="640" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9013" type="Weapon" name="Item Sombrio: Cajado de Dasparion">
+		
+		<set name="icon" val="icon.weapon_dasparions_staff_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Cajado de Dasparion. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="310" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="207" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="143" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="207" order="0x08" stat="pAtk" />
+			<set val="143" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9014" type="Weapon" name="Item Sombrio: Orquídea Sangrenta">
+		
+		<set name="icon" val="icon.weapon_bloody_orchid_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Orquídea Sangrenta. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="320" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="186" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="107" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="186" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9015" type="Weapon" name="Item Sombrio: Tornado de Sangue">
+		
+		<set name="icon" val="icon.weapon_blood_tornado_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Tornado de Sangue. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="460" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="259" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="259" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9016" type="Weapon" name="Item Sombrio: Arco da Carnificina">
+		
+		<set name="icon" val="icon.weapon_carnium_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Arco da Carnificina. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="560" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="440" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="9" />
+		<set name="m_dam" val="107" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="440" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9017" type="Weapon" name="Item Sombrio: Keshanberk*Keshanberk">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Keshanberk*Keshanberk. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="700" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="259" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="259" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9018" type="Weapon" name="Item Sombrio: Chuva de Meteoros">
+		
+		<set name="icon" val="icon.weapon_meteor_shower_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de uma chuva de meteoros. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="540" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="107" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9019" type="Weapon" name="Item Sombrio: Mestre Infernal">
+		
+		<set name="icon" val="icon.weapon_inferno_master_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Mestre Infernal. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="640" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="259" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="107" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="259" order="0x08" stat="pAtk" />
+			<set val="107" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9020" type="Weapon" name="Item Sombrio: Keshanberk*Damasco">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Keshanberk*Damascus. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="693" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="275" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="112" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="275" order="0x08" stat="pAtk" />
+			<set val="112" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9021" type="Weapon" name="Item Sombrio: Destruidor de Dragões">
+		
+		<set name="icon" val="icon.weapon_dragon_slayer_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Destruidor de Dragões. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="613" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="282" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="282" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9022" type="Weapon" name="Item Sombrio: Espada dos Milagres">
+		
+		<set name="icon" val="icon.weapon_sword_of_miracle_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de uma Espada dos Milagres. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="280" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="186" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="152" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="186" order="0x08" stat="pAtk" />
+			<set val="152" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9023" type="Weapon" name="Item Sombrio: Elísio">
+		
+		<set name="icon" val="icon.weapon_elysian_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Elísio. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="527" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="114" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9024" type="Weapon" name="Item Sombrio: Ramo da Árvore Mãe">
+		
+		<set name="icon" val="icon.weapon_worldtrees_branch_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Ramo da Árvore Mãe. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="226" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="152" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="226" order="0x08" stat="pAtk" />
+			<set val="152" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9025" type="Weapon" name="Item Sombrio: Separador de Almas">
+		
+		<set name="icon" val="icon.weapon_soul_separator_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Separador de Almas. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="317" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="203" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="114" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="203" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9026" type="Weapon" name="Item Sombrio: Moedor de Dragão">
+		
+		<set name="icon" val="icon.weapon_dragon_grinder_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Moedor de Dragões. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="450" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="282" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="282" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9027" type="Weapon" name="Item Sombrio: Arco da Alma">
+		
+		<set name="icon" val="icon.weapon_soul_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Arco da Alma. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="553" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="528" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="227" />
+		<set name="mp_consume" val="10" />
+		<set name="m_dam" val="125" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="528" order="0x08" stat="pAtk" />
+			<set val="125" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="227" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9028" type="Weapon" name="Item Sombrio: Gládio de Tallum">
+		
+		<set name="icon" val="icon.weapon_tallum_glaive_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Gládio de Tallum. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="613" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="114" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+		</for>
+	</item>
+	<item id="9029" type="Weapon" name="Item Sombrio: Legião das Trevas">
+		
+		<set name="icon" val="icon.weapon_dark_legions_edge_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Dark Legion. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="440" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="a" />
+		<set name="p_dam" val="232" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="114" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="232" order="0x08" stat="pAtk" />
+			<set val="114" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+		</for>
+	</item>
+	<item id="9030" type="Armor" name="Item Sombrio: Peitoral de Bronze">
+		
+		<set name="icon" val="icon.armor_t34_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Peitoral de Bronze. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="2973" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="68" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="68" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9031" type="Armor" name="Item Sombrio: Calça de Bronze">
+		
+		<set name="icon" val="icon.armor_t34_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado das Calça de Bronze. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="1320" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="43" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="43" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9032" type="Armor" name="Item Sombrio: Camisa de Couro Duro">
+		
+		<set name="icon" val="icon.armor_t30_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Camisa de Couro Duro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1573" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="53" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="53" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9033" type="Armor" name="Item Sombrio: Calça de Couro Duro">
+		
+		<set name="icon" val="icon.armor_t30_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Calça de Couro Duro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="537" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="33" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="33" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9034" type="Armor" name="Item Sombrio: Manto da Magia">
+		
+		<set name="icon" val="icon.armor_t58_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Manto de Magia. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="693" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="34" />
+		<set name="mp_bonus" val="86" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="34" order="0x10" stat="pDef" />
+			<add val="86" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="9035" type="Armor" name="Item Sombrio: Calça de Magia">
+		
+		<set name="icon" val="icon.armor_t58_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Calça da Magia. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="343" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="21" />
+		<set name="mp_bonus" val="54" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="21" order="0x10" stat="pDef" />
+			<add val="54" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="9036" type="Weapon" name="Item Sombrio: Escudo de Osso">
+		
+		<set name="icon" val="icon.shield_bone_shield_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Bone Shield. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="weight" val="460" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="90" />
+		<set name="shield_def_rate" val="20" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="90" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+		</for>
+	</item>
+	<item id="9037" type="Armor" name="Item Sombrio: Capacete de Couro Duro">
+		
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Capacete de Couro Duro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="213" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="26" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="26" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9038" type="Armor" name="Item Sombrio: Botas">
+		
+		<set name="icon" val="icon.armor_t30_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de Boots. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="437" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="17" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9039" type="Armor" name="Item Sombrio: Braçadeira">
+		
+		<set name="icon" val="icon.armor_t30_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Bracer. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="217" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="17" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="17" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9040" type="Armor" name="Item Sombrio: Peitoral de Mithril">
+		
+		<set name="icon" val="icon.armor_t19_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Peitoral de Mithril. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="2890" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="95" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="95" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9041" type="Armor" name="Item Sombrio: Calça de Mithril">
+		
+		<set name="icon" val="icon.armor_t19_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado das Calça de Mithril. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="1277" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="61" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="61" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9042" type="Armor" name="Item Sombrio: Manopla">
+		
+		<set name="icon" val="icon.armor_t10_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Manoplas. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="213" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="24" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9043" type="Armor" name="Item Sombrio: Botas de Ferro">
+		
+		<set name="icon" val="icon.armor_t10_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas de Ferro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="427" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="24" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9044" type="Weapon" name="Item Sombrio: Hoplon">
+		
+		<set name="icon" val="icon.shield_hoplon_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Hoplon. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="447" />
+		<set name="crystal_type" val="d" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="128" />
+		<set name="shield_def_rate" val="20" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="128" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+		</for>
+	</item>
+	<item id="9045" type="Armor" name="Item Sombrio: Camisa de Couro Reforçado">
+		
+		<set name="icon" val="icon.armor_t13_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Camisa de Couro Reforçado. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1523" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="73" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="73" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9046" type="Armor" name="Item Sombrio: Calça de Couro Reforçado">
+		
+		<set name="icon" val="icon.armor_t13_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado das Calça de Couro Reforçado. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="523" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="46" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9047" type="Armor" name="Item Sombrio: Luvas de Couro Reforçado">
+		
+		<set name="icon" val="icon.armor_t13_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Luvas de Couro Reforçado. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="213" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="24" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9048" type="Armor" name="Item Sombrio: Botas de Couro Reforçado">
+		
+		<set name="icon" val="icon.armor_t13_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas de Couro Reforçado. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="427" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="24" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9049" type="Armor" name="Item Sombrio: Manto do Conhecimento">
+		
+		<set name="icon" val="icon.armor_t41_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Manto do Conhecimento. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="673" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="49" />
+		<set name="mp_bonus" val="147" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<add val="147" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="9050" type="Armor" name="Item Sombrio: Calça do Conhecimento">
+		
+		<set name="icon" val="icon.armor_t41_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Calça do Conhecimento. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="333" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="30" />
+		<set name="mp_bonus" val="92" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="30" order="0x10" stat="pDef" />
+			<add val="92" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="9051" type="Armor" name="Item Sombrio: Luvas do Conhecimento">
+		
+		<set name="icon" val="icon.armor_t41_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Luvas do Conhecimento. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="213" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="24" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9052" type="Armor" name="Item Sombrio: Botas do Conhecimento">
+		
+		<set name="icon" val="icon.armor_t41_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas do Conhecimento. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="423" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="24" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="24" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9053" type="Armor" name="Item Sombrio: Capacete">
+		
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um capacete. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="213" />
+		<set name="crystal_type" val="d" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="37" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="37" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9054" type="Armor" name="Item Sombrio: Armadura Composta">
+		
+		<set name="icon" val="icon.armor_t61_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado da Armadura Composta. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="3660" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="224" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="224" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9055" type="Armor" name="Item Sombrio: Botas Compostas">
+		
+		<set name="icon" val="icon.armor_t61_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de Botas Compostas. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="407" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="36" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="36" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9056" type="Weapon" name="Item Sombrio: Escudo Composto">
+		
+		<set name="icon" val="icon.shield_composite_shield_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um escudo composto. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="410" />
+		<set name="crystal_type" val="c" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="190" />
+		<set name="shield_def_rate" val="20" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="190" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+		</for>
+	</item>
+	<item id="9057" type="Armor" name="Item Sombrio: Capacete Composto">
+		
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Capacete Composto. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="203" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="54" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="54" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9058" type="Armor" name="Item Sombrio: Armadura Theca de Couro">
+		
+		<set name="icon" val="icon.armor_t63_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado da Armadura Theca de Couro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1457" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="106" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="106" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9059" type="Armor" name="Item Sombrio: Calça Theca de Couro">
+		
+		<set name="icon" val="icon.armor_t63_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado das Calça Theca de Couro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="510" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="66" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="66" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9060" type="Armor" name="Item Sombrio: Botas Theca de Couro">
+		
+		<set name="icon" val="icon.armor_t63_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas Theca de Couro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="403" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="37" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="37" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9061" type="Armor" name="Item Sombrio: Luvas Theca de Couro">
+		
+		<set name="icon" val="icon.armor_t63_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Luvas Theca de Couro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="200" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="37" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="37" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9062" type="Armor" name="Item Sombrio: Manto do Demônio">
+		
+		<set name="icon" val="icon.armor_t54_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Manto do Demônio. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="663" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="69" />
+		<set name="mp_bonus" val="284" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="69" order="0x10" stat="pDef" />
+			<add val="284" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="9063" type="Armor" name="Item Sombrio: Calça do Demônio">
+		
+		<set name="icon" val="icon.armor_t54_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Calça do Demônio. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="327" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="43" />
+		<set name="mp_bonus" val="177" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="43" order="0x10" stat="pDef" />
+			<add val="177" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="9064" type="Armor" name="Item Sombrio: Botas do Demônio">
+		
+		<set name="icon" val="icon.armor_t54_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas do Demônio. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="407" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="36" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="36" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9065" type="Armor" name="Item Sombrio: Luvas do Demônio">
+		
+		<set name="icon" val="icon.armor_t54_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Luvas do Demônio. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="203" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="36" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="36" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9066" type="Armor" name="Item Sombrio: Diadema Brilhante">
+		
+		<set name="icon" val="icon.armor_circlet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Diadema Brilhante. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="200" />
+		<set name="crystal_type" val="c" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="54" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="54" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9067" type="Armor" name="Item Sombrio: Peitoral Zubei">
+		
+		<set name="icon" val="icon.armor_t64_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um peitoral Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="2657" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="157" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="157" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9068" type="Armor" name="Item Sombrio: Calça Zubei">
+		
+		<set name="icon" val="icon.armor_t64_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado das Calça Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="1190" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="98" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="98" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9069" type="Armor" name="Item Sombrio: Capacete Zubei">
+		
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Capacete Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="197" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="62" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="62" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9070" type="Weapon" name="Item Sombrio: Escudo Zubei">
+		
+		<set name="icon" val="icon.shield_shrnoens_shield_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um escudo Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="403" />
+		<set name="crystal_type" val="b" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="216" />
+		<set name="shield_def_rate" val="20" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="216" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+		</for>
+	</item>
+	<item id="9071" type="Armor" name="Item Sombrio: Manopla Zubei">
+		
+		<set name="icon" val="icon.armor_t64_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Manoplas Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="197" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="41" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9072" type="Armor" name="Item Sombrio: Botas Zubei">
+		
+		<set name="icon" val="icon.armor_t64_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="393" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="41" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9073" type="Armor" name="Item Sombrio: Camisa Zubei de Couro">
+		
+		<set name="icon" val="icon.armor_t65_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de uma Camisa Zubei de Couro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1443" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="117" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="117" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9074" type="Armor" name="Item Sombrio: Calça Zubei de Couro">
+		
+		<set name="icon" val="icon.armor_t65_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado das Calça Zubei de Couro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="493" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="73" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="73" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9075" type="Armor" name="Item Sombrio: Manopla Zubei">
+		
+		<set name="icon" val="icon.armor_t65_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Manoplas Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="197" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="41" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9076" type="Armor" name="Item Sombrio: Botas Zubei">
+		
+		<set name="icon" val="icon.armor_t65_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="393" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="41" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9077" type="Armor" name="Item Sombrio: Manto Zubei">
+		
+		<set name="icon" val="icon.armor_t56_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de uma Manto Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="653" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="78" />
+		<set name="mp_bonus" val="345" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="78" order="0x10" stat="pDef" />
+			<add val="345" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="9078" type="Armor" name="Item Sombrio: Calça Zubei">
+		
+		<set name="icon" val="icon.armor_t56_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Calça Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="313" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="49" />
+		<set name="mp_bonus" val="216" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+			<add val="216" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="9079" type="Armor" name="Item Sombrio: Manopla Zubei">
+		
+		<set name="icon" val="icon.armor_t56_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Manoplas Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="197" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="41" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9080" type="Armor" name="Item Sombrio: Botas Zubei">
+		
+		<set name="icon" val="icon.armor_t56_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas Zubei. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="393" />
+		<set name="crystal_type" val="b" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="41" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="41" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9081" type="Armor" name="Item Sombrio: Peitoral de Cristal Negro">
+		
+		<set name="icon" val="icon.armor_t74_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um Peitoral de Cristal Negro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="2567" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="171" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="171" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9082" type="Armor" name="Item Sombrio: Calça de Cristal Negro">
+		
+		<set name="icon" val="icon.armor_t74_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Calça de Cristal Negro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="1107" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="107" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="107" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9083" type="Armor" name="Item Sombrio: Capacete de Cristal Negro">
+		
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Este item de sombra contém o poder espelhado de um capacete de cristal escuro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="190" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="69" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="69" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9084" type="Weapon" name="Item Sombrio: Escudo de Cristal Negro">
+		
+		<set name="icon" val="icon.shield_dark_crystal_shield_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Escudo de Cristal Negro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="397" />
+		<set name="crystal_type" val="a" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="243" />
+		<set name="shield_def_rate" val="20" />
+		<set name="duration" val="600" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="243" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+		</for>
+	</item>
+	<item id="9085" type="Armor" name="Item Sombrio: Luvas de Cristal Negro">
+		
+		<set name="icon" val="icon.armor_t74_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Luvas de Cristal Negro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="193" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="46" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9086" type="Armor" name="Item Sombrio: Botas de Cristal Negro">
+		
+		<set name="icon" val="icon.armor_t74_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas de Cristal Negro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="370" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="46" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9087" type="Armor" name="Item Sombrio: Armadura de Cristal Escuro de Couro">
+		
+		<set name="icon" val="icon.armor_t75_u_i00" />
+		<set name="bodypart" val="chest" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado da Armadura de Couro de Cristal Negro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1433" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="128" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="128" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9088" type="Armor" name="Item Sombrio: Calça de Cristal Escuro">
+		
+		<set name="icon" val="icon.armor_t75_l_i00" />
+		<set name="bodypart" val="legs" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Calça de Cristal Escuro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="493" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="80" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="80" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9089" type="Armor" name="Item Sombrio: Luvas de Cristal Negro">
+		
+		<set name="icon" val="icon.armor_t75_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Luvas de Cristal Negro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="193" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="46" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9090" type="Armor" name="Item Sombrio: Botas de Cristal Negro">
+		
+		<set name="icon" val="icon.armor_t75_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas de Cristal Negro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="370" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="46" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9091" type="Armor" name="Item Sombrio: Manto de Cristal Negro">
+		
+		<set name="icon" val="icon.armor_t76_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Dark Crystal Manto. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="magic" />
+		<set name="weight" val="817" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="139" />
+		<set name="mp_bonus" val="665" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="139" order="0x10" stat="pDef" />
+			<add val="665" order="0x60" stat="maxMp" />
+		</for>
+	</item>
+	<item id="9092" type="Armor" name="Item Sombrio: Luvas de Cristal Negro">
+		
+		<set name="icon" val="icon.armor_t76_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Luvas de Cristal Negro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="193" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="46" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9093" type="Armor" name="Item Sombrio: Botas de Cristal Negro">
+		
+		<set name="icon" val="icon.armor_t76_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Botas de Cristal Negro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="370" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="46" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="46" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9094" type="Armor" name="Item Sombrio: Armadura Majestosa de Placas">
+		
+		<set name="icon" val="icon.armor_t83_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado da Majestic Plate Armor. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="heavy" />
+		<set name="weight" val="3067" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="293" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="293" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9095" type="Armor" name="Item Sombrio: Diadema Magestoso">
+		
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="bodypart" val="head" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de um Diadema Magestoso. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="183" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="73" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="73" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9096" type="Armor" name="Item Sombrio: Manopla Magestosa">
+		
+		<set name="icon" val="icon.armor_t83_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Manoplas Majestosas. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="180" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="49" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9097" type="Armor" name="Item Sombrio: Botas Magestosas">
+		
+		<set name="icon" val="icon.armor_t83_b_i00" />
+		<set name="bodypart" val="feet" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado de Botas Magestosas. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="370" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="49" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9098" type="Armor" name="Item Sombrio: Armadura Majestosa de Couro">
+		
+		<set name="icon" val="icon.armor_t84_ul_i00" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado da Armadura Majestosa de Couro. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="light" />
+		<set name="weight" val="1783" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="220" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="220" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="9099" type="Armor" name="Item Sombrio: Manopla Magestosa">
+		
+		<set name="icon" val="icon.armor_t84_g_i00" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="Este Item Sombrio contém o poder espelhado das Manoplas Majestosas. Não pode ser negociado, descartado, cristalizado ou receber outras funções." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="180" />
+		<set name="crystal_type" val="a" />
+		<set name="duration" val="600" />
+		<set name="p_def" val="49" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<add val="49" order="0x10" stat="pDef" />
+		</for>
+	</item>
+</list>

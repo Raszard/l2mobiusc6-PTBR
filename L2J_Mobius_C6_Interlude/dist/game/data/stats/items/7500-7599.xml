@@ -1,0 +1,1112 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7500" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7501" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7502" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7503" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7504" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7505" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7506" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7507" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7508" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7509" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7510" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7511" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7512" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7513" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7514" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7515" type="EtcItem" name="Marca de Halisha">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca amaldiçoada que invoca servo de Halisha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7516" type="EtcItem" name="Licor Gelado">
+		
+		<set name="icon" val="icon.etc_luxury_wine_c_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um licor misterioso feito com o uso de um Cristal de Gelo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7517" type="EtcItem" name="Placas do Donath">
+		
+		<set name="icon" val="icon.etc_fish_seawater_i02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um prato feito por Donath." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7518" type="EtcItem" name="Nota de Donath - Vol.1">
+		
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma nota com dicas de culinária escritas por Donath." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7519" type="EtcItem" name="Gelo Raspado">
+		
+		<set name="icon" val="icon.etc_broken_crystal_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A sobremesa favorita de Lilly é feita de uma mistura de raspas de gelo e aromas doces." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7520" type="EtcItem" name="Sorvete">
+		
+		<set name="icon" val="icon.etc_cobol_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Bola de sorvete doce, macio e frio." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7521" type="EtcItem" name="Pedra Preciosa de Cristal de Gelo">
+		
+		<set name="icon" val="icon.etc_deco_beed_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Quando a luz do sol reflete sobre ele, ele brilha intensamente com um arco-íris de cores." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7522" type="EtcItem" name="Oferta">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Comida dedicada a Santa Agnes. É hermeticamente fechado para preservar seu frescor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7523" type="EtcItem" name="Oferta">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Comida dedicada a Santa Agnes. É hermeticamente fechado para preservar seu frescor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7524" type="EtcItem" name="Oferta">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Comida dedicada a Santa Agnes. É hermeticamente fechado para preservar seu frescor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7525" type="EtcItem" name="Oferta">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Comida dedicada a Santa Agnes. É hermeticamente fechado para preservar seu frescor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7526" type="EtcItem" name="Dicionário de Língua Antiga">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um dicionário que é usado para decifrar uma língua antiga." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7527" type="EtcItem" name="Dicionário de Língua Antiga">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um dicionário que é usado para decifrar uma língua antiga." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7528" type="EtcItem" name="Fiandeira">
+		
+		<set name="icon" val="icon.etc_squares_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A estrutura anatômica de uma aranha a partir da qual a teia de aranha é produzida." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7529" type="EtcItem" name="Relatório Investigativo">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento recebido do Information Broker Mist. Ele contém os resultados de uma investigação solicitada pelo Mestre Justin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7530" type="EtcItem" name="Relatório Investigativo">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento recebido do Information Broker Mist. Contém os resultados de uma investigação solicitada pelo Mestre Alminas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7531" type="EtcItem" name="Relatório Investigativo">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento recebido do Information Broker Mist. Ele contém os resultados de uma investigação solicitada pelo Mestre Kamilen." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7532" type="EtcItem" name="Relatório Investigativo">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento recebido do Information Broker Bavarin. Ele contém os resultados de uma investigação solicitada pelo guarda Baird." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7533" type="EtcItem" name="Relatório Investigativo">
+		
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento recebido do Information Broker Mist. Ele contém os resultados de uma investigação solicitada pelo Sumo Sacerdote Gregory." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7534" type="EtcItem" name="Flor Gelada">
+		
+		<set name="icon" val="icon.etc_flower_i02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cristal de gelo envolto em escamas de peixe e emite ar frio e gelado. Por ser lindamente criado por uma mão altamente habilidosa, parece uma flor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7535" type="EtcItem" name="Gelo Puro">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de gelo mais puro que é feito pelo congelamento de água purificada. É conhecido por conter o poder dos deuses desde o início do mundo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7536" type="EtcItem" name="Cerveja Gelada">
+		
+		<set name="icon" val="icon.etc_oil_pot_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A cerveja pedida pelo ferreiro Feynn. Apenas tocá-lo faz com que suas mãos pareçam estar congelando." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7537" type="EtcItem" name="Refeição de Vários Placas">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma refeição elaborada solicitada pelo Gerente da Arena. Diz-se que era comido por duelistas nos tempos antigos para fortalecer sua resistência no dia anterior à partida." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7538" type="EtcItem" name="Sopa de Peixe Almas Mortas">
+		
+		<set name="icon" val="icon.etc_fish_seawater_i02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma sopa que supostamente contém todos os nutrientes do peixe de que é feita. Segundo a lenda, dependendo do peixe que você usa para fazer isso, pode ter o efeito de aumentar ou diminuir o tempo de vida de alguém." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7539" type="EtcItem" name="Vodca Bitter Cold">
+		
+		<set name="icon" val="icon.etc_luxury_wine_c_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um licor lendário que é feito mergulhando chamas quentes em gelo frio e congelante. Embora pareça frio aos lábios, torna-se quente no corpo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7540" type="EtcItem" name="Cristal de Prata">
+		
+		<set name="icon" val="icon.etc_crystal_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O tipo de cristal necessário para armazenar a música da marcha nupcial." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7541" type="EtcItem" name="Cristal Vermelho">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O tipo de cristal necessário para armazenar música de festa de aniversário." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7542" type="EtcItem" name="Coração de Vampiro">
+		
+		<set name="icon" val="icon.etc_bodypart_heart_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O coração que é arrancado do corpo de um vampiro. Ainda está batendo e bombeando sangue." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7543" type="EtcItem" name="Cérebro de Zumbi">
+		
+		<set name="icon" val="icon.etc_bodypart_brain_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de cérebro coletado de um monstro morto-vivo na Floresta dos Mortos. Pode conter a memória do momento de sua morte." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7544" type="EtcItem" name="Osso da Costela de Um Magus Negro">
+		
+		<set name="icon" val="icon.etc_rib_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O osso restante que fica no local onde um necromante morreu e desapareceu. Talvez tenha sido usado para transfixar a forma do necromante." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7545" type="EtcItem" name="Fígado de Zumbi">
+		
+		<set name="icon" val="icon.etc_bodypart_liver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fígado que está apodrecendo e exalando um forte fedor. É conhecido por ser uma fonte de poder mágico dos mortos-vivos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7546" type="EtcItem" name="Carne de Qualidade">
+		
+		<set name="icon" val="icon.etc_meat_of_monstereye_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pedaço de carne de primeira qualidade que se obtém com o abate de uma fera de idade adequada. Apenas um pedaço desta carne de alta qualidade pode ser obtido de um animal." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7547" type="EtcItem" name="Carne de Besta Selvagem Jovem">
+		
+		<set name="icon" val="icon.etc_meat_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de carne obtido do abate de uma fera muito jovem. Embora possa ter um aroma agradável, não dá bom sabor ao comê-lo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7548" type="EtcItem" name="Pedaço do Mapa">
+		
+		<set name="icon" val="icon.etc_map_piece_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de um mapa que já foi possuído por Monster Eyes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7549" type="EtcItem" name="Mapa Amarelo">
+		
+		<set name="icon" val="icon.etc_map_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um mapa que contém um enredo das feras. Leve-o para a Capitã Mercenária Sophya." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7550" type="EtcItem" name="Pedaço do Mapa">
+		
+		<set name="icon" val="icon.etc_map_piece_ivory_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de mapa obtido das aparições fantasmagóricas que assombram o Execution Grounds." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7551" type="EtcItem" name="Mapa Marfim">
+		
+		<set name="icon" val="icon.etc_map_ivory_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um mapa que contém informações estranhas. A propósito, há algum tempo, o Comerciante Galladucci reclamou que um dos mapas que deveria receber não chegou...?" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7552" type="EtcItem" name="Fragmento de Pedra Preciosa Quebrado">
+		
+		<set name="icon" val="icon.etc_broken_crystal_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento de pedra preciosa que pode ser obtido caçando Maille Homem Lagarto." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7553" type="EtcItem" name="Pedra Preciosa Dourada">
+		
+		<set name="icon" val="icon.etc_gem_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma esfera dourada. O Sumo Sacerdote Drikus deveria estar procurando por ele." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7554" type="EtcItem" name="Pergaminho de Fuga: Talking Island Village">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho mágico que o leva para a Talking Island Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7555" type="EtcItem" name="Pergaminho de Fuga: Elven Village">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho mágico que o leva para a Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7556" type="EtcItem" name="Pergaminho de Fuga: Dark Elven Village">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho mágico que o leva para a Dark Elven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7557" type="EtcItem" name="Pergaminho de Fuga: Orc Village">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho mágico que o leva para a Orc Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7558" type="EtcItem" name="Pergaminho de Fuga: Dwarven Village">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho mágico que o leva para a Dwarven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7559" type="EtcItem" name="Pergaminho de Fuga: Giran Castle Town">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um pergaminho mágico que o leva para Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="400" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7560" type="Weapon" name="Monster Only (Vara de Pesca)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1000" />
+		<set name="p_dam" val="1" />
+		<set name="rnd_dam" val="1" />
+		<set name="weapon_type" val="rod" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="1" />
+		<set name="price" val="30000" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+		<for>
+			<set val="1" order="0x08" stat="pAtk" />
+			<set val="1" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7561" type="EtcItem" name="Manual de Pesca">
+		
+		<set name="icon" val="icon.etc_spellbook_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um livro instrutivo de técnicas de pesca. Você pode clicar duas vezes nele para lê-lo." />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7562" type="EtcItem" name="Diamante Dimensional">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal cheio de poder mágico. É necessário ao lançar a magia Instant Move. Se você coletar este item e levá-lo a um porteiro, poderá trocá-lo por vários tipos de Scroll of Escape." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7563" type="EtcItem" name="Ordens de Galladucci (Documento)">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento descrevendo as ordens de Galladucci. Leve-o ao Comerciante Gentler em sua loja de magia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7564" type="EtcItem" name="Ordens de Galladucci (Documento)">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento descrevendo as ordens de Galladucci. Leve-o para a joalheria Sandra em sua loja." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7565" type="EtcItem" name="Ordens de Galladucci (Documento)">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento descrevendo as ordens de Galladucci. Leve-o para Priest Dustin em sua loja." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7566" type="EtcItem" name="Colar Mágico Purificado">
+		
+		<set name="icon" val="icon.etc_evil_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="É o item dado pelo Priest Dustin. Parece ser o item que o Comerciante Galladucci está procurando." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7567" type="EtcItem" name="Pó de Pedra Preciosa">
+		
+		<set name="icon" val="icon.etc_powder_orange_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O item dado pela Comerciante Sandra. Este parece ser o item que o Comerciante Galladucci está procurando." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7568" type="EtcItem" name="Punho da Espada Mágica">
+		
+		<set name="icon" val="icon.etc_hilt_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um item dado pelo Comerciante Gentler. Este parece ser o item que o Comerciante Galladucci está procurando." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7569" type="EtcItem" name="Moeda Trevo de Quatro Folhas Dourada">
+		
+		<set name="icon" val="icon.etc_gold_knight_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma moeda de ouro gravada com um desenho de trevo de quatro folhas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7570" type="EtcItem" name="Marca do Viajante">
+		
+		<set name="icon" val="icon.etc_crest_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um certificado para provar ao Comerciante Galladucci a identidade do viajante." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7571" type="EtcItem" name="Carta de Baulro">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A carta enviada pelo Mestre Baulro ao Archon Senhor Windawood." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7572" type="EtcItem" name="Recomendação de Ariel">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de recomendação que o Comerciante Ariel escreveu para você ser enviada ao Hierarca Asterios." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7573" type="EtcItem" name="Nota de Roselyn">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma nota que Roselyn escreveu enquanto estava com raiva e furiosa. Você deve entregá-lo ao Mestre Harne." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7574" type="EtcItem" name="Colar Muito Caro">
+		
+		<set name="icon" val="icon.accessary_necklace_of_devotion_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um presente do Ferreiro Chefe Reed para o Sacerdote da Terra Gerald. Parece muito caro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7575" type="Weapon" name="Arco Dracônico">
+		
+		<set name="icon" val="icon.weapon_draconic_bow_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Ele pode conceder uma das seguintes funções: Tiro Barato, Foco ou Lentidão Crítica." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1650" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="581" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="11" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<for>
+			<set val="581" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7576" type="Weapon" name="Arco Dracônico - Tiro Barato">
+		
+		<set name="icon" val="icon.weapon_draconic_bow_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque qualquer, 1 MP será consumido 26% do tempo. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1650" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="581" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="11" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<for>
+			<set val="581" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<set val="1" order="0x08" stat="MpConsume">
+				<and>
+					<game skill="false" chance="26" />
+				</and>
+			</set>
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="7577" type="Weapon" name="Arco Dracônico - Foco">
+		
+		<set name="icon" val="icon.weapon_draconic_bow_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Ataque Crítico em 88. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1650" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="581" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="11" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="item_skill_id" val="3567" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="581" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+			
+			<add val="88" order="0x40" stat="rCrit" />
+		</for>
+	</item>
+	<item id="7578" type="Weapon" name="Arco Dracônico - Lentidão Crítica">
+		
+		<set name="icon" val="icon.weapon_draconic_bow_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, você desacelera seu alvo temporariamente. Aumenta o dano a um alvo durante o PvP." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1650" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="s" />
+		<set name="p_dam" val="581" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="bow" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="293" />
+		<set name="mp_consume" val="11" />
+		<set name="m_dam" val="132" />
+		<set name="price" val="48800000" />
+		<set name="crystal_count" val="2440" />
+		<set name="onCrit_skill_id" val="3574" /> 
+		<set name="onCrit_skill_lvl" val="1" />
+		<set name="onCrit_skill_chance" val="10" />
+		<for>
+			<set val="581" order="0x08" stat="pAtk" />
+			<set val="132" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="293" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<mul val="1.05" order="0x30" stat="pvpPhysDmg" />
+			<mul val="1.05" order="0x30" stat="pvpMagicalDmg" />
+		</for>
+	</item>
+	<item id="7579" type="EtcItem" name="Pressa do Arco Dracônico">
+		
+		<set name="icon" val="icon.etc_branch_gold_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal essencialmente necessário para um Anão fazer um Arco Dracônico. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="91471" />
+	</item>
+	<item id="7580" type="EtcItem" name="Receita: Arco Dracônico (60%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Arco Dracônico. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 60%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="7581" type="EtcItem" name="Receita: Arco Dracônico (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Arco Dracônico. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="7582" type="EtcItem" name="Tempero Para Bebê">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Quando o medidor de comida de um bebê búfalo, um bebê puma ou um bebê kookaburra cair para 55% ou menos, essa ração será consumida automaticamente." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100" />
+	</item>
+	<item id="7583" type="EtcItem" name="Bilhete de Pet: Buffalo">
+		<set name="icon" val="icon.etc_ticket_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="7584" type="EtcItem" name="Bilhete de Pet: Puma">
+		<set name="icon" val="icon.etc_ticket_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="7585" type="EtcItem" name="Bilhete de Pet: Kookaburra">
+		<set name="icon" val="icon.etc_ticket_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="7586" type="EtcItem" name="Fluido Doce">
+		
+		<set name="icon" val="icon.etc_potion_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um tipo de fluido com uma fragrância doce. É usado como ingrediente para fazer uma tacada de pesca." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7587" type="EtcItem" name="Lenda dos Dezessete">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um registro dos dezessete heróis que lutaram contra Antharas, o Dragão da Terra." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7588" type="EtcItem" name="Livro de Poesia Desbotada">
+		
+		<set name="icon" val="icon.etc_spellbook_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um livro de poesia escrito por um bardo élfico desconhecido várias centenas de anos atrás." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7589" type="EtcItem" name="Cristal de Eco - Canção Esquecida">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cristal de eco que contém a música de Forgotten Heroes." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7590" type="EtcItem" name="Mecha de Cabelo Dourado">
+		
+		<set name="icon" val="icon.etc_braided_hemp_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma mecha de cabelo que parece ter caído de uma senhora loira." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7591" type="EtcItem" name="Anel da Deusa: Waterbinder">
+		
+		<set name="icon" val="icon.accessary_elven_ring_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Anel com uma sutil gema azul. Quando apanhado, faz um som como um riacho fluindo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7592" type="EtcItem" name="Colar da Deusa: Evergreen">
+		
+		<set name="icon" val="icon.accessary_elemental_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar com um cristal verde azulado claro e brilhante como um medalhão. No momento em que você o segura na mão, sente o cheiro da grama molhada pela chuva da primavera." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7593" type="EtcItem" name="Cajado da Deusa: Canção da Chuva">
+		
+		<set name="icon" val="icon.weapon_sprites_staff_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um bastão de madeira com uma esfera azul clara embutida no topo. Dá a sensação de uma brisa do mar cheia de umidade soprando suavemente em seu rosto." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7594" type="EtcItem" name="Caixa Relíquia">
+		
+		<set name="icon" val="icon.etc_treasure_box_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Caixa contendo 3 relíquias da Deusa" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7595" type="EtcItem" name="Orbe da Ligação">
+		
+		<set name="icon" val="icon.etc_crystal_ball_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma orbe prateada que emana uma forte sensação de poder mágico." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7596" type="EtcItem" name="Ingrediente de Feitiçaria">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um ingrediente de feitiçaria usado pela Bruxa Kalis." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7597" type="EtcItem" name="Garra da Succubus Malruk">
+		
+		<set name="icon" val="icon.etc_fang_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Garra fina e afiada obtida de Malruk Succubus" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7598" type="EtcItem" name="Musgo Carmesim">
+		
+		<set name="icon" val="icon.etc_powder_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Musgo Carmesim obtained from Swamp of Screams" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="7599" type="EtcItem" name="Medicina Milagrosa de Rahorakti">
+		
+		<set name="icon" val="icon.etc_potion_scarlet_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Remédio prescrito pelo Grande Vidente Rahorakti para a Anão Kassandra" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

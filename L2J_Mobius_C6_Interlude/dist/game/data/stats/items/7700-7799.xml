@@ -1,0 +1,1391 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7700" type="EtcItem" name="Receita: Daisy Hairpin (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para criar um Daisy Hairpin pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="7701" type="Weapon" name="Bastão de Fé - Aumento de Mana">
+		
+		<set name="icon" val="icon.weapon_stick_of_faith_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 30%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1160" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="85" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="81" />
+		<set name="price" val="2290000" />
+		<set name="crystal_count" val="916" />
+		<set name="item_skill_id" val="3014" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="85" order="0x08" stat="pAtk" />
+			<set val="81" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7702" type="Weapon" name="Bastão de Fé - Enraizamento Mágico">
+		
+		<set name="icon" val="icon.weapon_stick_of_faith_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança a magia Raiz Dríade contra o alvo com 10% de chance de sucesso ao usar magia ruim. Efeito 1." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1160" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="85" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="81" />
+		<set name="price" val="2290000" />
+		<set name="crystal_count" val="916" />
+		<set name="onCast_skill_id" val="1201" /> 
+		<set name="onCast_skill_lvl" val="23" />
+		<set name="onCast_skill_chance" val="10" />
+		<for>
+			<set val="85" order="0x08" stat="pAtk" />
+			<set val="81" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7703" type="Weapon" name="Bastão de Fé - Escudo Mágico">
+		
+		<set name="icon" val="icon.weapon_stick_of_faith_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança a magia Escudo Mental sobre o alvo com 50% de chance de sucesso ao usar magia boa. Efeito 2." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1160" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="85" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="81" />
+		<set name="price" val="2290000" />
+		<set name="crystal_count" val="916" />
+		<set name="onCast_skill_id" val="1035" /> 
+		<set name="onCast_skill_lvl" val="2" />
+		<set name="onCast_skill_chance" val="50" />
+		<for>
+			<set val="85" order="0x08" stat="pAtk" />
+			<set val="81" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7704" type="Weapon" name="Bastão da Eternidade - Empoderamento">
+		
+		<set name="icon" val="icon.weapon_stick_of_eternity_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o Atq.M por 24." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1130" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="24" order="0x40" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7705" type="Weapon" name="Bastão da Eternidade - Rsk. Evasão">
+		
+		<set name="icon" val="icon.weapon_stick_of_eternity_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Evasão em 7 quando o HP fica em 60% ou menos." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1130" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add order="0x40" stat="rEvas" val="7">
+				<and>
+					<player hp="60" />
+				</and>
+			</add>
+		</for>
+	</item>
+	<item id="7706" type="Weapon" name="Bastão da Eternidade - Santíssimo Corpo">
+		
+		<set name="icon" val="icon.weapon_stick_of_eternity_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Casts Santíssimo Corpo upon the target with a 20% chance of success when using good magic. Effect 3." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1130" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<skill onCast="1" id="1045" lvl="3" chance="20" />
+		</for>
+	</item>
+	<item id="7707" type="Weapon" name="Machado Nirvana - Poder Mágico">
+		
+		<set name="icon" val="icon.weapon_nirvana_axe_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: ao usar magia, a quantidade de consumo de MP aumenta em 15% e Atq.M também aumenta em 99." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1150" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<add val="99" order="0x40" stat="mAtk" />
+			<mul val="1.15" order="0x30" stat="MpConsume" />
+		</for>
+	</item>
+	<item id="7708" type="Weapon" name="Machado Nirvana - Veneno Mágico">
+		
+		<set name="icon" val="icon.weapon_nirvana_axe_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança Veneno de Maldição contra o alvo com 7% de chance de sucesso ao usar magia ruim. Efeito 7." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1150" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="onCast_skill_id" val="1168" /> 
+		<set name="onCast_skill_lvl" val="6" />
+		<set name="onCast_skill_chance" val="7" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7709" type="Weapon" name="Machado Nirvana - Fraqueza Mágica">
+		
+		<set name="icon" val="icon.weapon_nirvana_axe_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança Fraqueza da Maldição contra o alvo com 7% de chance de sucesso ao usar magia ruim. Efeito 3." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1150" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="onCast_skill_id" val="1164" /> 
+		<set name="onCast_skill_lvl" val="6" />
+		<set name="onCast_skill_chance" val="7" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7710" type="Weapon" name="Porrete da Natureza - Perspicácia">
+		
+		<set name="icon" val="icon.weapon_club_of_nature_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Velocidade de Conjuração. em 15%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1100" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="item_skill_id" val="3047" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+		</for>
+	</item>
+	<item id="7711" type="Weapon" name="Porrete da Natureza - Escudo Mental">
+		
+		<set name="icon" val="icon.weapon_club_of_nature_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança a magia Escudo Mental sobre o alvo com 50% de chance de sucesso ao usar magia boa. Efeito 3." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1100" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="onCast_skill_id" val="1035" /> 
+		<set name="onCast_skill_lvl" val="3" />
+		<set name="onCast_skill_chance" val="50" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7712" type="Weapon" name="Porrete da Natureza - Enraizamento Mágico">
+		
+		<set name="icon" val="icon.weapon_club_of_nature_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança a magia Raiz Dríade contra o alvo com 10% de chance de sucesso ao usar magia ruim. Efeito 1." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1100" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="onCast_skill_id" val="1201" /> 
+		<set name="onCast_skill_lvl" val="23" />
+		<set name="onCast_skill_chance" val="10" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7713" type="Weapon" name="Maça do Submundo - Aumento de Mana">
+		
+		<set name="icon" val="icon.weapon_mace_of_underworld_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 30%" />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1090" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="item_skill_id" val="3014" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7714" type="Weapon" name="Maça do Submundo - Silencio Mágico">
+		
+		<set name="icon" val="icon.weapon_mace_of_underworld_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: ao usar magia ruim contra um alvo, lança Silêncio sobre o alvo com 10% de chance de sucesso. Efeito 1." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1090" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<skill onCast="1" id="1064" lvl="1" chance="10" />
+		</for>
+	</item>
+	<item id="7715" type="Weapon" name="Maça do Submundo - Conversão">
+		
+		<set name="icon" val="icon.weapon_mace_of_underworld_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o MP máximo em 60% e diminui o HP máximo em 40%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1090" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="111" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="blunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="item_skill_id" val="3048" /> 
+		<set name="item_skill_lvl" val="2" />
+		<for>
+			<set val="111" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			
+			
+			
+		</for>
+	</item>
+	<item id="7716" type="Weapon" name="Cajado Infernal - Perspicácia">
+		
+		<set name="icon" val="icon.weapon_inferno_staff_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Velocidade de Conjuração. em 15%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1000" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="135" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<set name="item_skill_id" val="3047" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="135" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+		</for>
+	</item>
+	<item id="7717" type="Weapon" name="Cajado Infernal - Silencio Mágico">
+		
+		<set name="icon" val="icon.weapon_inferno_staff_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: ao usar magia ruim contra um alvo, lança Silêncio sobre o alvo com 10% de chance de sucesso. Efeito 1." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1000" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="135" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="135" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<skill onCast="1" id="1064" lvl="1" chance="10" />
+		</for>
+	</item>
+	<item id="7718" type="Weapon" name="Cajado Infernal - Paralisação Mágica">
+		
+		<set name="icon" val="icon.weapon_inferno_staff_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: ao usar magia ruim, paralisa o alvo com 5% de chance de sucesso. Efeito 1." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1000" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="135" />
+		<set name="rnd_dam" val="20" />
+		<set name="weapon_type" val="bigblunt" />
+		<set name="critical" val="4" />
+		<set name="hit_modify" val="4.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="101" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="135" order="0x08" stat="pAtk" />
+			<set val="101" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<skill onCast="1" id="1170" lvl="1" chance="5" />
+		</for>
+	</item>
+	<item id="7719" type="Weapon" name="Machado - Atordoamento Crítico">
+		
+		<set name="icon" val="icon.weapon_poleaxe_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Durante um ataque crítico, produz um efeito de atordoamento na taxa de cerca de 25%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2010" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+			<skill onCrit="1" id="3070" lvl="1" chance="25" />
+		</for>
+	</item>
+	<item id="7720" type="Weapon" name="Machado - 	Golpe Elevado">
+		
+		<set name="icon" val="icon.weapon_poleaxe_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta o alcance do ataque." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2010" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			
+			<set val="80" order="0x08" stat="pAtkRange" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7721" type="Weapon" name="Machado - Golpe Largo">
+		
+		<set name="icon" val="icon.weapon_poleaxe_i01" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Cristal da Alma: Amplia o ângulo de ataque." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2010" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="3" />
+		<set name="crystal_type" val="c" />
+		<set name="p_dam" val="139" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="pole" />
+		<set name="critical" val="8" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="76" />
+		<set name="price" val="4300000" />
+		<set name="crystal_count" val="1720" />
+		<for>
+			<set val="139" order="0x08" stat="pAtk" />
+			<set val="76" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="66" order="0x08" stat="pAtkRange" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			
+			<set val="180" order="0x08" stat="pAtkAngle" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7722" type="Weapon" name="Espada de Valhalla - Perspicácia">
+		
+		<set name="icon" val="icon.weapon_sword_of_valhalla_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Aumenta a Velocidade de Conjuração. em 15%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="140" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="122" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<set name="item_skill_id" val="3047" /> 
+		<set name="item_skill_lvl" val="1" />
+		<for>
+			<set val="140" order="0x08" stat="pAtk" />
+			<set val="122" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			
+		</for>
+	</item>
+	<item id="7723" type="Weapon" name="Espada de Valhalla - Fraqueza Mágica">
+		<set name="icon" val="icon.weapon_sword_of_valhalla_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança Fraqueza da Maldição contra o alvo com 7% de chance de sucesso ao usar magia ruim. Efeito 3." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="140" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="122" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<set name="onCast_skill_id" val="1164" /> 
+		<set name="onCast_skill_lvl" val="6" />
+		<set name="onCast_skill_chance" val="7" />
+		<for>
+			<set val="140" order="0x08" stat="pAtk" />
+			<set val="122" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7724" type="Weapon" name="Espada de Valhalla - Regeneração Mágica">
+		<set name="icon" val="icon.weapon_sword_of_valhalla_i01" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Cristal da Alma: Lança Regeneração no alvo com 30% de chance de sucesso ao usar magia boa. Efeito 3." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="900" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="140" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="122" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<set name="onCast_skill_id" val="1044" /> 
+		<set name="onCast_skill_lvl" val="3" />
+		<set name="onCast_skill_chance" val="30" />
+		<for>
+			<set val="140" order="0x08" stat="pAtk" />
+			<set val="122" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="7725" type="EtcItem" name="Espólio - Bolsa Cinza">
+		
+		<set name="icon" val="icon.etc_pouch_gray_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um item recuperado do pântano. É uma bolsa cinza suja e gasta que está rasgada aqui e ali. Parece conter um objeto que se parece com uma garrafa de água. Se você clicar duas vezes nele, poderá ver o que ele contém." />
+		<set name="weight" val="1" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7726" type="EtcItem" name="Pequeno Peixe Verde Ágil - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="69" />
+	</item>
+	<item id="7727" type="EtcItem" name="Pequeno Peixe Verde Feio - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="71" />
+	</item>
+	<item id="7728" type="EtcItem" name="Pequeno Peixe Verde Rechonchudo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="77" />
+	</item>
+	<item id="7729" type="EtcItem" name="Nimble Green Fish - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="84" />
+	</item>
+	<item id="7730" type="EtcItem" name="Peixe Verde Feio - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="94" />
+	</item>
+	<item id="7731" type="EtcItem" name="Peixe Verde Rechonchudo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="104" />
+	</item>
+	<item id="7732" type="EtcItem" name="Peixe Verde Grande E Ágil - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="113" />
+	</item>
+	<item id="7733" type="EtcItem" name="Grande Peixe Verde Feio - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="124" />
+	</item>
+	<item id="7734" type="EtcItem" name="Peixe Verde Gordo Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i06" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="133" />
+	</item>
+	<item id="7735" type="EtcItem" name="Pequeno Peixe Ágil de Jade - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="143" />
+	</item>
+	<item id="7736" type="EtcItem" name="Pequeno Peixe Feio Jade - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7737" type="EtcItem" name="Peixe Gordo Jade Pequeno - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="167" />
+	</item>
+	<item id="7738" type="EtcItem" name="Jade Nimble Fish - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="166" />
+	</item>
+	<item id="7739" type="EtcItem" name="Jade Ugly Fish - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="165" />
+	</item>
+	<item id="7740" type="EtcItem" name="Jade Fat Fish - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="165" />
+	</item>
+	<item id="7741" type="EtcItem" name="Peixe Jade Nimble Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="164" />
+	</item>
+	<item id="7742" type="EtcItem" name="Peixe Feio de Jade Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="164" />
+	</item>
+	<item id="7743" type="EtcItem" name="Peixe Gordo de Jade Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i07" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7744" type="EtcItem" name="Pequeno Peixe Ágil Azul - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="163" />
+	</item>
+	<item id="7745" type="EtcItem" name="Pequeno Peixe Feio Azul - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7746" type="EtcItem" name="Peixe Gordo Azul Pequeno - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7747" type="EtcItem" name="Blue Nimble Fish - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7748" type="EtcItem" name="Peixe Feio Azul - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7749" type="EtcItem" name="Blue Fat Fish - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7750" type="EtcItem" name="Peixe Azul Grande E Ágil - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7751" type="EtcItem" name="Peixe Feio Azul Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7752" type="EtcItem" name="Peixe Gordo Azul Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7753" type="EtcItem" name="Pequenos Peixes Amarelos Ágeis - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7754" type="EtcItem" name="Pequenos Peixes Feios Amarelos - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7755" type="EtcItem" name="Pequeno Peixe Gordo Amarelo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7756" type="EtcItem" name="Peixe Ágil Amarelo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7757" type="EtcItem" name="Peixe Feio Amarelo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="277" />
+	</item>
+	<item id="7758" type="EtcItem" name="Peixe Gordo Amarelo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7759" type="EtcItem" name="Peixe Amarelo Grande E Ágil - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7760" type="EtcItem" name="Grande Peixe Feio Amarelo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7761" type="EtcItem" name="Peixe Grande Gordo Amarelo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7762" type="EtcItem" name="Pequeno Peixe Ágil Laranja - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7763" type="EtcItem" name="Pequeno Peixe Feio Laranja - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7764" type="EtcItem" name="Peixe Gordo Laranja Pequeno - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7765" type="EtcItem" name="Orange Nimble Fish - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7766" type="EtcItem" name="Peixe Feio Laranja - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7767" type="EtcItem" name="Peixe Gordo Laranja - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7768" type="EtcItem" name="Grande Peixe Ágil Laranja - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7769" type="EtcItem" name="Peixe Feio Laranja Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7770" type="EtcItem" name="Peixe Gordo Laranja Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i08" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7771" type="EtcItem" name="Pequeno Peixe Ágil Roxo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7772" type="EtcItem" name="Pequeno Peixe Feio Roxo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7773" type="EtcItem" name="Pequeno Peixe Gordo Roxo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="455" />
+	</item>
+	<item id="7774" type="EtcItem" name="Peixe Ágil Roxo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7775" type="EtcItem" name="Peixe Feio Roxo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7776" type="EtcItem" name="Peixe Gordo Roxo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7777" type="EtcItem" name="Grande Peixe Ágil Roxo - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7778" type="EtcItem" name="Peixe Feio Roxo Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7779" type="EtcItem" name="Peixe Gordo Roxo Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7780" type="EtcItem" name="Pequeno Peixe Vermelho Ágil - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7781" type="EtcItem" name="Pequenos Peixes Feios Vermelhos - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7782" type="EtcItem" name="Pequeno Peixe Gordo Vermelho - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7783" type="EtcItem" name="Red Nimble Fish - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7784" type="EtcItem" name="Peixe Feio Vermelho - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7785" type="EtcItem" name="Red Fat Fish - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7786" type="EtcItem" name="Grande Peixe Ágil Vermelho - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7787" type="EtcItem" name="Peixe Feio Vermelho Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7788" type="EtcItem" name="Grande Peixe Gordo Vermelho - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7789" type="EtcItem" name="Pequeno Peixe Ágil Branco - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7790" type="EtcItem" name="Pequeno Peixe Feio Branco - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7791" type="EtcItem" name="Peixe Gordo Branco Pequeno - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7792" type="EtcItem" name="Peixe Ágil Branco - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7793" type="EtcItem" name="Peixe Feio Branco - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7794" type="EtcItem" name="Peixe Gordo Branco - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7795" type="EtcItem" name="Peixe Branco Grande E Ágil - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7796" type="EtcItem" name="Grande Peixe Feio Branco - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7797" type="EtcItem" name="Peixe Gordo Branco Grande - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_bream_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7798" type="EtcItem" name="Pequenos Peixes Pretos Ágeis: Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_tuna_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="7799" type="EtcItem" name="Pequeno Peixe Feio Preto - Para Iniciantes">
+		
+		<set name="icon" val="icon.etc_angler_i05" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Clique duas vezes para mudar aleatoriamente para outro item. O item alterado pode ser usado como ingrediente regular para fazer outros itens." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+</list>

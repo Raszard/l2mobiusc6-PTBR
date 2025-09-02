@@ -1,0 +1,976 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3800" type="EtcItem" name="Juba Silenos Vanor">
+		
+		<set name="icon" val="icon.etc_mane_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Juba de Silenos Vanor soldados, batedores ou guerreiros. Colete 30 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3801" type="EtcItem" name="Totem Bugbear Tarlk">
+		
+		<set name="icon" val="icon.etc_totem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pequena estátua que fala de guerreiros bugbear carregam em seus corpos. Colete 30 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3802" type="EtcItem" name="Cabeça de Okun">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado de ter matado timak overlord okun. Leve-o para o membro da guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3803" type="EtcItem" name="Cabeça de Kakran">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado de ter matado o senhor taik kakran. Leve-o para o membro da guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3804" type="EtcItem" name="Pedra da Alma do Narcissus">
+		
+		<set name="icon" val="icon.etc_crystal_ball_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Fragmento de espelho destruído. Colete 40 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3805" type="EtcItem" name="Olho do Deprive">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Olho obtido do cadáver do Deprive. Colete 20 e leve-os para o Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3806" type="EtcItem" name="Chifre de Unicórnio">
+		
+		<set name="icon" val="icon.etc_unicorn_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Chifre obtido ao matar unicórnio ou unicórnio ancião. Colete 20 e leve-os para o Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3807" type="EtcItem" name="Juba Dourada de Kerunos">
+		
+		<set name="icon" val="icon.etc_mane_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Juba removido após matar Vanor Chief Kerunos. Leve-o para o membro da guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3808" type="EtcItem" name="Crânio de Executado">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Crânio obtido ao matar o andarilho da sepultura. Colete 20 e leve-os para o Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3809" type="EtcItem" name="Busto de Travis">
+		
+		<set name="icon" val="icon.etc_holy_statue_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Busto do rei Travis recuperado do chefe hatar Kubel. Leve-o para o membro da guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3810" type="EtcItem" name="Espada de Cadmus">
+		
+		<set name="icon" val="icon.weapon_sword_of_watershadow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Espada do guarda-costas do Rei Cadmus recuperada do juiz do pântano. Colete 10 e leve-os ao Membro da Guilda Tor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3811" type="EtcItem" name="Diagrama de Moeda">
+		
+		<set name="icon" val="icon.etc_spell_books_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma ilustração da moeda que o Armazém Sorint quer que você recupere. Encontre-se com o presidente da Guilda dos Caçadores, Bernard, que irá instruí-lo sobre o que fazer a seguir." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3812" type="EtcItem" name="Dragão Kaldis de Ouro">
+		
+		<set name="icon" val="icon.etc_magic_coin_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Moeda que é a mesma que o presidente da Guilda dos Caçadores, Bernard, possui. Leve isso para o Guardião do Armazém Sorint." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3813" type="EtcItem" name="Associação de Colecionador de Moedas 1">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cartão de membro do clube de colecionadores de moedas de nível 1. Você deve ter isso para trocar moedas com membros de outros lugares." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3814" type="EtcItem" name="Associação de Colecionador de Moedas 2">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cartão de membro do clube de colecionadores de moedas de nível 2. Você deve ter isso para trocar moedas com membros de nível 2 ou nível 3 de outros lugares." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3815" type="EtcItem" name="Associação de Colecionador de Moedas 3">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cartão de membro do clube de colecionadores de moedas de nível 3. Você deve ter isso para trocar moedas com membros de nível 3 de outros lugares." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3816" type="EtcItem" name="Pedra das Fadas">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jewel precisava conhecer e conversar com a Fada Mimyu." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3817" type="EtcItem" name="Pedra das Fadas Deluxe">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Jewel precisava conhecer e conversar com a Fada Mimyu. Tenha cuidado porque as criaturas que vivem no Fairy Valley desaparecem quando mortas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3818" type="EtcItem" name="Lista de Pedras de Fada">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="10 pedaços de carvão, 10 pedaços de carvão, 1 pedra preciosa de grau D, 3 pepitas de prata e 10 pedaços de pele de sapo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3819" type="EtcItem" name="Lista Deluxe de Pedras de Fadas">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="10 pedaços de carvão, 10 pedaços de carvão, 1 pedra preciosa de grau C, 1 pedra da pureza, 5 pepitas de prata e 20 pedaços de pele de sapo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3820" type="EtcItem" name="Pele das Costas do Lorde Sapo">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pele abatida de um senhor sapo. Ingrediente usado para remover impurezas da pedra das fadas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3821" type="EtcItem" name="Suco de Monkshood">
+		
+		<set name="icon" val="icon.etc_potion_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A medicina precisava falar com drakes ou wyrms." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3822" type="EtcItem" name="Escamas de Drake Exarion">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Escamas de Drake Exarion. Pegue isso e recupere 20 ovos dos Homem Lagarto Leto Guerreiros perto do Castelo de Oren." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3823" type="EtcItem" name="Ovo de Drake Exarion">
+		
+		<set name="icon" val="icon.etc_dragon_egg_i02" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ovo de drake exarion recuperado dos Homem Lagarto Leto Guerreiros." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3824" type="EtcItem" name="Escamas de Drake Zwov">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Escamas de Drake Zwov. Pegue isso e recupere 20 ovos das Aranhas do Pântano de Cruma Marshlands." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3825" type="EtcItem" name="Ovo de Drake Zwov">
+		
+		<set name="icon" val="icon.etc_dragon_egg_i04" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ovo de drake zwov recuperado de Aranhas do Pântano." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3826" type="EtcItem" name="Escamas de Drake Kalibran">
+		
+		<set name="icon" val="icon.etc_scale_of_medusa_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Escamas de Drake Kalibran. Pegue isso e recupere 20 ovos dos Catadores das Estradas perto do Death Pass." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3827" type="EtcItem" name="Ovo de Drake Kalibran">
+		
+		<set name="icon" val="icon.etc_dragon_egg_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ovo de drake kalibran recuperado de Catadores das Estradas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3828" type="EtcItem" name="Escamas de Wyvern Suzet">
+		
+		<set name="icon" val="icon.etc_seed_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Escamas de wyvern suzet. Pegue isso e recupere 20 ovos dos Orcs breka Soberanos no norte de Giran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3829" type="EtcItem" name="Ovo de Wyvern Suzet">
+		
+		<set name="icon" val="icon.etc_dragon_egg_i03" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ovo de wyvern suzet recuperado dos Orcs breka Soberanos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3830" type="EtcItem" name="Escamas de Wyvern Shamhai">
+		
+		<set name="icon" val="icon.etc_seed_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Escamas de wyvern shamhai. Pegue isso e recupere 20 ovos dos Caçadores de Mortos do Execution Grounds." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3831" type="EtcItem" name="Ovo de Wyvern Shamhai">
+		
+		<set name="icon" val="icon.etc_dragon_egg_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ovo de wyvern shamhai recuperado de Caçadores de Mortos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3832" type="EtcItem" name="Erva de Harit">
+		
+		<set name="icon" val="icon.etc_herb_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um ingrediente do antídoto. Leve todos os quatro ingredientes do antídoto ao líder do clã dentro do tempo." />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3833" type="EtcItem" name="Erva de Vanor">
+		
+		<set name="icon" val="icon.etc_herb_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um ingrediente do antídoto. Leve todos os quatro ingredientes do antídoto ao líder do clã dentro do tempo." />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3834" type="EtcItem" name="Erva de Oel Mahum">
+		
+		<set name="icon" val="icon.etc_herb_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um ingrediente do antídoto. Leve todos os quatro ingredientes do antídoto ao líder do clã dentro do tempo." />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3835" type="EtcItem" name="Sangue da Eva">
+		
+		<set name="icon" val="icon.etc_dragon_blood_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um ingrediente do antídoto. Leve todos os quatro ingredientes do antídoto ao líder do clã dentro do tempo." />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3836" type="EtcItem" name="Moeda de Athrea">
+		
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Se você coletar três moedas de Athrea e levá-las para a Bruxa Athrea, poderá obter o Sangue de Eva." />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3837" type="EtcItem" name="Símbolo da Lealdade">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Certificado trocado por vida de membro do clã. Leve isso ao líder do clã." />
+		<set name="consume_type" val="normal" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3838" type="EtcItem" name="Receita: Pedra de Poder do Titã">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. Receita para a missão. Necessário para fazer uma Powerstone de Titã. Requer Criar Item - Nível de Habilidade 2. A taxa de sucesso é de 25%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3839" type="EtcItem" name="Ovo de Drake da Névoa">
+		
+		<set name="icon" val="icon.etc_dragon_egg_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Ovo de dragão da névoa. O líder do clã deve coletar dez de cada um dos quatro tipos de ovos e levá-los para Martien." />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3840" type="EtcItem" name="Ovo de Wyrm Blitz">
+		
+		<set name="icon" val="icon.etc_dragon_egg_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Ovo de Wyrm blitz. O líder do clã deve coletar dez de cada um dos quatro tipos de ovos e levá-los para Martien." />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3841" type="EtcItem" name="Ovo de Drake">
+		
+		<set name="icon" val="icon.etc_dragon_egg_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Ovo de Drake. O líder do clã deve coletar dez de cada um dos quatro tipos de ovos e levá-los para Martien." />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3842" type="EtcItem" name="Ovo de Wyrm do Trovão">
+		
+		<set name="icon" val="icon.etc_dragon_egg_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Ovo do Wyrm do trovão. O líder do clã deve coletar dez de cada um dos quatro tipos de ovos e levá-los para Martien." />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3843" type="EtcItem" name="Broche da Pega">
+		
+		<set name="icon" val="icon.etc_feather_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Este broche foi deixado por um anão moribundo para ser entregue ao ferreiro-chefe Kusto, seu irmão mais novo na Giran Castle Town." />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="1000" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3844" type="EtcItem" name="Cristal de Nebulita">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Soulshot de identidade desconhecida. O líder do clã deve coletar dez de cada uma dessas powerstones e de Titan e levar tudo para Balthazar." />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3845" type="EtcItem" name="Pedra de Poder do Titã Quebrada">
+		
+		<set name="icon" val="icon.etc_instrument_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Pedra de poder de Titã. Está quebrado e inútil." />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3846" type="EtcItem" name="Pedra de Poder do Titã">
+		
+		<set name="icon" val="icon.etc_mechanic_box_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Pedra de Poder do Titã. The clan leader must collect ten of these e also, ten Nebulite Crystals e take them all to Balthazar." />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3847" type="EtcItem" name="Chave Imperial">
+		
+		<set name="icon" val="icon.etc_key_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Chave usada ao abrir o cofre imperial. Deve ter todos os seis para abrir o cofre." />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="3848" type="EtcItem" name="Cinzas Mortos-Vivos">
+		
+		<set name="icon" val="icon.etc_powder_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pó de cinzas remanescente após a destruição de um morto-vivo do Execution Grounds. Colete isso e leve para a Mercenária Sophya." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3849" type="EtcItem" name="Insígnia do Machado Sangrento">
+		
+		<set name="icon" val="icon.etc_badge_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Insígnia obtida ao matar Ol Mahums na Fortaleza da Resistência. Colete-os e leve-os para a Mercenária Sophya." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3850" type="EtcItem" name="Presa de Homem Lagarto Delu">
+		
+		<set name="icon" val="icon.etc_fang_ivory_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Dente removido após matar um Homem Lagarto Delu. Colete-os e leve-os para a Mercenária Sophya." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3851" type="EtcItem" name="Garra Stakato">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Garra cortada após matar stakatos do pântano dos pântanos de Cruma. Colete isso e leve para a Mercenária Sophya." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3852" type="EtcItem" name="Pena de Gabrielle">
+		
+		<set name="icon" val="icon.etc_feather_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Marca dada pela Guardiã do Selo Gabrielle. Receba reconhecimento por suas habilidades depois de fazer isso e conhecer os outros guardiões." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3853" type="EtcItem" name="Chifre do Perseguidor do Pântano">
+		
+		<set name="icon" val="icon.etc_horn_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O chifre que foi cortado de um perseguidor do pântano depois que ele foi morto. Leve-o ao Mestre Kaiena, o Vigia do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3854" type="EtcItem" name="Garras de Marsh Drake">
+		
+		<set name="icon" val="icon.etc_claw_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As garras que foram removidas de um pato do pântano depois que ele foi morto. Leve-os ao Mestre Kaiena, o Vigia do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3855" type="EtcItem" name="Pele Kranrot">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pele que foi removida de um Kranrot depois que ele foi morto. Leve-o ao Prefeito Chakiris, o Vigia do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3856" type="EtcItem" name="Perna de Hamrut">
+		
+		<set name="icon" val="icon.etc_insect_leg_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A perna que foi removida de um Hamrut e esfolada depois de morta. Leve-o ao Prefeito Chakiris, o Vigia do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3857" type="EtcItem" name="Restos de Sacrifício">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Os restos de uma alma sacrificada. Leve-os ao Sumo Sacerdote Orven, o Vigia do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3858" type="EtcItem" name="Totem do Dragão da Terra">
+		
+		<set name="icon" val="icon.etc_parasite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O totem criado por Harit Homem Lagarto que adoram Antharas. Leve-o ao Mestre Kendra, o Vigia do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3859" type="EtcItem" name="1a Fragmento da Joia do Abismo">
+		
+		<set name="icon" val="icon.etc_broken_crystal_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento obtido pela destruição de uma joia do abismo em Gludio. Leve-o ao Chefe do Armazém Moke, o Vigia do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3860" type="EtcItem" name="2a Fragmento da Joia do Abismo">
+		
+		<set name="icon" val="icon.etc_broken_crystal_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um fragmento obtido pela destruição de uma joia do abismo em Oren. Leve-o ao Ferreiro Helton, o Vigia do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3861" type="EtcItem" name="3a Fragmento da Joia do Abismo">
+		
+		<set name="icon" val="icon.etc_broken_crystal_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Fragmento obtido ao destruir a joia do abismo. Leve isso para Antharas Watchman Theodric na entrada de Antharas' Lair." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3862" type="EtcItem" name="Presa de Mara">
+		
+		<set name="icon" val="icon.etc_fang_ivory_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A prova obtida após matar a guardiã das joias Mara. Leve-o ao Chefe do Armazém Moke, o Vigia do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3863" type="EtcItem" name="Presa de Musfel">
+		
+		<set name="icon" val="icon.etc_fang_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A prova obtida após matar o guardião de joias Musfel. Leve-o ao Ferreiro Helton, o Vigia do Selo." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3864" type="EtcItem" name="Marca do Vigia">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado de ter sido reconhecido pelo guardião do selo. Volte para Gabrielle após receber os certificados dos guardiões de cada região." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3865" type="EtcItem" name="Pedra do Portal">
+		
+		<set name="icon" val="icon.etc_plate_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Item necessário para ativar o cristal de teletransporte que se teletransporta para Antharas' Lair." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3866" type="EtcItem" name="1a Carta de Gustavo">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta secreta enviada por Senhor Gustav Athebaldt a seus assessores. Pegue-o e leve-o para Martien da cidade de Giran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3867" type="EtcItem" name="2a Carta de Gustavo">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada por Senhor Gustav Athebaldt para aqueles que o apoiam. Leve-o para Balthazar de Hunter Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3868" type="EtcItem" name="3a Carta de Gustav">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada por Senhor Gustav Athebaldt para aqueles que o apoiam. Leve-o para Senhor Eric Rodemai da cidade de Aden." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3869" type="EtcItem" name="Cetro do Julgamento">
+		
+		<set name="icon" val="icon.etc_royal_seal_of_lord_i04" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Cetro concedido ao imperador fundador Shunaiman do antigo Império Elmoreden pelo deus da luz. Certificado representando a autoridade do imperador." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3870" type="EtcItem" name="Selo da Aspiração">
+		
+		<set name="icon" val="icon.etc_paper_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Item necessário para um líder de clã elevar o clã ao nível 5." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3871" type="EtcItem" name="Moeda Bigorna Preta">
+		
+		<set name="icon" val="icon.etc_coins_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Moeda comemorativa dada como uma expressão de gratidão pela Black Anvil Guild." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3872" type="EtcItem" name="Lista de Receitas de Antídotos">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Erva de Vanor, erva de oel mahum, erva de harit e sangue de Eva." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3873" type="EtcItem" name="Comprovante de Fé">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Se você levar este documento para Senhor Kristof Rodemai, receberá o Manifesto da Aliança." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3874" type="EtcItem" name="Manifesto da Aliança">
+		
+		<set name="icon" val="icon.etc_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Item necessário para um líder de clã elevar o clã ao nível 4." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3875" type="EtcItem" name="L2Dia - A">
+		
+		<set name="icon" val="icon.etc_alphabet_a_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3876" type="EtcItem" name="L2Dia - C">
+		
+		<set name="icon" val="icon.etc_alphabet_c_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3877" type="EtcItem" name="L2Dia - E">
+		
+		<set name="icon" val="icon.etc_alphabet_e_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3878" type="EtcItem" name="L2Dia - F">
+		
+		<set name="icon" val="icon.etc_alphabet_f_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3879" type="EtcItem" name="L2Dia - G">
+		
+		<set name="icon" val="icon.etc_alphabet_g_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3880" type="EtcItem" name="L2Dia - H">
+		
+		<set name="icon" val="icon.etc_alphabet_h_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3881" type="EtcItem" name="L2Dia - I">
+		
+		<set name="icon" val="icon.etc_alphabet_i_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3882" type="EtcItem" name="L2Dia - L">
+		
+		<set name="icon" val="icon.etc_alphabet_l_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3883" type="EtcItem" name="L2Dia - N">
+		
+		<set name="icon" val="icon.etc_alphabet_n_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3884" type="EtcItem" name="L2Dia - O">
+		
+		<set name="icon" val="icon.etc_alphabet_o_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3885" type="EtcItem" name="L2Dia - R">
+		
+		<set name="icon" val="icon.etc_alphabet_r_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3886" type="EtcItem" name="L2Dia - S">
+		
+		<set name="icon" val="icon.etc_alphabet_s_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3887" type="EtcItem" name="L2Dia - T">
+		
+		<set name="icon" val="icon.etc_alphabet_t_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3888" type="EtcItem" name="L2Dia - II">
+		
+		<set name="icon" val="icon.etc_alphabet_ii_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Item de evento L2 Dia. Crie a palavra especial e leve ao coordenador do evento para um presente surpresa!" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3889" type="EtcItem" name="Poção de Recuperação">
+		
+		<set name="icon" val="icon.etc_herb_green_i00" />
+		<set name="item_type" val="potion" />
+		<set name="desc" val="Remédio que pode neutralizar o veneno da Bruxa Kalis. Se o líder do clã usar isso, o envenenamento é curado." />
+		<set name="weight" val="180" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="3890" type="EtcItem" name="Arauto do Assassino">
+		
+		<set name="icon" val="icon.etc_badge_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Certificado comprovando a elegibilidade para participar do grupo de conquista de Antharas. Pegue isso e vá encontrar Antharas Watchman Gilmore." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="3891" type="Armor" name="Armadura de Pele do Lobo">
+		
+		<set name="icon" val="icon.etc_pet_armor_i00" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="Clique duas vezes para vestir. Só para lobos." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="13" />
+		<set name="m_def" val="16" />
+		<set name="price" val="18000" />
+		<for>
+			<add val="13" order="0x10" stat="pDef" />
+			<add val="16" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="3892" type="Armor" name="Correio de Couro Duro do Lobo">
+		
+		<set name="icon" val="icon.etc_pet_armor_i00" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="Clique duas vezes para vestir. Só para lobos." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="16" />
+		<set name="m_def" val="18" />
+		<set name="price" val="32000" />
+		<for>
+			<add val="16" order="0x10" stat="pDef" />
+			<add val="18" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="3893" type="Armor" name="Armadura de Madeira do Lobo">
+		
+		<set name="icon" val="icon.etc_pet_armor_i01" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="Clique duas vezes para vestir. Só para lobos." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="19" />
+		<set name="m_def" val="20" />
+		<set name="price" val="55000" />
+		<for>
+			<add val="19" order="0x10" stat="pDef" />
+			<add val="20" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="3894" type="Armor" name="Correio do Lobo">
+		
+		<set name="icon" val="icon.etc_pet_armor_i01" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="Clique duas vezes para vestir. Só para lobos." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="22" />
+		<set name="m_def" val="23" />
+		<set name="price" val="87000" />
+		<for>
+			<add val="22" order="0x10" stat="pDef" />
+			<add val="23" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="3895" type="Armor" name="Armadura de Osso do Lobo">
+		
+		<set name="icon" val="icon.etc_pet_armor_i01" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="Clique duas vezes para vestir. Só para lobos." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="26" />
+		<set name="m_def" val="26" />
+		<set name="price" val="130000" />
+		<for>
+			<add val="26" order="0x10" stat="pDef" />
+			<add val="26" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="3896" type="Armor" name="Armadura de Escamas de Lobo">
+		
+		<set name="icon" val="icon.etc_pet_armor_i01" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="Clique duas vezes para vestir. Só para lobos." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="30" />
+		<set name="m_def" val="29" />
+		<set name="price" val="200000" />
+		<for>
+			<add val="30" order="0x10" stat="pDef" />
+			<add val="29" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="3897" type="Armor" name="Armadura de Bronze de Wof">
+		
+		<set name="icon" val="icon.etc_pet_armor_i01" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="Clique duas vezes para vestir. Só para lobos." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="33" />
+		<set name="m_def" val="31" />
+		<set name="price" val="260000" />
+		<for>
+			<add val="33" order="0x10" stat="pDef" />
+			<add val="31" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="3898" type="Armor" name="Correio do Lobo">
+		
+		<set name="icon" val="icon.etc_pet_armor_i02" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="Clique duas vezes para vestir. Só para lobos." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="37" />
+		<set name="m_def" val="33" />
+		<set name="price" val="330000" />
+		<for>
+			<add val="37" order="0x10" stat="pDef" />
+			<add val="33" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="3899" type="Armor" name="Armadura de Aço do Lobo">
+		
+		<set name="icon" val="icon.etc_pet_armor_i02" />
+		<set name="bodypart" val="wolf" />
+		<set name="desc" val="Clique duas vezes para vestir. Só para lobos." />
+		<set name="armor_type" val="pet" />
+		<set name="weight" val="160" />
+		<set name="p_def" val="40" />
+		<set name="m_def" val="36" />
+		<set name="price" val="420000" />
+		<for>
+			<add val="40" order="0x10" stat="pDef" />
+			<add val="36" order="0x10" stat="mDef" />
+		</for>
+	</item>
+</list>

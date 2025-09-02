@@ -1,0 +1,860 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="4400" type="EtcItem" name="Tecido Branco">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um grande pedaço de pano branco dado pelo Magistrada Hanellin. Hanellin lhe dirá seu propósito." />
+		<set name="consume_type" val="stackable" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+	</item>
+	<item id="4401" type="EtcItem" name="Pedra Dimensional Verde">
+		
+		<set name="icon" val="icon.etc_gem_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Ativa um Vórtice Dimensional. Permite que você se mova para o primeiro andar da Torre da Insolência." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4402" type="EtcItem" name="Pedra Dimensional Azul">
+		
+		<set name="icon" val="icon.etc_gem_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Ativa um Vórtice Dimensional. Permite que você se mova para o quinto andar da Torre da Insolência." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4403" type="EtcItem" name="Pedra Dimensional Vermelha">
+		
+		<set name="icon" val="icon.etc_gem_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Ativa um Vórtice Dimensional. Permite que você vá para o 10a andar da Torre da Insolência." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="4404" type="EtcItem" name="Pedra Dimensional Verde - Estilhaço">
+		
+		<set name="icon" val="icon.etc_broken_crystal_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um fragmento quebrado da Pedra Dimensional verde. Colete-os e leve-os ao pesquisador Kaplan." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4405" type="EtcItem" name="Pedra Dimensional Azul - Estilhaço">
+		
+		<set name="icon" val="icon.etc_broken_crystal_blue_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um fragmento quebrado da Pedra Dimensional azul. Colete-os e leve-os ao pesquisador Euclie." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4406" type="EtcItem" name="Pedra Dimensional Vermelha - Estilhaço">
+		
+		<set name="icon" val="icon.etc_broken_crystal_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um fragmento quebrado da Pedra Dimensional vermelha. Colete-os e leve-os ao Pesquisador Pitagon." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4407" type="EtcItem" name="Projeto de Lei de Iason Heine">
+		
+		<set name="icon" val="icon.etc_paper_black_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Seu valor é de 1000 adena, resgatável por Roman da Guilda dos Ferreiros em Innadril. Você pode usá-lo para comprar vários ingredientes." />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4408" type="EtcItem" name="Partitura Musical - Tema do Amor">
+		
+		<set name="icon" val="icon.etc_musical_note_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Partitura musical de Gillian lançada postumamente. Se você levá-lo ao Maestro Melody, poderá fazer um cristal de eco." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4409" type="EtcItem" name="Trilha Sonora - Tema da Batalha">
+		
+		<set name="icon" val="icon.etc_musical_note_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="A trilha sonora da Batalha Marcha das Chamas. Se você levá-lo ao Maestro Melody, poderá fazer um cristal de eco." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4410" type="EtcItem" name="Partitura Musical - Tema da Viagem">
+		
+		<set name="icon" val="icon.etc_musical_note_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma trilha sonora composta por Troubadour Swan. Se você levá-lo ao Maestro Melody, poderá fazer um cristal de eco." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4411" type="EtcItem" name="Cristal de Eco - Tema da Jornada">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a música tema de uma viagem. Só pode ser usado uma vez." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4412" type="EtcItem" name="Cristal de Eco - Tema de Batalha">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a música tema de uma batalha." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4413" type="EtcItem" name="Cristal de Eco - Tema do Amor">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a música tema do amor. Só pode ser usado uma vez." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4414" type="EtcItem" name="Cristal de Eco - Tema da Solidão">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i03" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a música tema da solidão. Só pode ser usado uma vez." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4415" type="EtcItem" name="Cristal de Eco - Tema da Festa">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i04" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a música tema de uma festa. Só pode ser usado uma vez." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4416" type="EtcItem" name="Cristal de Eco - Tema da Celebração">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a música tema de uma celebração. Só pode ser usado uma vez." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4417" type="EtcItem" name="Cristal de Eco - Tema da Comédia">
+		
+		<set name="icon" val="icon.etc_echo_crystal_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cristal de eco que toca a música tema de uma comédia. Só pode ser usado uma vez." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4418" type="EtcItem" name="Partitura Musical - Tema da Celebração">
+		
+		<set name="icon" val="icon.etc_musical_note_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma partitura musical contendo a música tema de uma celebração. Se você levá-lo ao Maestro Melody, poderá fazer um cristal de eco." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4419" type="EtcItem" name="Partitura Musical - Tema de Comédia">
+		
+		<set name="icon" val="icon.etc_musical_note_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma partitura musical contendo a música tema de uma comédia. Se você levá-lo ao Maestro Melody, poderá fazer um cristal de eco." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4420" type="EtcItem" name="Partitura Musical - Tema da Solidão">
+		
+		<set name="icon" val="icon.etc_musical_note_i01" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma partitura musical composta pelo músico Nanarin. Se você levá-lo ao Maestro Melody, poderá fazer um cristal de eco." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4421" type="EtcItem" name="Partitura Musical - Tema da Festa">
+		
+		<set name="icon" val="icon.etc_musical_note_i02" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma partitura musical composta pelo músico Barbado. Se você levá-lo ao Maestro Melody, poderá fazer um cristal de eco." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4422" type="EtcItem" name="Dragão Bugle do Vento">
+		
+		<set name="icon" val="icon.etc_bugle_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="Uma corneta usada para tocar o andarilho do Vento." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4423" type="EtcItem" name="Dragão Bugle da Estrela">
+		
+		<set name="icon" val="icon.etc_bugle_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="Uma corneta usada para tocar o passo largo de uma estrela." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4424" type="EtcItem" name="Dragão Bugle do Crepúsculo">
+		
+		<set name="icon" val="icon.etc_bugle_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="Uma corneta usada para tocar o andarilho do Crepúsculo." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4425" type="EtcItem" name="Algemas do Penitente">
+		
+		<set name="icon" val="icon.etc_leash_i00" />
+		<set name="item_type" val="pet_collar" />
+		<set name="desc" val="As algemas pesadas usadas para invocar um Devorador de Pecados. Invocar o Devorador de Pecados consome toda a Exp do invocador. O Devorador de Pecados deve ser alimentado com Comida para Lobos." />
+		<set name="weight" val="800" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="destroyable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4426" type="EtcItem" name="Algemas de Penitente">
+		
+		<set name="icon" val="icon.etc_leash_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Tendo consumido seus pecados, o Devorador de Pecados desapareceu, deixando você com este par comum de algemas. Para repetir esta missão, leve-os de volta ao Juiz Negro." />
+		<set name="weight" val="50" />
+		<set name="consume_type" val="normal" />
+		<set name="price" val="22000" />
+		<set name="dropable" val="false" />
+	</item>
+	<item id="4427" type="EtcItem" name="Cinto de Couro de Jacaré">
+		
+		<set name="icon" val="icon.etc_prefect_belt_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="An Cinto de Couro de Jacaré designed e created em Verche, a master leather craftsman." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4428" type="EtcItem" name="Cinto de Couro de Crocodilo Azul">
+		
+		<set name="icon" val="icon.etc_prefect_belt_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cinto de couro de crocodilo projetado e criado por Verche, um mestre artesão de couro. É feito de um raro tipo de couro azul." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4429" type="EtcItem" name="Cinto de Couro Com Joias">
+		
+		<set name="icon" val="icon.etc_prefect_belt_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Um cinto de couro de crocodilo projetado e criado por Verche, um mestre artesão de couro. É feito de couro cravejado de joias raras." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4430" type="EtcItem" name="Bolsa de Couro de Crocodilo">
+		
+		<set name="icon" val="icon.etc_handbag_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="An Bolsa de Couro de Crocodilo designed e created em Verche, a master leather craftsman." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4431" type="EtcItem" name="Bolsa de Couro de Crocodilo Azul">
+		
+		<set name="icon" val="icon.etc_handbag_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma bolsa de couro de crocodilo projetada e criada por Verche, um mestre artesão de couro. É feito de um raro tipo de couro azul." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4432" type="EtcItem" name="Bolsa Com Joias">
+		
+		<set name="icon" val="icon.etc_handbag_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Uma bolsa de couro de crocodilo projetada e criada por Verche, um mestre artesão de couro. É feito de Couro cravejado de joias raras." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4433" type="EtcItem" name="Pó de Pedra Elemental">
+		
+		<set name="icon" val="icon.etc_powder_white_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Pó de pedra elementar obtido de uma estátua de pedra no Templo Esquecido. Pode ser vendido em qualquer loja ou levado ao Mestre Nell." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4434" type="EtcItem" name="Estilhaços de Pedra Elementar">
+		
+		<set name="icon" val="icon.etc_broken_crystal_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Os fragmentos de pedras elementais obtidos de estátuas de pedra no Templo Esquecido. Pode ser vendido em qualquer loja ou levado ao Mestre Nell." />
+		<set name="weight" val="100" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4435" type="EtcItem" name="Pedaço de Pedra Elemental">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Os pedaços de pedra elementar obtidos de estátuas de pedra no Templo Esquecido. Pode ser vendido em qualquer loja ou levado ao Mestre Nell." />
+		<set name="weight" val="1000" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4436" type="EtcItem" name="Pedido de Bentley">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedido para encontrar e trazer cristais de jade de criaturas como Fline, Liele, Satyr etc. que habitam o Vale Encantado." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4437" type="EtcItem" name="Pedido de Carson">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedido para recuperar as obras do antigo escultor Berona de Hatar Ratmen e Vanor Silenos na área próxima ao Cemitério." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4438" type="EtcItem" name="Gume do Espanador">
+		
+		<set name="icon" val="icon.etc_sword_body_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Espanador. Pode ser comprado em uma loja normal." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="28044" />
+	</item>
+	<item id="4439" type="EtcItem" name="Fragmento de Escudo de Avadon">
+		
+		<set name="icon" val="icon.etc_plate_silver_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Um ingrediente essencial necessário para um Anão fazer um Escudo Avadon. Pode ser comprado em uma loja normal." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2900" />
+	</item>
+	<item id="4440" type="EtcItem" name="Receita: Knuckle Duster">
+		
+		<set name="icon" val="icon.etc_recipe_yellow_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Knuckle Duster. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="57400" />
+	</item>
+	<item id="4441" type="EtcItem" name="Receita: Escudo Avadon">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para um Escudo Avadon. Requer Criar Item - Nível de Habilidade 6. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10900" />
+	</item>
+	<item id="4442" type="EtcItem" name="Bilhete de Loteria">
+		
+		<set name="icon" val="icon.etc_lottery_card_i00" />
+		<set name="item_type" val="lotto" />
+		<set name="desc" val="Um bilhete de loteria de Aden, resgatável em qualquer local de venda de loterias. Os números vencedores são publicados todos os sábados às 19h. Você não pode ganhar se não jogar! Boa sorte!" />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+	</item>
+	<item id="4443" type="EtcItem" name="Bilhete Corrida de Monstros - Individual">
+		
+		<set name="icon" val="icon.etc_ticket_i00" />
+		<set name="item_type" val="race_ticket" />
+		<set name="desc" val="Um bilhete premiado da corrida de monstros. Resgatável no caixa da corrida." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4444" type="EtcItem" name="Bilhete Corrida de Monstros - Duplo">
+		
+		<set name="icon" val="icon.etc_ticket_i00" />
+		<set name="item_type" val="race_ticket" />
+		<set name="desc" val="Um bilhete duplo diário vencedor da corrida de monstros. Resgatável no caixa da corrida." />
+		<set name="weight" val="20" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="4445" type="EtcItem" name="Tintura de For For+1 Vit-3;">
+		
+		<set name="icon" val="icon.etc_str_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de For For+1 Vit-3; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5100" />
+	</item>
+	<item id="4446" type="EtcItem" name="Tintura de For For+1 Des-3;">
+		
+		<set name="icon" val="icon.etc_str_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de For For+1 Des-3; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4447" type="EtcItem" name="Tintura de Vit Vit+1 For-3;">
+		
+		<set name="icon" val="icon.etc_con_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Vit Vit+1 For-3; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5100" />
+	</item>
+	<item id="4448" type="EtcItem" name="Tintura de Vit Vit+1 Des-3;">
+		
+		<set name="icon" val="icon.etc_con_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Vit Vit+1 Des-3; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4449" type="EtcItem" name="Tintura de Des Des+1 For-3;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Des Des+1 For-3; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4450" type="EtcItem" name="Tintura de Des Des+1 Vit-3;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Des Des+1 Vit-3; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4451" type="EtcItem" name="Tintura de Int Int+1 Men-3;">
+		
+		<set name="icon" val="icon.etc_int_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Int Int+1 Men-3; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5100" />
+	</item>
+	<item id="4452" type="EtcItem" name="Tintura de Int Int+1 Sag-3;">
+		
+		<set name="icon" val="icon.etc_int_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Int Int+1 Sag-3; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em the Fighter e Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5100" />
+	</item>
+	<item id="4453" type="EtcItem" name="Tintura de Men Men+1 Int-3;">
+		
+		<set name="icon" val="icon.etc_men_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Men Men+1 Int-3; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4454" type="EtcItem" name="Tintura de Men Men+1 Sag-3;">
+		
+		<set name="icon" val="icon.etc_men_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Men Men+1 Sag-3; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em all Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4455" type="EtcItem" name="Tintura de Sag Sag+1 Int-3;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Sag Sag+1 Int-3; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em the Fighter e Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4456" type="EtcItem" name="Tintura de Sag Sag+1 Men-3;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Sag Sag+1 Men-3; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em all Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4457" type="EtcItem" name="Tintura de For For+1 Vit-2;">
+		
+		<set name="icon" val="icon.etc_str_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de For For+1 Vit-2; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4458" type="EtcItem" name="Tintura de For For+1 Des-2;">
+		
+		<set name="icon" val="icon.etc_str_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de For For+1 Des-2; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4459" type="EtcItem" name="Tintura de Vit Vit+1 For-2;">
+		
+		<set name="icon" val="icon.etc_con_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Vit Vit+1 For-2; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4460" type="EtcItem" name="Tintura de Vit Vit+1 Des-2;">
+		
+		<set name="icon" val="icon.etc_con_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Vit Vit+1 Des-2; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4461" type="EtcItem" name="Tintura de Des Des+1 For-2;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Des Des+1 For-2; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4462" type="EtcItem" name="Tintura de Des Des+1 Vit-2;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Des Des+1 Vit-2; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4463" type="EtcItem" name="Tintura de Int Int+1 Men-2;">
+		
+		<set name="icon" val="icon.etc_int_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Int Int+1 Men-2; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4464" type="EtcItem" name="Tintura de Int Int+1 Sag-2;">
+		
+		<set name="icon" val="icon.etc_int_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Int Int+1 Sag-2; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em the Fighter e Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4465" type="EtcItem" name="Tintura de Men Men+1 Int-2;">
+		
+		<set name="icon" val="icon.etc_men_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Men Men+1 Int-2; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4466" type="EtcItem" name="Tintura de Men Men+1 Sag-2;">
+		
+		<set name="icon" val="icon.etc_men_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Men Men+1 Sag-2; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em all Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4467" type="EtcItem" name="Tintura de Sag Sag+1 Int-2;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Sag Sag+1 Int-2; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em the Fighter e Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4468" type="EtcItem" name="Tintura de Sag Sag+1 Men-2;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Sag Sag+1 Men-2; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em all Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4469" type="EtcItem" name="Tintura de For For+1 Vit-1;">
+		
+		<set name="icon" val="icon.etc_str_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de For For+1 Vit-1; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4470" type="EtcItem" name="Tintura de For For+1 Des-1;">
+		
+		<set name="icon" val="icon.etc_str_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de For For+1 Des-1; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4471" type="EtcItem" name="Tintura de Vit Vit+1 For-1;">
+		
+		<set name="icon" val="icon.etc_con_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Vit Vit+1 For-1; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4472" type="EtcItem" name="Tintura de Vit Vit+1 Des-1;">
+		
+		<set name="icon" val="icon.etc_con_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Vit Vit+1 Des-1; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4473" type="EtcItem" name="Tintura de Des Des+1 For-1;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Des Des+1 For-1; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4474" type="EtcItem" name="Tintura de Des Des+1 Vit-1;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Des Des+1 Vit-1; - Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4475" type="EtcItem" name="Tintura de Int Int+1 Men-1;">
+		
+		<set name="icon" val="icon.etc_int_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Int Int+1 Men-1; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4476" type="EtcItem" name="Tintura de Int Int+1 Sag-1;">
+		
+		<set name="icon" val="icon.etc_int_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Int Int+1 Sag-1; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em the Fighter e Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4477" type="EtcItem" name="Tintura de Men Men+1 Int-1;">
+		
+		<set name="icon" val="icon.etc_men_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Men Men+1 Int-1; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4478" type="EtcItem" name="Tintura de Men Men+1 Sag-1;">
+		
+		<set name="icon" val="icon.etc_men_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Men Men+1 Sag-1; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em all Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4479" type="EtcItem" name="Tintura de Sag Sag+1 Int-1;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Sag Sag+1 Int-1; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em the Fighter e Non-Healer Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4480" type="EtcItem" name="Tintura de Sag Sag+1 Men-1;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i00" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura de Sag Sag+1 Men-1; - Collect e take 10 units of this magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities. Can be used after completion of first class transfer e prior to completion of second class transfer em all Mystic classes." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="42000" />
+	</item>
+	<item id="4481" type="EtcItem" name="Tintura Superior de For For+1 Vit-3;">
+		
+		<set name="icon" val="icon.etc_str_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de For For+1 Vit-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4482" type="EtcItem" name="Tintura Superior de For For+1 Des-3;">
+		
+		<set name="icon" val="icon.etc_str_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de For For+1 Des-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4483" type="EtcItem" name="Tintura Superior de VitVit+1 For-3;">
+		
+		<set name="icon" val="icon.etc_con_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de VitVit+1 For-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4484" type="EtcItem" name="Tintura Superior de VitVit+1 Des-3;">
+		
+		<set name="icon" val="icon.etc_con_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de VITVit+1 For-3;. Colete e leve 10 unidades desse tipo de corante mágico para o criador de símbolos na cidade e você receberá um símbolo que aumenta suas habilidades tatuado em seu corpo. Pode ser usado por todas as classes após a conclusão da transferência da segunda classe e também pode ser mantido e usado após a conclusão da transferência da terceira classe." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4485" type="EtcItem" name="Tintura Superior de Des Des+1 For-3;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Des Des+1 For-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4486" type="EtcItem" name="Tintura Superior de Des Des+1 Vit-3;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Des Des+1 Vit-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4487" type="EtcItem" name="Tintura Superior de Int Int+1 Men-3;">
+		
+		<set name="icon" val="icon.etc_int_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Int Int+1 Men-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4488" type="EtcItem" name="Tintura Superior de Int Int+1 Sag-3;">
+		
+		<set name="icon" val="icon.etc_int_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Int Int+1 Sag-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class e the Warrior class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4489" type="EtcItem" name="Tintura Superior de Men Men+1 Int-3;">
+		
+		<set name="icon" val="icon.etc_men_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Men Men+1 Int-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4490" type="EtcItem" name="Tintura Superior de Men Men+1 Sag-3;">
+		
+		<set name="icon" val="icon.etc_men_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Men Men+1 Sag-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class e the Healer class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4491" type="EtcItem" name="Tintura Superior de Sag Sag+1 Int-3;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Sag Sag+1 Int-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Warrior class e the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4492" type="EtcItem" name="Tintura Superior de Sag Sag+1 Men-3;">
+		
+		<set name="icon" val="icon.etc_wit_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Sag Sag+1 Men-3;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the wizard class e healer class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="4493" type="EtcItem" name="Tintura Superior de For For+1 Vit-2;">
+		
+		<set name="icon" val="icon.etc_str_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de For For+1 Vit-2;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="21000" />
+	</item>
+	<item id="4494" type="EtcItem" name="Tintura Superior de For For+1 Des-2;">
+		
+		<set name="icon" val="icon.etc_str_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de For For+1 Des-2;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="21000" />
+	</item>
+	<item id="4495" type="EtcItem" name="Tintura Superior de Vit Vit+1 For-2;">
+		
+		<set name="icon" val="icon.etc_con_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Vit Vit+1 For-2;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4496" type="EtcItem" name="Tintura Superior de Vit Vit+1 Des-2;">
+		
+		<set name="icon" val="icon.etc_con_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Vit Vit+1 Des-2;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="4497" type="EtcItem" name="Tintura Superior de Des Des+1 For-2;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Des Des+1 For-2;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="21000" />
+	</item>
+	<item id="4498" type="EtcItem" name="Tintura Superior de Des Des+1 Vit-2;">
+		
+		<set name="icon" val="icon.etc_dex_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Des Des+1 Vit-2;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em all classes after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="21000" />
+	</item>
+	<item id="4499" type="EtcItem" name="Tintura Superior de Int Int+1 Men-2;">
+		
+		<set name="icon" val="icon.etc_int_hena_i01" />
+		<set name="item_type" val="dye" />
+		<set name="desc" val="Tintura Superior de Int Int+1 Men-2;. Collect e take 10 units of this type of magical dye to the symbol maker in town e you will receive a symbol that boosts your abilities tatooed onto your body.  Can be used em the Wizard class after completion of their second class transfer, e can be kept e used after the completion of the third class transfer as well." />
+		<set name="weight" val="150" />
+		<set name="consume_type" val="stackable" />
+	</item>
+</list>

@@ -1,0 +1,1619 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2600" type="Weapon" name="Espada da Invasão*Caliburs">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, a Precisão Aumentarão em 4." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2190" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="204" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="89" />
+		<set name="price" val="7830000" />
+		<set name="crystal_count" val="1044" />
+		<for>
+			<set val="204" order="0x08" stat="pAtk" />
+			<set val="89" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="4" order="0x10" stat="accCombat">
+				<and>
+					<using slotitem="2600;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2601" type="Weapon" name="Espada da Invasão*Espada do Limite">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Atq.F Aumentarão em 146 durante um ataque crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2170" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="204" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="89" />
+		<set name="price" val="7830000" />
+		<set name="crystal_count" val="1044" />
+		<for>
+			<set val="204" order="0x08" stat="pAtk" />
+			<set val="89" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="146" order="0x10" stat="cAtk">
+				<and>
+					<using slotitem="2601;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2602" type="Weapon" name="Espada da Invasão*Espada da Ilusão">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o HP máximo Aumentarão em 25%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2180" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="204" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="89" />
+		<set name="price" val="7830000" />
+		<set name="crystal_count" val="1044" />
+		<for>
+			<set val="204" order="0x08" stat="pAtk" />
+			<set val="89" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.25" order="0x30" stat="maxHp">
+				<and>
+					<using slotitem="2602;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2603" type="Weapon" name="Espada da Invasão*Espada do Pesadelo">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o crítico Aumentarão em 65." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2170" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="204" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="89" />
+		<set name="price" val="7830000" />
+		<set name="crystal_count" val="1044" />
+		<for>
+			<set val="204" order="0x08" stat="pAtk" />
+			<set val="89" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="65" order="0x40" stat="rCrit">
+				<and>
+					<using slotitem="2603;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2604" type="Weapon" name="Espada da Invasão*Tsurugi">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Vel. Atq. aumentará 6%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2170" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="204" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="89" />
+		<set name="price" val="7830000" />
+		<set name="crystal_count" val="1044" />
+		<for>
+			<set val="204" order="0x08" stat="pAtk" />
+			<set val="89" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.06" order="0x30" stat="pAtkSpd">
+				<and>
+					<using slotitem="2604;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2605" type="Weapon" name="Espada da Invasão*Samurai Espada Longa">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o crítico Aumentarão em 43." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2130" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="220" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="94" />
+		<set name="price" val="9550000" />
+		<set name="crystal_count" val="1273" />
+		<for>
+			<set val="220" order="0x08" stat="pAtk" />
+			<set val="94" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="43" order="0x40" stat="rCrit">
+				<and>
+					<using slotitem="2605;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2606" type="Weapon" name="Caliburs*Caliburs">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Atq.F Aumentarão em 127 durante um ataque crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2140" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="127" order="0x10" stat="cAtk">
+				<and>
+					<using slotitem="2606;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2607" type="Weapon" name="Caliburs*Espada do Limite">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o HP máximo Aumentarão em 25%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2150" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.25" order="0x30" stat="maxHp">
+				<and>
+					<using slotitem="2607;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2608" type="Weapon" name="Caliburs*Espada da Ilusão">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o crítico Aumentarão em 54." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2140" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="54" order="0x40" stat="rCrit">
+				<and>
+					<using slotitem="2608;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2609" type="Weapon" name="Caliburs*Espada do Pesadelo">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Vel. Atq. aumentará 5%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2170" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.05" order="0x30" stat="pAtkSpd">
+				<and>
+					<using slotitem="2609;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2610" type="Weapon" name="Caliburs*Tsurugi">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, a Precisão Aumentarão em 4." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2150" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="4" order="0x10" stat="accCombat">
+				<and>
+					<using slotitem="2610;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2611" type="Weapon" name="Caliburs*Samurai Espada Longa">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Vel. Atq. aumentará 5%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2120" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="228" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="97" />
+		<set name="price" val="11300000" />
+		<set name="crystal_count" val="1506" />
+		<for>
+			<set val="228" order="0x08" stat="pAtk" />
+			<set val="97" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.05" order="0x30" stat="pAtkSpd">
+				<and>
+					<using slotitem="2611;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2612" type="Weapon" name="Espada do Limite*Espada do Limite">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Atq.F Aumentarão em 127 durante um ataque crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2140" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="127" order="0x10" stat="cAtk">
+				<and>
+					<using slotitem="2612;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2613" type="Weapon" name="Espada do Limite*Espada da Ilusão">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o HP máximo Aumentarão em 25%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2140" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.25" order="0x30" stat="maxHp">
+				<and>
+					<using slotitem="2613;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2614" type="Weapon" name="Espada do Limite*Espada do Pesadelo">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o crítico Aumentarão em 54." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2130" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="54" order="0x40" stat="rCrit">
+				<and>
+					<using slotitem="2614;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2615" type="Weapon" name="Espada do Limite*Tsurugi">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Vel. Atq. aumentará 5%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2120" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.05" order="0x30" stat="pAtkSpd">
+				<and>
+					<using slotitem="2615;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2616" type="Weapon" name="Espada do Limite*Espada Longa de Samurai">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, a Precisão Aumentarão em 3." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="228" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="97" />
+		<set name="price" val="11300000" />
+		<set name="crystal_count" val="1506" />
+		<for>
+			<set val="228" order="0x08" stat="pAtk" />
+			<set val="97" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="3" order="0x10" stat="accCombat">
+				<and>
+					<using slotitem="2616;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2617" type="Weapon" name="Espada da Ilusão*Espada da Ilusão">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, a Precisão Aumentarão em 4." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2150" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="4" order="0x10" stat="accCombat">
+				<and>
+					<using slotitem="2617;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2618" type="Weapon" name="Espada da Ilusão*Espada do Pesadelo">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Atq.F Aumentarão em 127 durante um ataque crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2130" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="127" order="0x10" stat="cAtk">
+				<and>
+					<using slotitem="2618;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2619" type="Weapon" name="Espada da Ilusão*Tsurugi">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o HP máximo Aumentarão em 25%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2140" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.25" order="0x30" stat="maxHp">
+				<and>
+					<using slotitem="2619;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2620" type="Weapon" name="Espada da Ilusão*Espada Longa Samurai">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Atq.F Aumentarão em 133 durante um ataque crítico." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2110" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="228" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="97" />
+		<set name="price" val="11300000" />
+		<set name="crystal_count" val="1506" />
+		<for>
+			<set val="228" order="0x08" stat="pAtk" />
+			<set val="97" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="133" order="0x10" stat="cAtk">
+				<and>
+					<using slotitem="2620;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2621" type="Weapon" name="Espada do Pesadelo*Espada do Pesadelo">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o crítico Aumentarão em 54." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2130" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="54" order="0x40" stat="rCrit">
+				<and>
+					<using slotitem="2621;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2622" type="Weapon" name="Espada do Pesadelo*Tsurugi">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Vel. Atq. aumentará 5%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2140" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.05" order="0x30" stat="pAtkSpd">
+				<and>
+					<using slotitem="2622;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2623" type="Weapon" name="Espada do Pesadelo*Espada Longa Samurai">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o HP máximo Aumentarão em 25%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2080" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="228" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="97" />
+		<set name="price" val="11300000" />
+		<set name="crystal_count" val="1506" />
+		<for>
+			<set val="228" order="0x08" stat="pAtk" />
+			<set val="97" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.25" order="0x30" stat="maxHp">
+				<and>
+					<using slotitem="2623;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2624" type="Weapon" name="Tsurugi*Tsurugi">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o crítico Aumentarão em 54." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2120" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="213" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="91" />
+		<set name="price" val="8680000" />
+		<set name="crystal_count" val="1157" />
+		<for>
+			<set val="213" order="0x08" stat="pAtk" />
+			<set val="91" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="54" order="0x40" stat="rCrit">
+				<and>
+					<using slotitem="2624;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2625" type="Weapon" name="Tsurugi*Espada Longa Samurai">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, o crítico Aumentarão em 52." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2090" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="228" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="97" />
+		<set name="price" val="11300000" />
+		<set name="crystal_count" val="1506" />
+		<for>
+			<set val="228" order="0x08" stat="pAtk" />
+			<set val="97" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<add val="52" order="0x40" stat="rCrit">
+				<and>
+					<using slotitem="2625;14;4" />
+				</and>
+			</add>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2626" type="Weapon" name="Espada Longa Samurai*Espada Longa Samurai">
+		
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Quando encantado, o Atq.F de uma espada dupla aumentará mais significativamente do que o de uma mão ou de soqueira. Quando encantado por 4 ou mais, Vel. Atq. aumentará 4%." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="2080" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="crystal_type" val="b" />
+		<set name="p_dam" val="236" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="dual" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="99" />
+		<set name="price" val="13100000" />
+		<set name="crystal_count" val="1746" />
+		<for>
+			<set val="236" order="0x08" stat="pAtk" />
+			<set val="99" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<mul val="1.04" order="0x30" stat="pAtkSpd">
+				<and>
+					<using slotitem="2626;14;4" />
+				</and>
+			</mul>
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="2627" type="EtcItem" name="Marca do Desafiante">
+		
+		<set name="icon" val="icon.etc_jewel_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram na Julgamento do Desafiante. Um item para mudança ocupacional." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2628" type="EtcItem" name="Carta de Kash">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta de apresentação de Kash. Leve esta carta para Martien em Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2629" type="EtcItem" name="1a Olho do Vigia">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um item obtido do monstro Gorr. Leve isso para Martien em Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2630" type="EtcItem" name="2a Olho do Vigia">
+		
+		<set name="icon" val="icon.etc_eyeball_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um item obtido do monstro, Baraham. Mostre isso ao Raldo e..." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2631" type="EtcItem" name="Pergaminho de Shyslassys">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pergaminho antigo obtido ao matar Shyslassys. Leve isso para Kash na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2632" type="EtcItem" name="Chave Quebrada">
+		
+		<set name="icon" val="icon.etc_mold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma chave obtida matando Shyslassys. Esta chave é necessária para abrir o Baú de Shyslassys." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2633" type="EtcItem" name="Marca do Dever">
+		
+		<set name="icon" val="icon.accessary_necklace_of_holy_spirit_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram no Trial of Duty. Um item para mudança ocupacional." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2634" type="EtcItem" name="Carta de Dustin">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta dada por Dustin. Entregue a carta ao Grão-Mestre Hannavalt em Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2635" type="EtcItem" name="Lágrima dos Cavaleiros">
+		
+		<set name="icon" val="icon.etc_crystal_ball_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Obtido do espírito de Senhor Herodes. Leve isso para Senhor Aaron Tanford." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2636" type="EtcItem" name="Espelho de Orpic">
+		
+		<set name="icon" val="icon.etc_mirror_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Isso é necessário para falar com o fantasma de Senhor Talianus. Use isso para derrotar a árvore do carrasco." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2637" type="EtcItem" name="Lágrima de Confissão">
+		
+		<set name="icon" val="icon.etc_crystal_ball_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Obtido do fantasma de Senhor Talianus. Leve isso para Senhor Kiel Nighthawk." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2638" type="EtcItem" name="Relatório">
+		
+		<set name="icon" val="icon.etc_leather_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Você pode obter isso caçando linhagens e ghouls. Reúna 10 peças e junte-as para criar o relatório de Talianus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2639" type="EtcItem" name="Relatório">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O relatório concluído. Depois de falar com Senhor Kiel Nighthawk, entregue o relatório ao fantasma de Senhor Talianus." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2640" type="EtcItem" name="Lágrima de Lealdade">
+		
+		<set name="icon" val="icon.etc_crystal_ball_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Este item pode ser obtido com Isael Silvershadow. Leve-o ao Padre Dustin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2641" type="EtcItem" name="Artigo da Milícia">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Você pode receber este item quando pegar um Homem Lagarto Leto. Colete 20 deles e leve-os para Isael Silvershadow." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2642" type="EtcItem" name="Urna de Cinzas dos Santos">
+		
+		<set name="icon" val="icon.etc_oil_pot_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um objeto recebido do Padre Dustin. Entregue isto a Senhor Windawood." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2643" type="EtcItem" name="Crânio de Athebaldt">
+		
+		<set name="icon" val="icon.etc_skull_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Você pode obter este item de um Orc Breka Soberano. Leve-o para Priest Dustin junto com as costelas de Athebaldt e a canela de Athebaldt." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2644" type="EtcItem" name="Costelas de Athebaldt">
+		
+		<set name="icon" val="icon.etc_rib_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Você pode obter este item de um Orc Breka Soberano. Leve-o para Priest Dustin junto com o crânio de Athebaldt e a canela de Athebaldt." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2645" type="EtcItem" name="Tíbia de Athebaldt">
+		
+		<set name="icon" val="icon.etc_piece_bone_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Você pode obter este item de um Orc Breka Soberano. Leve-o para Priest Dustin junto com as costelas de Athebaldt e o crânio de Athebaldt." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2646" type="EtcItem" name="Carta de Windawood">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta recebida de Senhor Colin Windawood. Mostre isso ao Padre Dustin." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2647" type="EtcItem" name="Carta de Dufner">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada de Mestre Dufner para Mestre Terry na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2648" type="EtcItem" name="1a Ordem de Terry">
+		
+		<set name="icon" val="icon.etc_scroll_of_resurrection_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Investigue os Canibais Neer Berserkers do Execution Grounds." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2649" type="EtcItem" name="2a Ordem de Terry">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Investigue o velho capitão mahum, Turek Orc warlord, formiga capitão e Turak bugbear guerreiro." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2650" type="EtcItem" name="Carta de Terry">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada pelo Mestre Terry ao Comerciante Viktor de Hunters Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2651" type="EtcItem" name="Carta de Viktor">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada pelo Comerciante Viktor ao mestre Terry na Town of Dion. A carta tem o selo de Terry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2652" type="EtcItem" name="Carta do Hawkeye">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada por Hawkeye ao Comerciante Viktor da Hunters Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2653" type="EtcItem" name="Pedra Rúnica Misteriosa">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pedra rúnica misteriosa obtida após matar Canibal Neer Berserker. Leve isto ao Mestre Terry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2654" type="EtcItem" name="Pedra Rúnica Ol Mahum">
+		
+		<set name="icon" val="icon.etc_crystal_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma misteriosa pedra rúnica obtida após matar o Ol Mahum Capitão. Leve isto ao Mestre Terry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2655" type="EtcItem" name="Pedra Rúnica Turek">
+		
+		<set name="icon" val="icon.etc_crystal_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pedra rúnica misteriosa obtida após matar o Orc Turek Lorde da Guerra. Leve isto ao Mestre Terry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2656" type="EtcItem" name="Pedra Rúnica Formiga">
+		
+		<set name="icon" val="icon.etc_crystal_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pedra rúnica misteriosa obtida após matar o Formigas Capitão. Leve isto ao Mestre Terry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2657" type="EtcItem" name="Pedra Rúnica Bugbear Turak">
+		
+		<set name="icon" val="icon.etc_crystal_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma misteriosa pedra rúnica obtida após matar o Bugbear Turak Guerreiro. Leve isto ao Mestre Terry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2658" type="EtcItem" name="Caixa de Terry">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um baú contendo as misteriosas pedras rúnicas. Leve isso para o Comerciante Viktor da Hunters Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2659" type="EtcItem" name="Pedido de Viktor">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedido emitido pelo Comerciante Viktor. &quot;Por favor, reúna 10 escamas de medusa.&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2660" type="EtcItem" name="Escamas da Medusa">
+		
+		<set name="icon" val="icon.etc_parasite_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="As escamas da medusa. Reúna 10 deles e leve-os ao Comerciante Viktor." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2661" type="EtcItem" name="Pedra Rúnica de Shilen">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pedras rúnicas estranhas obtidas dos corpos de espécies mutantes. Eles parecem estar relacionados a Shilen, a deusa da morte." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2662" type="EtcItem" name="Solicitação de Análise">
+		
+		<set name="icon" val="icon.etc_recipe_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de solicitação enviada ao Mestre Marina da Ivory Tower do Comerciante Viktor. A carta pede a Marina para analisar o Pedra Rúnica Sombria." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2663" type="EtcItem" name="Carta da Marina">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada por Mestre Marina ao Ferreiro Brunon da Dwarven Village." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2664" type="EtcItem" name="Ferramentas Experimentais">
+		
+		<set name="icon" val="icon.etc_squares_wood_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ferramentas experimentais criadas pelo ferreiro Brunon. Entregue-os ao Mestre Marina da Ivory Tower." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2665" type="EtcItem" name="Resultado da Análise">
+		
+		<set name="icon" val="icon.etc_recipe_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um documento onde Mestre Marina organizou os resultados analisados ​​da Pedra Rúnica Sombria. Entregue isso ao Mestre Terry na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2666" type="EtcItem" name="3a Ordem de Terry">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Ordens do Mestre Terry. As ordens dão instruções para voltar para a próxima tarefa após atingir o nível 36." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2667" type="EtcItem" name="Lista dos Hospedeiros">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma lista dos hospedeiros da Pedra Rúnica.&quot;Stakato do Pântano Zangão, Orc Breka Soberano, Formiga Capitã Guerreira, Homem Lagarto Leto Guerreiro&quot;" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2668" type="EtcItem" name="Pedra Rúnica Abissal">
+		
+		<set name="icon" val="icon.etc_crystal_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pedra rúnica recuperado do corpo de um Stakato do Pântano Zangão. Leve isto ao Mestre Terry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2669" type="EtcItem" name="Pedra Rúnica Abissal">
+		
+		<set name="icon" val="icon.etc_crystal_silver_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pedra rúnica recuperada do corpo do Orc Breka Soberano. Leve isto ao Mestre Terry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2670" type="EtcItem" name="Pedra Rúnica Abissal">
+		
+		<set name="icon" val="icon.etc_crystal_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pedra rúnica recuperada do corpo do Formiga Capitã Guerreira. Leve isto ao Mestre Terry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2671" type="EtcItem" name="Pedra Rúnica Abissal">
+		
+		<set name="icon" val="icon.etc_crystal_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pedra rúnica recuperada do corpo do Homem Lagarto Leto Guerreiro. Leve isto ao Mestre Terry." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2672" type="EtcItem" name="Relatório de Terry">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um relatório detalhando informações sobre o incidente da pedra rúnica. Leve isso para o Mestre Dufner de Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2673" type="EtcItem" name="Marca do Buscador">
+		
+		<set name="icon" val="icon.etc_jewel_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram no Trial of the Seeker. Um item relacionado à mudança de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2674" type="EtcItem" name="Marca do Estudioso">
+		
+		<set name="icon" val="icon.etc_jewel_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada àqueles que passaram no Julgamento do Erudito. Um item relacionado à mudança de classe." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2675" type="EtcItem" name="1a Sigilo de Mirien">
+		
+		<set name="icon" val="icon.shield_shield_of_mana_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada pelo Magistrada Mirien ao dar ordens para completar o pedido do Sumo Sacerdote Sylvain." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2676" type="EtcItem" name="2a Sigilo de Mirien">
+		
+		<set name="icon" val="icon.shield_shield_of_pledge_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada pelo Magistrada Mirien ao dar ordens para completar o pedido do Grand Mestre Jurek." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2677" type="EtcItem" name="3a Sigilo de Mirien">
+		
+		<set name="icon" val="icon.shield_round_shield_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca dada pelo Magistrada Mirien ao dar ordens para completar o pedido do Ancião Cronos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2678" type="EtcItem" name="Instrução de Mirien">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma nota que contém as instruções de Magistrada Mirien. A nota dá instruções para voltar para a próxima tarefa após atingir o nível 36." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2679" type="EtcItem" name="1a Carta de Maria">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada por Maria ao capitão Lucas na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2680" type="EtcItem" name="2a Carta de Maria">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada por Maria ao Astrólogo Creta da aldeia de Floran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2681" type="EtcItem" name="Carta de Lucas">
+		
+		<set name="icon" val="icon.etc_letter_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada pelo capitão Lucas na Town of Dion para Maria." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2682" type="EtcItem" name="Bolsa da Lucila">
+		
+		<set name="icon" val="icon.etc_pouch_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A bolsa deixada por Lucillas, amiga de Maria, na noite do roubo. Leve isso para o astrólogo Creta." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2683" type="EtcItem" name="1a Carta de Creta">
+		
+		<set name="icon" val="icon.etc_letter_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada pelo astrólogo Creta a Maria na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2684" type="EtcItem" name="Pintura de Creta1">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pintura do astrólogo Creta. Contém uma sombra que se presume ser do ladrão. Leve isso para Maria." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2685" type="EtcItem" name="Pintura de Creta2">
+		
+		<set name="icon" val="icon.etc_scroll_of_resurrection_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pintura do astrólogo Creta. Contém uma sombra que se presume ser do ladrão. Leve isto ao Capitão Lucas." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2686" type="EtcItem" name="Pintura de Creta3">
+		
+		<set name="icon" val="icon.etc_scroll_of_return_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma pintura pintada pelo Astrólogo Creta. A sombra na pintura é a de um guerreiro Homem Lagarto Leto." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2687" type="EtcItem" name="Pergaminho Rasgado Marrom">
+		
+		<set name="icon" val="icon.etc_map_piece_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pedaço de pergaminho que contém instruções sobre como criar o Cristal da Pureza. Reúna 5 deles e leve-os para Maria." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2688" type="EtcItem" name="Cristal da Pureza">
+		
+		<set name="icon" val="icon.etc_gem_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um cristal usado para purificar a terra. Leve isso para o Sumo Sacerdote Sylvain na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2689" type="EtcItem" name="Sigilo do Sumo Sacerdote">
+		
+		<set name="icon" val="icon.shield_sages_shield_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca recebida do Sumo Sacerdote Sylvain. Uma prova dada àqueles que estão cumprindo as ordens do Sumo Sacerdote." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2690" type="EtcItem" name="Sigilo do Grande Magistrado">
+		
+		<set name="icon" val="icon.shield_doom_shield_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca recebida do Grande Mestre Jurek. Uma prova dada àqueles que estão cumprindo as ordens do Grande Mestre." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2691" type="EtcItem" name="Selo de Crono">
+		
+		<set name="icon" val="icon.shield_another_worlds_shield_i01" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca recebida do Ancião Cronos. Isso significa prova de que alguém está cumprindo ordens do Ancião Cronos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2692" type="EtcItem" name="Carta de Sylvain">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Carta do Sumo Sacerdote Sylvain. Leve isso para Maria na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2693" type="EtcItem" name="Símbolo de Sylvain">
+		
+		<set name="icon" val="icon.etc_coins_blue_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um símbolo dado àqueles que passaram no teste do Sumo Sacerdote Sylvain. Leve isso para Magistrada Mirien na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2694" type="EtcItem" name="A Lista de Jurek">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A lista de criaturas malignas que o Grande Magíster Jurek pediu para você investigar: Monstro Olho Destruidor, Orc Breka Xamã e Grilhão." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2695" type="EtcItem" name="Pele de Monstro Olho Destruidor">
+		
+		<set name="icon" val="icon.etc_leather_yellow_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A pele de um Beamer. Reúna 5 deles e leve-os ao Grande Mestre Jurek da Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2696" type="EtcItem" name="Colar do Xamã">
+		
+		<set name="icon" val="icon.etc_totem_necklace_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar de Orc Breka Xamã. Reúna 5 deles e leve-os ao Grande Mestre Jurek na Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2697" type="EtcItem" name="Sucata de Grilhão">
+		
+		<set name="icon" val="icon.etc_leather_brown_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Pele da cabeça da Grilhão. Reúna 2 deles e leve-os ao Grande Mestre Jurek da Giran Castle Town." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2698" type="EtcItem" name="Símbolo de Jurek">
+		
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um símbolo dado àqueles que passaram no teste do Grande Mestre Jurek. Leve isso para Magistrada Mirien na Town of Dion." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="2699" type="EtcItem" name="Carta de Cronos">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta enviada pelo Ancião Cronos ao Mestre Dieter na cidade de Giran." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+</list>

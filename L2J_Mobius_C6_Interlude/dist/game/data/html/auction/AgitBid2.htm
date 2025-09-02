@@ -1,0 +1,22 @@
+<html><body><table width=270 border=0>
+<tr><td width=90>Preço Mínimo de Lance</td>
+<td width=180><font color="aaccff">%AGIT_AUCTION_MINBID% </font>Adena</td></tr>
+<tr><td>Preço de Oferta</td>
+<td><font color="aaccff">%AGIT_AUCTION_BID% </font>Adena</td></tr>
+<tr><td>Data de Encerramento do Leilão</td>
+<td>%AGIT_AUCTION_END%</td></tr>
+</table>
+O novo lance só é possível após um lance ter sido feito ou ao aumentar um preço do lance. Ao cancelar um lance, o imposto sobre a transação (<font color="LEVEL"> 10% do preço da oferta </font>) não pode ser devolvido.<br>
+Novo lance e cancelamento de lances podem ser feitos através de "Meus itens á venda" no menu superior.<br>
+Você quer fazer um lance?<br>
+<img src="L2UI.SquareBlank" width=270 height=10>
+<img src="L2UI.SquareWhite" width=270 height=1>
+<img src="L2UI.SquareBlank" width=270 height=5>
+<table width=270 border=0>
+<tr>
+<td width=130></td>
+<td width=70 align=center><button action="%AGIT_LINK_BACK%" value="Voltar" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_bid1" value="Confirmar" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+</tr>
+</table>
+</body></html>

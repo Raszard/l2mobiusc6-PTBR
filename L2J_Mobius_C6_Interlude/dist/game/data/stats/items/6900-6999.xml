@@ -1,0 +1,936 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6900" type="EtcItem" name="Receita: Maça Arcana (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Maça Arcana. Requer Criar Item - Nível de Habilidade 9. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="976000" />
+	</item>
+	<item id="6901" type="EtcItem" name="Receita: Flecha Brilhante (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Apenas para Anões. A receita para uma Flecha Brilhante. Requer Criar Item - Nível de Habilidade 5. A taxa de sucesso é de 100%." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200000" />
+	</item>
+	<item id="6902" type="Weapon" name="Promessa de Escudo">
+		
+		<set name="icon" val="icon.shield_pledge_shield_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Um escudo que só pode ser usado pelos membros de um clã que possui um salão de clã." />
+		<set name="crystallizable" val="true" />
+		<set name="weight" val="1380" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="90" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="12900" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="90" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="sDef" />
+		</for>
+	</item>
+	<item id="6903" type="EtcItem" name="Caixa de Musica M">
+		
+		<set name="icon" val="icon.etc_m_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="Music Box tocando a música do Minu. Desaparece após o uso único." />
+		<set name="weight" val="10" />
+		<set name="consume_type" val="stackable" />
+	</item>
+	<item id="6904" type="EtcItem" name="Tecido Para Máscara de Festa">
+		
+		<set name="icon" val="icon.etc_piece_of_cloth_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal essencialmente necessário para fazer uma máscara de festa. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="6905" type="EtcItem" name="Alfinete de Cabelo">
+		
+		<set name="icon" val="icon.etc_broken_crystal_green_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal essencialmente necessário para fazer o grampo de cabelo de uma nobre. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="6906" type="EtcItem" name="Material de Tapa-Olho de Pirata">
+		
+		<set name="icon" val="icon.etc_braided_hemp_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Componente principal necessário para fazer um tapa-olho de pirata. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="6907" type="EtcItem" name="Pedaço de Monóculo">
+		
+		<set name="icon" val="icon.etc_bark_blue_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Ingrediente principal essencialmente necessário para fazer um Monóculo. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="60" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000" />
+	</item>
+	<item id="6908" type="EtcItem" name="Óleo de Peixe">
+		
+		<set name="icon" val="icon.etc_fish_oil_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado como ingrediente para fabricação em geral ou pode ser trocado por uma Prova de Captura de Peixe por um Membro da Guilda de Pescadores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="6909" type="EtcItem" name="Óleo de Peixe Superior">
+		
+		<set name="icon" val="icon.etc_fish_oil_i01" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado como ingrediente para fabricação em geral ou pode ser trocado por uma Prova de Captura de Peixe por um Membro da Guilda de Pescadores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250" />
+	</item>
+	<item id="6910" type="EtcItem" name="Óleo de Peixe Premium">
+		
+		<set name="icon" val="icon.etc_fish_oil_i02" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado como ingrediente para fabricação em geral ou pode ser trocado por uma Prova de Captura de Peixe por um Membro da Guilda de Pescadores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1250" />
+	</item>
+	<item id="6911" type="EtcItem" name="Escamas de Peixe">
+		
+		<set name="icon" val="icon.etc_fish_scale_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado como ingrediente para fabricação em geral ou pode ser trocado por uma Prova de Captura de Peixe por um Membro da Guilda de Pescadores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="200" />
+	</item>
+	<item id="6912" type="EtcItem" name="Escamas de Peixe Brilhante">
+		
+		<set name="icon" val="icon.etc_fish_scale_i01" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado como ingrediente para fabricação em geral ou pode ser trocado por uma Prova de Captura de Peixe por um Membro da Guilda de Pescadores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="6913" type="EtcItem" name="Joia de Peixe">
+		
+		<set name="icon" val="icon.etc_fish_gem_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado como ingrediente para fabricação em geral ou pode ser trocado por uma Prova de Captura de Peixe por um Membro da Guilda de Pescadores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500" />
+	</item>
+	<item id="6914" type="EtcItem" name="Joia de Peixe Brilhante">
+		
+		<set name="icon" val="icon.etc_fish_gem_i01" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado como ingrediente para fabricação em geral ou pode ser trocado por uma Prova de Captura de Peixe por um Membro da Guilda de Pescadores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1000" />
+	</item>
+	<item id="6915" type="EtcItem" name="Espinha de Peixe Fino">
+		
+		<set name="icon" val="icon.etc_fang_gray_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado como ingrediente para fabricação em geral ou pode ser trocado por uma Prova de Captura de Peixe por um Membro da Guilda de Pescadores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="300" />
+	</item>
+	<item id="6916" type="EtcItem" name="Espinha de Peixe Grossa">
+		
+		<set name="icon" val="icon.etc_fang_ivory_i00" />
+		<set name="item_type" val="material" />
+		<set name="desc" val="Usado como ingrediente para fabricação em geral ou pode ser trocado por uma Prova de Captura de Peixe por um Membro da Guilda de Pescadores. Também pode ser vendido em lojas comuns." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="450" />
+	</item>
+	<item id="6917" type="Weapon" name="Apenas Monstro (Poison Sting)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="6" />
+		<set name="weapon_type" val="fist" />
+		<set name="price" val="2" />
+		<for>
+			<set val="0" order="0x08" stat="pAtk" />
+			<set val="0" order="0x08" stat="mAtk" />
+			<set val="0" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="0" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6918" type="Weapon" name="Monster Only (Escudo dos Silenos)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1380" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="90" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="12900" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="90" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="sDef" />
+		</for>
+	</item>
+	<item id="6919" type="Weapon" name="Monster Only (Escudo de Orc Ketra)">
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1320" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="142" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="78400" />
+		<set name="crystal_count" val="142" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="142" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="sDef" />
+		</for>
+	</item>
+	<item id="6920" type="EtcItem" name="Receita: Óleo de Peixe Superior (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de óleo de peixe de grau médio pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50" />
+	</item>
+	<item id="6921" type="EtcItem" name="Receita: Óleo de Peixe Premium (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de óleo de peixe de alta qualidade pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="250" />
+	</item>
+	<item id="6922" type="EtcItem" name="Receita: Máscara de Festa (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para criar uma Party Mask pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="6923" type="EtcItem" name="Receita: Alfinete de Cabelo Feminino (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para criar um grampo de cabelo feminino pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="6924" type="EtcItem" name="Receita: Tapa-Olho de Pirata (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Este método de criação de um tapa-olho de pirata pode ser usado por todas as raças. Requer Criar Item Comum - Nível de Habilidade 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="6925" type="EtcItem" name="Receita: Monóculo (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para criar um Monóculo pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="100000" />
+	</item>
+	<item id="6926" type="EtcItem" name="Receita: Poção de Cura Inferior (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma Poção de Cura Inferior pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 1." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18" />
+	</item>
+	<item id="6927" type="EtcItem" name="Receita: Poção de Cura (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma Poção de Cura pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="66" />
+	</item>
+	<item id="6928" type="EtcItem" name="Receita: Poção de Cura Superior (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma Poção de Cura Superior pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="180" />
+	</item>
+	<item id="6929" type="EtcItem" name="Receita: Antídoto (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para um antídoto padrão pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 1." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15" />
+	</item>
+	<item id="6930" type="EtcItem" name="Receita: Antídoto Superior (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para um poderoso antídoto pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="36" />
+	</item>
+	<item id="6931" type="EtcItem" name="Receita: Bandagem (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para criar uma bandagem pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 1." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15" />
+	</item>
+	<item id="6932" type="EtcItem" name="Receita: Curativo de Emergência (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta técnica para criar um curativo de emergência pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="36" />
+	</item>
+	<item id="6933" type="EtcItem" name="Receita: Poção de Aceleração (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma Poção de Aceleração pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 1." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="240" />
+	</item>
+	<item id="6934" type="EtcItem" name="Receita: Poção de Alacridade (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poção que permite ataques mais rápidos pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 1." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="480" />
+	</item>
+	<item id="6935" type="EtcItem" name="Receita: Poção de Aceleração Superior (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poderosa Poção de Aceleração pode ser usada por todas as raças Requer Criar Item Comum Nível 3 de Habilidade." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="600" />
+	</item>
+	<item id="6936" type="EtcItem" name="Receita: Poção de Ataque Rápido Superior (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poção que permite ataques rápidos maiores pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="6937" type="EtcItem" name="Receita: Poção de Aceleração Mágica (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma Poção de Aceleração Mágica pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 1." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="480" />
+	</item>
+	<item id="6938" type="EtcItem" name="Receita: Poção de Aceleração Mágica Superior (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma Poção de Aceleração Mágica Superior pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="1200" />
+	</item>
+	<item id="6939" type="EtcItem" name="Receita: Poção Misteriosa (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poção misteriosa pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 2." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="2000" />
+	</item>
+	<item id="6940" type="EtcItem" name="Receita: Poção Troca de Rosto - A (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poção de facelifting pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6941" type="EtcItem" name="Receita: Poção Troca de Rosto - B (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poção de facelifting pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6942" type="EtcItem" name="Receita: Poção Troca de Rosto - C (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poção de facelifting pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6943" type="EtcItem" name="Receita: Poção de Tintura - A (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poção de corante pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6944" type="EtcItem" name="Receita: Poção de Tintura - B (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poção de corante pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6945" type="EtcItem" name="Receita: Poção de Tintura - C (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poção de corante pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6946" type="EtcItem" name="Receita: Poção de Tintura - D (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para uma poção de corante pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6947" type="EtcItem" name="Receita: Poção Estilo de Cabelo - A (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de uma poção que muda o penteado de um personagem pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6948" type="EtcItem" name="Receita: Poção Estilo de Cabelo - B (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de uma poção que muda o penteado de um personagem pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6949" type="EtcItem" name="Receita: Poção Estilo de Cabelo - C (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de uma poção que muda o penteado de um personagem pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6950" type="EtcItem" name="Receita: Poção Estilo de Cabelo - D (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de uma poção que muda o penteado de um personagem pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6951" type="EtcItem" name="Receita: Poção Estilo de Cabelo - E (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de uma poção que muda o penteado de um personagem pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6952" type="EtcItem" name="Receita: Poção Estilo de Cabelo - F (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de uma poção que muda o penteado de um personagem pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6953" type="EtcItem" name="Receita: Poção Estilo de Cabelo - G (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita de uma poção que muda o penteado de um personagem pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 3." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="4000" />
+	</item>
+	<item id="6954" type="EtcItem" name="Receita: Tintura de For For+1 Vit-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of FOR For+1 Vit-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6955" type="EtcItem" name="Receita: Tintura de For For+1 Des-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of FOR For+1 Des-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6956" type="EtcItem" name="Receita: Tintura de Vit Vit+1 For-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of VIT Vit+1 For-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6957" type="EtcItem" name="Receita: Tintura de Vit Vit+1 Des-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of VIT Vit+1 Des-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6958" type="EtcItem" name="Receita: Tintura de Des Des+1 For-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of DES Des+1 For-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6959" type="EtcItem" name="Receita: Tintura de Des Des+1 Vit-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of DES Des+1 Vit-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6960" type="EtcItem" name="Receita: Tintura de Int Int+1 Men-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of INT Int+1 Men-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6961" type="EtcItem" name="Receita: Tintura de Int Int+1 Sag-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura de INT Int+1 Sag-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6962" type="EtcItem" name="Receita: Tintura de Men Men+1 Int-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of MEN Men+1 Int-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6963" type="EtcItem" name="Receita: Tintura de Men Men+1 Sag-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of MEN Men+1 Sag-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6964" type="EtcItem" name="Receita: Tintura de SagSag+1 Int-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of SAG Sag+1 Int-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6965" type="EtcItem" name="Receita: Tintura de SagSag+1 Men-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Dye of SAG Sag+1 Men-1;. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="7000" />
+	</item>
+	<item id="6966" type="EtcItem" name="Receita: Tintura Superior de For For+1 Vit-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de FOR For+1 Vit-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6967" type="EtcItem" name="Receita: Tintura Superior de For For+1 Des-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de FOR For+1 Des-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6968" type="EtcItem" name="Receita: Tintura Superior de Vit Vit+1 For-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de VIT Vit+1 For-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6969" type="EtcItem" name="Receita: Tintura Superior de Vit Vit+1 Des-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de VIT Vit+1 Des-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6970" type="EtcItem" name="Receita: Tintura Superior de Des Des+1 For-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de DES Des+1 For-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6971" type="EtcItem" name="Receita: Tintura Superior de Des Des+1 Vit-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de DES Des+1 Vit-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6972" type="EtcItem" name="Receita: Tintura Superior de Int Int+1 Men-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de INT Int+1 Men-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6973" type="EtcItem" name="Receita: Tintura Superior de Int Int+1 Sag-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de INT Int+1 Sag-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6974" type="EtcItem" name="Receita: Tintura Superior de Men Men+1 Int-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Greater Dye of MEN Men+1 Int-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6975" type="EtcItem" name="Receita: Tintura Superior de Men Men+1 Sag-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Greater Dye of MEN Men+1 Sag-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6976" type="EtcItem" name="Receita: Tintura Superior de SagSag+1 Int-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de SAG Sag+1 Int-1; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6977" type="EtcItem" name="Receita: Tintura Superior de SagSag+1 Men-1; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para o Greater Dye of SAG Sag+1 Men-1; pode ser usado por todas as raças. Requer Habilidade de Criação de Item Comum nível 4." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="10000" />
+	</item>
+	<item id="6978" type="EtcItem" name="Receita: Tintura Superior de For For+2 Vit-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de FOR For+2 Vit-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6979" type="EtcItem" name="Receita: Tintura Superior de For For+2 Des-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de FOR For+2 Des-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6980" type="EtcItem" name="Receita: Tintura Superior de Vit Vit+2 For-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de VIT Vit+2 For-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6981" type="EtcItem" name="Receita: Tintura Superior de Vit Vit+2 Des-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de VIT Vit+2 Des-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6982" type="EtcItem" name="Receita: Tintura Superior de Des Des+2 For-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de DES Des+2 For-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6983" type="EtcItem" name="Receita: Tintura Superior de Des Des+2 Vit-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de DES Des+2 Vit-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6984" type="EtcItem" name="Receita: Tintura Superior de Int Int+2 Men-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de INT Int+2 Men-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6985" type="EtcItem" name="Receita: Tintura Superior de Int Int+2 Sag-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de INT Int+2 Sag-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6986" type="EtcItem" name="Receita: Tintura Superior de Men Men+2 Int-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Greater Dye of MEN Men+2 Int-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6987" type="EtcItem" name="Receita: Tintura Superior de Men Men+2 Sag-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Greater Dye of MEN Men+2 Sag-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6988" type="EtcItem" name="Receita: Tintura Superior de SagSag+2 Int-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de SAG Sag+2 Int-2; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6989" type="EtcItem" name="Receita: Tintura Superior de SagSag+2 Men-2; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para o Greater Dye of SAG Sag+2 Men-2; pode ser usado por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="12000" />
+	</item>
+	<item id="6990" type="EtcItem" name="Receita: Tintura Superior de For For+3 Vit-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de FOR For+3 Vit-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="6991" type="EtcItem" name="Receita: Tintura Superior de For For+3 Des-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de FOR For+3 Des-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="6992" type="EtcItem" name="Receita: Tintura Superior de Vit Vit+3 For-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de VIT Vit+3 For-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="6993" type="EtcItem" name="Receita: Tintura Superior de Vit Vit+3 Des-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de VIT Vit+3 Des-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="6994" type="EtcItem" name="Receita: Tintura Superior de Des Des+3 For-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de DES Des+3 For-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="6995" type="EtcItem" name="Receita: Tintura Superior de Des Des+3 Vit-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de DES Des+3 Vit-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="6996" type="EtcItem" name="Receita: Tintura Superior de Int Int+3 Men-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de INT Int+3 Men-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="6997" type="EtcItem" name="Receita: Tintura Superior de Int Int+3 Sag-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Tintura Superior de INT Int+3 Sag-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="6998" type="EtcItem" name="Receita: Tintura Superior de Men Men+3 Int-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Greater Dye of MEN Men+3 Int-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+	<item id="6999" type="EtcItem" name="Receita: Tintura Superior de Men Men+3 Sag-3; (100%)">
+		
+		<set name="icon" val="icon.etc_recipe_green_i00" />
+		<set name="item_type" val="recipe" />
+		<set name="desc" val="Esta receita para Greater Dye of MEN Men+3 Sag-3; pode ser usada por todas as raças. Requer Habilidade de Criação de Item Comum Nível 5." />
+		<set name="weight" val="30" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="18000" />
+	</item>
+</list>

@@ -1,0 +1,1287 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="900" type="Armor" name="Anel Elegante">
+		<set name="icon" val="icon.accessary_ring_of_grace_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="34" />
+		<set name="price" val="404000" />
+		<set name="crystal_count" val="53" />
+		<for>
+			<add val="34" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="901" type="Armor" name="Anel do Espírito Santo">
+		<set name="icon" val="icon.accessary_ring_of_holy_spirit_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="36" />
+		<set name="price" val="616000" />
+		<set name="crystal_count" val="82" />
+		<for>
+			<add val="36" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="902" type="Armor" name="Anel da Fênix">
+		
+		<set name="icon" val="icon.accessary_phoenixs_ring_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="Anel da Fênix. Produz o efeito de MP +13." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="a" />
+		<set name="m_def" val="40" />
+		<set name="mp_bonus" val="13" />
+		<set name="price" val="1300000" />
+		<set name="crystal_count" val="104" />
+		<for>
+			<add val="40" order="0x10" stat="mDef" />
+			<add val="13" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="903" type="Armor" name="Anel Cerberus">
+		<set name="icon" val="icon.accessary_cerberuss_ring_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="a" />
+		<set name="m_def" val="40" />
+		<set name="price" val="1300000" />
+		<set name="crystal_count" val="104" />
+		<for>
+			<add val="40" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="904" type="Armor" name="Anel de Ajuda">
+		<set name="icon" val="icon.accessary_ring_of_assistance_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="34" />
+		<set name="price" val="404000" />
+		<set name="crystal_count" val="53" />
+		<for>
+			<add val="34" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="905" type="Armor" name="Anel de Bênção">
+		<set name="icon" val="icon.accessary_ring_of_blessing_i00" />
+		<set name="bodypart" val="rfinger,lfinger" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="34" />
+		<set name="price" val="404000" />
+		<set name="crystal_count" val="53" />
+		<for>
+			<add val="34" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="906" type="Armor" name="Colar do Conhecimento">
+		
+		<set name="icon" val="icon.accessary_necklace_of_knowledge_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="Um colar de prata gravado com caracteres rúnicos de conhecimento." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="m_def" val="18" />
+		<set name="price" val="1080" />
+		<for>
+			<add val="18" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="907" type="Armor" name="Colar da Angústia">
+		
+		<set name="icon" val="icon.accessary_necklace_of_anguish_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="Um colar de prata gravado com caracteres rúnicos de angústia." />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="m_def" val="21" />
+		<set name="price" val="4680" />
+		<for>
+			<add val="21" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="908" type="Armor" name="Colar da Sabedoria">
+		<set name="icon" val="icon.accessary_necklace_of_wisdom_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="m_def" val="25" />
+		<set name="price" val="11900" />
+		<for>
+			<add val="25" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="909" type="Armor" name="Colar de Diamantes Azuis">
+		<set name="icon" val="icon.accessary_blue_diamond_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="m_def" val="28" />
+		<set name="price" val="21300" />
+		<for>
+			<add val="28" order="0x10" stat="mDef" />
+		</for>
+	</item>
+	<item id="910" type="Armor" name="Colar de Devoção">
+		<set name="icon" val="icon.accessary_necklace_of_devotion_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="d" />
+		<set name="m_def" val="32" />
+		<set name="price" val="35900" />
+		<set name="crystal_count" val="65" />
+		<for>
+			<add val="32" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="911" type="Armor" name="Colar Encantado">
+		<set name="icon" val="icon.accessary_enchanted_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="d" />
+		<set name="m_def" val="36" />
+		<set name="price" val="56800" />
+		<set name="crystal_count" val="103" />
+		<for>
+			<add val="36" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="912" type="Armor" name="Colar Perto da Floresta">
+		<set name="icon" val="icon.accessary_near_forest_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="d" />
+		<set name="m_def" val="40" />
+		<set name="price" val="85700" />
+		<set name="crystal_count" val="155" />
+		<for>
+			<add val="40" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="913" type="Armor" name="Colar Élfico">
+		<set name="icon" val="icon.accessary_elven_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="d" />
+		<set name="m_def" val="45" />
+		<set name="price" val="125000" />
+		<set name="crystal_count" val="227" />
+		<for>
+			<add val="45" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="914" type="Armor" name="Colar da Escuridão">
+		<set name="icon" val="icon.accessary_necklace_of_darkness_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="d" />
+		<set name="m_def" val="48" />
+		<set name="price" val="162000" />
+		<set name="crystal_count" val="294" />
+		<for>
+			<add val="48" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="915" type="Armor" name="Colar Aquastone">
+		<set name="icon" val="icon.accessary_aquastone_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="c" />
+		<set name="m_def" val="52" />
+		<set name="price" val="207000" />
+		<set name="crystal_count" val="82" />
+		<for>
+			<add val="52" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="916" type="Armor" name="Colar de Proteção">
+		<set name="icon" val="icon.accessary_necklace_of_protection_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="c" />
+		<set name="m_def" val="56" />
+		<set name="price" val="261000" />
+		<set name="crystal_count" val="104" />
+		<for>
+			<add val="56" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="917" type="Armor" name="Colar de Sereia">
+		<set name="icon" val="icon.accessary_necklace_of_mermaid_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="c" />
+		<set name="m_def" val="60" />
+		<set name="price" val="393000" />
+		<set name="crystal_count" val="157" />
+		<for>
+			<add val="60" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="918" type="Armor" name="Colar de Adamantita">
+		<set name="icon" val="icon.accessary_adamantite_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="68" />
+		<set name="price" val="808000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="68" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="919" type="Armor" name="Colar Abençoado">
+		<set name="icon" val="icon.accessary_blessed_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="c" />
+		<set name="m_def" val="64" />
+		<set name="price" val="565000" />
+		<set name="crystal_count" val="226" />
+		<for>
+			<add val="64" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="920" type="Armor" name="Colar Tatesossiano">
+		
+		<set name="icon" val="icon.accessory_tateossian_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="Colar Tatesossiano. Produz o efeito de MP +42." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="s" />
+		<set name="m_def" val="95" />
+		<set name="mp_bonus" val="42" />
+		<set name="price" val="5920000" />
+		<set name="crystal_count" val="296" />
+		<for>
+			<add val="95" order="0x10" stat="mDef" />
+			<add val="42" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="921" type="Armor" name="Colar de Mana">
+		<set name="icon" val="icon.accessary_necklace_of_mana_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="68" />
+		<set name="price" val="808000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="72" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="922" type="Armor" name="Colar do Sábio">
+		<set name="icon" val="icon.accessary_sages_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="72" />
+		<set name="price" val="1230000" />
+		<set name="crystal_count" val="164" />
+		<for>
+			<add val="72" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="923" type="Armor" name="Colar Paradia">
+		<set name="icon" val="icon.accessary_paradia_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="72" />
+		<set name="price" val="1230000" />
+		<set name="crystal_count" val="164" />
+		<for>
+			<add val="72" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="924" type="Armor" name="Colar Majestoso">
+		
+		<set name="icon" val="icon.accessary_inferno_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="Colar Majestoso. Produz o efeito de MP +33." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="a" />
+		<set name="m_def" val="85" />
+		<set name="mp_bonus" val="33" />
+		<set name="price" val="3450000" />
+		<set name="crystal_count" val="276" />
+		<for>
+			<add val="85" order="0x10" stat="mDef" />
+			<add val="33" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="925" type="Armor" name="Colar do Eclipse Solar">
+		<set name="icon" val="icon.accessary_necklace_of_sola_eclipse_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="68" />
+		<set name="price" val="808000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="68" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="926" type="Armor" name="Colar de Minério Negro">
+		<set name="icon" val="icon.accessary_necklace_of_black_ore_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="72" />
+		<set name="price" val="1230000" />
+		<set name="crystal_count" val="164" />
+		<for>
+			<add val="72" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="927" type="Armor" name="Colar de Invocação">
+		<set name="icon" val="icon.accessary_necklace_of_summons_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="68" />
+		<set name="price" val="808000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="68" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="928" type="Armor" name="Colar Sobrenatural">
+		<set name="icon" val="icon.accessary_another_worlds_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="72" />
+		<set name="price" val="1230000" />
+		<set name="crystal_count" val="164" />
+		<for>
+			<add val="72" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="929" type="Armor" name="Colar Elemental">
+		<set name="icon" val="icon.accessary_elemental_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="72" />
+		<set name="price" val="1230000" />
+		<set name="crystal_count" val="164" />
+		<for>
+			<add val="72" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="930" type="Armor" name="Colar do Fantasma">
+		<set name="icon" val="icon.accessary_necklace_of_phantom_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="a" />
+		<set name="m_def" val="80" />
+		<set name="price" val="2600000" />
+		<set name="crystal_count" val="208" />
+		<for>
+			<add val="80" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="931" type="Armor" name="Colar Elegante">
+		<set name="icon" val="icon.accessary_necklace_of_grace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="68" />
+		<set name="price" val="808000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="68" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="932" type="Armor" name="Colar do Espírito Santo">
+		<set name="icon" val="icon.accessary_necklace_of_holy_spirit_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="72" />
+		<set name="price" val="1230000" />
+		<set name="crystal_count" val="164" />
+		<for>
+			<add val="72" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="933" type="Armor" name="Colar da Fênix">
+		
+		<set name="icon" val="icon.accessary_phoenixs_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="Colar da Fênix. Produz o efeito de MP +26." />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="a" />
+		<set name="m_def" val="80" />
+		<set name="mp_bonus" val="26" />
+		<set name="price" val="2600000" />
+		<set name="crystal_count" val="208" />
+		<for>
+			<add val="80" order="0x10" stat="mDef" />
+			<add val="26" order="0x60" stat="maxMp" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="934" type="Armor" name="Colar Cérbero">
+		<set name="icon" val="icon.accessary_cerberuss_necklace_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="a" />
+		<set name="m_def" val="80" />
+		<set name="price" val="2600000" />
+		<set name="crystal_count" val="208" />
+		<for>
+			<add val="80" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="935" type="Armor" name="Colar de Ajuda">
+		<set name="icon" val="icon.accessary_necklace_of_assistance_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="68" />
+		<set name="price" val="808000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="68" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="936" type="Armor" name="Colar da Bênção">
+		<set name="icon" val="icon.accessary_necklace_of_blessing_i00" />
+		<set name="bodypart" val="neck" />
+		<set name="desc" val="" />
+		<set name="crystallizable" val="true" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="150" />
+		<set name="crystal_type" val="b" />
+		<set name="m_def" val="68" />
+		<set name="price" val="808000" />
+		<set name="crystal_count" val="107" />
+		<for>
+			<add val="68" order="0x10" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="mDef" />
+		</for>
+	</item>
+	<item id="937" type="EtcItem" name="Direções Para Ruínas">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Siga o caminho noroeste da vila e siga para oeste quando encontrar o Obelisk of Viktory. A entrada para as ruínas fica na encosta da montanha." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="938" type="EtcItem" name="Área Coberta">
+		<set name="icon" val="icon.etc_spell_books_red_i00" />
+		<set name="item_type" val="none" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="normal" />
+		<set name="sellable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="939" type="EtcItem" name="Item de Missão de Gara #11">
+		<set name="icon" val="icon.item_normal52" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="940" type="EtcItem" name="Item de Missão de Gara #12">
+		<set name="icon" val="icon.item_normal52" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="941" type="EtcItem" name="A Prova de Bravura de Gara">
+		<set name="icon" val="icon.item_normal52" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="942" type="EtcItem" name="Prova de Justiça de Gara">
+		<set name="icon" val="icon.item_normal52" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="943" type="EtcItem" name="A Prova do Desespero de Gara">
+		<set name="icon" val="icon.item_normal52" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="944" type="EtcItem" name="Crânio do Cavaleiro da Morte">
+		<set name="icon" val="icon.armor_head15" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="945" type="Weapon" name="Broquel Esqueleto">
+		
+		<set name="icon" val="icon.shield_skeleton_buckler_i00" />
+		<set name="bodypart" val="lhand" />
+		<set name="desc" val="Um pequeno escudo de madeira que os perpetradores de magos usam." />
+		<set name="weight" val="1400" />
+		<set name="weapon_type" val="none" />
+		<set name="avoid_modify" val="-8" />
+		<set name="shield_def" val="69" />
+		<set name="shield_def_rate" val="20" />
+		<set name="price" val="3440" />
+		<for>
+			<sub val="8" order="0x10" stat="rEvas" />
+			<set val="69" order="0x08" stat="sDef" />
+			<set val="20" order="0x08" stat="rShld" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+		</for>
+	</item>
+	<item id="946" type="Weapon" name="Adaga Esqueleto">
+		<set name="icon" val="icon.weapon_dagger_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="" />
+		<set name="weight" val="1100" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="p_dam" val="16" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="13" />
+		<set name="price" val="66600" />
+		<for>
+			<set val="16" order="0x08" stat="pAtk" />
+			<set val="13" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="947" type="EtcItem" name="Pergaminho: Encantar Arma (Grau B)">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i03" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta o Atq.F de armas de grau B, como espadas/uma mão, contusões/uma mão, adagas, lanças e etc. Aumentarão em 3. O Atq.F de espada/duas mãos, contusões/duas mãos, espadas duplas e soqueiras aumentarão em 4 e arcos em 6. Todas as Armas de Atq.M Aumentarão em 3. Apartir de +4, os bônus adicionados para Atq.F/Atq.M são dobrados. Pode ser encantado com segurança até +3." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="948" type="EtcItem" name="Pergaminho: Encantar Armadura (Grau B)">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i03" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Def.F de armadura ou acessórios de grau B em 1, Apartir de +4, a Def.F Aumentarão em 3. Pode ser encantado com segurança até +3. A armadura do tipo peça única pode ser encantada com segurança até +4." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="80000" />
+	</item>
+	<item id="949" type="EtcItem" name="Pergaminho de Cristal: Encantar Arma (Grau B)">
+		
+		<set name="icon" val="IconsCustom.scroll_of_unidentify_wp_b" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que fortalece uma arma de grau B." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="80000" />
+	</item>
+	<item id="950" type="EtcItem" name="Pergaminho de Cristal: Encantar Armadura (Grau B)">
+		
+		<set name="icon" val="IconsCustom.scroll_of_unidentify_am_b" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que fortalece uma armadura de grau B." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="80000" />
+	</item>
+	<item id="951" type="EtcItem" name="Pergaminho: Encantar Arma (Grau C)">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i02" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta o Atq.F de armas de grau C, como espadas/uma mão, contusões/uma mão, adagas, lanças e etc. Aumentarão em 3. O Atq.F de espada/duas mãos, contusões/duas mãos, espadas duplas e soqueiras aumentarão em 4 e arcos em 6. Todas as Armas de Atq.M Aumentarão em 3. Apartir de +4, os bônus adicionados para Atq.F/Atq.M são dobrados. Pode ser encantado com segurança até +3." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="110000" />
+	</item>
+	<item id="952" type="EtcItem" name="Pergaminho: Encantar Armadura (Grau C)">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i02" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Def.F de armadura ou acessórios de grau C em 1, Apartir de +4, a Def.F Aumentarão em 3. Pode ser encantado com segurança até +3. A armadura do tipo peça única pode ser encantada com segurança até +4." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15000" />
+	</item>
+	<item id="953" type="EtcItem" name="Pergaminho de Cristal: Encantar Arma (Grau C)">
+		
+		<set name="icon" val="IconsCustom.scroll_of_unidentify_wp_c" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que fortalece uma arma Grau C." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15000" />
+	</item>
+	<item id="954" type="EtcItem" name="Pergaminho de Cristal: Encantar Armadura (Grau C)">
+		
+		<set name="icon" val="IconsCustom.scroll_of_unidentify_am_c" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que fortalece uma armadura Grau C." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="15000" />
+	</item>
+	<item id="955" type="EtcItem" name="Pergaminho: Encantar Arma (Grau D)">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta o Atq.F de armas de Grau D, como espadas/uma mão, contusões/uma mão, adagas, lanças, espada/duas mãos, contusões/duas mãos, espadas duplas e soqueiras, etc. aumente em 2 e arcos em 4. Todas as Armas de Atq.M Aumentarão em 2. Apartir de +4, os bônus adicionados para Atq.F/Atq.M são dobrados. Pode ser encantado com segurança até +3." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="50000" />
+	</item>
+	<item id="956" type="EtcItem" name="Pergaminho: Encantar Armadura (Grau D)">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i01" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Def.F de armadura ou acessórios de grau D em 1, Apartir de +4, a Def.F Aumentarão em 3. Pode ser encantado com segurança até +3. A armadura do tipo peça única pode ser encantada com segurança até +4." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6000" />
+	</item>
+	<item id="957" type="EtcItem" name="Pergaminho de Cristal: Encantar Arma (Grau D)">
+		
+		<set name="icon" val="IconsCustom.scroll_of_unidentify_wp_d" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que fortalece uma arma Grau D." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6000" />
+	</item>
+	<item id="958" type="EtcItem" name="Pergaminho de Cristal: Encantar Armadura (Grau D)">
+		
+		<set name="icon" val="IconsCustom.scroll_of_unidentify_am_d" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que fortalece uma armadura Grau D." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="6000" />
+	</item>
+	<item id="959" type="EtcItem" name="Pergaminho: Encantar Arma (Grau S)">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i05" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta o Atq.F de armas de grau S, como espadas/uma mão, contusões/uma mão, adagas, lanças e etc. Aumentarão em 5. O Atq.F de espadas/duas mãos, contusões/duas mãos, espadas duplas e soqueiras aumentarão em 6 e arcos em 10. Todas as Armas de Atq.M Aumentarão em 4. Apartir de +4, os bônus adicionados para Atq.F/Atq.M são dobrados. Pode ser encantado com segurança até +3." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="5000000" />
+	</item>
+	<item id="960" type="EtcItem" name="Pergaminho: Encantar Armadura (Grau S)">
+		
+		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i05" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Aumenta a Def.F de armadura ou acessórios de grau S em 1, Apartir de +4, a Def.F Aumentarão em 3. Pode ser encantado com segurança até +3. A armadura do tipo peça única pode ser encantada com segurança até +4." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="961" type="EtcItem" name="Pergaminho de Cristal: Encantar Arma (Grau S)">
+		
+		<set name="icon" val="IconsCustom.scroll_of_unidentify_wp_s" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que fortalece uma arma de grau S." />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="962" type="EtcItem" name="Pergaminho de Cristal: Encantar Armadura (Grau S)">
+		
+		<set name="icon" val="IconsCustom.scroll_of_unidentify_am_s" />
+		<set name="item_type" val="scroll" />
+		<set name="desc" val="Um pergaminho de encantamento que fortalece uma armadura de grau S" />
+		<set name="weight" val="120" />
+		<set name="consume_type" val="stackable" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="963" type="EtcItem" name="Ponta de Flecha Orc">
+		
+		<set name="icon" val="icon.weapon_winged_spear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma ponta de flecha que os atiradores Orcs de Turath usam na Talking Island Village. Colete-os e leve-os ao Mestre Minia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="964" type="EtcItem" name="Carta de Alberius">
+		
+		<set name="icon" val="icon.etc_scroll_white_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de Alberius. Leve isto ao Mestre Cobendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="965" type="EtcItem" name="Amuleto Evergreen">
+		
+		<set name="icon" val="icon.accessary_near_forest_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar com uma pedra elemental verde. Você deve possuir isso para matar a dríade e obter as lágrimas da dríade." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="966" type="EtcItem" name="Lágrimas de Dríade">
+		
+		<set name="icon" val="icon.etc_crystal_ball_green_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma joia que contém a essência da alma de uma dríade. Reúna dez deles e leve-os ao Mestre Cobendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="967" type="EtcItem" name="Medicina Cobendell">
+		
+		<set name="icon" val="icon.item_canuse24" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="remédio de Cobendell" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="968" type="EtcItem" name="Carta de Karrod">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta escrita pelo ferreiro Karrod. Leve isso para o Celebrante Abissal Cecktinon no Shilen Temple." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="969" type="EtcItem" name="Primeiro Voucher de Cecktinon">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de apresentação do Celebrante Abissal Cecktinon. Pegue isso e procure o Mestre Harne na vila." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="970" type="EtcItem" name="Segundo Voucher de Cecktinon">
+		
+		<set name="icon" val="icon.etc_letter_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma carta de apresentação do Celebrante Abissal Cecktinon. Vá para a Escola de Artes das Trevas, cace esqueletos e colete 10 fragmentos de ossos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="971" type="EtcItem" name="Caçador de Almas">
+		
+		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um item usado durante o ritual de exOrcismo para invocar um espírito dos mortos. Leve isso para o Celebrante Abissal Cecktinon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="972" type="EtcItem" name="Óleo de Preservação">
+		
+		<set name="icon" val="icon.etc_potion_clear_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um óleo que, quando usado, evita o apodrecimento dos cadáveres. Pegue isso e vá caçar zumbis nos pântanos." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="973" type="EtcItem" name="Cabeça de Zumbi">
+		
+		<set name="icon" val="icon.etc_skull_black_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A cabeça dos zumbis elfos das árvores que foram cortados após serem derrotados. Leve isso ao celebrante abissal Cecktinon." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="974" type="EtcItem" name="Cabeça de Dobrador de Aço">
+		
+		<set name="icon" val="icon.etc_skull_red_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Por favor, eu imploro! Não me leve para aquele ferreiro brutal!" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="975" type="Weapon" name="Sabre de Sangue">
+		
+		<set name="icon" val="icon.weapon_broad_sword_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Uma espada Oriharukon trabalhada no estilo Abella do leste." />
+		<set name="weight" val="1450" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="14" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="sword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="379" />
+		<set name="m_dam" val="11" />
+		<set name="price" val="33600" />
+		<for>
+			<set val="14" order="0x08" stat="pAtk" />
+			<set val="11" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="379" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="976" type="EtcItem" name="1a Marca da Sentinela">
+		
+		<set name="icon" val="icon.item_system03" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca que certifica que seu portador é um Elven Sentinel. Destrua um Orc Tanuki esmagador de crânios e informe-se ao Sentinela Kendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="977" type="EtcItem" name="2a Marca da Sentinela">
+		
+		<set name="icon" val="icon.item_system03" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma marca que certifica que seu portador é um Elven Sentinel. Destrua uma lança de sangue Orc Bhato e reporte-se ao Sentinel Kendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="978" type="EtcItem" name="Amuleto Esmagador de Crânios">
+		
+		<set name="icon" val="icon.item_normal145" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O amuleto que representa a tribo Skullcrusher Orc. Leve isso para o Sentinela Kendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="979" type="EtcItem" name="Amuleto Lança de Sangue">
+		
+		<set name="icon" val="icon.item_normal89" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="O amuleto que representa a tribo Bloodspear Orc. Leve isso para o Sentinela Kendell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="980" type="EtcItem" name="0">
+		
+		<set name="icon" val="icon.weapon_mace23" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="0" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="981" type="Weapon" name="Espada Vermelha do Crepúsculo">
+		
+		<set name="icon" val="icon.weapon_brandish_i00" />
+		<set name="bodypart" val="lrhand" />
+		<set name="desc" val="Uma espada usada por guerreiros pertencentes ao clã Red Sunset." />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="16" />
+		<set name="rnd_dam" val="10" />
+		<set name="weapon_type" val="bigsword" />
+		<set name="critical" val="8" />
+		<set name="atk_speed" val="325" />
+		<set name="m_dam" val="10" />
+		<set name="price" val="25500" />
+		<for>
+			<set val="16" order="0x08" stat="pAtk" />
+			<set val="10" order="0x08" stat="mAtk" />
+			<set val="8" order="0x08" stat="rCrit" />
+			<add val="0" order="0x10" stat="accCombat" />
+			<set val="325" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="982" type="EtcItem" name="Carta de Esrandell">
+		
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Introdução de Esrandell" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="983" type="EtcItem" name="Carta de Kendell">
+		
+		<set name="icon" val="icon.item_normal20" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="carta de Kendell" />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="984" type="EtcItem" name="1a Talismã de Ônix">
+		
+		<set name="icon" val="icon.accessary_sages_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar feito de ônix. Leve isso para o Celebrante Abissal Kartia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="985" type="EtcItem" name="2a Talismã de Ônix">
+		
+		<set name="icon" val="icon.accessary_sages_necklace_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um colar feito de ônix. Recupere os pergaminhos originais dos Orcs caveira negra e leve-os para o Celebrante Abissal Kartia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="986" type="EtcItem" name="Pergaminho Antigo">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Um pergaminho antigo chamado Revelação de Kaysha. Leve-o junto com a tabuleta de argila para Celebrante Abissal Kartia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="987" type="EtcItem" name="Placa de Argila Antiga">
+		
+		<set name="icon" val="icon.etc_plate_glay_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="Uma placa de argila antiga gravada com texto. Leve-o junto com o antigo pergaminho para Celebrante Abissal Kartia." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="988" type="EtcItem" name="Tradução de Kartia">
+		
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
+		<set name="item_type" val="quest" />
+		<set name="desc" val="A tradução de Kartia das Revelações de Kaysha. Leve-o ao tetrarca Thifiell." />
+		<set name="consume_type" val="stackable" />
+		<set name="sellable" val="false" />
+		<set name="dropable" val="false" />
+		<set name="tradeable" val="false" />
+	</item>
+	<item id="989" type="Weapon" name="Eldritch Dagger">
+		
+		<set name="icon" val="icon.weapon_knife_i00" />
+		<set name="bodypart" val="rhand" />
+		<set name="desc" val="Uma adaga de aço gravada com as runas de Shilen e Gran Kain." />
+		<set name="weight" val="1130" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="p_dam" val="11" />
+		<set name="rnd_dam" val="5" />
+		<set name="weapon_type" val="dagger" />
+		<set name="critical" val="12" />
+		<set name="hit_modify" val="-3.00000" />
+		<set name="atk_speed" val="433" />
+		<set name="m_dam" val="10" />
+		<set name="price" val="25500" />
+		<for>
+			<set val="11" order="0x08" stat="pAtk" />
+			<set val="10" order="0x08" stat="mAtk" />
+			<set val="12" order="0x08" stat="rCrit" />
+			<add val="-3" order="0x10" stat="accCombat" />
+			<set val="433" order="0x08" stat="pAtkSpd" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="990" type="Armor" name="Essência de Mandrágora">
+		<set name="icon" val="icon.item_canuse27" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="991" type="Armor" name="Chave de Royen">
+		<set name="icon" val="icon.item_normal26" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="992" type="Armor" name="1a Marca de Shilen">
+		<set name="icon" val="icon.armor_head15" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="993" type="Armor" name="2a Marca de Shilen">
+		<set name="icon" val="icon.armor_head15" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="994" type="Armor" name="Olho do Abismo">
+		<set name="icon" val="icon.item_normal46" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="995" type="Armor" name="Poster de Procurado">
+		<set name="icon" val="icon.item_normal20" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="996" type="Armor" name="Adaga de Alex">
+		<set name="icon" val="icon.weapon_ss08" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="997" type="Armor" name="Projeto de Lei de Pinter">
+		<set name="icon" val="icon.item_normal50" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="998" type="Armor" name="Livro de Aklantoth - Parte 1">
+		<set name="icon" val="icon.item_normal07" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+	<item id="999" type="Armor" name="Livro de Aklantoth - Parte 2">
+		<set name="icon" val="icon.item_normal07" />
+		<set name="bodypart" val="gloves" />
+		<set name="desc" val="" />
+		<set name="armor_type" val="none" />
+		<set name="weight" val="60" />
+		<set name="p_def" val="9" />
+		<set name="price" val="37" />
+		<for>
+			<add val="9" order="0x10" stat="pDef" />
+		</for>
+	</item>
+</list>

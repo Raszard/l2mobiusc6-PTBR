@@ -1,0 +1,698 @@
+29/05/2023 3:07:38>Fleur [268477716]>admin_admin>no-target>
+29/05/2023 3:07:39>Fleur [268477716]>admin_move_to>no-target>
+29/05/2023 3:07:41>Fleur [268477716]>admin_help>no-target> tele/other.htm
+29/05/2023 3:07:43>Fleur [268477716]>admin_move_to>no-target> -113360 -244676 -15536
+29/05/2023 3:08:05>Fleur [268477716]>admin_admin>Jake>
+29/05/2023 3:08:06>Fleur [268477716]>admin_gmshop>Jake>
+29/05/2023 3:08:10>Fleur [268477716]>admin_help>Jake> gmshop/Armors.htm
+29/05/2023 3:08:12>Fleur [268477716]>admin_help>Jake> gmshop/nogradea.htm
+29/05/2023 3:08:13>Fleur [268477716]>admin_buy>Jake> 9101
+29/05/2023 3:08:19>Fleur [268477716]>admin_admin>Jake>
+29/05/2023 3:08:21>Fleur [268477716]>admin_gmshop>Jake>
+29/05/2023 3:08:23>Fleur [268477716]>admin_help>Jake> gmshop/Weapons.htm
+29/05/2023 3:08:24>Fleur [268477716]>admin_help>Jake> gmshop/cgradew.htm
+29/05/2023 3:08:26>Fleur [268477716]>admin_buy>Jake> 9022
+29/05/2023 3:10:26>Fleur [268477716]>admin_admin>Jake>
+29/05/2023 3:10:29>Fleur [268477716]>admin_gmshop>Jake>
+29/05/2023 3:10:32>Fleur [268477716]>admin_help>Jake> gmshop/pets.htm
+29/05/2023 3:10:36>Fleur [268477716]>admin_help>Jake> gmshops.htm
+29/05/2023 3:10:40>Fleur [268477716]>admin_buy>Jake> 3002
+30/05/2023 15:36:09>Fleur [268477716]>admin_admin>no-target>
+30/05/2023 15:36:12>Fleur [268477716]>admin_admin2>no-target>
+30/05/2023 15:36:13>Fleur [268477716]>admin_show_characters>no-target> 0
+30/05/2023 15:36:13>Fleur [268477716]>admin_character_info>no-target> Dean
+30/05/2023 15:36:15>Fleur [268477716]>admin_goto_char_menu>no-target> Dean
+30/05/2023 15:36:20>Fleur [268477716]>admin_admin>no-target>
+30/05/2023 15:36:23>Fleur [268477716]>admin_invis_menu_main>no-target>
+30/05/2023 15:36:23>Fleur [268477716]>admin_invul_menu_main>no-target>
+30/05/2023 15:36:58>Fleur [268477716]>admin_admin>no-target>
+30/05/2023 15:37:03>Fleur [268477716]>admin_silence>no-target>
+30/05/2023 15:37:04>Fleur [268477716]>admin_admin>no-target>
+30/05/2023 15:37:06>Fleur [268477716]>admin_gmliston>no-target>
+30/05/2023 15:37:09>Fleur [268477716]>admin_admin>no-target>
+30/05/2023 15:37:12>Fleur [268477716]>admin_diet>no-target>
+30/05/2023 15:37:14>Fleur [268477716]>admin_admin>no-target>
+30/05/2023 15:37:15>Fleur [268477716]>admin_diet>no-target>
+30/05/2023 15:37:16>Fleur [268477716]>admin_admin>no-target>
+01/06/2023 15:18:36>Fleur [268477716]>admin_admin>no-target>
+01/06/2023 15:18:39>Fleur [268477716]>admin_invis_menu_main>no-target>
+01/06/2023 15:18:39>Fleur [268477716]>admin_invul_menu_main>no-target>
+01/06/2023 15:18:40>Fleur [268477716]>admin_superhaste>no-target> 0
+01/06/2023 15:18:41>Fleur [268477716]>admin_admin>no-target>
+01/06/2023 15:18:43>Fleur [268477716]>admin_gmliston>no-target>
+01/06/2023 15:18:44>Fleur [268477716]>admin_admin>no-target>
+01/06/2023 15:18:45>Fleur [268477716]>admin_silence>no-target>
+01/06/2023 15:24:15>Fleur [268477716]>admin_admin>Dean>
+01/06/2023 15:24:17>Fleur [268477716]>admin_invis_menu_main>Dean>
+01/06/2023 15:24:17>Fleur [268477716]>admin_invul_menu_main>Dean>
+01/06/2023 15:24:19>Fleur [268477716]>admin_silence>Dean>
+01/06/2023 15:28:28>Fleur [268477716]>admin_admin>Wolf>
+01/06/2023 15:28:31>Fleur [268477716]>admin_admin2>no-target>
+01/06/2023 15:38:32>Fleur [268477716]>admin_admin>no-target>
+01/06/2023 15:38:34>Fleur [268477716]>admin_invis_menu_main>no-target>
+01/06/2023 15:38:34>Fleur [268477716]>admin_invul_menu_main>no-target>
+01/06/2023 15:38:35>Fleur [268477716]>admin_silence>no-target>
+01/06/2023 15:46:20>Fleur [268477716]>admin_admin>no-target>
+01/06/2023 15:46:23>Fleur [268477716]>admin_heal>Orc>
+01/06/2023 15:46:28>Fleur [268477716]>admin_admin>Orc>
+01/06/2023 15:46:33>Fleur [268477716]>admin_heal>Elder Wolf>
+01/06/2023 15:47:05>Fleur [268477716]>admin_admin>Fleur>
+01/06/2023 15:47:06>Fleur [268477716]>admin_heal>Fleur>
+01/06/2023 15:47:11>Fleur [268477716]>admin_admin>Dean>
+01/06/2023 15:47:13>Fleur [268477716]>admin_heal>Dean>
+12/06/2023 0:56:18>Fleur [268477716]>admin_admin>no-target>
+12/06/2023 0:56:19>Fleur [268477716]>admin_move_to>no-target>
+12/06/2023 0:56:22>Fleur [268477716]>admin_help>no-target> tele/towns.htm
+12/06/2023 0:56:24>Fleur [268477716]>admin_show_moves>no-target>
+12/06/2023 0:56:26>Fleur [268477716]>admin_help>no-target> tele/other.htm
+12/06/2023 0:56:37>Fleur [268477716]>admin_show_moves>no-target>
+12/06/2023 0:56:40>Fleur [268477716]>admin_help>no-target> tele/other.htm
+12/06/2023 0:56:41>Fleur [268477716]>admin_move_to>no-target> -113360 -244676 -15536
+12/06/2023 1:38:09>Fleur [268477716]>admin_admin>no-target>
+12/06/2023 1:38:10>Fleur [268477716]>admin_gmshop>no-target>
+12/06/2023 1:38:11>Fleur [268477716]>admin_help>no-target> gmshop/Weapons.htm
+12/06/2023 1:38:13>Fleur [268477716]>admin_help>no-target> gmshop/sgradew.htm
+12/06/2023 1:38:15>Fleur [268477716]>admin_buy>no-target> 9048
+12/06/2023 1:38:21>Fleur [268477716]>admin_admin>no-target>
+12/06/2023 1:38:22>Fleur [268477716]>admin_gmshop>no-target>
+12/06/2023 1:38:24>Fleur [268477716]>admin_help>no-target> gmshop/Armors.htm
+12/06/2023 1:38:25>Fleur [268477716]>admin_help>no-target> gmshop/agradea.htm
+12/06/2023 1:38:26>Fleur [268477716]>admin_buy>no-target> 9065
+12/06/2023 1:38:37>Fleur [268477716]>admin_admin>Fleur>
+12/06/2023 1:38:45>Fleur [268477716]>admin_enchant>Fleur>
+12/06/2023 1:38:54>Fleur [268477716]>admin_setew>Fleur> 15
+12/06/2023 1:54:04>Fleur [268477716]>admin_admin>no-target>
+12/06/2023 1:54:05>Fleur [268477716]>admin_gmshop>no-target>
+12/06/2023 1:54:06>Fleur [268477716]>admin_help>no-target> gmshop/Weapons.htm
+12/06/2023 1:54:09>Fleur [268477716]>admin_buy>no-target> 2012
+12/06/2023 2:14:22>Fleur [268477716]>admin_admin>Jake>
+12/06/2023 2:14:24>Fleur [268477716]>admin_enchant>Jake>
+12/06/2023 2:14:25>Fleur [268477716]>admin_setew>Jake>
+12/06/2023 2:14:28>Fleur [268477716]>admin_setew>Jake> 15
+12/06/2023 2:14:34>Fleur [268477716]>admin_admin>Jake>
+12/06/2023 2:14:35>Fleur [268477716]>admin_enchant>Jake>
+12/06/2023 2:14:43>Fleur [268477716]>admin_setew>Fleur> 15
+12/06/2023 2:14:46>Fleur [268477716]>admin_admin>Fleur>
+12/06/2023 2:14:47>Fleur [268477716]>admin_gmshop>Fleur>
+12/06/2023 2:14:49>Fleur [268477716]>admin_help>Fleur> gmshop/Weapons.htm
+12/06/2023 2:14:50>Fleur [268477716]>admin_help>Fleur> gmshop/agradew.htm
+12/06/2023 2:14:51>Fleur [268477716]>admin_buy>Fleur> 9039
+13/06/2023 23:28:36>Fleur [268477716]>admin_admin>Jake>
+13/06/2023 23:28:37>Fleur [268477716]>admin_create_item>Jake>
+13/06/2023 23:28:39>Fleur [268477716]>admin_admin>Jake>
+13/06/2023 23:28:40>Fleur [268477716]>admin_gmshop>Jake>
+13/06/2023 23:28:42>Fleur [268477716]>admin_help>Jake> gmshop/Armors.htm
+13/06/2023 23:28:43>Fleur [268477716]>admin_help>Jake> gmshop/bgradea.htm
+13/06/2023 23:28:47>Fleur [268477716]>admin_buy>Jake> 9074
+13/06/2023 23:28:54>Fleur [268477716]>admin_admin>Jake>
+13/06/2023 23:28:55>Fleur [268477716]>admin_gmshop>Jake>
+13/06/2023 23:28:57>Fleur [268477716]>admin_help>Jake> gmshop/Jewels.htm
+13/06/2023 23:28:58>Fleur [268477716]>admin_buy>Jake> 9125
+13/06/2023 23:29:02>Fleur [268477716]>admin_admin>Jake>
+13/06/2023 23:29:04>Fleur [268477716]>admin_gmshop>Jake>
+13/06/2023 23:29:07>Fleur [268477716]>admin_buy>Jake> 3001
+13/06/2023 23:29:23>Fleur [268477716]>admin_admin>Jake>
+13/06/2023 23:29:24>Fleur [268477716]>admin_gmshop>Jake>
+13/06/2023 23:29:32>Fleur [268477716]>admin_buy>Jake> 3002
+14/06/2023 1:32:52>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 1:32:53>Fleur [268477716]>admin_gmshop>no-target>
+14/06/2023 1:32:55>Fleur [268477716]>admin_help>no-target> gmshop/pets.htm
+14/06/2023 1:32:56>Fleur [268477716]>admin_help>no-target> gmshop/petweapon.htm
+14/06/2023 1:32:58>Fleur [268477716]>admin_buy>no-target> 2014
+14/06/2023 1:33:01>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 1:33:03>Fleur [268477716]>admin_gmshop>no-target>
+14/06/2023 1:33:04>Fleur [268477716]>admin_help>no-target> gmshop/pets.htm
+14/06/2023 1:33:05>Fleur [268477716]>admin_help>no-target> gmshop/petweapon.htm
+14/06/2023 1:33:06>Fleur [268477716]>admin_buy>no-target> 2014
+14/06/2023 1:33:08>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 1:33:09>Fleur [268477716]>admin_gmshop>no-target>
+14/06/2023 1:33:10>Fleur [268477716]>admin_help>no-target> gmshop/pets.htm
+14/06/2023 1:33:12>Fleur [268477716]>admin_help>no-target> gmshop/petweapon.htm
+14/06/2023 1:33:13>Fleur [268477716]>admin_buy>no-target> 2015
+14/06/2023 1:33:17>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 1:33:19>Fleur [268477716]>admin_admin2>no-target>
+14/06/2023 1:33:20>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 1:33:23>Fleur [268477716]>admin_gmshop>no-target>
+14/06/2023 1:33:24>Fleur [268477716]>admin_help>no-target> gmshop/pets.htm
+14/06/2023 1:33:25>Fleur [268477716]>admin_help>no-target> gmshop/petarmor.htm
+14/06/2023 1:33:26>Fleur [268477716]>admin_buy>no-target> 1012
+14/06/2023 1:33:29>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 1:33:30>Fleur [268477716]>admin_gmshop>no-target>
+14/06/2023 1:33:32>Fleur [268477716]>admin_help>no-target> gmshop/pets.htm
+14/06/2023 1:33:33>Fleur [268477716]>admin_help>no-target> gmshop/petarmor.htm
+14/06/2023 1:33:34>Fleur [268477716]>admin_buy>no-target> 1013
+14/06/2023 1:33:37>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 1:33:39>Fleur [268477716]>admin_gmshop>no-target>
+14/06/2023 1:33:40>Fleur [268477716]>admin_help>no-target> gmshop/pets.htm
+14/06/2023 1:33:41>Fleur [268477716]>admin_buy>no-target> 3003
+14/06/2023 2:25:39>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:25:40>Fleur [268477716]>admin_create_item>Jake>
+14/06/2023 2:25:43>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:25:44>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 2:25:45>Fleur [268477716]>admin_help>Jake> gmshop/Weapons.htm
+14/06/2023 2:25:47>Fleur [268477716]>admin_help>Jake> gmshop/bgradew.htm
+14/06/2023 2:25:49>Fleur [268477716]>admin_buy>Jake> 9029
+14/06/2023 2:25:51>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:25:53>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 2:25:54>Fleur [268477716]>admin_help>Jake> gmshop/Weapons.htm
+14/06/2023 2:25:56>Fleur [268477716]>admin_help>Jake> gmshop/agradew.htm
+14/06/2023 2:25:59>Fleur [268477716]>admin_buy>Jake> 9039
+14/06/2023 2:26:06>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:26:08>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 2:26:11>Fleur [268477716]>admin_help>Jake> gmshop/Armors.htm
+14/06/2023 2:26:14>Fleur [268477716]>admin_help>Jake> gmshop/agradea.htm
+14/06/2023 2:26:23>Fleur [268477716]>admin_buy>Jake> 9064
+14/06/2023 2:26:29>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:26:33>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 2:26:34>Fleur [268477716]>admin_help>Jake> gmshop/Jewels.htm
+14/06/2023 2:26:36>Fleur [268477716]>admin_buy>Jake> 9126
+14/06/2023 2:26:41>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:26:43>Fleur [268477716]>admin_admin4>Jake>
+14/06/2023 2:26:44>Fleur [268477716]>admin_admin2>Jake>
+14/06/2023 2:26:48>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:26:48>Fleur [268477716]>admin_create_item>Jake>
+14/06/2023 2:26:50>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:26:51>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 2:26:55>Fleur [268477716]>admin_buy>Jake> 3002
+14/06/2023 2:27:06>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:27:07>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 2:27:11>Fleur [268477716]>admin_help>Jake> gmshop/pets.htm
+14/06/2023 2:27:12>Fleur [268477716]>admin_help>Jake> gmshop/petweapon.htm
+14/06/2023 2:27:14>Fleur [268477716]>admin_buy>Jake> 2013
+14/06/2023 2:27:18>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:27:19>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 2:27:23>Fleur [268477716]>admin_help>Jake> gmshop/pets.htm
+14/06/2023 2:27:24>Fleur [268477716]>admin_help>Jake> gmshop/petarmor.htm
+14/06/2023 2:27:25>Fleur [268477716]>admin_buy>Jake> 1013
+14/06/2023 2:27:28>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:27:30>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:27:31>Fleur [268477716]>admin_create_item>Jake>
+14/06/2023 2:27:32>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 2:27:33>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 2:27:34>Fleur [268477716]>admin_help>Jake> gmshop/pets.htm
+14/06/2023 2:27:35>Fleur [268477716]>admin_buy>Jake> 3003
+14/06/2023 3:29:58>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 3:29:59>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 3:30:00>Fleur [268477716]>admin_help>Jake> gmshop/pets.htm
+14/06/2023 3:30:02>Fleur [268477716]>admin_help>Jake> gmshop/petweapon.htm
+14/06/2023 3:30:04>Fleur [268477716]>admin_buy>Jake> 2014
+14/06/2023 3:36:45>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 3:36:46>Fleur [268477716]>admin_gmshop>no-target>
+14/06/2023 3:36:52>Fleur [268477716]>admin_buy>no-target> 71028
+14/06/2023 3:36:56>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 3:36:57>Fleur [268477716]>admin_gmshop>no-target>
+14/06/2023 3:37:00>Fleur [268477716]>admin_buy>no-target> 9121
+14/06/2023 3:44:15>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 3:44:16>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 3:44:18>Fleur [268477716]>admin_help>Jake> gmshop/Weapons.htm
+14/06/2023 3:44:19>Fleur [268477716]>admin_help>Jake> gmshops.htm
+14/06/2023 3:44:25>Fleur [268477716]>admin_help>Jake> gmshop/sets.htm
+14/06/2023 3:44:26>Fleur [268477716]>admin_buy>Jake> 9119
+14/06/2023 3:57:20>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 3:57:21>Fleur [268477716]>admin_admin4>Jake>
+14/06/2023 3:57:23>Fleur [268477716]>admin_admin2>Jake>
+14/06/2023 3:57:24>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 3:57:27>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 3:57:31>Fleur [268477716]>admin_help>Jake> gmshop/Jewels.htm
+14/06/2023 3:57:33>Fleur [268477716]>admin_buy>Jake> 9110
+14/06/2023 3:58:18>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 3:58:19>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 3:58:22>Fleur [268477716]>admin_help>Jake> gmshop/Dyes.htm
+14/06/2023 3:58:23>Fleur [268477716]>admin_buy>Jake> 300526
+14/06/2023 3:58:28>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 3:58:29>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 3:58:33>Fleur [268477716]>admin_buy>Jake> 71025
+14/06/2023 14:23:51>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 14:23:52>Fleur [268477716]>admin_create_item>Jake>
+14/06/2023 14:23:53>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 14:23:54>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 14:23:55>Fleur [268477716]>admin_help>Jake> gmshop/Armors.htm
+14/06/2023 14:23:57>Fleur [268477716]>admin_help>Jake> gmshop/bgradea.htm
+14/06/2023 14:23:59>Fleur [268477716]>admin_buy>Jake> 9072
+14/06/2023 14:35:40>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 14:35:41>Fleur [268477716]>admin_create_item>Jake>
+14/06/2023 14:35:42>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 14:35:44>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 14:35:55>Fleur [268477716]>admin_buy>Jake> 71023
+14/06/2023 14:42:25>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 14:42:27>Fleur [268477716]>admin_create_item>no-target>
+14/06/2023 14:42:28>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 14:42:29>Fleur [268477716]>admin_gmshop>no-target>
+14/06/2023 14:42:33>Fleur [268477716]>admin_buy>no-target> 3001
+14/06/2023 14:42:43>Fleur [268477716]>admin_admin>no-target>
+14/06/2023 14:42:44>Fleur [268477716]>admin_gmshop>no-target>
+14/06/2023 14:42:48>Fleur [268477716]>admin_buy>no-target> 9121
+14/06/2023 14:43:15>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 14:43:16>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 14:43:19>Fleur [268477716]>admin_help>Jake> gmshop/Armors.htm
+14/06/2023 14:43:20>Fleur [268477716]>admin_help>Jake> gmshop/sgradea.htm
+14/06/2023 14:43:22>Fleur [268477716]>admin_help>Jake> gmshops.htm
+14/06/2023 14:43:23>Fleur [268477716]>admin_help>Jake> gmshop/sets.htm
+14/06/2023 14:43:25>Fleur [268477716]>admin_buy>Jake> 9117
+14/06/2023 14:44:40>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 14:44:43>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 14:44:43>Fleur [268477716]>admin_help>Jake> gmshop/Armors.htm
+14/06/2023 14:44:44>Fleur [268477716]>admin_help>Jake> gmshop/agradea.htm
+14/06/2023 14:44:45>Fleur [268477716]>admin_buy>Jake> 9065
+14/06/2023 14:45:46>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 14:45:48>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 14:45:49>Fleur [268477716]>admin_buy>Jake> 2012
+14/06/2023 15:10:59>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 15:11:00>Fleur [268477716]>admin_create_item>Jake>
+14/06/2023 15:11:01>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 15:11:03>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 15:11:04>Fleur [268477716]>admin_buy>Jake> 1007
+14/06/2023 15:11:12>Fleur [268477716]>admin_admin>Jake>
+14/06/2023 15:11:13>Fleur [268477716]>admin_gmshop>Jake>
+14/06/2023 15:11:18>Fleur [268477716]>admin_help>Jake> gmshop/pets.htm
+14/06/2023 15:11:19>Fleur [268477716]>admin_help>Jake> gmshop/petweapon.htm
+14/06/2023 15:11:20>Fleur [268477716]>admin_help>Jake> gmshop/pets.htm
+14/06/2023 15:11:21>Fleur [268477716]>admin_help>Jake> gmshops.htm
+14/06/2023 15:11:31>Fleur [268477716]>admin_buy>Jake> 71032
+15/06/2023 4:00:49>Fleur [268477716]>admin_admin>no-target>
+15/06/2023 4:00:51>Fleur [268477716]>admin_admin4>no-target>
+15/06/2023 4:00:53>Fleur [268477716]>admin_admin>no-target>
+15/06/2023 4:00:54>Fleur [268477716]>admin_invis_menu_main>no-target>
+15/06/2023 4:00:54>Fleur [268477716]>admin_invul_menu_main>no-target>
+15/06/2023 4:04:27>Fleur [268477716]>admin_admin>no-target>
+15/06/2023 4:04:29>Fleur [268477716]>admin_admin4>no-target>
+15/06/2023 4:04:34>Fleur [268477716]>admin_admin3>no-target>
+15/06/2023 4:04:34>Fleur [268477716]>admin_admin2>no-target>
+15/06/2023 4:04:35>Fleur [268477716]>admin_show_characters>no-target> 0
+15/06/2023 4:04:37>Fleur [268477716]>admin_character_info>no-target> Fleur
+15/06/2023 4:04:39>Fleur [268477716]>admin_edit_character>Fleur>
+15/06/2023 4:04:43>Fleur [268477716]>admin_current_player>Fleur>
+15/06/2023 4:04:47>Fleur [268477716]>admin_show_characters>Fleur> 0
+18/06/2023 14:56:41>Fleur [268477716]>admin_admin>Dean>
+20/06/2023 17:37:10>Fleur [268477716]>admin_admin>Dean>
+20/06/2023 17:37:11>Fleur [268477716]>admin_invis_menu_main>Dean>
+20/06/2023 17:37:11>Fleur [268477716]>admin_invul_menu_main>Dean>
+20/06/2023 17:59:37>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 17:59:38>Fleur [268477716]>admin_move_to>no-target>
+20/06/2023 17:59:39>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 17:59:39>Fleur [268477716]>admin_admin2>no-target>
+20/06/2023 17:59:40>Fleur [268477716]>admin_show_characters>no-target> 0
+20/06/2023 17:59:41>Fleur [268477716]>admin_character_info>no-target> test
+20/06/2023 17:59:42>Fleur [268477716]>admin_goto_char_menu>no-target> test
+20/06/2023 18:23:30>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 18:23:31>Fleur [268477716]>admin_invis_menu_main>no-target>
+20/06/2023 18:23:32>Fleur [268477716]>admin_invul_menu_main>no-target>
+20/06/2023 18:24:15>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 18:24:16>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 18:24:16>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:14:36>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:14:37>Fleur [268477716]>admin_invis_menu_main>no-target>
+20/06/2023 19:14:38>Fleur [268477716]>admin_invul_menu_main>no-target>
+20/06/2023 19:14:41>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:14:42>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:14:43>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:15:36>Fleur [268477716]>admin_admin>test>
+20/06/2023 19:15:37>Fleur [268477716]>admin_admin4>test>
+20/06/2023 19:15:37>Fleur [268477716]>admin_cache_htm_rebuild>test>
+20/06/2023 19:17:45>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:17:46>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:17:47>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:18:09>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:18:10>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:18:12>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:19:44>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:19:45>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:19:46>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:20:47>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:20:49>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:20:50>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:23:46>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:23:47>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:23:48>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:24:32>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:24:33>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:24:33>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:26:04>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:26:05>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:26:06>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:27:07>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:27:08>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:27:09>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:28:02>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:28:03>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:28:04>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:29:26>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:29:27>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:29:28>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:29:39>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:29:40>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:29:41>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:33:28>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:33:29>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:33:30>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:34:03>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:34:03>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:34:04>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 19:35:20>Fleur [268477716]>admin_admin>test>
+20/06/2023 19:35:22>Fleur [268477716]>admin_admin4>test>
+20/06/2023 19:35:22>Fleur [268477716]>admin_cache_htm_rebuild>test>
+20/06/2023 19:35:43>Fleur [268477716]>admin_admin>test>
+20/06/2023 19:35:44>Fleur [268477716]>admin_admin4>test>
+20/06/2023 19:35:44>Fleur [268477716]>admin_cache_htm_rebuild>test>
+20/06/2023 19:36:01>Fleur [268477716]>admin_admin>test>
+20/06/2023 19:36:02>Fleur [268477716]>admin_admin4>test>
+20/06/2023 19:36:03>Fleur [268477716]>admin_cache_htm_rebuild>test>
+20/06/2023 19:38:10>Fleur [268477716]>admin_admin>test>
+20/06/2023 19:38:11>Fleur [268477716]>admin_admin4>test>
+20/06/2023 19:38:11>Fleur [268477716]>admin_cache_htm_rebuild>test>
+20/06/2023 19:39:46>Fleur [268477716]>admin_admin>test>
+20/06/2023 19:39:48>Fleur [268477716]>admin_admin4>test>
+20/06/2023 19:39:48>Fleur [268477716]>admin_cache_htm_rebuild>test>
+20/06/2023 19:41:18>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:41:19>Fleur [268477716]>admin_spawn_monster>no-target>
+20/06/2023 19:41:20>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 19:41:22>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 19:41:22>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 23:04:39>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 23:04:41>Fleur [268477716]>admin_invis_menu_main>no-target>
+20/06/2023 23:04:41>Fleur [268477716]>admin_invul_menu_main>no-target>
+20/06/2023 23:07:51>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 23:07:52>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 23:12:41>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 23:12:42>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 23:12:42>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 23:15:46>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 23:15:46>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 23:15:47>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 23:16:19>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 23:16:22>Fleur [268477716]>admin_admin4>no-target>
+20/06/2023 23:16:23>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+20/06/2023 23:17:26>Fleur [268477716]>admin_reload htm>no-target>
+20/06/2023 23:17:32>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:17:58>Fleur [268477716]>admin_reload htm>no-target>
+20/06/2023 23:18:20>Fleur [268477716]>admin_reload htm>no-target>
+20/06/2023 23:18:59>Fleur [268477716]>admin_admin>no-target>
+20/06/2023 23:19:01>Fleur [268477716]>admin_reload htm>no-target>
+20/06/2023 23:19:57>Fleur [268477716]>admin_reload htm>no-target>
+20/06/2023 23:20:58>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:21:52>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:22:55>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:23:56>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:24:48>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:26:13>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:26:47>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:27:34>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:28:04>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:28:55>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:29:37>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:30:03>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:30:29>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:30:52>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:31:15>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:31:34>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:31:57>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:33:15>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:33:31>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:33:47>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:33:48>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:44:36>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:45:40>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:46:07>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:47:01>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:48:03>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:48:53>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:49:15>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:49:43>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:50:29>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:52:08>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:52:44>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:53:02>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:53:54>Fleur [268477716]>admin_reload>no-target> htm
+20/06/2023 23:56:13>Fleur [268477716]>admin_edit_character>test>
+21/06/2023 0:12:43>Fleur [268477716]>admin_admin>test>
+21/06/2023 0:12:44>Fleur [268477716]>admin_move_to>test>
+21/06/2023 0:12:53>Fleur [268477716]>admin_tele>test>
+21/06/2023 0:12:56>Fleur [268477716]>admin_gosouth>test>
+21/06/2023 0:13:03>Fleur [268477716]>admin_show_moves>no-target>
+21/06/2023 0:13:07>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 0:14:48>Fleur [268477716]>admin_reload htm>no-target>
+21/06/2023 0:14:49>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:15:15>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:15:47>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:16:26>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:17:19>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:17:51>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:18:37>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:19:06>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:26:06>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:27:24>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:28:01>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:31:35>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:33:31>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:34:00>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:34:50>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:47:48>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:48:54>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:49:14>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:56:09>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 0:59:05>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:00:38>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:01:44>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:02:33>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:03:04>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:03:37>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:04:48>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:06:48>Fleur [268477716]>admin_reload htm>no-target>
+21/06/2023 1:07:38>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:08:07>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:09:00>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:10:38>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:13:47>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:15:18>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:23:59>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:25:30>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:25:56>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:26:18>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:28:43>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:30:57>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:35:28>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:44:24>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:55:40>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 1:56:25>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:00:14>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:02:12>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:03:59>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:04:23>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:04:55>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:05:38>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:05:59>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:06:14>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:07:24>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:08:31>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:09:15>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:16:57>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:18:01>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:18:16>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:18:38>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:19:14>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:21:03>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:21:33>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:28:02>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:29:33>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:32:17>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:33:05>Fleur [268477716]>admin_reload>no-target> npc
+21/06/2023 2:33:06>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:33:28>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:34:00>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:34:36>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:35:13>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:35:43>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:37:58>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:38:36>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:38:49>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:39:07>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 2:39:43>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 15:30:22>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 15:30:24>Fleur [268477716]>admin_admin4>no-target>
+21/06/2023 15:30:24>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+21/06/2023 16:14:12>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 16:14:13>Fleur [268477716]>admin_gmshop>no-target>
+21/06/2023 16:14:14>Fleur [268477716]>admin_help>no-target> gmshop/sets.htm
+21/06/2023 16:14:18>Fleur [268477716]>admin_buy>no-target> 9117
+21/06/2023 16:14:30>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 16:14:31>Fleur [268477716]>admin_invis_menu_main>no-target>
+21/06/2023 16:14:31>Fleur [268477716]>admin_invul_menu_main>no-target>
+21/06/2023 16:15:02>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 16:15:04>Fleur [268477716]>admin_gmshop>no-target>
+21/06/2023 16:15:05>Fleur [268477716]>admin_help>no-target> gmshop/Jewels.htm
+21/06/2023 16:15:07>Fleur [268477716]>admin_buy>no-target> 9300
+21/06/2023 16:16:27>Fleur [268477716]>admin_reload htm>no-target>
+21/06/2023 16:48:47>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 16:48:48>Fleur [268477716]>admin_invis_menu_main>no-target>
+21/06/2023 16:48:48>Fleur [268477716]>admin_invul_menu_main>no-target>
+21/06/2023 16:49:15>Fleur [268477716]>admin_admin>Gremlin>
+21/06/2023 16:49:17>Fleur [268477716]>admin_move_to>Gremlin>
+21/06/2023 16:49:19>Fleur [268477716]>admin_help>Gremlin> tele/other.htm
+21/06/2023 16:49:20>Fleur [268477716]>admin_move_to>Gremlin> -113360 -244676 -15536
+21/06/2023 16:49:23>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 16:49:24>Fleur [268477716]>admin_superhaste>no-target> 4
+21/06/2023 17:23:26>Fleur [268477716]>admin_admin>Kensara>
+21/06/2023 17:23:29>Fleur [268477716]>admin_invis_menu_main>Kensara>
+21/06/2023 17:23:29>Fleur [268477716]>admin_invul_menu_main>Kensara>
+21/06/2023 18:01:41>Fleur [268477716]>admin_admin>Kensara>
+21/06/2023 18:01:42>Fleur [268477716]>admin_create_item>Kensara>
+21/06/2023 18:01:45>Fleur [268477716]>admin_create_coin>Kensara> Adena 1000000
+21/06/2023 18:01:50>Fleur [268477716]>admin_create_coin>Fleur> Adena 1000000
+21/06/2023 18:25:23>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 18:25:24>Fleur [268477716]>admin_move_to>no-target>
+21/06/2023 18:25:26>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 18:25:27>Fleur [268477716]>admin_admin2>no-target>
+21/06/2023 18:25:28>Fleur [268477716]>admin_show_characters>no-target> 0
+21/06/2023 18:25:29>Fleur [268477716]>admin_character_info>no-target> Fleur
+21/06/2023 18:25:31>Fleur [268477716]>admin_show_characters>Fleur> 0
+21/06/2023 18:25:32>Fleur [268477716]>admin_character_info>Fleur> Apolline
+21/06/2023 18:25:33>Fleur [268477716]>admin_goto_char_menu>no-target> Apolline
+21/06/2023 18:25:38>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 18:25:40>Fleur [268477716]>admin_invis_menu_main>no-target>
+21/06/2023 18:25:41>Fleur [268477716]>admin_invul_menu_main>no-target>
+21/06/2023 18:37:06>Fleur [268477716]>admin_reload htm>no-target>
+21/06/2023 18:37:48>Fleur [268477716]>admin_reload>no-target> htm
+21/06/2023 18:41:14>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 18:41:16>Fleur [268477716]>admin_admin2>no-target>
+21/06/2023 18:41:17>Fleur [268477716]>admin_show_characters>no-target> 0
+21/06/2023 18:41:19>Fleur [268477716]>admin_character_info>no-target> Fleur
+21/06/2023 18:41:23>Fleur [268477716]>admin_add_exp_sp_to_character>Fleur>
+21/06/2023 18:41:25>Fleur [268477716]>admin_set_level>Fleur> 81
+21/06/2023 18:41:35>Fleur [268477716]>admin_admin>Fleur>
+21/06/2023 18:41:37>Fleur [268477716]>admin_gmshop>Fleur>
+21/06/2023 18:41:39>Fleur [268477716]>admin_help>Fleur> gmshop/Weapons.htm
+21/06/2023 18:41:41>Fleur [268477716]>admin_help>Fleur> gmshop/sgradew.htm
+21/06/2023 18:41:48>Fleur [268477716]>admin_buy>Fleur> 9052
+21/06/2023 18:42:07>Fleur [268477716]>admin_admin>Fleur>
+21/06/2023 18:42:09>Fleur [268477716]>admin_admin4>Fleur>
+21/06/2023 18:42:11>Fleur [268477716]>admin_admin3>Fleur>
+21/06/2023 18:42:12>Fleur [268477716]>admin_admin2>Fleur>
+21/06/2023 18:42:15>Fleur [268477716]>admin_admin>Fleur>
+21/06/2023 18:42:16>Fleur [268477716]>admin_gmshop>Fleur>
+21/06/2023 18:42:21>Fleur [268477716]>admin_help>Fleur> gmshop/Armors.htm
+21/06/2023 18:42:23>Fleur [268477716]>admin_help>Fleur> gmshop/sgradea.htm
+21/06/2023 18:42:28>Fleur [268477716]>admin_buy>Fleur> 9060
+21/06/2023 18:42:39>Fleur [268477716]>admin_admin>Fleur>
+21/06/2023 18:42:44>Fleur [268477716]>admin_admin2>Fleur>
+21/06/2023 18:42:46>Fleur [268477716]>admin_admin>Fleur>
+21/06/2023 18:42:47>Fleur [268477716]>admin_enchant>Fleur>
+21/06/2023 18:42:51>Fleur [268477716]>admin_setew>Fleur> 16
+21/06/2023 18:42:55>Fleur [268477716]>admin_setes>Fleur> 5
+21/06/2023 23:30:36>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 23:30:37>Fleur [268477716]>admin_admin4>no-target>
+21/06/2023 23:30:38>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+21/06/2023 23:30:46>Fleur [268477716]>admin_admin>no-target>
+21/06/2023 23:30:48>Fleur [268477716]>admin_invis_menu_main>no-target>
+21/06/2023 23:30:48>Fleur [268477716]>admin_invul_menu_main>no-target>
+21/06/2023 23:40:34>Fleur [268477716]>admin_admin4>no-target>
+21/06/2023 23:40:35>Fleur [268477716]>admin_cache_htm_rebuild>no-target>
+21/06/2023 23:43:08>Fleur [268477716]>admin_reload htm>no-target>
+22/06/2023 1:09:05>Fleur [268477716]>admin_admin>no-target>
+22/06/2023 1:09:06>Fleur [268477716]>admin_admin4>no-target>
+22/06/2023 1:09:08>Fleur [268477716]>admin_admin>no-target>
+22/06/2023 1:09:09>Fleur [268477716]>admin_invis_menu_main>no-target>
+22/06/2023 1:09:10>Fleur [268477716]>admin_invul_menu_main>no-target>
+22/06/2023 1:33:20>Fleur [268477716]>admin_reload htm>no-target>
+22/06/2023 1:34:04>Fleur [268477716]>admin_reload>no-target> htm
+22/06/2023 1:36:46>Fleur [268477716]>admin_admin>Apolline>
+22/06/2023 1:36:48>Fleur [268477716]>admin_admin4>Apolline>
+22/06/2023 1:36:51>Fleur [268477716]>admin_admin3>Apolline>
+22/06/2023 1:36:52>Fleur [268477716]>admin_admin2>Apolline>
+22/06/2023 1:36:53>Fleur [268477716]>admin_show_characters>Apolline> 0
+22/06/2023 1:36:55>Fleur [268477716]>admin_character_info>Apolline> Fleur
+22/06/2023 1:36:57>Fleur [268477716]>admin_setclass>Fleur>
+22/06/2023 1:37:09>Fleur [268477716]>admin_setclass>Fleur> 95
+22/06/2023 1:39:05>Fleur [268477716]>admin_admin>Fleur>
+22/06/2023 1:39:07>Fleur [268477716]>admin_admin4>Fleur>
+22/06/2023 1:39:09>Fleur [268477716]>admin_admin2>Fleur>
+22/06/2023 1:39:09>Fleur [268477716]>admin_show_characters>Fleur> 0
+22/06/2023 1:39:11>Fleur [268477716]>admin_character_info>Fleur> Apolline
+22/06/2023 1:39:13>Fleur [268477716]>admin_setclass>Apolline>
+22/06/2023 1:40:03>Fleur [268477716]>admin_current_player>Apolline>
+22/06/2023 1:40:07>Fleur [268477716]>admin_setclass>Apolline>
+22/06/2023 1:50:32>Fleur [268477716]>admin_admin>Apolline>
+22/06/2023 1:50:33>Fleur [268477716]>admin_admin4>Apolline>
+22/06/2023 1:50:35>Fleur [268477716]>admin_admin>Apolline>
+22/06/2023 1:50:35>Fleur [268477716]>admin_move_to>Apolline>
+22/06/2023 1:50:37>Fleur [268477716]>admin_help>Apolline> tele/other.htm
+22/06/2023 1:50:39>Fleur [268477716]>admin_move_to>Apolline> -113360 -244676 -15536
+22/06/2023 1:50:43>Fleur [268477716]>admin_admin>no-target>
+22/06/2023 1:50:46>Fleur [268477716]>admin_admin2>no-target>
+22/06/2023 1:50:47>Fleur [268477716]>admin_admin3>no-target>
+22/06/2023 1:50:48>Fleur [268477716]>admin_admin>no-target>
+22/06/2023 1:50:49>Fleur [268477716]>admin_admin2>no-target>
+22/06/2023 1:50:50>Fleur [268477716]>admin_show_characters>no-target> 0
+22/06/2023 1:50:50>Fleur [268477716]>admin_character_info>no-target> Fleur
+22/06/2023 1:50:53>Fleur [268477716]>admin_show_skills>Fleur>
+22/06/2023 1:50:54>Fleur [268477716]>admin_give_all_skills>Fleur>
+22/06/2023 1:54:07>Fleur [268477716]>admin_admin>Kensara>
+22/06/2023 1:54:09>Fleur [268477716]>admin_superhaste>Kensara> 4
+22/06/2023 1:58:37>Fleur [268477716]>admin_admin>Kensara>
+22/06/2023 1:58:40>Fleur [268477716]>admin_admin2>Kensara>
+22/06/2023 1:58:40>Fleur [268477716]>admin_show_characters>Kensara> 0
+22/06/2023 1:58:41>Fleur [268477716]>admin_character_info>Kensara> Fleur
+22/06/2023 1:58:43>Fleur [268477716]>admin_show_skills>Fleur>
+22/06/2023 1:58:45>Fleur [268477716]>admin_current_player>Fleur>
+22/06/2023 1:58:46>Fleur [268477716]>admin_setclass>Fleur>
+22/06/2023 1:58:54>Fleur [268477716]>admin_setclass>Fleur> 97
+22/06/2023 1:58:56>Fleur [268477716]>admin_admin>Fleur>
+22/06/2023 1:58:57>Fleur [268477716]>admin_admin2>Fleur>
+22/06/2023 1:58:58>Fleur [268477716]>admin_show_characters>Fleur> 0
+22/06/2023 1:59:00>Fleur [268477716]>admin_character_info>Fleur> Fleur
+22/06/2023 1:59:02>Fleur [268477716]>admin_show_skills>Fleur>
+22/06/2023 1:59:04>Fleur [268477716]>admin_remove_all_skills>Fleur>
+22/06/2023 1:59:05>Fleur [268477716]>admin_admin>Fleur>
+22/06/2023 1:59:07>Fleur [268477716]>admin_admin3>Fleur>
+22/06/2023 1:59:08>Fleur [268477716]>admin_admin2>Fleur>
+22/06/2023 1:59:08>Fleur [268477716]>admin_show_characters>Fleur> 0
+22/06/2023 1:59:09>Fleur [268477716]>admin_character_info>Fleur> Apolline
+22/06/2023 1:59:11>Fleur [268477716]>admin_show_characters>no-target> 0
+22/06/2023 1:59:12>Fleur [268477716]>admin_character_info>no-target> Fleur
+22/06/2023 1:59:13>Fleur [268477716]>admin_show_skills>Fleur>
+22/06/2023 1:59:13>Fleur [268477716]>admin_give_all_skills>Fleur>
+22/06/2023 2:02:05>Fleur [268477716]>admin_admin>Fleur>
+22/06/2023 2:02:09>Fleur [268477716]>admin_gmshop>Fleur>
+22/06/2023 2:02:10>Fleur [268477716]>admin_admin>Fleur>
+22/06/2023 2:02:11>Fleur [268477716]>admin_superhaste>Fleur> 0
+22/06/2023 2:02:33>Fleur [268477716]>admin_admin>Kensara>
+22/06/2023 2:02:34>Fleur [268477716]>admin_move_to>Kensara>
+22/06/2023 2:02:35>Fleur [268477716]>admin_admin>Kensara>
+22/06/2023 2:02:36>Fleur [268477716]>admin_admin2>Kensara>
+22/06/2023 2:02:36>Fleur [268477716]>admin_show_characters>Kensara> 0
+22/06/2023 2:02:38>Fleur [268477716]>admin_character_info>Kensara> Fleur
+22/06/2023 2:02:41>Fleur [268477716]>admin_edit_character>Fleur>
+22/06/2023 2:02:43>Fleur [268477716]>admin_current_player>Fleur>
+22/06/2023 2:02:43>Fleur [268477716]>admin_show_skills>Fleur>
+22/06/2023 2:02:45>Fleur [268477716]>admin_current_player>Fleur>
+22/06/2023 22:29:07>Fleur [268477716]>admin_admin>no-target>
+22/06/2023 22:29:08>Fleur [268477716]>admin_invis_menu_main>no-target>
+22/06/2023 22:29:09>Fleur [268477716]>admin_invul_menu_main>no-target>
+22/06/2023 22:29:11>Fleur [268477716]>admin_reload htm>Dean>
+04/07/2023 18:26:11>Fleur [268477716]>admin_admin>no-target>
+04/07/2023 18:26:13>Fleur [268477716]>admin_invis_menu_main>no-target>
+04/07/2023 18:26:13>Fleur [268477716]>admin_invul_menu_main>no-target>
+04/07/2023 18:26:15>Fleur [268477716]>admin_admin>no-target>
+04/07/2023 18:26:16>Fleur [268477716]>admin_create_item>no-target>
+04/07/2023 18:26:22>Fleur [268477716]>admin_create_item>no-target> 9300
+04/07/2023 18:26:40>Fleur [268477716]>admin_admin>Kensara>
+04/07/2023 18:26:42>Fleur [268477716]>admin_create_item>Kensara>
+04/07/2023 18:26:46>Fleur [268477716]>admin_create_item>Kensara> 9301
+04/07/2023 18:26:50>Fleur [268477716]>admin_admin>Kensara>
+04/07/2023 18:26:51>Fleur [268477716]>admin_create_item>Kensara>
+04/07/2023 18:26:56>Fleur [268477716]>admin_create_item>Fleur> 9301
+04/07/2023 18:26:58>Fleur [268477716]>admin_admin>Fleur>
+04/07/2023 18:26:59>Fleur [268477716]>admin_create_item>Fleur>
+04/07/2023 18:27:02>Fleur [268477716]>admin_create_item>Fleur> 9302
+04/07/2023 18:27:04>Fleur [268477716]>admin_admin>Fleur>
+04/07/2023 18:27:05>Fleur [268477716]>admin_create_item>Fleur>
+04/07/2023 18:27:09>Fleur [268477716]>admin_create_item>Fleur> 9303
+23/02/2024 20:04:02>Fleur [268477716]>admin_admin>no-target>
+23/02/2024 20:04:02>Fleur [268477716]>admin_move_to>no-target>
+23/02/2024 20:04:04>Fleur [268477716]>admin_admin>no-target>
+23/02/2024 20:04:05>Fleur [268477716]>admin_admin2>no-target>
+23/02/2024 20:04:06>Fleur [268477716]>admin_show_characters>no-target> 0
+23/02/2024 20:04:09>Fleur [268477716]>admin_character_info>no-target> Apolline
+23/02/2024 20:04:12>Fleur [268477716]>admin_goto_char_menu>no-target> Apolline
+23/02/2024 20:04:36>Fleur [268477716]>admin_edit_character>Apolline>
+23/02/2024 20:04:42>Fleur [268477716]>admin_current_player>Apolline>
+23/02/2024 20:04:43>Fleur [268477716]>admin_setclass>Apolline>
